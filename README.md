@@ -214,6 +214,27 @@ Academic parapsychology lab studies continue; mainstream science remains skeptic
 
 ---
 
+## Related Programs (Mind Control and Psychokinesis)
+
+MKULTRA (1953-1973): CIA illegal human experimentation program to develop procedures for
+mind control, interrogation, and behavioral modification, using LSD, sensory deprivation,
+hypnosis, and other methods. Most records destroyed in 1973; details emerged via congressional
+and journalistic investigations. Related to superhuman research insofar as it explored
+control of mental states.
+
+NSA psychokinesis research: declassified NSA documents (e.g., NSA-RDP96X00790R000100010041-2)
+address psychokinesis and remote viewing as potential SIGINT/COMSEC threats, and review
+Soviet parapsychology including Vasilyev's telepathy work.
+
+Soviet Vasilyev telepathy: early Soviet research on telepathy cited in Western assessments.
+
+## Modern Follow-Up Research
+
+Post-declassification academic work continues. Examples: Escola-Gascon et al. (2023), follow-up
+on CIA remote viewing experiments published in Brain and Behavior; the sheep-goat effect
+(believers score higher than non-believers on psi tests); ongoing Ganzfeld and presentiment
+studies. Mainstream science remains skeptical due to replication failures.
+
 ## Full Declassified Index (1,809 docs)
 
 Source: Internet Archive mirror of the CIA FOIA Electronic Reading Room (CREST).
@@ -9284,6 +9305,14 @@ is the most reliable way to read these documents.
 ---
 
 ## Sources and References
+
+Related programs and modern research:
+- MKULTRA, Wikipedia and CIA FOIA reading room records
+- NSA psychokinesis documents in the CREST collection
+- Escola-Gascon et al., Follow-up on the U.S. Central Intelligence Agency's remote viewing experiments, Brain and Behavior (2023)
+- Vasilyev, Soviet telepathy research (cited in NSA assessments)
+
+
 
 Primary sources:
 - CIA FOIA Electronic Reading Room: https://www.cia.gov/readingroom/
