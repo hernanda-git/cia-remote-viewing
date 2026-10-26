@@ -1,5 +1,8 @@
 # Superhuman Research and the Paranormal: A Comprehensive, Declassified Reference
 
+Welcome. This repository collects declassified research on superhuman and anomalous human capacities,
+organized so you can read everything in one place, with tables, summaries, and direct links.
+
 A general, global reference on government and academic programs investigating superhuman
 capacities: remote viewing, telepathy, psychokinesis, anomalous cognition, and related
 phenomena. Covers declassified documents, canonical works, key figures, evaluations, and
@@ -27,6 +30,7 @@ Declassified documents: 1,809. Scope: global. Status: declassified and published
 - Related Programs
 - Modern Follow-Up Research
 - Related Declassified Collections
+- Collections (in-repo files)
 - Full Declassified Index
 - Methodology
 - Sources and References
@@ -285,14 +289,23 @@ including monitor influence, post-hoc matching, and vague descriptions.
 
 ---
 
-## Related Declassified Collections
+## Collections (in-repo files)
 
-| Collection | Link |
-|---|---|
-| MKULTRA | https://archive.org/details/DOC_0000190090 |
-| NSA psychokinesis | https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100010041-2.pdf |
-| National Security Archive MKULTRA | https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly |
-| GWU STARGATE doc 57 | https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf |
+Browse these files directly in the repository for full content without external links.
+
+- collections/mkultra.md: 524 MKULTRA records with descriptions and links
+- collections/nsa-psychokinesis.md: NSA psychokinesis and SIGINT/COMSEC threat summary
+- collections/gwu-stargate-doc57.md: GWU National Security Archive STARGATE doc 57 summary
+
+## Related Declassified Collections (in this repo)
+
+All collections are available as readable Markdown files inside the collections/ folder.
+
+| Collection | In-repo file | Documents |
+|---|---|---|
+| MKULTRA | collections/mkultra.md | 524 |
+| NSA psychokinesis / SIGINT threat | collections/nsa-psychokinesis.md | 1 |
+| GWU STARGATE doc 57 | collections/gwu-stargate-doc57.md | 1 |
 
 ---
 
