@@ -1,0 +1,687 @@
+% Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+STANFORD RESEARCH INSTITUTE. 
+Menlo Park, California 94029, SECRET erm 
+
+
+11 August 1976 
+
+
+PROGRAM CHARTER: 
+
+
+REMOTE SENSING 
+
+
+by 
+
+
+Dr. Harold E. Puthoff 
+Mr. Russell Targ 
+
+
+Stanford Research lustitute GAD 
+% meee 2 
+contrat No, SRI-G-4451 
+
+
+nether Seta NN ne teateri 
+
+
+‘ST B25 Ay 
+
+
+Classification Determination 
+Pending: Protect as though 
+classified SECRET. 
+SRI-6-44 51 
+
+
+Copy No. 2 of 10. 
+
+
+Approved For Release 200 124 5 CIA-RDP79-00999A000300060001-5 
+R ~ TENTATIVE 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+S ECRET - wntarive 
+
+
+ABSTRACT 
+
+
+Recent work in both US and Soviet laboratories indicates mounting 
+evidence for the existence of so-called “parapsychological" or "para- 
+physical" processes, sometimes called psychoenergetic processes. In 
+the US, recent publications (both classified and unclassified) by 
+Stanford Research Institute (SRI) detail the ability of certain individuals 
+to view, by innate mental sueCeeREA, remote geographical or technical 
+targets including buildings, roads and laboratory apparatus. In the 
+Soviet Bloc countries, similar research efforts are described in two 
+classified reports, one a DIA document prepared by the US Army Medical 
+Intelligence and Information Agency, the other prepared by Garrett 
+Airesearch as an independent contracted study of Soviet literature. 
+
+On the basis of the SRI data and the Garrett and DIA documentation 
+studies, an interdisciplinary R&D program with multiple contractors is 
+proposed. The goal of the program is to establish the necessary data 
+base to evaluate the significance of so-called paranormal processes for 
+intelligence applications, both from the standpoint of feasibility for 
+
+
+operational use and from the standpoint of threat analysis. 
+
+
+Approved For Release 200 EC RE Poe 80289 900300060001-5 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+~ TENTATIVE 
+
+
+PROGRAM CHARTER: REMOTE SENSING 
+
+
+Introduction 
+
+
+Recent publications in both the open and classified literature indi- 
+cate mounting evidence for the existence of so-called "parapsychological" 
+or “paraphysical" processes. These are sometimes referred to as psycho- 
+energetic or NBIT (novel biophysical information transfer) channels, an 
+acronym coined as a neutral descriptive term free of occult assumptions 
+or biases as to mechanisms. 
+
+
+NBIT processes include: 
+
+
+1. The acquisition and description, by mental means, of remote 
+information blocked from ordinary perception and thought to be 
+secure against such access; 
+
+2. The production of physical effects such as the perturbation of 
+instrumentation or equipment which would appear to be well 
+shielded against such interactions. 
+
+
+The literature also indicates mounting evidence for the acceleration 
+of research in both the Western and Soviet Bloc countries in an effort to 
+precipitate a breakthrough. In the West, a large-scale exploratory research 
+effort on NBIT channels has been carried out in the Electronics and Bio- 
+engineering Laboratory of Stanford Research Institute (SRI). Their results 
+-have been reported in two major documents, one classified, | one unclassi- 
+fied. Their work dealt primarily with a capability that they call “remote 
+viewing," the ability to view remote geographical locations up to several 
+thousand kilometers. In more than 50 experiments with roughly a dozen 
+subjects, including government scientists sent to examine the experimental 
+protocols, significant results were obtained on the viewing of buildings, 
+laboratory apparatus, and the like. From their work they concluded that 
+
+
+(a) The phenomenon is not a sensitive function of distance over a 
+range of several km and is still operative over a range of 
+several thousand km (U); 
+
+(b) Faraday cage electrical shielding does not appear to degrade 
+
+. the quality or accuracy of perception (U); 
+
+(c) Most of the correct information pertains to shape, form, color, 
+and material, rather than to function or name, indicating that 
+the function may be mediated primarily by the brain's right 
+hemisphere (U); 
+
+(d) The principal difference between experienced subjects and inex- 
+perienced volunteers is not that the latter do not exhibit the 
+facuity but rather that their results are simply less reliable, 
+
+
+a 
+H. Puthoff and R. Targ, Perceptual Augmentation Techniques, Final Report 
+on SRI Project 3183, December 1, 1975. (Secret) 
+
+
+2 
+
+H. Puthoff and R. Targ, "A Perceptual Channel for Information Transfer 
+Over Kilometer Distances: Historical Perspective and Recent Research," 
+Proceedings of the IEEE, Vol. 64, No. 3, pp. 329-354, March 1976. 
+
+
+1 
+
+
+Approved For Release 20098 ha ROA RDP79:4998k000300060001-5 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+- TENTATIVE 
+
+
+indicating that remote viewing may be a latent and widely 
+distributed, though repressed, perceptual ability (U); and 
+
+(e) Subjects trained over a two-year period have performed well 
+under operational conditions (S). 
+
+
+The breadth of work in this area of research in the Soviet Union and 
+
+Czechoslovakia is detailed in a recent DIA document prepared by the US 
+
+Army Medical Intelligence and Information Agency.3 It is pointed out that 
+
+beginning with early work (1930s) in the laboratory of L. Vasiliev4 (Lenin- 
+
+grad Institute for Brain Research), Soviet efforts in the area of paranormal 
+
+functioning have concentrated on behavior modification and control (e.g., 
+
+putting people into a trance at a distance through hyponosis) in contrast to 
+
+the Western orientation toward remote data acquisition. Also, apparently 
+
+in keeping with their ideology, the Soviet work is strongly oriented toward 
+
+the physical aspects of the channel, such as determining the physical mech- 
+
+anisms involved. Indeed, some of the best theoretical work has been done 
+
+by I. Kogan in his investigation of the ELF (extremely low frequency) 
+
+electromagnetic hypothesis.” The authors of the DIA document include 
+
+that the East Bloc parapsychology research effort is now concentrated on 
+_the energetics of the problem and is aimed at achieving direct production 
+
+and control of the energy involved, and that if this goal is achieved it 
+
+will pose a serious threat to the West. 
+
+
+In a contracted independent study by Garrett Airesearch, a review of 
+Soviet literature on NBIT- research led to conclusions similar to those of 
+the DIA document.? The body of the report treats Soviet application of 
+statistical theories, research done on electrostatics, the development of 
+remote sensors, hypothesized carrier mechanisms, human sensitivity to mag- 
+netic fields, and performance training to improve NBIT. Their conclusions 
+include (5S): 
+
+
+A Ee The Soviets have done significant work on signal extraction, 
+statistical, and information theory approaches to NBIT processes. 
+
+
+aoe Maire III and Major J.D. LaMothe, MSC, Soviet and Czechoslovakian 
+
+
+Parapsychology Research, DIA Document No. DST-1810S-387-75, Sept. 1975. 
+(Confidential) 
+
+
+‘tals Vasiliev, Experimental Studies of Mental Suggestion, JPRS document 
+
+
+No. 59163, 31 May 1973. NTIS. Springfield, Virginia 22151. 
+
+
+OTM. Kogan, "Is Telepathy Possible?" Radio Eng., Vol. 21, p. 75, Jan. 
+
+
+1966. 
+
+
+OEM, Kogan, "Telepathy, Hypotheses and Observations," Radio Eng., Vol. 
+22, p. 141, Jan. 1967. 
+
+
+L.M. Kogan, “Information Theory Analysis of Telepathic Communication 
+Experiments," Radio Eng., Vol. 23, p. 122, Mar. 1968. 
+
+
+cae Kogan, "The Information Theory Aspect of Telepathy," RAND Publ., 
+
+
+Santa Monica, CA. p. 4145, July 1969. 
+9 
+
+
+E.C. Wortz, et al., Novel Biophysical Information Transfer Mechanisms 
+
+SG1A (NBIT), Final Report on Contract No. XG-4208 
+(54-20)75S, Jan. 14, 1976, Airesearch Manu. Co. of Calif., a division of 
+Garrett Corporation. (Secret) 
+
+
+7 
+
+
+2 
+
+
+Approved. For Release 2003@404.. Rik ADP79-80885K00300060001-5 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+SECRET -~ rexrarive 
+
+
+2. The Soviets have done creditable work on the electrostatics of 
+telekinesis and have probably now turned their attention to the 
+psychophysiological aspects of the phenomenon. 
+
+
+3. The Soviets have an interest in remote physiological monitors, 
+have developed one or two new instruments, and are probably 
+involved in R&D in this area. 
+
+
+4. The Soviets had and probably still have an interest in the physics 
+of NBIT transmission mechanisms and are probably doing research 
+in this area. 
+
+
+5. There is a developing interest in the Soviet Bloc to apply psycho- 
+physiological training methods (similar to biofeedback) to 
+develop control over NBIT mechanisms. 
+
+
+6. The Soviets are investigating the psychophysiology of multi- 
+modal, programmed stimulation as a method to entrain physio- 
+logical rhythms and produce changes in states of consciousness. 
+
+
+7. Finally, they note that open publication of some of the most 
+advanced work in this area has inexplicably stopped. The implaus- 
+ibility of the work itself being stopped has led them to conclude 
+that the work is continuing secretly. 
+
+
+Both the DIA and Garrett reports point to the increasing importance of 
+the NBIT area in Soviet research as indicated recently when the Soviet 
+Psychological Association issued an unprecedented position paper calling 
+on the Soviet Academy of Sciences to step up efforts in this area.10 They 
+recommended that the newly formed Psychological Institute within the Soviet 
+Academy of Sciences and the Psychological Institute of the Acadeny of 
+Pedagogical Sciences review the area and consider the creation of a new 
+laboratory within one of the institutes to study persons with unusual 
+abilities. They also recommended a comprehensive evaluation of experiments 
+and theory by the Academy of Sciences’ Institute of Biophysics and Institute 
+for the Problems of Information Transmission. 
+
+
+Proposed Program 
+
+
+Following is an outline of a comprehensive program charter designed 
+to establish the necessary data base to evaluate the significance of NBIT 
+processes for intelligence applications, both from the standpoint of feasi- 
+bility for operational use and from the standpoint of threat analysis. 
+
+
+The program envisioned consists of an interdisciplinary R&D program 
+with multiple contractors, and involving tasking of intelligence sources 
+for data on Soviet Bloc efforts in this area. The R&D effort will have 
+both classified and unclassified portions, and is to consist of three major 
+areas: 
+
+
+10, p, Zinchenko, A.N. Leontiev, B.M. Lomov, and A.R. Luria, "Parapsychology: 
+Fiction or Reality?" Questions of Philosophy, Vol. 9, pp. 128-136, 1973. 
+
+
+3 
+
+
+Approved For Release 200QEC RE Poe tibhasrAgioso0060001-5 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+S E C R ET - TENTATIVE 
+
+
+(1) Basic research 
+(a) Theoretical 
+(b) Experimental 
+
+
+(2) Operational tasking 
+
+
+(3) Information dissemination 
+(a) Data collection 
+(b) Conferences 
+(c) Training programs 
+
+
+The major contractor in this area will be the Radio Physics Lab- 
+oratory of SRI in Menlo Park, California. They are to serve a dual 
+function: 1) carry out certain portions of the contracted R&D effort; 
+and 2) chair the interagency and inter-contractor program efforts (e.g., 
+conferences). The latter would follow procedures similar to that used 
+with JASON, wherein SRI hosts meetings of scientists brought together 
+to advise DOD personnel on technological advances of potential strategic 
+significance. A breakdown of these various activities is provided 
+below. 
+
+
+(1) Basic Research 
+
+
+To accomplish the proposed objective of evaluating the significance 
+of NBIT processes for intelligence applications, it is necessary to develop 
+a greater understanding of the basic mechanisms involved. Therefore, some 
+part of program funding should be set aside for basic research, both exper- 
+imental and theoretical. 
+
+
+(a) Theoretical 
+
+
+At the present time three basic models have been proposed to 
+describe paranormal functioning on the basis of present theory or reasonable 
+extensions of same. These are the ELF (extremely low frequency) electro- 
+magnetic hypothesis, the quantum correlation hypothesis, and the extra- 
+dimensional hypothesis. 
+
+
+Briefly, the ELF hypothesis suggests that NBIT processes are 
+carried by electromagnetic waves in the 300-1000 km wavelength region 
+(300-1000 Hz) .278 Experimental support for this hypothesis is claimed 
+on the basis of slower than inverse square attenuation, low bit rates, and 
+ineffectiveness of ordinary electromagnetic shielding, factors (among others) 
+held in common between ELF and ESP. The quantum correlation hypothesis 
+stems from the recognition that no theory of reality compatible with 11-13 
+quantum theory can require spatially separated events to be independent, 
+aie Bohm and B. Hiley, "On the intuitive understanding of non-locality as 
+implied by quantum theory," (Birkbeck College, London, England), Feb. 1974, 
+Preprint. 
+
+
+Tags. Bell, "On the problem of hidden variables in quantum theory," Rev. 
+
+
+Mod. Phys., Vol. 38, No. 3, p. 447, July 1966. 
+
+
+135, Stapp, "Theory of reality," Lawrence-Berkeley Lab. Rep. LBL-3837, 
+
+
+Univ. California, Berkeley, April 1975. 
+
+
+4 
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+SECRET - mxtatrve 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+S E C R ET - TENTATIVE 
+
+
+but must permit interconnectedness of distant events in a manner that is 
+contrary to ordinary experience.14,15 (This prediction has been experi- 
+mentally tested and confirmed in the recent experiments of Freedman and 
+Clauser with regard to photon correlation.)16,17 The extra-dimensional 
+hypothesis is based on the ideas of Targ (SRI) and Rauscher (LRL) pertaining 
+to the use of extra spatial and temporal dimensions to provide a space-time 
+metric especially suitable for describing NBIT processes. 
+
+
+The purpose of the theoretical studies is to provide a series of 
+predictions around which experiments can be designed and thus provide for 
+the necessary discrimination between competing models for NBIT mechanisms. 
+Such work should be pursued by theoretical physicists and collated by SRI 
+in its central clearing function. (Unclassified) 
+
+
+(b) Experimental 
+1. ELF Experiments 
+
+
+a. Carry out remote viewing experiments using electromagnetic 
+and magnetic shielding, such as thick-walled or mu-metal chambers, 
+or the shielded room at the MIT Magnet Lab, for the purpose of ob- 
+taining further information pertaining to the ELF hypothesis, the 
+hypothesis favored in the USSR for all psychoenergetic phenomena. 
+
+
+b. Test remote sensing under conditions of shielding by water 
+as provided by submersibles. (SRI in conjunction with other labs.) 
+
+
+c. Use ELF sources as targets in remote sensing, especially at 
+7.5 Hz and its harmonics, to test the earth-ionosphere waveguide 
+hypothesis. (SRI) 
+
+
+d. Make use of ELF sources for jamming the remote viewing subject, 
+in controlled double-blind experiments. (SRI) 
+
+
+e. Deane the data base generated inthe past SRI remote viewing 
+experiments, »2 look for potential correlations between success/failure. 
+time of day, geomagnetic storm activity, sun spot activity, etc. (SRI) 
+In particular, study correlation of remote sensing results with factors 
+such as east-west asymmetry, geomagnetic disturbance (U index), and 
+diurnal variations that are known to affect ELF propagation. (SRI) 
+
+ae Einstein, B. Podolsky, and N. Rosen, "Cam quantum-mechanical description 
+
+of physical reality be considered complete?" Phys.Rev., Vol. 47, p. 777, 
+
+May 15, 1935. 
+
+
+HR i Dicke and J.P. Wittke, Introduction to Quantum Mechanics. Reading, 
+
+
+MA: Addison-Wesley, 1960, ch. 7. 
+
+
+Ae Freedman and J.F. Clauser, "Experimental test of local hidden variable 
+
+
+theories," Phys. Rev. Lett., Vol. 28, No. 14, p. 938, Apr. 3, 1972. 
+
+
+Ld poe Clauser and M.A. Horne, "Experimental consequences of objective local 
+
+
+theories," Phys. Rev. D, Vol. 10, No. 2, p. 526, July 15, 1974. 
+
+
+5 
+Approved For Release 20 } DP79-00999A000300060001-5 
+SECRET - TENTATIVE 
+
+
+(2) 
+
+
+f 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+S E Cc R ET - TENTATIVE 
+
+
+2.Quantum Correlation Experiments 
+
+
+Experiments of interest for quantum correlated-state models shall 
+be carried out with attention given to both directions of the channel 
+(remote sensing and remote actuation). (SRI in conjunction with other 
+labs, e.g., Univ. of California, Berkeley Physics Dept. - Unclassifed) 
+
+
+3. Examination of Psychoenergetic Man/Machine Interaction 
+
+
+This should include a continuation of the work with a cryogenic 
+Magnetometer presently underway at SRI. A general search for other 
+measurement processes sensitive to influence via the remote sensing 
+channel shall be carried out as indicated by theoretical work. (SRI 
+- Unclassified) 
+
+
+4. Physiological Correlates of Noncognitive Perception 
+
+
+In work at SRI and elsewhere,” it has been found that remote strobe- 
+light flashing produces a reduction of EEG alpha activity in a shielded 
+subject, even though the subject is unaware of any stimulus being presert 
+throughout the experiment. In this study EEG activity is observed to 
+change in synchronism with the application of the remote stimulus. 
+Suggest search for other physiological correlates such as GSR and 
+Plethysmograph to obtain additional data on this passive arousal 
+response. (SRI, SRI subcontract at Langley-Porter Neuropsychiatric 
+Institute - Unclassified) 
+
+
+5. Signal-to-Noise Questions 
+
+
+Carry out detailed remote viewing experiments to measure the change 
+in resolution capability as a function of distance, if such a functional 
+dependence should be found. 
+
+
+a. SRI will endeavor to determine the characteristics of the 
+remote sensing information channel in terms of bit rate, resolution, 
+and other parameters of interest through work with gifted subjects 
+and SRI-generated target materials. 
+
+
+b. A communication experiment involving redundancy coding to 
+enhance the signal-to-noise ratio shall be conducted on the basis 
+of the emergence of a remote sensing data channel of extra-chance 
+quality.1,2 (SRI - Unclassified) 
+
+
+Operational Tasking 
+
+
+Experiments shall be conducted under protocols established in close 
+
+
+liaison with the client to determine the utility of the remote sensing 
+phenomenon for acquisition and tracking of submersibles and other coopera- 
+tive or uncooperative targets of interest designated by the sponsor. 
+
+
+(3) 
+
+
+Information Dissemination 
+
+
+(a) Data Collection 
+
+
+The intelligence agencies responsible for collecting data on 
+
+
+6 
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+- TENTATIVE 
+
+
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+SECRET - senrarive 
+
+
+Soviet Bloc countries shall be tasked by the sponsor to provide information 
+to the sponsor on Soviet efforts on NBIT R&D. 
+
+
+SRI, as part of its clearing house function, shall act as a central 
+collection point for the collation and analysis of both foreign and domestic 
+information relating to NBIT efforts, both classified and unclassified. 
+
+Special purpose analysis requirements shall be forwarded to other organizations 
+as required, 
+
+
+(b) Conferences 
+
+
+Semi-annual closed conferences will be chaired by SRI in which 
+sponsors, contractors, and consultants will be brought together to maintain 
+state-of-the-art knowledge in NBIT R&D, both at home and abroad. This is 
+in addition to the usual meetings between subsets of those involved to main- 
+tain continual interchange as required. 
+
+
+For day-to-day update, a teletype terminal shall be placed at 
+every contractor and sponsor location so that teleconferencing by computer 
+can take place on a continual basis. Such computer teleconferencing provides 
+the benefits of a message center that can be accessed at any time, in addition 
+to multi-party teleconferencing. Teleconferencing programs of the type used 
+in the ARPA net shall be employed, and will be supplied by SRI. 
+
+
+(c) Training Programs 
+Task SRI to 
+
+
+e record and specify the essential aspects of the training program 
+used at SRI to obtain remote data as recorded in the previous 
+experimental program. 
+
+
+° establish a program at SRI to train subjects in the client 
+community to accomplish the various tasks relating to oper- 
+ational objectives. 
+
+
+RKK 
+
+
+The exploratory nature of the program requires that 15 percent of the 
+overall effort will be set aside to explore, with the client's cognizance, 
+avenues of research (other than those listed) that may surface as high- 
+priority items during the course of the program. 
+
+
+Throughout the program, the various investigators are to remain in 
+close communication with the client. 
+
+
+SRI is to provide approximately 36 man-months of professional effort 
+including an appropriate subject pool and other support toward their role 
+in the accomplishment of the foregoing. 
+
+
+_ Reporting Schedule 
+
+Three quarterly progress reports will be delivered the tenth day of 
+each third contract month by all contractors. An SRI-collated final tech- 
+nical report will be delivered 13 months after commencement date of the 
+
+
+contract. 5 
+Approved For Release 2003/06/24 : CIA-RDP79-00999A000300060001-5 
+
+
+2C 
+SECR - TENTATIVE 
+
+

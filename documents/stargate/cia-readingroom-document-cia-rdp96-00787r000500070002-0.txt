@@ -1,0 +1,941 @@
+ed For Release 2000/08/07 : CLARO R96-00787R000500070002-0 
+
+
+1 May- 1978 
+
+
+PSYCHOENERGETIC RESEARCH: 
+SUGGESTED APPROACHES 
+
+
+By: 
+
+
+Harold E. Puthoff 
+Russell Targ 
+Edwin C. May 
+
+
+Radio Physics Laboratory ¥ 
+
+
+333 Ravenswood Ave. e Menlo Park, California 94025 
+wed For Release-2000/0B/0 FTA DIAS. RERYGS~0 07 BF ROOWS0 G7 0002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+EXECUTIVE SUMMARY 
+
+
+Recent research in both Western and Soviet Bloc countries continues 
+to provide mounting evidence for the existence of so-called parapsycho- 
+logical or psychoenergetic processes. These include: 
+
+(1) The acquisition and descriptions, by mental means, of 
+
+information blocked from ordinary perception by distance 
+
+
+or shielding and generally believed to be secure against 
+such access. 
+
+
+(2) The production of physical effects such as the perturbation 
+of instrumentation or equipment that appears to be well 
+shielded against such interactions. 
+
+This document identifies and discusses key areas of psychoenergetic 
+research, and indicates those areas for experimentation and analysis 
+most likely to provide answers to critical questions. An appropriate 
+research program should include the following action items: 
+
+* Catalog the characteristics of the phenomenon, such as 
+
+resolution, reliability, bit rate, effects of shielding, 
+
+
+etc,, including investigation of various models (e.g., 
+electromagnetic) 
+
+
+e Ascertain those correlates of paranormal functioning which 
+may lead to screening and training (psychological con- 
+ditions, medical profiling; environmental factors; etc.) 
+
+
+e Determine application potential with regard to: alternate 
+communications systems, enhanced environmental monitoring 
+(near and far), information security processes, enhanced 
+man/machine interactions, etc. 
+
+It is recommended that a research program be initiated with SRI 
+along the lines indicated in this document, It is further recommended 
+that SRI, as the major contractor, serve a dual function: (1) carry 
+out the major portions of the contracted R&D efforts; and (2) host 
+interagency and inter-contractor conferences to consolidate available 
+
+
+resources and information. 
+
+
+i 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+CONTENTS 
+
+
+EXECUTIVE SUMMARY . 2. 2 1 6 © © © ee ew we we we wo 
+
+
+I 
+
+
+II 
+
+
+III 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+INTROD UCTION e . e e * e e e e ° e e e ° e e e 
+
+
+KNOWNS AND UNKNOWNS IN PSYCHOENERGETIC RESEARCH 
+
+
+RESEARCH APPROACHES . . 2. 2 « «© +» © «© e@ wo ow 
+
+
+A. 
+B. 
+
+
+Objective... 2. «es ss ee ewe ove 
+Characteristics, Analysis, and Theory. . 
+1. Characteristics . 2... 2 «ee se 
+
+
+a. Remote Viewing Reliability 
+Enhancement (Coding) ..... 
+
+
+b, Role of Feedback in Remote Viewing 
+
+
+Cc. Role of Consciousness (Computer- 
+Controlled Experiments) .... 
+
+
+d. Tracking of Targets in Motion. ..... 
+e. Measurement of Accuracy as a Function 
+
+
+of Repetition Rate ...... 
+
+
+2. Analysis . 1.46 1 «© «© © © eo ew ew ew 
+3. Mechanisms . . . «1 1 ee ee eee 
+
+
+a. Theoretical Studies ...... 
+b, ELF Experiments . . . . « « we 
+
+
+c. Sub ject-Induced Equipment Perturbation 
+
+
+EPLECES he: ik: cet ee eo tek eB. dws Se 
+
+
+(1) Strain Gauge Experiments ...... 
+(2) Random Number Generator Experiments 
+
+
+(3) Magnetometer Experiments , 
+Psychophysiological Correlates ..... 
+
+
+1. Physiological Measures for Psi-Conducive 
+
+
+States ° ° e e ° J ° e e . ° o e es e 
+2. Environmental Factors .....e«e. 
+
+
+a. Altered States of Consciousness: 
+Environments ... e . 
+
+b. Examine the Part Played by the 
+Experimenter .... + «2 « e 
+
+
+3. Educational Procedures . ...... 
+
+
+a. Screening . . 2. 2. 2. eee eee 
+
+
+Special 
+
+
+(1) Explore Training Techniques with 
+Children, the Blind, and Other 
+
+
+Special Subjects ..... 
+
+
+(2) Distance Experiments with identical 
+
+
+Twins ee eo @ @ oo eo ee @ ° e 
+
+
+il 
+
+
+29 
+
+
+30 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+b. Training .. +. « «© «© « ee es ee we we www e 
+
+
+(1) Training in Perceptual Tasks 
+Paralleling Ordinary Perception 
+(2) Training in Abstract Targeting, 
+Including Geographical Coordinates... 
+IV PRIORITIES AND RECOMMENDATIONS . . 2. 2 «© «© e © ee ee wwe 
+
+
+REFERENCES . . 6 » © «© © © © © © © © © eo we te ewe ew he 
+
+
+iii 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+30 
+
+
+30 
+
+
+32 
+
+
+33 
+
+
+35 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+I. INTRODUCTION 
+
+
+In this document we summarize and discuss key areas of psychoenergetic 
+research. We deal with both the known and unknown in an effort to identify 
+those research areas most likely to answer critical questions. No attempt 
+is made to present evidence or data to support the existence of psycho- 
+energetic phenomena; data supporting the existence of the phenomena can 
+be found in the documents listed in the reference section at the end of 
+
+
+the paper. 
+
+
+Recent publications provide mounting evidence for the existence 
+of so-called parapsychological or paraphysical processes. These pro- 
+cesses are taken to include the following: 
+
+(1) The acquisition and description, by mental means, of 
+
+information blocked from ordinary perception by distance 
+
+
+or shielding and generally believed to be secure against 
+such access. 
+
+
+(2) The production of physical effects such as the perturbation 
+
+of instrumentation or equipment that appear to be well 
+shielded against such interactions, 
+
+The literature also indicates evidence of an acceleration of 
+research in both Western and Soviet Bloc countries in an effort to pre- 
+cipitate a breakthrough. In the West, a large-scale exploratory research 
+effort on psychoenergetic channels has been carried out by the authors in 
+the Electronics and Bioengineering Laboratory and the Radio Physics Lab- 
+oratory of SRI International. Our work dealt primarily with a human 
+information-accessing capability that we call "remote viewing." This 
+phenomenon pertains to the ability of certain individuals to access and 
+describe, by means of mental processes, remote geographical locations up 
+to several thousand km distant from their physical location, In more than 
+50 experiments with roughly a dozen subjects, including government 
+scientists sent to examine experimental protocols, significant results 
+were obtained in the viewing of remote buildings, laboratory apparatus, 
+
+
+and real-time activities. From this work we conclude that"? 
+ Recerencas are listed at the end of this document. 
+
+1 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+(1) The phenomenon is not a sensitive function of distance 
+over a range of several kilometers and is still operative 
+over a range of several thousand kilometers. 
+
+
+(2) Faraday cage electrical shielding does not appear to 
+degrade the quality or accuracy of perception. 
+
+
+(3) Most of the correct information pertains to shape, forn, 
+color, and material, rather than to function or name, 
+suggesting that the function may be mediated primarily by 
+the brain's right hemisphere. 
+
+
+(4) The principal difference between experienced subjects and 
+inexperienced volunteers is not that the latter do not 
+exhibit the faculty but rather that their results are 
+simply less reliable, indicating that remote viewing may be 
+a latent and widely distributed, though suppressed, 
+perceptual ability. 
+
+
+(5) Subjects trained over a several-year period have shown 
+improved performance under continuing experiments. 
+
+
+(6) Clear evidence has been obtained showing that subjects in 
+laboratory experiments can describe future events, not yet 
+determined at the time of their description. 
+
+The breadth of work in this area of research in the Soviet Union 
+and Czechoslovakia is detailed in a recent document prepared by the 
+U.S. Army Medical Intelligence and Information Agency.* In this 
+document it is pointed out that, beginning with early work (1930s) in 
+the laboratory of L. Vasiliev (Leningrad Institute for Brain Research), 
+Soviet efforts in the area of paranormal functioning have concentrated 
+on behavior modification and control (e.g., putting people into a 
+trance at a distance through hypnosis). This is in contrast to the 
+Western orientation toward remote data acquisition. Also, apparently in 
+keeping with their ideology, the Soviet's work is strongly oriented 
+toward the physical aspects of the channel, such as determining the 
+propagation mechanisms involved. Indeed, some of the best theoretical 
+work has been done by Soviet researcher I. Kogan in his investigation 
+
+
+of the ELF (extremely low frequency) electromagnetic hypothesis.° * 
+
+
+A study by Garrett Airesearch, a review of the Soviet literature on 
+psychoenergetic research, treats Soviet application of statistical 
+theories, research done on electrostatics, the development of remote 
+sensors, hypothesized carrier mechanisms, human sensitivity to magnetic 
+
+
+fields, and training to improve psychoenergetic performance,?°" 1 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Garrett concludes that the Soviet Bloc has had and probably still has an 
+
+
+active interest and vigorous research program in this area, 
+
+
+The above reports point to the increasing importance of the psycho- 
+energetic area in Soviet research, an importance underlined in 1973 
+when the Soviet Psychological Association issued an unprecedented position 
+paper calling on the Soviet Academy of Sciences to step up efforts in this 
+area.’* The Association recommended that the newly formed Psychological 
+Institute within the Soviet Academy of Sciences and the Psychological 
+Institute of the Academy of Pedagogical Sciences review the area and 
+consider the creation of a new laboratory within one of the institutes to 
+study persons with unusual abilities. It also recommended a comprehensive 
+evaluation of experiments and theory by the Academy of Sciences' Institute 
+
+
+of Biophysics and Institute for the Problems of Information Transmission. 
+
+
+Iwo more recent classified reports issued in 1977 also provide 
+detailed analyses of the scope, direction, and distribution of Soviet 
+and East Bloc research in psychoenergetics.'°°'* These reports in no 
+way contradict the data and conclusions presented in the unclassified 
+
+
+literature, which they are intended to supplement, 
+
+
+In this document we concentrate on those areas of psychoenergetic 
+research that, in our judgement, need to be addressed to provide answers 
+to critical questions, Tables 1 and 2 represent a matrix, or "road 
+map" of the various areas of interest, and indicate the type of experi- 
+
+
+mentation that needs to be done in each area, 
+
+
+Table 1 represents a breakdown of the various psychoenergetic 
+processes; the two main classifications are: 
+* Perceptual processes, which act as information input to a 
+human subject (remote viewing, telepathy, dowsing, etc.) 
+
+
+¢ Perturbation (psychokinetic) processes, which act as output 
+control from a human subject (generation of fields, 
+temperature changes, mechanical forces, physiological 
+effects, etc.) 
+
+Table 2 indicates the various action item areas for experimentation 
+
+
+and analysis: It identifies three areas of activity: 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+sect a Table 1 f 
+
+
+BREAKDOWN OF THE VARIOUS PSYCHOENERGETIC 
+PROCESSES 
+
+
+PSYCHOENERGETIC PROCESSES 
+
+
+PERCEPTUAL PROCESSES (Information Input) saturate (@etien Output) 
+eens ERSLAA —— 
+SPATIAL TEMPORAL Tt 
+(Remote Viewing) (Precognition, Retrocognition) ANIMATE INANIMATE 
+REMOTE REMOTE RANDOM : DIRECTED 
+BEHAVIOR PHYSLOLOGICAL PROCESSES PROCESSES 
+MODIFICATION PERTURBATION, 
+HEALING 
+ANIMATE INANIMATE 
++ a CLASSICAL QUANTUM 
+TELEPATHY aerate CLAIRVOYANCE, PSYCHOMETRY a NOISE MECHANICAL 
+DOWSING (Temporal History) (ice eae eer tena 
+oise, 
+Brownian (Radioactive 
+Motion, etc.) Decay, Zero-Point 
+
+
+Fluctuations, etc.) 
+
+
+FIELD GENERATION 
+(Electric, Magnetic 
+
+
+Gravitational, etc.) FORCES 
+
+
+pproved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Table 2 
+
+
+ACTION ITEM AREAS FOR RESEARCH IN 
+PSYCHOENERGETICS 
+
+
+EXPERIMENTATION AND ANALYSIS OF PSYCHOENERGETIC PROCESSES 
+
+
+CHARACTERISTICS, ANALYSIS & THEORY 
+
+
+ie,” seth uais oe! Cae 
+
+
+| 
+
+
+PSYCHOPHYS TOLOGICAL CORRELATES 
+
+
+at oa, ee 
+
+
+APPLICATION 
+POTENTIAL 
+
+
+0002-0 
+
+
+ENHANCED ENVIRONMENTAL 
+INFORMATION MONLTORRNG 
+
+
+ALTERNATE COMMUNICKPIONS 
+CAPABILITIES 
+
+
+o 
+; . : EDUCATIONAL GENERATION OF 4 
+. MECHANISMS PHYSIOLOGICAL PSYCHOLOGICAL, | ENVIRONMENTAL 
+CHARACTERISTICS MECHANISM- INDEPENDENT ANALYSIS : CORRELATES MEDICAL FACTORS PROCEDURES ADDITIONAL INFO! 
+1 (EEG, GSR, EMG) PROFILING (Sensory SECURITY PROCESSE 
+Deprivation, : ENHANCED HUMAN/MACHNE 
+INFORMATION THEORY, PSYCHOPHYSICS Altered States, : : INTERACTIONS (=) 
+CODING i ore | | CREATION OF New @ 
+Envi c ' 
+(Bit Rate, Redundancy Pose aa it SCREENING TRAINING INDUSTRIAL COMPONESRS 
+Required, Message ; EEE . (Children (Feedback, 
+Transmission, Judging ar eae Identical Reinforcement, NEW APPLICATIONS 
+hay [ Psychological Target SYSTEMS TECHNOLOG 
+Techniques) Twins 
+ANALOGS TO BRA IN-HEMI SPHERIC Factors, Psi/ th Blind) Optimization) ENERGY ECONOMICS 
+SPECENETZATEON- STRAIN cau . Anti-psi . i 
+ORDINARY Loe alization GE EXPERIMENTS Syndrome |) POTENTIAL APPLICATONS 
+PERCEPTION . TO SATELLITE AND () 
+(Perceptual NOISE PERTURBATION INTERPLANETARY ae 
+Tasks Aree coer ays Decay, COMMUNICATIONS oN 
+Paralleling ectronic Noise) Oo 
+Ordinary ALTERNATE MEDICAL/== 
+Perception) PSYCHOLOGICAL TREASS 
+MENT STRATEGIES 
+“— PRODUCTION OF NWO! 
+a ee rs EDUCATIONAL METHOD) — | 
+ELECTROMAGNETIC QUANTUM MECHPiCS MULTI-DIMENSIONAL 4 
+(ELF Beacons, Jamming, (Non-locality, (Complex Space/Time) 4 
+Submersible Shielding, Quantun- Inter- o 
+Propagation Velocity) connectedness, @ 
+Holographic) ow 
+c= 
+° 
+| LL 
+noe: T ao) 
+SPATIAL & RELIABILITY TARGETING SHLELDING ROLE OF ROLE OF g 
+TEMPORAL (Subject (Geographic Coordinates (Electromagnetic CONSCIOUSNESS FEEDBACK ° 
+RESOLUTION Confidence, Biographical Histories, and Other) (Computer -Controlled (Psychological 5 
+(Target Size, Coding Target Agent, and Scored Versus Factors, Precognitive fom 
+Repetition Rate, Enhancement) Electronic Information Human-Mediated Mechanisms) P¢ 
+Targeta-in, Motion) Storage) Experiments) 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+¢ Catalog the characteristics of the phenomenon, such as 
+resolution, reliability, bit rate, effects of shielding, 
+etc., including investigation of various models (e.g., 
+electromagnetic) 
+
+
+e Ascertain those correlates of paranormal functioning 
+which may lead to screening and training (psychological 
+conditions, medical profiling, environmental factors, 
+etc.) , 
+
+
+* Determine application potential with regard to: alternate 
+communications systems, enhanced environmental monitoring 
+(near and far), application to information security processes, 
+enhanced man/machine interactions, etc. 
+Section II of this document Lists knowns and unknowns about items 
+in the tables; Section III summarizes research strategies for handling 
+the specific areas; and Section IV presents our priorities and 
+
+
+recommendations, 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+II KNOWNS AND UNKNOWNS IN PSYCHOENERGETIC RESEARCH 
+
+
+The following pages provide a brief description of what is known 
+(K) and unknown (UK) about the psychoenergetic processes shown in 
+Tables 1 and 2, The discussion under each heading is not intended to 
+be an exhaustive treatment of the subject, but rather serves as a 
+
+
+brief listing of salient points. 
+e Remote Viewing Characteristics 
+
+
+K: Abilities appear widespread, though latent; results 
+are insensitive to distance and shielding; shape, 
+form, color, material are described better than 
+analytical concepts (function, name). 
+
+
+UK: Extent to which a subject can improve spatial and 
+temporal resolution, accuracy of the process; upper 
+limit to bit rate; ability to track targets in 
+motion; whether, and to what extent, psychoenergetic 
+processes can be amplified by technological means. 
+
+
+¢ Target Acquisition 
+
+
+K: Subject can acquire target site on the basis of 
+presence of cooperative agent at site; targeting 
+by geographical coordinates without agent. 
+
+
+UK: What is necessary for target acquisition (names, 
+maps, pictures, other coordinate systems) ; 
+accuracy of target acquisition, e.g., circular error 
+of probability (CEP); how subject identifies target. 
+
+
+¢ Other Sensory Modalities 
+
+
+K: In addition to visually observable detail, subjects 
+sometimes report sounds, smells, electromagnetic 
+fields, etc. at target locations, 
+
+
+UK: The accuracy of these sensory modalities; other 
+sensory modes available. 
+e Time of Flight 
+K: Information access often appears to be available in 
+essentially "real" time. 
+
+
+UK: Time-of-flight of psychoenergetic phenomena; mechanism 
+of propagation. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+¢ Precognitive Remote Viewing 
+
+
+K: Some subjects report precognitive perception of 
+future events; laboratory experiments verify access 
+to information up to an hour in the future. 
+
+
+UK: Limit to forward temporal distance of the phenomenon; 
+basic mechanisms involved; event time accuracy, 
+especially as a function of temporal distance. 
+
+
+e Mechanisms, Theoretical Models 
+
+
+K: Phenomena characteristics (relative independence 
+of distance, shielding, temporal order) often appear 
+to be at variance with present scientific models. 
+
+
+UK: Mechanisms responsible for the phenomena; relation- 
+ship of phenomena to electromagnetic, quantum, etc. 
+bases of present scientific understanding; degree to 
+which phenomena can be mechanized, energy stored. 
+
+
+¢ Random Number Generators 
+
+
+K: Subjects appear to induce perturbations in the output 
+of noise and nuclear-decay-driven random-number generators, 
+
+
+UK: To what extent this process can be stabilized; 
+mechanisms responsible for this type of interaction. 
+
+
+e Magnetometers, Temperature Devices, and Pendulums 
+
+
+K: Past experiments indicate possible psychoenergetic 
+interaction with these devices. 
+
+
+UK: Repeatability of phenomena; limits to magnitude of 
+effects; other types of devices capable of registering 
+such interactions (nuclear decay, gravitational, 
+neutrino, Mossbauer effects?); mechanisms responsible. 
+
+
+¢ EM (Electromagnetic) Effects 
+
+
+K: Subjects can sense certain EM parameters (frequency 
+[i.e. color], presence/absence of EM noise); ELF (extremely 
+low frequency) models can account for certain para- 
+meters of psychoenergetic functioning (low bit rate, 
+relative independence of distance and shielding). 
+
+
+UK: To what extent, if any, EM mechanisms play a role; 
+efficacy of ELF generators for targeting, jamming; 
+effectiveness of shielding obtainable by deep-diving 
+submersible. 
+
+
+¢ Physiological Correlates 
+K: Physiological measures such as brainwave activity, 
+
+
+galvanic skin response, blood volume sometimes 
+correlate with psychoenergetic effects, 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+UK: Stability of such correlations; coupling mechanisms 
+involved. 
+
+
+e Training 
+
+
+K: Widespread latent abilities observed in the population; 
+decline effect, with certain types of experiments; 
+many SRI subjects have improved with practice; 
+evidence for trainability. 
+
+
+UK: Extent to which remote viewing ability can be taught 
+to novice subjects; what enables good subjects to 
+enhance their ability; significance of environmental 
+factors; effects of experimenter psychology; percentage 
+of population trainable; optimum screening tests, 
+profiling methods, 
+
+
+¢ Application Potential 
+
+
+K: Low-bit-rate communication via psychoenergetic 
+processes possible, low-level perturbation of 
+equipments observable, low-level physiological effects 
+probable, 
+
+
+UK: Optimum systems design for, and degree to which 
+competitive; applications in environmental information 
+monitoring; communications; security; machine control; 
+component design and mechanization; energy storage; 
+medical/psychological diagnosis and treatment strategies; 
+education, 
+
+
+9 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+III RESEARCH APPROACHES 
+
+
+A. Objective 
+
+
+A comprehensive program is proposed that is based on information 
+
+
+derived from SRI experimentation and the documented work of others. 
+
+
+goals of the program are twofold: 
+
+
+e To establish the repeatability of the psychoenergetic 
+process and the statistics that govern its usefulness 
+for various applications 
+
+
+¢ To determine the underlying physical characteristics 
+of the channel, such as bit rate, channel capacity, 
+and resolution potential. 
+
+
+B. Characteristics, Analysis, and Theory 
+
+
+pe Characteristics 
+a. Remote Viewing Reliability Enhancement (Coding) 
+
+
+One of the most successful psychoenergetic processes 
+
+
+The 
+
+
+is the remote viewing of target locations demarcated by some means, such 
+
+
+as the presence at the site of an individual known to the "viewer". 
+
+
+Unfortunately, this process--which works so well--results in narrative 
+
+
+description that is difficult to assess in a quantitative manner. 
+
+
+In order to utilize the remote sensing phenomena as a 
+
+
+tool to investigate the physical and psychological parameters of 
+
+
+psychoenergetic processes, it is important to establish optimum analysis 
+
+
+(judging) procedures. Because experiments are designed with the goal of 
+
+
+varying specific parameters, such as subject shielding or the necessity 
+
+
+of feedback, the analysis or judging procedure must be as rapid as 
+possible, while retaining objectivity, if immediate feedback to both 
+
+
+subject and experimenters is to be provided. 
+
+
+To objectify the analysis of a single response from a 
+
+
+subject during a remote sensing experiment, it is necessary to quantify 
+
+
+the target content in some discrete way. From an examination 
+
+
+10 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+
+of the data base accumulated to date it would appear that at least five 
+recurrent target attributes are frequently sensed correctly by our subjects. 
+If each of these attributes is assigned a binary digit--a "one" if the 
+attribute is present at the target site, and a "zero" if it is absent-- 
+
+we can, for the sake of research experimentation, construct a pool of 32 
+targets corresponding to all possible combinations of five individual 
+attribute bits. Table 3 shows one such example for an indoor swimming 
+
+
+pool, 
+
+
+Table 3 
+
+
+QUANTITATIVE JUDGING TECHNIQUE 
+
+
+Code Word Target ‘ ‘ : 
+Inside 
+
+
+Outside 
+
+
+Subdued lighting 
+Bright lighting 
+
+
+Wet 
+Dry 
+
+
+Passive 
+Active 
+
+
+Man-made 
+Natural 
+
+
+Or Or OF Or OF 
+
+
+A judging procedure utilizing the binary-coded target 
+pool is then as follows, After a target is selected at random, and 
+after the subject has registered his response in the usual way, the 
+judge's task is simply to ascertain from the subject's response whether 
+each of the five attributes is present (1) or absent (0). The resulting 
+five-bit number is then compared to the actual five-bit number for the 
+target. In the case of good functioning, it is possible to obtain 
+statistically significant results with one or two such trials. From 
+pilot work it appears that the individual attributes are identified with 
+an 80% reliability; thus the results indicate that this judging procedure 
+may provide a rapid and accurate technique to use remote sensing as a tool 
+
+
+to test various models of psychoenergetic functioning. 
+
+
+ll 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070002-0 
+
+

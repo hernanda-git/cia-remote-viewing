@@ -1,0 +1,2116 @@
+Final Report April 1989 
+Covering the Period 1 May 1988 to April 1989 
+
+
+AN APPLICATION ORIENTED REMOTE VIEWING 
+EXPERIMENT: 
+
+
+By: EDWIN C. MAY, Ph.D. 
+Director of Cognitive Sciences Program 
+
+
+Prepared for: 
+CLIENT PRIVATE 
+
+
+SRI PROJECT 2740 
+
+
+333 Ravenswood Ave. « Menlo Park, CA 94025 
+
+
+nternationabroved For Release 2000/08/07 ; CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+TABLE OF CONTENTS 
+
+
+LIST OF FIGURES 
+
+
+donk aisha uso gt algay a oat tefa fetes Mle! wie tare ealary eile a Goce Ciba ley rap.gy cra eteal a B.60e wha iii 
+LIST ‘OF TABLES ice oy 6s eee ae Sit Se we eiee ole eek OAS ae A EEE NS RMD ESSN iii 
+I OBIE CT IY Eva vie Se speveetan antes, dso lteed awa ogee tn 8 wale wane eer Gin ren Se 1 
+
+I. “BACKGROUND ¢.5issnoe Baas aisateuuedthdea ease ieee dincink 2 
+
+A. Remote Viewing .........ccecreceeeeas Pye aycas aera a aa ee arser BPE Geena es 2 
+
+B. Fuzzy. Set Analysis’. 08 sos oie i As ee ORBAN a oes 3 
+
+III APPROACH iia6cstic sis! siete vicars a wiebiee esate atk vce Ber ele at van tad wih tote dig 059.3 4 
+
+A. Remote Viewer ....... ccc cree e eect eter eee atte este eter nene 4 
+
+B. Target Material .. 0... . ccc ccc ccc cere cc nen ee eee ence eeeen 4 
+
+Cc. Experiment Protocol 1... . ccc cece cence tence eee n eens 4 
+
+D. Analysis Technique ....... 0... cece cere eee cece eee eee tenes 5 
+
+IV RESULTS AND DISCUSSION 2... ccc cece cece te eee eee erence nens 10 
+
+Vv CONCLUSIONS °-5.328 athayead seats Bln ead iti alnaa em aiad oe ees das 19 
+REFERENCES: jescsice dota tel baie legis 2d tes Roe Sud dais BSN Ea eR i es es Sa bk 20 
+APPENDIX A--REMOTE VIEWING RESPONSE (DRAWINGS) ...... 00.0 c eee wena A-1 
+APPENDIX B--REMOTE VIEWING RESPONSE (TRANSCRIPT) .........0 eevee B-1 
+
+
+id 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+NON WwW & WH Wb 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SG1A LIST OF FIGURES 
+
+
+Viewer 372: 
+Viewer 372: 
+Viewer 373: 
+Viewer 372: 
+Viewer 372: 
+
+
+Viewer 009: 
+
+
+LIST OF TABLES 
+
+
+Universe of Target And Response Elements 
+
+
+Figure of Merit (FM) Summary- Simulation  =—siw ge eee 10 
+
+
+iii 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+I OBJECTIVE 
+
+
+The objectives of this experiment were to: 
+
+
+e Demonstrate the potential of a novel 
+known remote viewing, 
+SG1A : ce) as ote wing 
+against 
+e Determine the degree to which the technique used to 
+
+
+analyze remote viewing results is applicable. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SGIA II BACKGROUND 
+
+
+SRI was asked by the sponsor to participate in an experiment SG1A 
+conducted during the latter half of August, 1988, at 
+
+
+a ee a ee The primary objectives were (1) to demonstrate 
+the remote viewing of MEME 2nd (2) to apply fuzzy set 
+SG1A 
+
+
+analysis to interpret the data. 
+
+
+A, Remote Viewing 
+
+
+Remote viewing (RV) is an apparent human ability to gain access, by mental means. 
+alone, to information that is secured by shielding, distance, or time.!-5* At least three elements 
+
+
+are necessary to conduct an RV experiment: 
+
+
+(1) An individual, called a viewer, with RV ability 
+
+
+(2) Specific target material (not available to the viewer at the time of the 
+experiment) 
+
+
+(3) An analysis technique to determine the degree to which RV occurred 
+
+
+In a typical laboratory protocol, a viewer and a monitor—an interviewer who is also unaware of 
+the target material—are sequestered at time Tp. At Tp + 5 minutes, an assistant selects the 
+intended target from a large pool of potential targets (e.g., a list of locations within a half-hour 
+drive from the laboratory) using a random procedure. At To + 30 minutes, the assistant is at the 
+selected site and, back at the laboratory, the viewing begins. At To + 45 minutes, the viewing 
+ends and the assistant returns to the laboratory. To provide feedback, the viewer, monitor, and 
+
+
+assistant return to the selected site and review the RV data. 
+
+
+To determine if RV occurred, similar experiments are conducted using a newly ' 
+selected target for each trial. Usually, the trials are done with target replacement (i.e., each 
+target is returned to the pool and may be selected again by the random process). 
+
+
+References may be found at the end of this report. 
+
+
+2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+B. Fuzzy Set Analysis 
+
+
+Since 1972, SRI has developed many procedures to determine whether information 
+has been obtained beyond chance expectation.®-® In the current method,® the targets and 
+viewer's responses are described as fuzzy sets of descriptor elements (e.g., presence of water). 
+The outcome of the RV experiment is measured by a figure of merit, which is related to the 
+
+
+accuracy and reliability of the viewer’s description of the target. 
+
+
+When RV is applied to collection, the analysis 
+procedures differ considerably. In laboratory experiments, much is known 
+about the target, but in applications, very little target 
+information is known. Thus, the analysis technique must be modified in 
+order to assess the "correct" RV response elements before confirming 
+
+
+evidence can be obtained. 
+
+
+Long-standing difficulties in applying the RV phenomena to 
+applications are at least twofold. In a lengthy response, 
+those elements of genuine Significance must be identified a 
+priori. Second, even excellent examples of remote viewing do not 
+necessarily imply usefulness. Therefore, RV-derived 
+data should be used in conjunction with information obtained 
+through more conventional channels. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+III APPROACH (U) 
+
+
+SRI conducted a 26-hour RV experiment beginning at 1008 on August 24, 1988. 
+The viewer provided data in four different work periods: at 1008 and 1500 on August 24, and at 
+0910 and 1120 on August 25. The details of the experiment are described below. 
+
+
+A. _ Remote Viewer 
+
+
+SRI selected Viewer V372 to participate in this experiment 
+because of his* 10-year experience as a viewer, and because he produced 
+good results in the first experiment in this series, conducted in May, 
+1987. . ' 
+
+SGIA 
+
+
+B. Target Material 
+
+
+Cc. Experiment Protocol 
+
+
+The SRI team was given the code name of the experiment, a time 
+window during which the experiment would be active, and a photograph and 
+Social Security number of an on-site individual. Other than this, all 
+aspects and details of the experiment were withheld from v372 and SRI 
+personnel, 
+
+
+——— 
+‘i To keep the identify of the viewer confidential, we refer to the viewer with the 
+Pronouns he and his regardless of the viewer's gender. 
+
+
+4 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Four sessions were conducted to provide information. The 
+
+
+times and circumstances were as follows: 
+
+
+(1) 1008 August 24 v372 was asked to describe the location and 
+details of an event in progress. Details about pertinent 
+personnel were also requested. 
+
+
+(2) 1500 August 24 v372 was asked to describe details and 
+activity at the site demarked by the presence of the 
+sSponsor’s on-site representative. 
+
+
+(3) O$10. August 25 v372 was asked to expand upon his 
+
+
+descriptions from the previous day. 
+
+
+(4) 1120 August 25 V372 was asked consolidate the information 
+from the previous. scans and to provide his concluding 
+remarks. 
+
+
+During each session, V372’s responses were tape-recorded. He 
+was encouraged to draw details whenever possible. Drawings are contained 
+in Appendix A, and Appendix B contains verbatim transcripts of all four 
+sessions. (Because of technical difficulties, most of the taped record of 
+the second session was lost. Since the remaining data are intact and 
+Since the drawings from the remaining viewings are complete, this gap is 
+not significant.) 
+
+
+After all raw data had been delivered to the Sponsor, V372 and 
+
+
+SRI personnel were allowed to visit the target site 2. 0Ulté«éaS SGIA 
+feedback. 
+
+
+D. Analysis Technique 
+
+
+AS discussed in Section II, quantitative analysis in an 
+
+Setting poses problems. Any analysis of remote viewing data 
+must be accomplished within the context of a mission statement, An 
+analysis designed only to demonstrate RV is inadequate to enable an 
+assessment, and vice versa. Under another program,® SRI 
+developed a generalized analysis technique that allows for ana priori 
+
+
+mission statement. An overview of that technique follows. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+ge Definitions 
+
+
+‘The most important aspect of RV data analysis is the 
+definition of both the target and the RV response. For this analysis, all 
+target and response information is defined as the fuzzy sets T and R, 
+respectively. Each is described below. 
+
+
+The target is defined as a fuzzy set of target elements 
+Tlek, pk, wk): 
+
+
+SG1A 
+
+
+The RV response is similarly defined as a fuzzy set of 
+
+
+response elements R[ek,px,wk). The membership values for response 
+
+
+elements, however, have a somewhat different meaning than those for target 
+elements. Membership values, Hk, represent an analyst’s assessment as to 
+the degree of presence of erin the response. For declarative statements, 
+Hk= 1 unless a viewer volunteers a specific or implied importance of ex to 
+the overall target. A degree of interpretation is allowed for 
+nondeclarative statements by letting px< 1. The response weights, wk, are 
+identical to the target weights. 
+
+
+We define accuracy as the percent of target material described 
+correctly by a response. Likewise, we define reliability (of a viewer) as the 
+percent of a response that is correct. The figure of merit is the product 
+of the two; to obtain a high figure of merit, a viewer’s description of a 
+
+
+target must be largely correct and contain few extraneous images. In 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+fuzzy set terminology, these quantities for the jth target/response pair 
+are as follows: 
+
+
+D2 w (R; AT), 
+2% Tj,k 
+
+
+Accuracy, = a, ba 
+
+
+> wi (R| NT), 
+Reliability = r = — 
+} A Dw Ris 
+kK 
+and 
+
+
+Figure of Merit = M, =a, x r 
+The sum over k is called the sigma count in fuzzy set terminology. The Sigma 
+count is defined as the sum of the membership values, », for the elements 
+of the response, target, and their intersection—that is, Ri, Ti, and 
+
+
+(RiM Ti), respectively. 
+
+
+2. Target and Response Data 
+
+
+‘The universe of target and response elements is drawn from the 
+August, 1988, experiment. We define three element categories: functions, 
+relationships, and objects. These categories are weighted 1.0, 0.75, and 
+0.50, respectively. 
+
+
+Table 1 shows the universe of target and response elements and the formal definition 
+of Tand R. All scans were considered together, rather than scan by scan. The various scaling 
+weights are shown in parentheses adjacent to the appropriate factors. The relative weights are 
+derived from SRI’s best assessment of the operational utility of each element. The response 
+membership values, R(y), were determined from the raw data (see Appendices A and B). The 
+target membership values, 7(u), were determined by SRI personnel during a site visit in 
+September, 1988. All elements, however, were determined by an SRI analyst post hoc in order 
+to allow a more accurate assessment of reliability. Elements derived from the response were 
+taken literally. Those elements having no corresponding element in the target (i.e., T(1) = 0) 
+
+
+were assigned the average weight of elements present in the target. 
+
+
+Approved For Release 2000/08/07--CIA-RDP96-00787R000300290001-9 
+
+
+SG1A 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Next 1 Page(s) In Document Exempt 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SG1A 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+IV RESULTS AND DISCUSSION SG1A 
+
+
+Table 2 shows the figure-of-merit analysis ro 
+
+
+experiment using the fuzzy sets defined in Table 1. The target was the 
+
+Support equipment, and testing environment. The 
+target-response intersection is shown as IT A Ri, and the Sigma counts of 
+the target and response sets are shown as |T| and |R|, respectively. N 
+is the number of elements that were identified for each category. All 
+
+
+quantities include the relative weights shown in Table 1. = fe 
+
+
+The weighted accuracy total of 0.80 (i.e., 80% of the 
+identifiable elements at the target site were correctly described by V372) 
+agrees well with the qualitative correspondence shown in Figures 1 and 2.* 
+Figure 3 shows V372’s drawing of a plan view of the target area, which 
+appears to match the experimental situation almost exactly. The figures 
+of merit show that, since the first experiment in this series, V372’s 
+ability to sense functions and objects has increased modestly, and his 
+ability to sense relationships has increased by a factor of four. The 
+relatively low value of 0.57 for the combined (weighted by the category 
+weighting factors) target elements is consistent with the elaborate nature 
+
+
+of V372’s response (see the original response in Appendices A and B). 
+
+
+Table 2 
+
+
+FIGURE OF MERIT SUMMARY: SIMULATION 
+
+
+FUNCTIONS 8 10.00 11.40 12.43 0.88 0.80 0.70 
+RELATIONSHIPS 16 15.05 21.95 23.45 0.69 0.64 0.44 
+OBJECTS 48 46.20 56.70 72.92 0.82 0.63 0.52 
+
+
+All figures are to be taken as indicators of qualitative correspondence. The drawings and 
+photographs have been selected to illustrate the correspondence. 
+
+
+10 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+PARED Eis WME 
+
+
+SG1A 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SG1A 
+
+
+2 1) re) 
+64 
+>) ng 
+
+
+i 
+TH 
+So 
+ME A a 
+
+
+Ain 
+
+
+amt, 
+
+
+‘(RO 30 ICID anos 
+
+
+12 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+WAVE Ftoure 
+me 
+\ 
+/\ sense TO, 
+RE SPECIF/O— 
+| \ pA Metewts OF 
+€ FRETS. 
+
+
+EFFECT TCST 
+OVERALL EVALUATOR | 
+
+
+FIGURE 3 VIEWER 372: PLAN VIEW OF THE TARGET 
+
+
+13 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SG1A 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+e GhowD Fotat AREA, 
+© SPECIFICALLY CAID OUT FoR “OArtuiuy” 
+
+
+Somemm roe" E Vey", 
+
+
+x ve FTF 
+OR GAEEK LETTELS . 
+
+
+OPe) <ADED . 
+
+
+Eovrbac Free 
+
+
+SG1A 
+
+
+15 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+rgeswer URE carers: 
+
+
+SG1A 
+
+
+16 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+After SRI personnel had been debriefed about the target, a 
+second long-term participant, VO09, was asked to view the same event. He 
+was told to provide whatever information he could about an event that had 
+taken place approximately two weeks earlier. Viewer V009 was told nothing 
+else about the nature of the target or target event, and he worked without 
+an RV monitor. 
+
+
+Since this was an ad hoc test, not intended to be part of the 
+series, we have not conducted a formal analysis of V009’s response, 
+Qualitatively, however, VOO9 appeared to do as well as V372, given that he 
+remained in session, unmonitored, for only 20 minutes. Figure 6 shows one 
+part of his drawing response that captures VOO9’s theme. Interestingly, 
+vOOS also appeared to be confused by the multitude of potential target 
+material in the immediate area. He drew an airport and recognized that it 
+
+
+was not the intended target. 
+
+
+17 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SG1A 
+
+
+18 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V_ CONCLUSIONS 
+
+
+SG1A Viewer V372 was asked to use RV to describe the activity of 
+
+
+er ine August 24 and 25, 1988. He described approximately 
+
+
+80% of the identifiable target elements correctly, and 71% of his 
+responses corresponded with the intended target. Although 29% noise 
+remains, if this experiment had been an actual . : activity, the 
+
+
+noise probably would not have been a significant distracting factor. 
+
+
+19 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+REFERENCES 
+
+
+1.  Puthoff, H. E. and Targ, R., “Perceptual Augmentation Techniques .” Final Report, 
+SRI Project 3183, SRI International, Menlo Park, California (December 1975) 
+
+
+2. Puthoff, H. E. and Targ, R., “A Perceptual Channel for Information Transfer Over 
+Kilometer Distances: Historical Perspective and Recent Research,” Proceedings of the 
+IEEE, Vol. 64, No. 3 (March 1976) 
+
+
+3. Puthoff, H. E., et al., “Advanced Threat Technique Assessment (U),” Final Report, SRI 
+Project 5309, SRI International, Menlo Park, California (October 1978) 
+
+
+4. Jahn, R. G., “The Persistent Paradox of Psychic Phenomena: An Engineering 
+Perspective,” Proceedings of the IEEE, Vol. 70, No. 2, pp. 136-170 (1982), 
+
+
+5. Puthoff, H. E., “RV Reliability, Enhancement, and Evaluation .»” Final Report, SRI 
+Project 4028-1, SRI International, Menlo Park, California (January 1984) 
+
+
+6. May, E. C., “A Remote Viewing Evaluation Protocol (U),” Final Report (revised), SRI 
+Project 4028, SRI International, Menlo Park, California (July 1983) 
+
+
+7. May, E. C., Humphrey, B. S., and Puthoff, H. E., “An Automated RV Evaluation 
+Procedure ” Final Report, SRI Project 7408, SRI International, Menlo Park, 
+California (May 1985) 
+
+
+8. May, E. C., Humphrey, B. S., and Mathews, C., “A Figure of Merit Analysis for 
+Free-Response Material,” Proceedings of the 28th Annual Convention of the 
+Parapsychological Association, pp. 343-354, Tufts University, Medford, Massachusetts 
+(August 1985) 
+
+
+9, Humphrey, B. S., Trask, V. V., May, E. C., and Thomson M. J., “Remote Viewing 
+Evaluation Techniques | _ ” Final Report—Objective A, Task 4, SRI Project 1291, SRI 
+International, Menlo Park, California (December 1986) 
+
+
+20 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+APPENDIX A 
+Remote Viewing Response (Drawings) 
+
+
+August, 1988 
+
+
+A-1 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+* GROWD Focat ALEA. 
+ SPECFIEACY CAID OUT FoR “oars” 
+Somemiux' FE « 
+
+
+¢ MARKED wWrnd pour) 
+OR GAECK UETTELS, 
+
+
+(ato 
+2 j — Back ering 
+(OS ap 
+Nee er > 
+T35 s E. 
+
+
+Cage Pay Bios rw) oe oc 
+
+
+MESSE Proreusidns)) 
+
+
+D sposié T= 
+
+
+A~2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Bz 
+
+
+i 
+
+
+© CoLectoR HAIRS Cok FisEes ) 
+ow OUTSIDE EDGE, 
+
+
+<— SHape ca aso Defi 
+MEM E- 
+
+
+© SERENE SHORT DURATIONS —QUICK. OBSERVATIONS. 
+
+
+© THLE STEP - ok Mote — FUNTION), 
+( RAPID SUCeESSIOAD, 
+
+
+° Boosreo MAGWIEIED rf ENHAaCED — FoWwSED. 
+DovscE BoesveD THAME Bovsred 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+CUTAWAY OF BL 
+
+
+© SOME kid of GUA). 
+
+
+COMPLEX Gers VERY Deus 
+AAs A 
+HAT Tf 
+ee 
+Hi Pie 2 ia Ofe, 
+0 my vA 
+a a Vata 
+) Gers VERY Pevse 
+Soe 
+2 ceed 
+(Fav Lowe) 
+
+
+ComBise 6 
+Dhiverw (does 
+
+
+A-4 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Hoe O8TECT IS 
+4) RAPPED SOMEWAY. 
+
+
+A-5 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Ste" 
+
+© yensueee ‘ 
+
+waves 
+oe een pee rerPem yooh 
+
+yes yen CW 
+Her ever Ze COUCH 
+Thass. 
+Ge 
+: 
+
+— i= 
+
+
+, RE) WEAR ED EWieodsien 
+
+
+A-6 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+pigeswer UFE OATES: | 
+ner” 
+
+
+a 0 A 
+
+
+A-7 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+— A Wei 20 dalL— 
+
+
+A-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+OF 
+sar 
+fib EZ 
+DEACTEO 
+
+
+A-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+° CoLvecTide Dara op “SHoer Whit Feat EFFECTS. 
+© Eup Rance UWRER “4g AugsTuo ns” 
+¢ WAVE Fhowr = Piasmd 
+
+
+Y o — x r 
+© SHORT o¢ ExTRe met SALT Duk ATION). 
+PLeceeDS —> Aur OMER eFrecrs. (SHEED OF ucHr ) Bur cae 
+
+
+i Power OF OUTPUT at> HICH ENOOGH TD THK) VET MOLEeULES 
+TO VAPOR 9 Prasma. 
+
+
+° jAécer |S* MueTI- Aue s OF DIFFEREN Mera Deas nes 
+WIT ELCCTROMICE SAUD WICHED jn BerwEed. 
+FGEUA SOME OF THESE Grec7eWkS ALE 
+“ARANSFER SEASILS 7 
+° Peoke: 5 Ake win FROM (MMEDIATE ar sre. 
+
+
+> ALE cocectme DATH OD WAVER LOU AFPEFTS 
+BIT tI A STCA FASHION, 
+
+
+> hRe TRY I To MAC WEY Pah LSE NOLFASE 
+Fools ~ Oprmree WUE Reba Enkiee 
+
+
+© Soe OF Muint To A BAUtwte 1) How) Focused /yeesr May 
+Stow, AVOUTAUT, = VARIES Rae E EFFECT, 
+
+
+. Sooms of SEcoup DiSesacces. 
+
+
+° GHENT, Cars Attuy}o7—= Comyn FROLCKS, 
+
+= Fos FLEES. 
+
+= Co LETION MATA sen UAHA) 
+= C'ng cso Arsed (So rrrhts 70 
+BE WHEL wWhscmece Aus. 
+
+° Esety bourd exhetimendr. 
+A cHOU FPR TBAE Sy GORUF CRATE a0 empnp 300790006 fr 
+
+
+A-10 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+© Mor SKULLS Bow cAsr day UlnX, 
+
+© Sis Ulhe RATS 
+
+6 EwokMous amousS OF DATR Ade COLECTED Rok 
+Ais /s . 
+
+
+e SPvSoks are CKD BURIED: 
+gE DESICVED, FoR moge 0F A Der es War EWVe vo he 
+
+
+THAN OFF ELVES TPL. 
+
+
+A-11 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+“Dk % Te 
+Puasa 
+
+
+© CONSTANT MIRRORITUNING GOVE 
+ON OP ¢ BorTOM. Bur INs7TaT— 
+TO WSTROT. 
+© keeP wan TO SECARATE TOP 
+4 Bo-KDM HALVES 
+
+
+TNS PAE wo 
+
+
+A-12 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+APPENDIX B 
+Remote Viewing Response (Transcript) 
+
+
+August, 1988 
+
+
+B-1 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SESSION NUMBER ONE 
+Viewer 372 
+August 24, 1988, 10:08 a.m. 
+
+
+M: OK this is session number one, viewer 372, and this is one of four sessions looking 
+in on an event that’s been in Progress since the 15th. We're looking for a 
+description of that event including some information about the location, possible 
+details of any equipment and some idea of personnel involved. 
+
+
+V: The first impression I’m getting is, what I’m going to do is use a pencil and then 
+darken it in afterwards, 
+
+
+M: Sure. 
+
+
+Vv: getting an impression of a, like a semi-circle that’s open over here and there’s some 
+kind of a square block or something standing over here. This is really large. I fee] 
+like its kinda laid out on the ground in some way. Coming off of this semi-circle 
+type object are like hairs. Don't know what those are. Maybe some kind of a, I’m 
+trying to look at the end of this thing (see second drawing) and I’m getting what 
+appears to be two extremely heavy thick crustations of some kind like two forms 
+
+' that encase a small hole, hole is not a good description, they encase a, some kind of 
+very specific wire or something, I feel like its really tiny but its imbedded in this like, 
+I want to say crustation, its wrapping or, very dense wrapping, its like this a, actually 
+there’s a couple of them. 
+
+
+M: A couple of these objects? 
+
+
+V: Yeah, call those object B, the first part of the drawing is object A, the one with the 
+hairs coming out of it. This is a, this goes back into something, it isn't very large, 
+maybe, well I don’t know, Say two meters, two meters long. Its out of Scale here 
+because I think its size left to right up and down is maybe six by four centimeters 
+which makes this look like a dot in here, very tiny. A little tiny core material that 
+goes back into something. This outer wrap is, I get the feeling, very dense and the 
+inner wrap is less dense, almost like the inner wrap is somewhat disposable and the 
+outer is fixed. I'm gonna put disposable with a question mark because it feels like 
+it. Actually this disposable is an interesting thing, I'll write that down here. How do 
+you spell it? 
+
+
+B-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: I know what you mean. 
+Vv: We'll check the spelling before I darken it in. 
+M: We're not in our Spelling mode right now. 
+
+
+V: Yeah we're not in the spelling mode. Actually this is totally separate. I’ll draw a 
+line between the two. Anything above it seems to be, lets call it a ground focal rea, 
+its specifically laid out for a something, for, I want to say collecting something but 
+that’s not correct. Its laid out for catching something, for lack of a better word, its 
+shaped so that everything going to these different points are a, arriving all at the 
+Same time. Going back over to this thing ah, I’m gonna draw a third thing, I’ve got 
+an A, I’ve got a B but I've got a third thing that looks like a but its not laid out on 
+the ground. Let’s call B up here B1 this is B2. It looks like the A object in that its 
+round but its like totally, the ellipse is not open, and all these little hairs gO around 
+the outside, kind of a collector here or something. 1 keep trying to think of a 
+different way of presenting this, I’m not sure of the appropriate, I keep trying to 
+cover it and I come out with a, almost like the inside of a building but its not, its 
+connected like a web or something. I keep wanting to do this (draws circular 
+motion) and then wanting to do that (draws arrows shooting off). 
+
+
+M: What’s the sensation of that? 
+
+
+V: This is clearly a shape but then it can also be defined, this is a, if I had to define 
+movement within this I would define it as going out something like that. I feel like 
+there’s a whole lot more detail than this that I’m not capturing, that’s what I’m 
+trying to do, I’m trying to get my head together on the detail. These collector hairs 
+or fibers are a, real Specific, they probably have something to do with B1, they 
+either feed into or out of B1. Also I’m getting a really strong impression of a, some 
+Other things, like one thing I'm getting a strong impression of is what I call extreme 
+short durations. We’re talking observing something that’s faster than like the flick 
+of an eye. Its like quick observations. And we're also talking about a three step 
+something. Its like three step or more function. Its like they’re rapid succession. 
+Boosted, magnified, enhanced, focused. There seems to be a step missing in here, 
+if you were to call these successive steps there’s one missing, its almost like, I'll 
+insert it here, double boosted and over here triple boosted, something like that. 
+Over here I'll draw this, I’m trying to describe this, this cutaway of B1, it a, what 
+I'm trying to do is a, an exploded view of this thing, I have no idea if its gonna work 
+Or not. I think the way to do this. is to draw it Sideways so it looks like a cutaway. 
+
+
+Approved For Relezee 3006/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: This part back here where its connected to somethinp? 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+and this comes right on down to a, almost like its a pick-up of some kind, it goes 
+down this real fine core, and I really don’t, I keep trying to get back in the 
+direction of the arrow and I keep running into a lot of problems. Its simple but its 
+complex. Very simple but very complex. Lets call it some kind of gun. This has 
+got, I find myself wanting to do these kind of lines, they get closer together at the 
+end. Like some kind of wrapping. I keep wanting to make something come out the 
+end of this thing. But, you know, I just can’t see anything coming out of the end of 
+this thing. Its a, there’s some real complex thing about this too that I'm not paying 
+attention to, its like there’s, this thing is like a frame a whole complex block of stuff 
+wrapped around it, lets erase this two meters on B1 and call it a, two feet, it might 
+even be smaller than that. Its very thick or a, very dense versus thick. I’m trying to 
+think of some other context to put this in, a where it is, where its located, what kind 
+of building it is, a, I feel like I’m getting more of a conceptual thing, you know, the 
+a whole picture, I’m getting parts and pieces of it. Then like another part, I'll draw 
+another line across the page, I get an impression of a, like a narrow, kind of a long 
+narrow type, don’t want to say tube, but I don’t want to say, don’t want to say tube, 
+don’t want to say tunnel, its like a ah, channel, a long narrow channel, and, this is 
+like, up here on this end is an enlarged driver, lets call this a combined driver of 
+some kind. You come down here, this is like a receiver type thing, it puts something 
+out, I keep trying to envision what that is but I’m not sure. This combined driver 
+has got some kind of tubes going into it. All these spider legged tubes. Its this 
+receiver booster I'm getting a better feel for, its almost like a circle, its real dense, 
+real dense stuff around it, and then its got lines, and I want to draw fine lines, its 
+almost like its got a spider web, this is, I want to make this ghost like core suspended 
+by fine lines, for lack of a better term. Spider leg tubes carrying fluid. This 
+combined driver, you could say there’s four or five of these. Like stacked, like 
+building blocks. This is a, I feel like I got something inverted here, something’s 
+backwards or I fastened the back ends of the pieces together, it probably is not 
+exactly as depicted, that I got the essential parts but its put together the wrong way. 
+I also keep wanting to put this in the ground. (long pause) I'm trying to think of 
+buildings and stuff and I’m getting a lot of overlay. 
+
+
+M: It looks like you have some kind of detailed, small, something that you've zeroed in 
+on here and the larger context could wait till the next session. 
+
+
+Vv: Yeah. 
+
+M: I did have one question. What's the scale of this. 
+
+Vv: The A object? The scale of this is probably the size of a football field. 
+M: And then is the rest somehow connected? 
+
+
+V: Somehow connected, yeah, I’m not clear on how that is yet. What’s confusing me 
+is I’m getting these hairs coming off this thing and I keep wanting to call hairs 
+coming off this thing, you know the B2 object. 
+
+
+B-4 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: These two aren't the same, A and B2? 
+
+
+V: No, A and B2 are not the same. A is like a large field of some type and B is more 
+like a grouping of small collectors. I’m getting lots of ovals, that’s really apparent. 
+I'm getting ovals inside ovals inside ovals, I’m getting dense material layered with 
+less dense material, I’m getting fine wire, and then wrap that entire mess in a really 
+complex amplifier of some kind. I think we’re talking about two extremes here, 
+one is an extreme of simplicity, I mean the simplicity of it is incredible. Then we’re 
+looking at the other end of the spectrum where controlling the Simplicity is 
+extremely complex, very, very complex, you know controlling it and amplifying it. 
+Its very much like if you were to, if you want an absolute diamond pure wave front 
+delivered at a target, for instance, a thousand miles away obviously transmitting the 
+wave front through the media called air is going to really screw it up badly, so what 
+you do is send it anyway and you have a receiver at the thousand mile point, and its 
+backed to the transmitter, this is really buggered up, demodulated in a certain way 
+so that when it reconstructs itself here it will look clearer when it does, so there’s 
+this rapid communications that takes place and the transmitter puts out what 
+appears to be totally incoherent wave front, its not even a wave front any more, its 
+just pieces, but when it arrives, because of the way the effect the area has on it 
+when it arrives in there its diamond perfect. That kind of simplicity. The wave 
+format is easy. Its the delivery of it that's terribly, terribly difficult in terms of focus 
+and amplification. A wave front is not a good example but there's definitely 
+something coming out that’s really simplistic but the physics of it is really, as 
+simplistic as it is, its extremely difficult and complicated. That’s it. 
+
+
+B-5 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SESSION NUMBER TWO 
+Viewer 372 
+August 24, 1988, 3:00 p.m. 
+
+
+M: OK. This is session number two with viewer 372, August 24, its three o’clock. 
+During this session we agreed to use a photograph of a beacon and the beacon’s 
+name as a way of further enhancing our contact with the target situation. So at this 
+point I’m going to show the viewer the picture of the beacon. His name is 
+
+and his social security number is on the back. So we'll use that - ~ 
+photograph as the sort of contact for this session. OK. You’re on. 
+
+
+V: (long pause during which viewer draws complicated set up shown in part A of 
+Session 2 drawing) (White noise begins at this point and drowns out the voice 
+audio). 
+
+B-6 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SESSION NUMBER THREE 
+Viewer 372 
+August 25, 1988, 9:10 a.m. 
+
+
+M: OK, this is Session Number Three, Viewer 372. This is August 25, at 9:10 in the 
+morning. a or, 
+
+
+Vv: And, I think what I’m gonna do on the sheet one is I’m gonna draw a perspective of 
+this temporary building like ground layout. Some kind of ground layout. 
+
+
+M: OK. 
+
+
+V: So to do that I’m gonna turn my paper over and put “top of page” on one edge here 
+so everybody knows this is the top of the page. And, perspective—wise I get a feeling 
+of a double-sided taller building and this is like part of the larger building. 
+And,that’s back here, so I'll put in a...another building here like this and I get the 
+feeling like there’s a slight rise behind it and like this...ground kind of does this sort 
+of thing, turns and goes that way and then I get the feeling like there’s a, I don't 
+know that this stuff is but it's like this kind of design and ground and then there’s a, 
+I want to put windows in the buildings but I can’t. More like block house type, real 
+low. I get a feeling there’s like long, tall pipes or something, something black, long 
+lines, black stuff coming in like this and there’s some duct connecting these two 
+buildings. There's more stuff coming out this way. It’s like black pipe or 
+something, it’s just strung out kinda like spaghetti. I'll put a car in here so there’s 
+perspective on size. That'll be a car. Something else over here, uh, I get like a fairly 
+flat area out here, and there seems to be some kind of mountains or hills back here. 
+Uh, there’s an airstrip in that direction. Call this the prime of two locations. I 
+don’t know what this thing is here. It’s sort of like an air traffic controllers’ tower, 
+little antennas coming off the, but I don’t, I don’t think ] would call it an air traffic 
+controllers’ tower. It just feels like it. All very solid building, I keep wanting to do 
+this in the ground over here. I don’t know if those are just tracks from people 
+turning around cars or, that’s an interesting pattern I keep wanting to do here. 
+Probably, uh, 35 to 45 personnel. Uh, temporary and permanent building mix. 
+This is, I think this is probably a temporary building right here. Black hoses or 
+cables. There’s something else over here and I don’t know whether it’s tanks as in 
+containers I'll put questions marks in here I’m not sure. Mountain range on the 
+horizon. Hot and dry. I'll call this Building One, and I'll call this Building Two, 
+and, uh, Building One is, uh, what's this. Uh, bay areas with computer terminals, 
+recording device, say photographic. Building Two has got some kind of uh, special 
+one-of-a-kind equipment. So, here’s an outline. 
+
+
+B-7 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: OK. 
+Vv: I dreamed it up last night. 
+M: Did you? 
+
+
+V: Yeah. The, uh, I’m, I’m trying to think of what the business end of this little 
+humper is. And, uh, about the best that I could come up with is, I get the fetling 
+like I’m looking at a bunch of mirrors, some kind of polished metal mirrors and, 
+this is going to be really complex the way I’m gonna draw it, but it’s really very 
+simple. I’m not sure I can draw it the way I wanta draw it, that’s the problem, so, 
+just bear with me a little bit. Its like an ovaloid, and then, there’s mirrors in this 
+thing that are shaped something like this, and they rise to a, to this central platform. 
+Now, that’s kinda like looking down from the top. 
+
+
+M: OK. Does this kinda go into a depression, is that why....OK. 
+
+
+V: Yeah, right, exactly. Now this is the from top, uh, let’s see, we’ll call this View 
+From Top of Top Half. This where it gets a little complicated. 
+
+
+M: OK. 
+
+
+V: There’s a bottom half to this sucker, and it’s almost identical and, let’s see, it’s, and 
+this is like the bottom half. Yeah. In the middle of this thing, I guess it sorta sits on 
+this flat area. That’s not right. It looks flat from the outside but if you look on the 
+inside there’s like a this kind of a thing. Seems to be a depression in the middle of 
+it. 
+
+
+M: Um, hum. So I'm not sure I understand. This, this is looking up from the bottom, 
+you're underneath it, or... 
+
+
+V: Well, it’s hard for you to see the perspective and it’s like two halves separated. In 
+the, the bottom half curves up to the flap and the top one curves down to the flap. 
+
+
+M: Curves down, yeah, OK. 
+Vv: So that it’s like when this clam shell thing was brought together... 
+M: Oh, OK. 
+
+
+Vv: ...the center piece almost touches... 
+B-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: = Yeah. 
+
+
+V: --but the outer edges come like, you know, in an oval or ovoid or whatever you 
+want to call that. And these outer edges are like interlocking, there's like a lip that 
+goes around the outer edge of one half. 
+
+
+M: Um, hum. 
+
+Vv: And interlocks on the inside edge of this one. So... 
+M: OK, I see. 
+
+V: -+.S0 it’s almost hermetically sealed... 
+
+M: Yeah. 
+
+V: --. when jit comes together. 
+
+M: _ So these two would kind of like fold together like that. 
+Vv: Yeah. 
+
+M: OK, got ya. 
+
+V: Yeah, so you can say, you know, 
+
+M: Yeah, um, hum. 
+
+V: Edges interlock. 
+
+M: Yeah. 
+
+
+V: And, what this is, this is really interesting, because what this is, is these are really, 
+really shiny polished sections of metal, and really hard. 
+
+
+M: Yeah, OK, be sure you label that. 
+
+
+B-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V: Yeah, I'll say very polished very hard metal. Now, where the creases of these come 
+together we'll call these, all these different lines are creases. Where those creases 
+come together, I’m gonna have to go with a different page, I'm gonna do the edge 
+now. The edge of this thing. Then we have a, it does that and a bottom piece that 
+does this. I better do a see through here. Where these creases come together are 
+these like apertures that look something like that. And the center of this, this 
+aperture comes out like this and then there’s a, fastened over that whole thing is 
+that part whatever it was from yesterday. I don’t know if that makes any sense. 
+
+
+M: Um, hum, yeah, I, I think, and then you’re saying one of those comes out at each 
+one of these? 
+
+
+V: Yeah. 
+
+M: The whole way around? 
+
+V: Yeah, it’s like, uh, spokes. 
+
+M: Yeah. 
+
+V: You got all these spokes. 
+
+M: Yep, um, hum. 
+
+Vv: So you got a flying saucer with spokes. Now... 
+M: Or a high tech wagon wheel. 
+
+
+V: Yeah, a high tech wagon wheel that’s what it is. I’m gonna pull a circle and it’s 
+gonna Say see third drawing. Now. Back here where you come into these flat areas. 
+This is starting to look gross! Uh, we'll call this Part A, third drawing. Part B is, uh, 
+cut away at the center section. And the center section essentially looks like, that 
+being the top, this being the bottom, and I think this is where I was petting that 
+symbol from yesterday. 
+
+
+M: OK. 
+Vv: It’s the heart of this thing. 
+M: Um, hum. 
+
+
+B-10 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V: And the symbol is like the old nuclear symbol, but it’s like propeller patterns. Like 
+this and this, like really heavy duty stuff in here. I mean really heavy metal type of 
+stuff. And then this comes out in a very narrow little neck like this. And then this, 
+this whole thing as it comes out is like this entire case stop has been, you know, this 
+this part here... 
+
+
+M: Um, hum. 
+
+
+V: .-is like inside a really hard shell, like a, like a giant pill, a metal pill. And this 
+comes down like this and you got the. It’s starting to look really strange, you got 
+that spoke comes out like this. 
+
+
+M: Um, hum. 
+Vv: And it does something like this. 
+M: Now that’s like a cross-section. 
+
+
+V: That's like a cross-section, Part A, Part B is like. Now. Looks like a giant 
+pumpkin. A little fancy metal pumpkin. There’s something else, there's like a 
+double band that then comes around the outside of this entire thing like this. 
+
+
+M: Um, hum. 
+
+
+V: And then there’s some kind of an apparatus that fits out over this nozzle. 1 don’t 
+think there’s one of these at every crease. There’s only a few of these. But J feel 
+like there’s more of the central fibers than depicted. 
+
+
+M: What are you calling a central fiber here. 
+V: That's that... 
+
+M: Oh, OK. 
+
+V: The little, dark, dark, black thing. 
+
+M: ~~ Yeah, right. 
+
+
+V: There’s more of those. 
+
+
+B-11 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: Yeah. 
+
+
+V: And that the whole idea has to do with like two or three of these going off in this 
+direction. Sort of a flying saucer with guns. That’s what we’ll call jt, flying saucer 
+with guns. And that these are kind of grouped and there’s, there’s, uh, these do 
+something. Actuality of this, somehow or another this section, I’m gonna call it 
+section, this section is some way currently terminated. And this is all the business 
+end of what I was drawing yesterday and this. then this is like part two of a 
+three-part section. It’s a flying saucer with nipples, I don’t know what else to oall it. 
+
+
+M: OK, I don’t quite understand when you said this is part two of a three-part, are we 
+talking about a, this object here. 
+
+
+V: Yeah, what we have is for lack of a better way of describing it, we have a block, 
+blocky-type of device that ] was drawing yesterday. 
+
+
+M: Yeah. 
+V: Call it a block device. 
+M: = OK. 
+
+
+V: And that somehow feeds into this... 
+
+
+M: OK. 
+V: .. thing, this... 
+M: OK. 
+V: ...with nodes. 
+
+
+M: Right. Got it. 
+Vv: OK? 
+M: Um,hum. 
+
+
+Vv: This is a, we'll call this the saucer. Saucer device. And then that feeds into, uh, 
+Part Three. 
+
+
+B-12 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: Yeah. 
+Vv: I must be doing good work. So, we'll call this diagrams. 
+M: OK. OK. 
+
+
+Vv: And Part Three I'm gonna try to add but I’m not sure exactly what Part Three is 
+yet. 
+
+
+M: OK. 
+
+V: I feel like I'll walk into a Part Three. So. 
+M: That’s it for now. 
+
+Vi Yup. 
+
+
+’ M: — AJ) right. 
+
+
+B-13 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+SESSION NUMBER FOUR 
+Viewer 372 
+August 25, 1988, 11:20 a.m. 
+
+
+M: OK. We're ready to begin Session Four. August 25, 1988, and we’ll, this will be 
+the wrap-up session, pull all the loose ends together... 
+
+
+Vv: Um, hum. 
+
+
+M: _...see what we get in terms of the overall view. Any, a couple of things that we 
+hadn’t concentrated on are, um, you know, the overall activity, the people 
+involved, that sort of thing. 
+
+
+Vv: Um, hum. 
+
+
+M: You get any impressions on, on any of that stuff, um... 
+
+
+V: Right. 
+M: --put that down. 
+Vv: And, and you could say also end result. 
+
+
+M: Yeah, sure. 
+V: Specifics around experiment. 
+M: Um, hum. 
+
+
+V: OK. Uh, let me start off with some pretty basic statements. One is, uh, the 
+experiment has to do with, uh, at least 1, this is my impression, collecting data on 
+short wave front effects. Uh, what does that mean, I don’t know. 
+
+
+M: OK. 
+
+
+B-14 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V: My impression is that, uh, I keep seeing like, uh, a graphic representation of a huge 
+spike, like a frequency line. 
+
+
+M: Um, hum. 
+
+
+V: And the frequency line, uh, is really high frequency, you know, we’re talking like 
+up in the EMP range. Electromagnetic pulse range, I mean this is, all that covers a 
+big spectrum too. EMP range of under, under 10 angstroms. We're talking about, 
+a wave front that’s almost, wave front equals plasma-type effect. We're talking 
+about, uh, I keep, this, this term short keeps coming in, but it’s, it’s a multiple use 
+word. So we're talking like short or extremely short duration. We’re talking about, 
+you know, aside from short wave, very short duration. 
+
+
+M: Um, hum. 
+
+
+Vv: Um, um, I’m looking for a right term to describe the, the wave front. And, it 
+precedes all other effects. In other words, it's the first one there, the speed of light. 
+But it’s not, not photon type, it’s something else, that travels the speed of light, or 
+very near speed of light. Power of output is, see I'm not a physicist, so I] don't 
+know. 
+
+
+M: Um, hum. 
+V: But it, it’s really high. 
+M: Um, hum. Um, hum. 
+
+
+V: But, I’m trying to find a way of expressing it in laymen’s terms that will make sense. 
+Power of output ,high enough to turn, uh, metal molecules to vapor. That’s pretty 
+high. Vapor or plasma. Uh, target is multi-layers of different, uh, metal densities, 
+with electronics sandwiched in between. Uh, feeling that the, uh, feeling some of 
+the electronics are, I'll call them transfer sensors. Um, are away, um, immediate 
+test site. Uh, are collecting data on wave front effects, um, but, but they're doing it 
+in like a step fashion. This just pops up in my mind I’m going to put it on this sheet 
+over here. Here’s, uh, interesting a peace symbol. I get almost a peace symbol 
+layout of a, this is the target. I'll do it this way. That’s the target. This direction is 
+the wavefront emission, that’s not right. Let’s throw that out of here for a second. 
+And we'll do it this way. Wave front emitter, and we'll make this the target, and 
+then I’m gonna put an X where all the sensors are. Now the, its like, its not a real 
+narrow thing. It’s more like this effect. And what all these sensors are for is to 
+analyze this front as it goes through the sensors. And the target is pretty much 
+really just a, a different way of analyzing that. These are more sensitive to other 
+things. The little X sensors are more sensitive to other things. Call these, uh, 
+sensitive to, uh, more specific elements of wave front effects. And then this target 
+down here is, uh, more general, effect test. It’s like an overall evaluator. See these 
+
+
+B-15 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+are more, more job specific. The X's and the actual main target is more of a 
+general overall type tying. The people are also. You say you had a project name 
+for this? 
+
+
+M: There's a code name for it, yeah, 
+Vv: A code name. 
+M: Um, hum. 
+
+
+V: What's the code name? 
+
+
+SG1A 
+
+
+They’re trying to magnify analyze. Magnify. You know, you only use that 
+word eight billion times in one career. Anyway. You get the gist. They’re trying to 
+magnify, uh, analyze, uh, increase, focus, optimize, wave front energy. Sort of a, 
+I'm, I’m gonna put this over to the side. Sort of coming to a balance in out-—focus 
+versus how strong the output. It’s almost like one has to be done at the expense of 
+the other. 
+
+
+M: Um, hum. 
+
+
+V: The more strength they want to add to it, the less focus they can do. The more 
+focus they want to add to it, the less Strength they can do. 
+
+
+M: OK. 
+
+
+V: And, and then that, of course, varies range and effect. Also, I’m getting a, I'm 
+getting the, I’m getting a feeling that, that, um, we're gonna, we're gonna call this, 
+uh, the old symbol that I’ve been using. I'll draw it on the top of the page. I’m 
+gonna conceptually try to break out what this symbol is, or means. Cause I think 
+it’s at the crux of the whole system here. 
+
+
+M: Um, hum. 
+
+
+Vv: OK. What I think this means, say this mean, that, uh, I’m getting like an implosion 
+versus an explosion. It’s like there's an object that looks something like this. And 
+inside of it is something else. What’s happening here is we're getting something like 
+this kinda stuff. What's happening, is, is, this stuff is coming down on this core and 
+what’s causing it to do that is part, uh. I gotta label these. Part A is coming down 
+on Part B. What's causing it to do that is Part A is being hit with Part C. This is 
+
+
+B-16 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+being bombarded with Part C. Pan Cc is that big square box. And it’s coming in 
+here and it's impacting with A. And A is imploding versus exploding and the result 
+is, uh, I've got to do this right, an expulsion of D on a element of D. And D is going 
+up and hitting those, remember those polished surfaces? 
+
+
+M:  Unm, yeah, sure. 
+
+
+Vv: D is bouncing back into, D is bouncing back into B again. Now, what's happening is 
+it’s like feeding on itself and it’s, it’s creating this huge plasmic-type effect. So we'll 
+Say turning to plasma. And then that, in turn, is filling this chamber with this 
+plasma and it’s coming out here and it’s hitting these like the ends of that real thin 
+wire and it’s having an electrical or physical interaction out here. I mean this 
+plasma is, is really having an effect with, with this thing whatever that is. And that’s 
+
+"creating a really specific output right here. Smaller than laser-like, I, I, you know, 
+that, like a laser beam but not. It’s even more refined than a laser beam. And this, 
+this output E, out here, this output E is what's going out hitting those targets. And 
+focusing this E is really difficult. I mean there’s a lot of fibers and it’s coming out 
+but it tends to spread and, uh, depending upon what the spread is, is how strong it 
+is. So there’s this, this constant trying to focus, you know, bend, manipulate. And, 
+and, I’m not so sure that these, these mirrors, I'll label them mirrors, call them 
+metal mirrors, uh, they may not be manipulative. I, I see them moving. 
+
+
+M: So they may be manipulative. 
+
+
+V: They may be manipulative. In other words, they can focus or refocus or defocus or 
+whatever this D is, is bouncing around. 
+
+
+M: So you wanta they may be instead of may not be. 
+
+
+V: Yeah, I’m sorry. And what's really hard with this whole thing is it’s all, you know, 
+high, high speed computer—controlled stuff all done with predesigned programs that 
+are, I mean, they’re Operating at lightening speeds. And all this dynamic is taking 
+Place in, you know, 200 millionths of a second and this is trying to capture it and 
+focus it and, and build on it and pulse it out through this little thing at-E and the E is 
+a mass of these things that comes in too wide and it’s gotta be focused back down. 
+
+
+M: Um, hum. 
+
+
+V: And s0, so this entire, this entire goes on for like three one hundredths of a second. 
+Discharges. And then the other problem is this thing gets super hot. They, what, 
+we'll call it the the, generator, this, uh, oh, you know what I did I? We'll, this, this 
+generator, whatever it is, is further complicated in that, uh, it gets really hot, so 
+there’s a cooling problem. Uh, there's focus problems as a, you know, as a, 
+ancillary to the, the heat build up. There’s a collection problems. We'll call that 
+maintaining the plasma. And then, and then, also the thing that, that actually that 
+
+
+B-17 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+comes in here from C, that J labeled C, that C has also got a problem in that’s pulse. 
+So it has to be, uh, timed with, uh, discharge pulses. And, let’s see, uh, I’m still 
+trying to get a feel for what kind of output this is in terms of energy. 
+
+
+M: Um, hum. 
+V: And it’s real difficult cause I don't, I don’t know any of the terminology. 
+M: Um, hum. 
+
+
+V: I do know that, ah, I do know that, I’ll go over here and make notes on the sensor 
+thing. Most sensors don’t last very long. I think that this inevitably eats the 
+sensors, you know I mean, just does them in. Secondly, uh, it’s a singular test. 
+There are enormous amounts of data are collected for, uh, future analysis. Uh, 
+sensors are ground buried. Uh. I'm gonna put capital letters on this thing, I mean 
+big letters that, uh, constant mirror tuning going on top and bottom, um, but instant 
+to instant, whatever that means. I don’t know what that means, that’s important. 
+
+
+M: OK. 
+
+
+V: Keep wanting to separate top and bottom halves. I don’t, I don’t what else to add 
+to this thing. 
+
+
+M: Well, we've focused a lot on, on the detail of the apparatus I think, and some on, 
+on the buildings and I’m wondering maybe if might be important to take an even 
+more general view. Do you have any idea, or do you get any impressions of where 
+this might be going on? Is it going on in the United States, is it going on in another 
+country, or is it going on in space, or what’s, do you have any, any feelings about 
+that. 
+
+
+V: Yeah, I think it’s, uh, uh, it’s an earth bound experiment. It’s, uh, of some 
+distance between parts, uh, what this predominantly, what they’re predominantly 
+doing here, I think, I think their concept is developed, let's say concept is 
+developed, and this is a testing to fine tune the system. In other words, what they’re 
+doing is debugging it. 
+
+
+M: Um, hum. 
+
+
+V: That’s what they’re essentially doing. They’ve proven the concept can work, 
+they’ve shown that it can do exactly what it’s meant to do... 
+
+
+M: Um, hum. 
+B-18 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V: ...that it’s controllable... 
+M: Um, hum. 
+Vv: -..and, what this is, is they’re, they’re now juggling the programming and playing 
+
+
+with the, the possible parts or pieces in an attempt to fine tune it. To get the best 
+balance or equilibrium between output versus focus versus energy versus this versus 
+that, and they’re creating greater and greater distances. 
+
+
+M: Um, hum. 
+Vv: In other words, they’re actually pulling further and further away from the target. 
+M: Um, hum. 
+
+
+V: They're, I keep getting this ro, almost automatic inner-rotational thing that’s 
+happening between parts of this thing. Where one part bolts on the other and 
+
+
+they’re in constant communication and, and, one is saying more A, more C, more 
+E... 
+
+
+M: Um, hum. 
+
+
+Vv: Reduce D, and, and the other one is Saying you got that, what's happening now, 
+that sort of thing, and the entire time this is happening, there is also a target, a 
+specific target, a general specific target, a general specific target, that’s smart. 
+There’s an actual target that’s being subjected to it at the same time simultaneously, 
+from which data is also being collected so that when they're, they don’t even know, 
+in other words, it’s, uh, it’s like you need, you need three separate components of 
+information. You need information based on what the different parts are doing 
+Simultaneously. Based on what they’re doing and their effect on the target, in the 
+sensors around the target, the original controlling-type device the modifies what's 
+happening. So, it’s like it needs information from three locations in order to 
+decide what to do next. In order to optimize what’s happening in three different 
+locations. It’s uh, it’s not like your typical gun, you know, where you pull a trigger 
+and you get one effect. It’s more like you’re dealing with three different locations 
+and three different effect simultaneously and trying to bring them all into balance. 
+
+
+M: Well, that leads me to another question about the actual function of this and I can 
+see a couple of different things and I was wondering whether you had any more 
+specific information about the function, I mean it could be a weapon system, it 
+could be a propulsion system that actually propels a large mass of something some 
+place, or it could be a kind of energy sending system. Or, it might one of a bunch 
+of a whole bunch of other things that are.... 
+
+
+B-19 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+V: My feeling is, my feeling is, that it’s using, it’s using one form of energy we'll call 
+M: Um, hum. 
+V: ...tO generate B... 
+
+
+M: Um, hum. 
+
+V: ..-a form of energy. 
+
+M: Um, hum. 
+
+Vv: B form of energy is then interacting with the target. 
+
+M: OK. 
+
+Vv: And it’s doing damage molecularly to that target. 
+
+M: OK. 
+
+Vv: And the problem is that the B format is terribly difficult to control. 
+M: OK. 
+
+
+V: A is barely controllable. And there's so many aspects to A that they’re learning to 
+control A and they are observing for the first time the real effects on B. In other 
+words, the wave front is producing for the first time ever, they are now seeing what 
+the effects of that are. 
+
+
+M: Um, hum. 
+
+
+vV: So they are now trying to optimize the, the impact power of that wavefront so they 
+need to play with A and B simultaneously to tune them one to the other. 
+
+
+M: Um, hum. 
+
+
+V: The effect the target is absolute devastating. I mean, it turns metal to vapor. You 
+know, it just alters it molecularly to beyond recognition. 
+
+
+B-20 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: Um, hum. 
+V: And I think that creates a secondary problem that it does the same thing to sensors. 
+M: Um, hum. 
+
+
+V: So, they’re constantly replacing sensors while they’re testing this, and it also eats an 
+enormous amount of electrical current and they, they store that for the testing in 
+these big capacitor-type things, uh, I think that’s like an initiator. Like it gets the 
+ball rolling, so to speak. Uh, it's, it’s a really, it’s a simple device. Till you try to 
+control it and it becomes extremely complex. And, uh, if, if I had, and it certainly 
+is projecting something in a, in a really violent way, but it’s a very cohesive simplistic 
+thing that’s projecting and one of my problems is I hesitate to say that it’s some kind 
+of a ray or something. It’s more like a wave front, and...it's not like, you know, 
+laser beams are very narrowly focused. Those are, that’s what I would call like a 
+death ray. Then you have projectile launchers that fire rounds of bullets or 
+impact-type implements that destroy things and blow up and create huge amounts 
+of heat. And it's definitely not that. It's more like a destructive wave front and it’s — 
+very short lived and really intense, I mean, super, super intense. And it’s so violent 
+that passing it through air is not a good, a difficult thing to do. Uh, I think that 
+basically might have to do with its short wavelength. You know, that air is the cause 
+of it. As a matter of fact, it, it, that, that’s part of the consideration. And, uh, 
+there’s peripheral effects from it. It’s so hard to control that I don't, I don’t think 
+they can get it down to a very narrow beam, or maybe they don’t want to. I keep 
+getting another impression. It's like a psi impression, but I don’t know if this is 
+concept or idea, or visionment, or just plain overlay. But I keep getting this thing 
+that looks like an old World War II mine. It’s a round ball with spikes sticking out 
+all over it. 
+
+
+M: Hum. 
+Vv: And it’s not very big. 
+M: Um, hum. 
+
+
+v: It’s a meter across and it's floating in just black, you know, it’s like the old Sputnik 
+satellite, that’s what it looks like. But I don't know what that has to do with this. I 
+feel like it’s, it’s some way connected, though, something to do with this testing. It 
+might be, uh, conceptually dealing with it in some way. That's essentially it. You 
+gotta fly with this. 
+
+
+M: Ido, huh? 
+
+
+V: You gotta live with this. Yeah. 
+B-21 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+& 4 8 2 
+
+
+Raton 
+
+
+ay 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+
+M: OK, well, thanks a lot. 
+Vv: T’ll darken it in. 
+
+
+M: OK. 
+
+
+B-22 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000300290001-9 
+
+

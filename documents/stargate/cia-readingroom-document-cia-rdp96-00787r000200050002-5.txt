@@ -1,0 +1,888 @@
+tl lh wt 
+
+
+ZSESS™= STANFORD RESEARCH INSTITUTE 
+
+
+Menlo Park, California 94025 - U.S.A. 
+
+
+SWhUDTSLT 
+
+
+a | 7 el 
+
+
+14 November 1975 
+
+
+Proposal for Research 
+SRI No. ISU 75-241 eae 
+
+
+MAGNETOMETER STABILITY STUDIES 
+
+
+Prepared for: 
+
+
+ELEX 03X 
+Naval Electronics Systems Command 
+Washington, D.C. 20360 
+
+
+Attn: Mr. Paul Freund 
+Prepared by: 
+
+
+H. E. Puthoff 
+
+
+Russell Targ 
+Electronics and Bioengineering Laboratory 
+
+
+Approved by: 
+
+
+Hhesig Sed, 4, £2 
+Farle D. Jones, Difector 
+
+
+Electronics and Bioengineering Laboratory 
+
+
+Ui piss Mores 
+Bonnar Cox, Executive Director 
+Information Science and Engineering Division 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+—_T ie 
+
+
+Approved For Releasg,2000/08/10 : CIA-RDP96-00787RQ90200050002-5 
+
+
+Proposal for Research ISU 75-241 
+MAGNETOMETER STABLLITY STUDIES 
+
+
+I INTRODUCTION 
+
+
+This unsolicited proposal is submitted to request authorization for 
+an additional task effort on Naval Electronics Systems Command Contract 
+No. NO00039-76-C-0077, a project investigating interactions between human 
+subjects and electromagnetic systems. : 
+
+
+The additional task effort, proposed herein, is directed toward deter- 
+mining the nature of perturbation effects induced in sensitive cryomag- 
+netometers by the proximity of certain human subjects. The observation 
+of such effects has profound implications for projects which require a 
+nonferrous environment free from interference and magnetic contamination, 
+such as magnetic object detection, magnetic signature classification, 
+magnetic sensor design, and magnetics test procedures. 
+
+
+SRI proposes to undertake a 4.4 man-month (including subjects) research 
+program to investigate the characteristics of, and if possible to determine 
+the mechanisms responsible for, human-subject-mediated perturbation effects. 
+
+
+II BACKGROUND 
+
+
+For the past three years we have had a program in the Electronics and 
+Bioengineering Laboratory of SRI to investigate those conditions of energy 
+interchange between human subjects and the environment which appear to 
+fall outside the range of well-understood interactions. Of particular 
+interest is a class of phenomena involving perturbations of sensitive 
+measurement apparatus by certain human subjects under conditions gen- 
+erally accepted as providing sufficient isolation, by reason of distance 
+or shielding, so as to prevent the occurrence of such perturbations. 
+Furthermore, the generation of such effects appears to be under volitional 
+control of the subjects involved. Following is a description of two ob- 
+servations involving the perturbation of cryomagnetometers. 
+
+
+A. Shielded-Magnetometer Observation (Pilot Experiment) 
+
+
+One of the first intentionally induced physical perturbation effects 
+observed by SRI personnel (H.P.) in early research (1972) was the apparent 
+perturbation of a superconductor-shielded Josephson effect magnetometer 
+by a gifted subject, $3.* Following is a fairly detailed account of that 
+first observation, since it reveals a number of aspects of research in 
+this area that we consider to be of significance. 
+
+
+x 
+SRI program subjects Sl and $3 involved in magnetometer studies are, 
+respectively, Mr. P. Price and Mr. I. Swann. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+wom 7 
+
+
+Approved For Releasqu#000/08/10 : CIA-RDP96-00787RQ00200050002-5 
+
+
+This magnetometer is located in a well under a building and is shielded 
+by u-metal shielding, an aluminum container, copper shielding, and, most 
+important, a superconducting shield. (See Figure 1.) The magnetometer, 
+developed under an ONR contract at Stanford University, is of the super- 
+conducting quantum interference device (SQUID) variety, which has an out~ 
+put voltage whose frequency is a measure of the rate of change of magnetic 
+field present. 
+
+
+Before the experiment, a decaying magnetic field had been set up inside 
+the magnetometer, and its decay with time provided a background calibration 
+signal that registered as a periodic output on an x-y recorder, the fre- 
+quency of the output corresponding to the decay rate of the calibration 
+field (v10-6 G@). The system had been running for about an hour with no 
+noise. 
+
+
+Subject S3 was shown the setup and told that if he were to affect 
+the magnetic field in the magnetometer, it would snow up as a change in 
+the output recording. Then, to use his own description, he placed his 
+attention on the interior of the magnetometer, at which time the frequency 
+of the output doubled for about two of the cycles or roughly 30 seconds. 
+This is indicated by A in Fig. 2. S83 was next asked if he could stop 
+the field change being indicated by the periodic output on the recorder. 
+He then apparently proceeded to do just that, as can be seen at B in the 
+graph, for a period of roughly 45 seconds. He then "let go," at which 
+time: the output returned to normal (C). Upon inquiry as to what he had 
+done, he explained that he had direct vision* of the apparatus inside 
+and that the act of looking at different parts seemed to him to be cor- 
+related with the different effects. As he described what he was doing, 
+the recording again traced out a double frequency cycle (shown at D), as 
+had occurred before. An atypical dip (E) in the recording took place 
+then, and on questioning him about what was happening, he said he was 
+looking at a new part, the niobium ball sitting in a cup. This ball was 
+inert at the time, not being used in the magnetometer experiment. He was 
+asked to refrain from thinking about the apparatus and the normal pattern 
+was then traced out for several minutes (continued on lower trace) while 
+he was engaged in conversation on other subjects. At one point he started 
+to discuss the magnetometer again, at which point the tracing went into 
+a high frequency pattern, shown at F. At our request he stopped, and the 
+observation was terminated because $3 was tired from his effort. We then 
+left the lab, while the apparatus was run for over an hour with no trace 
+of noise or nonuniform activity, as indicated in Fig. 3, where the top 
+two traces show a continuing record following termination of the experi- 
+ment. The third trace was taken some time later, the increase in the 
+period indicating the reduced rate of magnetic field decay. At various 
+times during this and the following day when similar data with S3 were 
+taken, the experiment was observed by numerous other scientists. 
+
+
+* 
+
+This ability to view remote locations thought to be secure against such 
+access is designated "remote viewing," and has been thoroughly documented 
+in a separate SRI program.2,3 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Releaseaa000/08/10 : CIA-RDP96-00787RQ90200050002-5 
+
+
+ea a 
+
+
+u-METAL SHIELD 
+
+
+FALSE FLOOR BUILDING 
+™\\ concrete 
+CASING 
+
+
+CONCRETE BLOCK 
+
+
+INCHES 
+
+
+FIGURE 1 MAGNETOMETER HOUSING CONSTRUCTION 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Release=#000/08/10 : CIA-RDP96-00787RQ00200050002-5 
+
+
+RAW DATA, MAGNETOMETER TEST RUN 
+
+
+FIGURE 2 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Releasee000/08/10 : CIA-RDP96-00787RQQ0200050002-5 
+
+
+RAW DATA, MAGNETOMETER CONTROL RUN 
+
+
+FIGURE 3 
+
+
+oF: 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Releasew2000/08/10 : CIA-RDP96-00787RQ90200050002-5 
+
+
+The conditions of this observation, involving as it did a few hours 
+use of an instrument committed to other research, prevented a proper 
+investigation. The number of data samples was too few to permit meaning- 
+ful statistical analysis, and the lack of readily available multiple 
+recording equipment prevented investigation of possible "recorder only" 
+effects. Therefore, the following longer term study with a similar 
+device was undertaken. . 
+
+
+B. Experiments with Superconducting Differential Magnetometer (Gradiometer) 
+
+
+A series of experiments was carried out using the superconducting 
+second-derivative gradiometer* shown in Figure 4. 
+
+
+Basically, the gradiometer is a four-coil Josephson effect magnetom- 
+eter device consisting of a pair of coil pairs wound so as to provide a 
+series connection of two opposing first-derivative gradiometers, yielding 
+a second-derivative gradiometer (that is, a device sensitive only to 
+second- and higher-order derivative fields). As a result, the device is 
+relatively insensitive to uniform fields and to uniform gradiénts. This 
+arrangement allows for sensitive measurement of fields from nearby sources 
+while discriminating against relatively uniform magnetic fields produced 
+by remote sources. The device is ordinarily used to measure magnetic 
+fields originating from processes within the human body, such as action 
+currents in the heart that produce magnetocardiograms. The sensitive 
+tip of the instrument is simply placed near the body area of interest. 
+
+
+In our experiment, however, the subject was located in an adjoining 
+laboratory at a distance of 4 m from the gradiometer probe. As a result 
+the subject was located in a zone of relative insensitivity; for example, 
+standing up, sitting down, leaning forward, and arm and leg movements 
+produced no signals. From this location the subject was asked, as a 
+mental task, to affect the probe. The results of his efforts were 
+available to him as feedback from three sources: an oscilloscope, a 
+panel meter, and a chart recorder, the latter providing a permanent record. 
+
+
+A protocol for subject participation was instituted as follows. The 
+subject removed all metal objects from his clothing and body, and the 
+effects of body movements were checked at the start of each experimental 
+period. The experimenter then announced the start of the experiment. A 
+random number table (Rand) was then used to generate a sequence of ten 
+subject ON and OFF periods of equal length (e.g., 25 seconds each). The 
+subject was asked to make an effort to perturb the magnetometer during 
+the ON periods, and to refrain from doing so during the OFF periods. 
+
+The trace from the chart recording of a sample run (Run 1, Subject S1) 
+is shown in Figure 5. The randomly generated ON (activity) periods 
+occurred as Nos. 2, 8, and 9. As observed, signals appeared in each 
+of these three periods. The signal appearing in Period 9 was strong 
+
+
+* 
+Develco Model 8805, Develco, Inc., Mountain View, California. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For ReleaseZ000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+4 
+3 
+
+
+FIGURE 4 SUPERCONDUCTING DIFFERENTIAL MAGNETOMETER 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+—_ 
+
+
+CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Release. g000/08/10 
+
+
+YEL-ESLE-VS 
+
+
+Vivd YALaWOIdVYDS 
+
+
+G 3YNDId 
+
+
+Hitt — BASELINE 
+
+
+satis 
+= 
+: = 
+: 
+: ae =S2 es 
+oe . 
+ook EOE RES FS Cig Hic wal eke heed cites ae a eee 
+
+
+: CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Release 2000/08/10 
+
+
+Approved For Releas@g000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+enough to cause loss of continuous tracking. This latter type of signal 
+can be the result of an exceptionally strong flux change, or an RF burst, 
+whether subject-generated or artifactual (i.e., noise); in any case, all 
+signals are handled on the basis of statistical correlation as discussed 
+below. An artifact due to the passage of a truck in the parking lot 
+adjacent to the laboratory (under continuous surveillance by the experi- 
+menter) was noted in Period 6. Each of the signals on scale corresponds 
+to an input of 11.6 x 10-9 Gauss/em2 (second derivative 92B7/0Z22), which 
+is equivalent to 3.5 x 10-7 Gauss referred to one pickup coil. 
+
+
+The interpretation of such observations must be subjected to careful 
+analysis. For example, the emphasis on "corresponds to" is based on the 
+following: although the probe is designed to register magnetic fields, 
+and the simplest hypothesis is that an observed signal is such, in a 
+task as potentially complex as human-mediated perturbation effects, one 
+must be cautious about assigning a given observed effect to a specific 
+cause. One can only conclude that generation of a magnetic field is 
+the most probable cause. With tegard to signal display, the signal was 
+observed simultaneously on three recording devices at different stages 
+of the electronics, and thus a "recorder only" effect can be considered 
+low probability, although an electronics interference effect ahead of all 
+display cannot be ruled out. We therefore treat the magnetic cause as 
+tentative, although most probable, and concentrate our attention on 
+whether a correlation exists between system disturbances and subject 
+efforts. 
+
+
+Thirteen ten-trial runs were obtained with Sl. Each of the ten 
+trials in the run lasted 50 seconds,* the ON/OFF command for each trial 
+being identified by a sequential run of even/odd digits in the Rand table 
+of random numbers. In the 13 x 10 = 130 trials, consisting of a random 
+distribution of 64 activity and 66 no-activity periods, 63 events of 
+signal-to-noise ratio greater than unity were observed. Of these 63 
+events, 42 were distributed among the ON periods, 21 among the OFF periods, 
+a correlation significant at the p = 0.004 level. 
+
+
+Two control subjects also interacted with the device. Although sub- 
+ject efforts and observed perturbations sometimes coincided, activity 
+was generally low and did not appear to be the signature of correlated 
+activity under control. A controlled ten-trial run with one subject and 
+two such runs with another yielded nonsignificant results. 
+
+
+We therefore conclude that for subject S1 the observed number of 
+precisely timed events in pilot work coupled with the statistically 
+significant (p = 0.004) correlation between subject effort and signal 
+output in controlled runs indicate a highly probable cause-effect 
+relationship. Thus it appears that a subject can interact with a second 
+derivative magnetic gradiometer of sensitivity v1079 Gauss/cm2 from a 
+distance of 4 m. Further work would be required to determine the precise 
+nature of the interaction, although given the equipment design the 
+
+
+Fd 
+With the exception of the first run where 25~-second trials were used. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+em enn TE A nn 
+
+
+Approved For Releasa,2000/08/10 : CIA-RDP96-00787RQ0200050002-5 
+
+
+generation of a magnetic field is the most probable mechanism. 
+
+
+An independent successful replication of this experiment has been 
+carried out by Dr. Richard Jarrard, Geology Department, University of 
+California, Santa Barbara, using a single-coil cryogenic magnetometer. * 
+The experiments, carried out with the subject in a room located 50 feet 
+diagonally across a courtyard from the magnetometer room, resulted in 
+events distributed across work and rest periods in ratio >3:1, respec— 
+
+
+tively, paralleling our results. 
+
+
+III PROPOSED PROGRAM 
+
+
+A. Objective 
+
+
+The objective of the proposed program is to investigate the charac— 
+teristics of, and if possible to determine the mechanisms responsible 
+for, human-subject mediated perturbation effects on a sensitive cryo- 
+magnetometer. 
+
+
+B. Statement of Work 
+
+
+Observations such as those reported in Section II require replication 
+and study under as wide a variety of rigorously-controlled scientific 
+conditions as possible. Therefore, we shall pursue further experimenta- 
+tion with a sensitive Josephson junction cryomagnetometer, a commercial 
+instrument manufactured by Superconducting Technology, Inc., Mountain 
+View, California.’ The goal of such experimentation is the further delin- 
+eation of the characteristics of the coupling mechanism under increasingly 
+severe experimental conditions of distance and shielding. 
+
+
+To accomplish the proposed research objectives, SRI will furnish the 
+personnel and facilities required for the following efforts. 
+
+
+° Obtain calibration data in control runs with Model A201 magnetom- 
+eter (Superconducting Technology, Inc.) to establish baseline 
+performance in absence of subject. 
+
+
+° Repeat above with various subjects present, but passive, to 
+establish background of perturbation effects in the presence 
+of subjects not engaging in volitional efforts to perturb mag- 
+netometer system. 
+
+
+9 Carry out experimental runs of the type described in Section IIB, 
+both with subjects having a history of perturbation capability 
+and with control subjects. Effort/non-effort periods shall be 
+
+
+“Manufactured by Superconducting Technology, Inc., Mountain View, California. 
+TModel A201 magnetometer, employing an A401 SQUID sensor, A301 RF ampli- 
+fier, and removable superconducting shield. 
+
+
+10 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+en nm 
+
+
+Approved For Releasea#000/08/10 : CIA-RDP96-00787RQ00200050002-5 
+
+
+determined by random number generator to provide statistical 
+control, and multiple recording apparatus shall be used to 
+investigate "recorder only" effects. 
+
+
+° Assuming perturbation effects observed, interpose distance and 
+shielding in a systematic study to determine dependence on these 
+factors, to be carried out on a best-effort basis, given time — 
+and funds available. 
+
+
+° The exploratory nature of the program requires that 20 percent 
+of the effort will be set aside to explore, with the client's 
+cognizance, additional avenues of research that may surface as 
+high-priority items during the course of the program. 
+
+
+SRI proposes to provide approximately 4.4 man-months of professional 
+effort (including subjects) to accomplish the above objectives. Further, 
+SRI personnel are consulting with other laboratories in various stages 
+of replication of the original SRI experiment, and will keep the client 
+apprised of results obtained elsewhere as well. 
+
+
+IV ESTIMATED TIME AND CHARGES 
+
+
+The estimated time required to complete this project and report its 
+results is 13 months. The Institute could begin work on receipt of a 
+fully executed contract. 
+
+
+Pursuant to the provision of ASPR 16-206.2, attached is a cost 
+estimate and support schedules in lieu of the DD Form 633-4. Also en- 
+closed is a signed form complete except as to the "Detail Description 
+of Cost Elements." 
+
+
+V REPORTING SCHEDULE 
+Quarterly progress reports will be delivered on the tenth day follow- 
+ing the end of each of the first three contract quarters. A final tech 
+nical report will be delivered 13 months after the commencement date of 
+the contract. 
+Throughout the program the investigators plan to remain in close 
+communication with the client. 
+VL CONTRACT FORM 
+It is requested that any contract resulting from this proposal be 
+
+
+written on a cost-plus-fixed-fee basis, and be awarded as a Supplemental 
+Agreement to Contract No. NO0039-76-C-0077. 
+
+
+li 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+eee ne A 
+
+
+Approved For Releas@e#000/08/10 : CIA-RDP96-00787R@00200050002-5 
+
+
+VII ACCEPTANCE PERIOD 
+
+
+This proposal will remain in effect until 31 December 1975. If con- 
+sideration of the proposal requires a longer period, the Institute will be 
+glad to consider a request for an extension of time. 
+
+
+VIII SECURITY CLASSIFICATION 
+
+
+Stanford Research Institute holds a Top Secret Facility clearance, 
+which may be verified through the cognizant military security agency, 
+San Francisco Defense Contraction Administration Services Region, Attn: 
+Office of Industrial Security, 866 Malcolm Road, Burlingame, California 
+94010. Staff assignments will be in accordance with the level of security 
+assigned to the work. 
+
+
+IX QUALIFICATIONS OF SRI 
+
+
+SRI is an independent, nonprofit organization performing a broad 
+spectrum of research under contract to business, industry, and govern- 
+ment. The Institute, which was formerly affiliated with Stanford Uni- 
+versity, was founded in 1946. Its operations include the physical and 
+life sciences, industrial and development economics, management systems, 
+engineering systems, electronics and radio sciences, information science, 
+urban and social systems, and various combinations of. disciplines within 
+these fields. — 
+
+
+SRI has no endowment; payments by clients under research contracts 
+and grants amount to approximately $80 million annually and are used to 
+cover all operating costs. Such revenue also helps the Institute main— 
+tain the excellence of its research capabilities. 
+
+
+SRI's facilities include more than one million square feet of office 
+and laboratory space and incorporate the most advanced scientific equip- 
+ment, including unique instrumentation developed by the staff. The bulk 
+of these facilities and most of the research staff are located at the 
+Institute's headquarters in Menlo Park, California. Regional office 
+locations include Washington, D.C.; New York City; Chicago; Houston; 
+and Los Angeles. 
+
+
+Of SRI's total staff of almost 3,000, approximately one-half are in 
+professional and technical categories. Some 450 members of the profes~ 
+sional staff have PhD or equivalent degrees; 600 others have their 
+Master's degree. 
+
+
+The project leader and other research personnel who would be active 
+in the proposed work are members of the Electronics and Bioengineering 
+Laboratory. This group currently occupies 40,000 square feet of lab- 
+oratory space, divided into many separate laboratory rooms, technicians’ 
+work areas, a machine shop, and a computer room housing a LINC-8 and 
+related terminals and equipment. In addition, a well-equipped computa~ 
+tion center is available. 
+
+12 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+esc ence 
+
+
+Approved For Releasea@000/08/10 : CIA-RDP96-00787R@00200050002-5 
+
+
+The Electronics and Bioengineering Laboratory employs a number of 
+technicians and engineering assistants and has available electronics 
+material and test equipment useful in the research proposed here. FEspec— 
+ially suited to this work are a number of shielded rooms with various 
+instrumentation available. 
+
+
+Finally, a backup team of psychologists and statisticians can be 
+brought into the project on an internal consulting basis. 
+
+
+The proposed research will be conducted by SRI staff members within 
+the Electronics and Bioengineering Laboratory under the direction of 
+Mr. Earle Jones. The principal investigators will be Dr. Harold Puthoff 
+and Mr. Russell Targ whose biographies are attached. Dr. Evan Harris 
+Walker of Aberdeen Proving Ground and Dr. Ralph Kiernan of the Stanford 
+University Medical School may be called on to act as consultants through- 
+out this program. 
+
+
+In addition to the scientific personnel directly engaged in the re- 
+search aspects of this investigation, SRI has established an internal 
+technical advisory board. This board consists of several directors of 
+SRI's operating divisions, together with our legal counsel, all under 
+the chairmanship of the senior vice president for research. The function 
+of this advisory board is not only to make recommendations and approve 
+or disapprove every new direction taken by the Institute in this research 
+area, but also to monitor related ongoing projects as well. 
+
+
+13 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+SGFOIA2 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Next 2 Page(s) In Document Exempt 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Releas®2000/08/10 : CIA-RDP96-00787R@00200050002-5 
+
+
+HAROLD BE. PUTHOFF, SENIOR RESEARCH ENGINEER 
+ELECTRONICS AND BIOENGINEERING LABORATORY 
+INFORMATION SCIENCE AND ENGINEERING DIVISION 
+
+
+Spectalized professtonal competence 
+
+
+- Tunable laser research and development; quantum electronics; biofeed- 
+back and biomeasurement research; "paranormal" perception 
+
+
+Representative research asstgnments at SRI | 
+\ 
+
+
+- Development of tunable ultraviolet laser source for pollution studies 
+and medical research . 
+
+* Development of high-power tunable infrared Jaser source (50-250 mi- 
+crons) for materials research : 
+
+- Assessment of potential of fiber optics and lasers for use in optical 
+computers 
+
++ Development of biofeedback monitors (GSR) for use in educational com- 
+puters and other man-machine links 
+
+» Research and development of biofield measurements 
+
+» Investigation of "paranormal" perceptual abilities 
+
+
+Uther professtonal experience 
+
+
+» Research associate, Hansen Laboratories of Physics and lecturer, De-~ 
+partment of Electrical Engineering, Stanford University: teaching, 
+textbook author, and research supervisor of Ph.D. candidates in the 
+area of lasers and nonlinear optics 
+
+» Consultant on applications of lasers to industrial: and medical prob- 
+lems and research assistant, Stanford University 
+
+* Lieutenant, USNR: in-house research and contract monitoring on DoD 
+(NSA) contracts concerned with the development of ultra high-speed 
+(GHz) computers 
+
++ Research engineer, Sperry Electronic Tube Division and Sperry fellow, 
+University of Florida: design and testing of electron beam focusing 
+systems for use in microwave tubes 
+
+
+Academie background 
+
+
+~ BEE. (1958) and MJS.B. (1960), University of Florida; Ph.D. in elec- 
+
+trical engineering (1967), Stanford University 
+Publications aid patents 
+
+» Coauthor of textbook, Fundamentals of Quantwn Electronies (Wiley); 
+three reference book contributions ; twenty-five papers in professional 
+journals; seventeen national symposium papers; numerous technical 
+reports 
+
+* Two patents 
+
+
+Professtonal assoctattons and honore 
+
+
+» American Association for the Advancement of Science; Institute of 
+Electrical and Electronics Engineers; Phi Eta Sigma; Phi Kappa Phi; 
+Sigma Tau; Sigma Xi 
+
+
+17 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+Approved For Releas¥000/08/10 : CIA-RDP96-00787R@00200050002-5 ; 
+
+
+PUSSELL TARG, SENIOR RESEARCH PHYSICIST 
+ELECTRONICS AND BIOENGINEERING LABORATORY 
+LNVORMATION SCIENCE AND ENGINEERING DIVISION 
+
+
+Srestalized professional competence 
+
+
+Development of new gas lasers; FM laser and supermode laser techniques; 
+laser noise reduction; optical modulation and demodulation, exper i- 
+ments in new gaseous laser media; mictowave diagnostic techniques, 
+microwave generation from plasmas | , 
+
+
+Professtonal expertence 
+
+
+Sylvania Corporation (1962-72); investigation of techniques for 
+
+development of new gas lasers, making use of his research with com- 
+
+pact, self-contained multi-kilowatt CO» lasers 
+
+Technical Research Group (1959-62); experiments in new gaseous laser 
+
+media 
+
+Polytechnic Institute of Brooklyn; assisted in the establishment of 
+
+the Electron Beam Laboratory 
+
+Sterry Gyroscope Company, Electron Tube Division (1956-53); experi- 
+- mental work in microwave generation from plasmas; early work in the 
+
+tecnnology of ultrahigh-vacuum and ion-pump design 
+
+
+Academie background 
+
+
+B.S. in physics (1954), Queens College, New York, graduate work in 
+physics (1954-56), Columbia University, New York 
+
+
+Publieations and inventions 
+* Author of "Optical Heteroedyne Detection of Microwave-Modulated Light," 
+Proe. I[EFE (1964); coauthor of numerous articles on lasers and plasma 
+oscillations 
+Invention of the tunable plasma oscillator at microwave frequencies 
+Professtonal assoctattons and honors 
+TLEL, American Physical Society; The Optical Society of America 
+
+
+» Awarded the position of research associate with the Polytechnic Insti- 
+tute of Erooklyn 
+
+
+18 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+
+1. 
+
+
+Approved For Releas@%000/08/10 : CIA-RDP96-00787R@00200050002-5 
+
+
+REFERENCES 
+
+
+H.E. Puthoff and R. Targ, “Physics, Entropy, and Psychokinesis ," 
+
+
+Proc. 23rd Annual Conference, Quantum Physics and Parapsychology, 
+
+
+August, 1974, Geneva, Switzerland (Parapsychology Foundation, New 
+York, 1975). 
+
+R. Targ and H.E. Puthoff, ‘Information Transmission Under Conditions 
+of Sensory Shielding," Nature 252, No. 5476, pp. 602-607, October 
+18, 1974. Reprinted in the IEEE Communications 13, January, 1975 
+H.E. Puthoff and R. Targ, "A Perceptual Channel for Information 
+Transfer Over Kilometer Distances: Historical Perspective and 
+
+Recent Research," Proc. IEEE (In press). See also "Remote Sensing 
+Techniques," SRI proposal for research SRI No. ISU 75-73 (C 
+
+R. Jarrard, K. Corcoran, R. Mayfield, and R. Morris, "PK Experiments 
+with Cryogenic Magnetometer,'' Research brief presented at the 18th 
+Annual Convention of the Parapsychological Association of the 
+American Association for the Advancement of Sciences, Santa Barbara, 
+
+
+California, August, 1975. 
+
+
+19 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200050002-5 
+
+

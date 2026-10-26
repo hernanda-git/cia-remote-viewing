@@ -1,0 +1,352 @@
+Approved For ReleaseQ901/03/26 : CIA-RDP96-00787RQQ90200080004-0 
+
+
+PROCEEDINGS 
+
+
+INTERNATIONAL CONFERENCE 
+OWN 
+
+
+CYBERNETICS AND SOCIETY © 
+
+
+Sepiember 19-21, 1977 
+
+
+Sponsored by: 
+
+
+IEER. Systems, Man and Cybernetics Socicty 
+
+
+With the cooperation of: 
+
+
+College of American Pathologists 
+
+Human Factors Socicty 
+
+{EEE Computer Society 
+
+IEEE Engineering in Medicine and Biology Society 
+
+
+Mayflower Hotel, Washington, D.C. 
+
+
+Approved For Release 2001/03/26 : CIA-RDP96-00787R000200080004-0 
+
+
+Linea, ene RE AT Tf 
+
+
+a reality, and Hal Puthoft's s 
+
+
+Approved For Release 2001/03/26 : CIA-RDP96-00787R000200080004-0 
+w 
+
+
+A NOTE FROM THE CHAIRMAN 
+
+
+With this conference we celebrate the 20th anniversary of the founding of this Society, even though our current 
+name has been with us only for the past seven years, Our worldwide membership of about 5000 members represent 
+many disciplines all brought together by the unifying Unread of the ‘systems '’ approach to problem salving. 
+
+In this regard, we are indeed pleased to present John Warfield with our Outstanding Contribution Award. John 
+spent the past several years grappling with a methodolagy for coping with complexity. His concepts assectated with 
+Interpretive Structural Modeling have been tested and proven as demonstrated by the session organized by 
+Raymond Fitz on this subject. 
+
+I feel it necessary to note that we have departed slightly from the conventional in this conference and have 
+introduced two sessions which, (o some of our readers, may appear controversial. 
+
+The first is the session, Scieatific Studies of Acupuncture, Acupuncture, as you know, originated thousands of 
+years ago in the orient and only recently received serious attention by Western medical scientists. Did you know that 
+acupuncture flourished inthe U.S. from 1820 to [8507 According to. a researcher at the National Library of Medicine, 
+acupuncture had been introduced to the U.S. from Europe and a substantial number of articles appeared on this 
+subject in the U.S, medical literature of the period; however, interest waned as he found only six articles for the 
+period 1850-1900. Today, the situation has changed. Western medicine now agrees there is something to 
+acupuncture. Its analgesic properties are recognized but not understood. Bruce Pomeranz of the University of 
+Toronto, whose article appears here, reeently reecived international attention on bis discovery of a possible 
+mechamsm that describes why acupuncture works. Stephen Kim, trainedin both Eastern and Western medicine, ts a 
+trained acupuncturist. He departs from traditional methods by making use of an electronic device for locating 
+acupuncture points. Elis paper reports striking success over the traditional methods. The session is rounded out by 
+recent. research by other investigators: Lee, Chifford and Mau. Clearly, acupuncture has now become a valid 
+___ research subject for _bioeyberneticists. 
+
+
+‘Our second unconventional area is Research in Psye hoenergetics, ‘organized by Hal Puthoff of SRI. The 
+
+
+presentation of this session is the outgrowth of the spectacular luncheon talk by Hal and Russ ‘Targ at last year’s 
+
+conference for which they received our Franklyn V. Taylor Best Presentation Award. Recognizing that their 
+
+professional integrity was at stake, they have gone to great lengths to assure impeccubility of their work; neverthe- 
+
+less, a reviewer of their original paper which appeared in the (EEL Proceedings last year stated, ‘This is the sortof 
+
+thing | would not believe in even Pit were uuc.”* Notwithstanding such emotional reactions, psychic phenomena are 
+‘uthott 38 if retully selected papers ts. worthy of your consideration. 
+
+
+F inally, among, the unusual presentations, | commend your reading Bitl Gevarter's excellentsummary, ‘A Wiring 
+Diagram of the Human Brain as a Model for Artificial Intelligence. 
+
+
+Williaa Hevon Alven 
+Chairman 
+
+
+iil 
+Approved For Release 2001/03/26 : CIA-RDP96-00787R000200080004-0 
+
+
+rote oe a 
+
+
+| 
+| 
+| 
+
+
+< a 
+
+
+* Acupuncture: Its, Effect on_C Kor. May Pe 
+
+
+tentials in Cat, Approved 
+
+
+University 
+
+
+ TS8P-H PERCEPTION AND NEURAL 
+MODELING 
+
+
+Andrew U. Meyer, Chairman, New Jersey Insti- 
+tute of Technology 
+
+
+On a State Variable Approach to Neural Modeling 
+and Indentification, A. K. Majumdar, Indian Sta- 
+tistical Institute, Calcutta, and A. H. Nevis, 
+University of Florida, Gainsville 
+
+
+A Theory of Motion After-Effect, Chun Chiang, 
+Academia Sinica, Taipei, Taiwan 
+
+
+On the Response Characteristics of Artificial Neural 
+Networks, A. K. Majumder and J. Das, Indian 
+Statistical Institute, Calcutta 
+
+
+T11B RESEARCH IN PSYCHOENERGETICS 
+
+
+| Harold E. Puthoff, Chairman, Stanford Research 
+Institute, Menlo Park, California 
+
+
+The Einstein-Paradox, O. Costa de Beauregard, 
+Institute Henri Poincare, Paris, France 
+
+
+oe 
+
+
+Multiple Subject and Long Distant Precognitive 
+Remote Viewing of Geographical Locations, J. P. 
+Bisaha and B. J. Dunne, Mundelein College, 
+Chicago, Illinois 
+
+
+Response Sensitivity of Human Subjects to ELF 
+
+- Electromagnetic Fields: Critical Considerations for 
+
+t Two ELF Models of Paranormal Behaviors, M. A. 
+; ¢ Persinger, Laurentian University, Sudbury, 
+
++ Ontario 
+
+State of the Art in Remote Viewing Studies at SRI, 
+FE. C. May, H. Puthoff and R. Targ, Stanford 
+| Research Institute, Menlo Park, California 
+
+
+I Soin Comments on the Subjective Nature of 
+: Psychic Research, the Subject, Experimenter Re- 
+‘lationship and the Psychic Type of Personality, 
+
+“1. Swann, Stanford Research Institute, Menlo 
+
+i Park, California 
+
+
+' Evidence for Direct Interaction Between the Hu- 
+* man Mind and External Quantum Processes, Hel- 
+»mut Schmidt, Mind Science Foundation, San 
+> Antonio, Texas 
+
+
+498 
+
+
+501 
+
+
+506 
+
+
+TA1 
+
+
+508 
+
+
+512 
+
+
+517 
+
+
+ae RNR: Crit At, dot RAS Sila Pee ON Lash LN meen sted 
+
+
+519 
+
+
+530 
+
+
+He NS Ye A A la apd AR Sin ah ME St copia 
+
+
+LA 
+a 
+lat 
+
+
+XV 
+
+
+T12A HEALTH CARE SYSTFPMS 
+
+
+Douglas R. Hansman, 
+
+Dynamics Laboratories, Inc., Los Angeles, 
+California 
+
+Diagnosis, Treatment and Outcomes at Different 
+Patient States, E. A. Patrick, MD and R. Uthur- 
+susamy, Purdue University, Lafayette, Indiana 
+
+
+Health Care System Planning and Evaluation, 
+Robert F. Powers, Dwane E. Anderson, Blair 
+A. Rowley, James M. Cameron and Thomas A. 
+Nicholas, MD. M. M. Ayoub, Texas Tech Uni- 
+versity, Lubbock 
+
+
+Health Care System Planning: A State Model Sim- 
+ulation, L. C. Agarwal and P. S. Satsangi, Indian 
+School of Technology, New Delhi 
+
+
+Use of Semantic Networks As Representation of 
+Patient Records, Anne-Louise Guichard Radim- 
+sky, University of California, Davis 
+
+
+Automatic Diagnosis via simulation of Physician’s 
+Intuition, H. J. Jeffrey, Vandebilt University, 
+Nashville, Tennessee and J. D. Johannes, Uni- 
+versity of Alabama, Huntsville 
+
+
+W13P COMPUTER-ASSISTED 
+MEDICAL DIAGNOSIS 
+
+
+Chairman—To Be Announced 
+
+
+Computer Applications in Nuclear Medicine, M. L. 
+Gelfand, MD, Eugene Sanger, MD, Edward Sil- 
+berstein, MD, Department of Nuclear Medicine, 
+University of Cincinnati 
+
+
+High-Speed Pattern Recognition of ECG Arrhyth- 
+mias, Douglas Hansmann, Joseph Shepard, Car- 
+dio-Dynamics Laboratory, Inc., Los Angeles 
+
+
+Up-Date on Pattern Recognition Applied to Early 
+Diagnosis of Heart Attacks, Sam Uthurusamy and 
+Edward A. Patrick, MD, Purdue University 
+
+
+Computerized Diagnosis in Opthamology, Karl J. 
+Fritz, MD and Carol S. Fritz, Ph.D, University 
+of Chicago 
+
+
+WI18A ARTIFICIAL ORGANS 
+
+
+Dov .Jaron, Chairman, University of Rhode 
+Island 
+
+
+In-Series Cardiac Assistance: Recent Experimental 
+and Theoretical Observations, D. Jaron and W. J. 
+Ohley, University of Rhode Island, Kingston 
+
+
+Rand 3(Gas@42901/03/26 : CIA-RDP96- -0078/7RQ90200080004- -0 
+
+
+746 
+
+
+540 
+
+
+545 
+
+
+550 
+
+
+554 
+
+
+751 
+
+
+558 
+
+
+*Not available at time of publication. 
+
+
+Approved For Release 2001/03/26 : CIA-RDP96-00787R000200080004-0 
+
+
+ae eee ean 
+
+
+a 
+
+

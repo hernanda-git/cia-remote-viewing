@@ -1,0 +1,4596 @@
+TO 
+
+
+SUBJECT 4x5 Chip Processor COPIES 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+\ (7 ee", 
+
+
+DATE 23 December 1965 
+
+
+FROM 
+
+
+Evaluation Program 
+
+
+In response to several questions posed by our customer concerning subject 
+program, will you please advise him in your official capacity as company 
+representative as follows. 
+
+
+Reference: Our Proposal Evaluation Program for the 4x5 Chip Processor, 
+dated 11 November 1965. Three (3) copies attached. 
+
+
+Under Phase II, Items 2 and 3, page 3, we do intend to utilize resolution targets 
+and gray scale exposures as well as the step wedges mentioned in Item 2. 
+
+
+Further, we plan to use only the manufacturers recommended standard chemistry 
+solutions for the various emulsions to be tested. In the event that satisfactory 
+results are not obtainable with these standard solutions, we would then run a 
+minimum amount of special chemistry runs to determine the direction in which 
+the chemistry must be changed in order to obtain satisfactory results (Ref. Ph II, 
+Item 4). 
+
+
+A check will be made to determine the adequacy of the replenishment system in 
+maintaining the desired ph level required to obtain the theoretical results as 
+dictated by the fixed speed, time in bath, and temperature of the machine. 
+
+
+In reference to Evaluation of Processed Material, page 4, Item No. 3, the 
+"Freedom from physical damage" inspection will include a microscopic 
+examination of the processed chips to determine not only the presence of 
+physical damage, but also to determine if possible, the presence of any 
+observed damage. 
+
+
+In respect to Gamma, page 5, item 5, we will plot the resultant H & D curves 
+as stated. However, since this machine incorporates a fixed transport speed 
+and operating temperature, we will make exposures over a given range and then 
+make a comparison of the curves obtained to standard curves to determine if the 
+processor is capable of producing the gamma required for the intended use of 
+the film chips. 
+
+
+If the customer should have any other questions, or desire any further amplifi- 
+cation, please advise. 
+
+
+MCM:iml 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+25X1 
+
+
+25X1 
+
+
+. DRAFT 
+
+
+24 OorAnrr 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+R & D CATALOG FORM — 
+1. PROJECT TITLE/CODE NAME 2. SHORT PROJECT DESCRIPTION 
+Photographic Techniques and A program to investigate ncthodawpAd veomuignse in the 
+Equipment Evaluation printing-processing field and to test and evaluate 
+Program various types of developmental equipment. 
+
+
+25X11 
+5. CLASS OF CONTRACTOR 6. TYPE OF CONTRACT 
+Manufacturer Open End 
+7. FUNDS 8. REQUISITION NO. 9. BUDGET PROJECT NO. 
+FY 19 65 NP-RT-9 25X1 
+10. EFFECTIVE CONTRACT DATE ff. SECURITY CLASS. 
+FY 19 66 (Begin - end) AA-Secret 
+teat T-Unclassified 
+FY 19 67 February 1966 - Continuing W_Unclassified 
+12. RESPONSIBLE DIRECTORATE/OFFICE/PROJECT OFFICER TELEPHONE EXTENSION 
+DDI/NPIC/P&DS L 25X11 
+13. REQUIREMENT/ AUTHORITY 
+All effort directed toward photographic exploitation as performed by the NPIC is 
+dependent upon the reproduction techniques, materials and equipments to produce 
+the required materials. Advanced technology is necessary in this area to maintain 
+nace with the rapidly advancing acquisition materials, While the original (Cont'd). 
+14. TYPE OF WORK TO BE DONE 
+Applied Research and Engineering Development 
+15. CATEGORIES OF EFFORT 
+MAJOR CATEGORY SUB-CATEGORIES 
+Reproduction Techniques and 
+Materials 
+, | 
+16. END ITEM OR SERVICES FROM THIS CONTRACT/ IMPROVEMENT OVER CURRENT SYSTEM, EQUIPMENT, ETC. 
+This contract will provide for investigation into methods and techniques for the 
+improvement of exploitation materials. Additionally, it will provide direct support 
+in testing and evaluating various types of developmental equipment. 
+17. SUPPORTING OR RELATE 1ON 25X11 
+Coordination with , RADC, SAC and PSD/NPIC has been 
+effected. This R&D Catalog Form effects coordination with the Agency 
+18. DESCRIPTION OF INTELLIGENCE REQUIREMENT AND DETAILED TECHNICAL DESCRIPTION OF PROJECT (Continue on addi- 
+tional page if required) Con troll? envy l 
+This Agency has fymded_ the construction of a complete sdeanneom complex and researc 
+laboratory in the This installa 25X11 
+
+
+tion has met the cleanliness specifications and has been accepted from the sub 
+contractor. It is not, however, being used to the extent originally intended. By 
+initiating a well managed program to investigate photographic techniques and 
+furnish a well equipped support test facility, this installation will become a much 
+needed evaluation tool for all types of photographic reporduction and interpre-(Cont|'d) 
+
+
+19. APPROVED BY AND DATE 
+OFFICE 
+
+
+DEPUTY DIRECTOR 
+
+
+FORMe pee ewild feed okt erty oe ok ii, Ne gine toc Pepeegmienien tes 
+
+
+rer", 23% Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 ” 
+
+
+13. 
+
+
+Sanitized mathe 
+nitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Continued... 
+
+
+processing and mass reproduction is the responsibility many in-house 
+
+
+requirements exist for special capabilities and techniques which are of little 
+
+
+or no direct interest to that organization. 
+
+
+18. 
+
+
+Continued... 
+
+
+tation techniques and equipment. This important phase of all NPIC research 
+
+
+and development is an extremely neglected area, due to the lack of proper 
+
+
+in-house facilities and staffing. 
+
+
+The investigative areas concerning photographic techniques and materials 
+
+
+will be established by levying specific tasks in support of direct (current ) 
+
+
+and indirect (long range) in-house requirements upon the eontractor. Certain 
+
+
+promising areas of endeavor initiated under Contract in support of PSD's 
+
+
+requirements will be followed to a logical conclusion during the first part 
+
+
+of the program, these being: 
+
+
+(1) Heat Shock as applied to acceleration of development time. Research 
+thus far has produced positive results in accelerated development time 
+without wkkk loss of resolution or grain growth. Continued effort in 
+this area will be to investigate the application in conjunction with 
+special chemistry to speed up different black and white and color 
+processes. 
+
+
+(2) Film Drying Techniques as applied to photo reproduction. Under 
+
+
+Gontract advanced methods of film drying have been investigated 
+
+
+including vacuum and radiant heating, vacuum and low temperature, and 
+solvents in conjunction with ultrasonic action. Preliminary analysis has 
+shown promising results by use of the solvent-ultrasonic techniques. 
+Further analysis, testing and evaluation will be performed under this 
+
+
+task with resultant design parameters established for a prototype high 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+25X11 
+
+
+25X11 
+
+
+doy CrAnr. 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+efficiency, high speed film drier. 
+
+
+Additional tasks will be established as the requirements are clarified 
+
+
+and coordinated with the appropriate division. Some limited effort has been 
+
+
+applied in the following areas but further investigation is required to 
+
+
+reach any meaningful conclusions: 
+
+
+(1) Color Materials Evaluation - pertaining to other than EK products. 
+(2) Non-silver, silver dry and semi-dry processes for rapid access 
+viewer-printer requirements. 
+
+(3) Exposure compensation through dye developer inhibitors - a process- 
+ing chemistry investigation to stop or slow down development action in 
+over exposed areas, 
+
+(4) Use of ultrasonics to accelerate development - It has been 
+established that many chemical reactions are accelerated by the addition 
+of ultransonic energy to the reaction bath. This should be directly 
+applicable to the photographic process. Testing should be run to 
+appraise the effect of ultrasonic energy on development rates, image 
+quality, green tas ete. and similar effects in the case of short stop, 
+fixation and washing. There is a distinct possibility that this effort 
+will introduce a new method of solution agitation particularly applicable 
+
+
+to compact processors. 
+
+
+Under the equipment evaluation portion of this contract will be included 
+
+
+oF 
+several equipments now ey ta fabrication. This equipment in order to be 
+
+
+useful and productive tools in an operational complex, requires that complete 
+
+
+test and evaluation of performance criteria be established prior to being 
+
+
+placed in a production complex. 
+
+
+are being built contain little or no such test parameters - which is normal 
+
+
+procedure under prototype R&D equipment contracts, as it is often impossible to 
+
+
+sek 
+
+
+ne Arn ee 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+The contracts under which most of the equipments 
+
+
+. ocoDpett 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+set up specific acceptance criteria on "first-time" items. The research 
+laboratories and the associated Se ane (which is to be fully 
+equipped with all necessary services) is an excellent location to perform this 
+type evaluation, since controlled environmental conditions (temperature, 
+humidity) can be imposed to any desired degree. The clean area itself is so 
+constructed to handle nearly any size equipment in two larger rooms and con- 
+tains two additional small laboratory areas for sensitometric work or small 
+equipment testing - a total of 1200 square feet. This research complex need 
+not be restricted to testing of any special type equipment simply because it 
+was designed for reproduction and processing development. Viewing equipment, 
+mensuration equipment, optical equipment and the like may be tested and 
+evaluated. Some of the equipment under consideration for including in cine 
+evaluation aspects of the program are: 
+
+(1) The LM a8 “Pi Im chip processor. 
+
+(2) The Sepratron Film Processor. The prototype now being 
+
+fabricated is for roll film. It is believed, however, that the 
+
+principle has great prospects for handling cut film and paper stock. 
+
+(3) The chip printer in conjunction with the chip processor. 
+
+(4) The dry process step and repeat printer (3-M). 
+
+(5) The Xerox step and repeat printer. 
+
+By performing external testing and evaluation of equipment, PSD and other 
+NPIC components will be relieved of the responsibility of attempting to evaluate 
+R&D prototypes when they have a production schedule to maintain and.will insure 
+that only fully operational equipment is placed on the production line. 14 fe 
+anticipated that where practical the original manufacturefwill contribute to the 
+
+
+testing so that full utilization can be made of his experience and knowledge of 
+
+
+the subject. 
+
+
+SECRET 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved SCUnET 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+~~ 
+
+
+Thre-Photographic-Pectmiques ant EVaLluation Program willbe jointly 
+
+
+menemed.-by.NPLC ; | and SPPin ~Funding and-monitoring of individualytasks 25X11 
+
+
+WLLL be-by the organization” Levying’tie bask. Contractual negotations will 
+be through normal NPIC channels as an "open-end" type contract so that tasks 
+
+
+can be added or deleted as the need arises. Initial funding is bye SAFSe 
+
+
+erigpeFr in thebmount . The FY-66-NPIC contributions 225X1 
+
+
+wide be ndtiet’- after: fuiding approval. Management control will be enforced jp 
+enSCRuseamerepresenting each-of the thres: organizations. Met tie 
+meetings with the contractor and contracting officer present. Wekt-be-treid. 
+
+The contractor will submit bi-monthly reports to be on hand sufficiently in 
+
+
+advance of the scheduled meetings so that decisions may be firm prior to the 
+
+
+meetings. 
+
+
+SECRET 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+~ P "Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+6 January 1966 
+
+
+PHOTOGRAPHIC TECHNIQUES AND EQUIPMENT EVALUATION PROGRAM 
+
+
+I. This program would be conducted by 
+
+
+The Ageney has a 
+
+
+@mplete clean room facility which is installed at the 
+
+
+At the present time this facility is not being utilized to the extent 
+that it was intended, By expanding the present film processor evaluation 
+program into a photographic techniques and equipment evaluation program, 
+this clean room facility could become a productive and worthwhile tool in 
+evaluating all types of photographic reproduction and interpretation equipment 
+and techniques which we can not evaluate in the Center due to lack of 
+facility and staff. There is indication that this program will be confunded 
+by NRO and other parts of the intelligence community. 
+
+II. Present studies to be included in this program: 
+
+
+A. Heat shock in the use of acceleration of image development - 
+
+
+Under the present study , using heat shock, has 
+
+
+successfully produced stable images in which the density has been 
+raised from 3 stops under normal exposure to normal without appreciable 
+grain growth or loss of resolution, A continuation of this study under 
+the new program would include work in controlling heat shock 
+
+application and to investigate the use of heat Shock in conjunction with 
+special chemistry to speed up different B&W and color film processes, 
+
+E. Film drying techniques - The results of this program will be 
+used in the design of a prototype high efficiency, high speed film 
+dryer. Under the present program different advauced methods of drying, 
+including vacuum aud rauiant heaving, vacuum aud Low temperavure urylinug, 
+
+
+tne use or solvents, ana the use of solveuts iu congunevion with 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X1 
+25X1 
+
+
+25X11 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ultrasouic actiou, uave ven experimented with. A continuavion 
+in this study task suoulu result in tne aesign anu fabricavion of 
+a sopuisticated cium uryer. 
+
+C. Sensitometric Processing - There is a need for a small compact 
+research processing machine capable of operating over a wide range of 
+both time and temperature and capable of reproducing the many methods 
+of agitation normally used. This processor is a necessary tool in 
+accurately comparing particular emulsion characteristics against 
+standard characteristics published by the manufacturer. Under the 
+present study time and temperature combinations have been experimented 
+with. With current available apparatus the highest temperature and 
+lowest time combination, found to produce accurate results, was 118°F 
+and 15 seconds. 
+
+III. Processing and printing equipment evaluation as new prototype 
+printing and processing equipment is completed, it is desirable to 
+evaluate this equipment to determine if this equipment meets all specifica- 
+tions, if this equipment will do the job it is intended to do, the limits 
+of what this equipment will do and how well this equipment was built. 
+The clean room facility (which is fully equipped with all necessary 
+services) is an excellent location to perform these evaluations. At the 
+present time there are several pieces of prototype equpment being built 
+that could be part of this evaluation program. 
+
+A. 4x5 Film Chip Processor - Houston Fearless 
+
+B. 4x5 Film Chip Printer - Fairchild 
+
+C. Sepatron Processor - Houston Fearless 
+
+D. High Resolution Step & Repeat Printer - Xerox 
+
+
+IV. Other fields of desired research - 
+
+
+A. Color materials evaluation - Under contract 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Eastman Kodak has performed an extensive evaluation in color materials 
+for exploitation use. These materials were limited to E.K. products 
+only. It is necessary to evaluate all manufacturers color materials 
+for their application in exploitation use with specific applications 
+as follows: 
+1. Contact transparencies 
+2, Enlargment transparencies 
+3. Briefing prints 
+h, Color negative materials 
+B. Investigation in depth of all non-silver and silver dry and 
+semi-dry processes. There is an immediate requirement for a rapid 
+access viewer printer to produce a positive paper print, from a 
+positive transparency ,having the quality close to kopabromide. Before 
+the equipment can be puilt the appropriate printing material has to be 
+established. The first step in establishing the appropriate material, 
+is to investigate in depth the characteristics of all commercial and 
+research products that might fill this requirement. As speed and 
+overall equipment size is critical, this investigation should be 
+limited to only dry and perhaps semi-dry processes. 
+Cc, Exposure compensation through dye absorbtion developer inhibitors - 
+A unique method of exposure compensation is proposed, based on the inclusion 
+in the developer of a dye-coupler molecule which will couple with the 
+reaction products of development (e.g. bromide ion) to inhibit fruther 
+development. The dye (white, or light colored) formed would deposit on the 
+developing action occurring; that is to say, where the greatest developing 
+action is taking place, in the overexposed areas, the deposit would be 
+heaviest with the reverse effect in underexposed areas. 
+
+
+The effect can be utilized in two ways, first the deposition of the 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+dye on the overexposed areas will prohibit further development while permitting 
+the development of underexposed areas a& to continue. Secondly, by the use 
+
+of radiant (infrared) heat further control of development can be obtained 
+
+since the infrared will be reflected from the heavily coated areas and absorbed 
+by the uncoated areas. 
+
+A further extension of the foregoing program would be research into 
+the formulation of a developer that would have the property of negative 
+Kinetic potential. This would be effected by the inclusion of a coupler 
+molecule, which, in place of the formation of a dye coating, would couple 
+with the reaction products of development to decrease the electro-chemical 
+energy of the developer, thereyb retarding development in overexposed areas. 
+Conversely, development in underexposed areas, would be accelerated since 
+a cessation or decrease in development inhibition would be effected due to 
+the corresponding decrease in reaction products. 
+
+D, Developer luminescence - This phenomenon has never been thoroughly 
+investigated with regard to photographic materials and processing. Research 
+into this area might well result in advances in the state-of-the-art. 
+
+Some logical penaeas for investigation into developer luminescence are: 
+1. <A basis for real-time chemical analysis of developers. 
+
+2, Automatic control of replensihment if the luminescence is 
+proportional to the chemical activity of the developing agents. 
+
+3, If the luminescence wavelength and intensity do increase 
+
+exposure levels of silver halides, then controlled amounts of luminescence 
+
+gould be used to produce intensification of the latent image. 
+
+4, If on measurement ,the luminescence does not increase or 
+promote fogging of silver halide emulsions, then perhaps the light 
+
+
+output could be used for visual monitoring of processing operations. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+E. Use of ultrasonics to acceleate development - It has been well 
+established that many chemical reactions, particularly those requiring 
+diffusion for completion, are accelerated by the addition of ultransonic 
+energy to the reaction bath. This should be especially applicable to 
+the photographic process. A series of tests should be run appraising the 
+effect of ultransonic energy on rate of development, image quality, gramelarity , 
+etc. and similar effects in the case of short stop, fixation, and washing. 
+There is the distinct possibility that all other standard forms of solution 
+agitation might be eliminated, particularly important in some of the industry's 
+latest compact processors. Some of the newest solid-state transducer power 
+supplies are smaller physically than the fractional horsepower motor and 
+pump units currently used in these processors. 
+
+F. De-gassing and de-oxidation - The primary factor in developer 
+exhaustion other than direct usage is inherent in aerial oxidization. The 
+oxidization products, besides drasitcally reducing developer life, may have 
+an adverse effect upon yhe developing action. If anti-oxidants could be 
+reduced or eliminated improvements in the photographic process would 
+result, in addition to opening the door to new active developing agents. 
+
+This project would investigate various methods of de-gassing on emulsions, 
+and the effect of the removal of anti-oxidants from developing solutions. 
+
+G. Won-reversable photobleaching liberation products. General 
+Electric is researching. 
+
+A. Positive to positive non reversal type photobleach process. 
+XX In this process many chemical molecules are liberated into the surrounding 
+atmosphere. The clean room facility is excellent to determine what 
+
+these liberated products are, what amounts are present and if these 
+
+
+products have any adverse effects on individuals using the process or 
+
+
+on other photo sensative materials that might be close by. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+YROLOSAL FOR AN ANALYTICAL 
+
+STUDY TO DETERMINE THE EFFECT 
+
+OF CONTAMINATION ON PHOTOGRAF HiC 
+IMAGE QUALITY AND INTERPRETATION 
+
+
+September 1365 
+
+
+25X1 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ANALYTICAL STUDY TO DETERMINE THE EFFECT OF CONTAMINATION 
+ON IMAGE QUALITY AND PHOTOGRASHIC INTERPRETATION 
+
+
+Ls 
+
+
+The processing of original negative film necessitates extreme 
+care in the mechanical handling of the silver halide emulsion, 
+and also the elimination of contaminate (foreign} particles 
+from: the processing environment, if maximum image quality is 
+to be achieved. The prime purpose of photography is inter- 
+pretation of the image, if development is performed ina 
+contaminated atmosphere, inevitably a degraded negative 
+results. In this program, it is planned to develop a com- 
+puterized mathematical model which will predict the quality 
+of the image in quantized form, given certain factors 
+describing the image, the film, and the contaminants. 
+
+
+At the present time little or no data are available to procurement 
+agencies and to designers of armed services photographic 
+laboratories on which to base a "cleanliness" requirement. One 
+result of this mathematical model is the evaluation of the 
+differences between "black, gray, white" and various degrees 
+of “clean" photographic processing rooms as judged by the 
+quality and interpretability of the image produced in them. 
+
+Con siderable dollar savings may be achieved, if step-downs in 
+the degree of “cleanliness" of an environment result in none, or 
+little image quality degradation or minimal image misinterpretation. 
+Thus, this program will determine the degree of parametric 
+minimal environmental cleanliness required for any specific 
+degrec of image quality. 
+
+
+The newly installed class 100 clean room complex at Houston 
+Fearless is an essential tool for the conducting of this program. 
+Control will be exercised over the contaminant parameters and 
+observations made of the resultant image quality and readability. 
+
+
+The mathernatical model will be developed as follows: 
+nROA AN A An A A A 
+= ha + 3b + £0 + Pi + Sq + fih + Ss + Tt. 
+
+
+q( oe Geccc- 10 representing a suvjective measure of image 
+Each image will be judged by 10 service-trained photographic 
+
+
+interpreters, on a scale from 0 {indicating utter confucion) 
+through 10 (indicating perfect reading), To obtain a uniform 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+standard of judgement among the interpreters, a short training 
+period will be necessary on pilot negativec. 
+
+
+The following designates will be given: 
+
+
+a=0, 1, 2, 3 representing none, slight, moderate and 
+excessive aerosol contariination per unit areca. 
+
+
+b = ]------~- 10 representing background (type of terrain). A 
+suitable coding system must be developed for this function, 
+such that 1 represents the lightest, or whitest, background, 
+for example, desert under sun, whereas 10 represents the 
+darkest or blackest background, for example, forest under 
+overcast. 
+
+
+e= 5, 1, 2, 3 to represent four commonly used emulsions. 
+
+
+f= O, 1, 2, 3 representing none, slight, moderate and excessive 
+fluid contaminate per unit area, 
+
+
+g=1, 2, 3 representing miinizwun:, nor:nal and maximum average 
+crain size, 
+
+
+h= 2, 4, 2, 3, 4 representing low to high camera height above 
+terrain. 
+
+
+&2=1, 2, 3 representing small, moderate and large size of con- 
+tariinate particles, 
+
+
+t= 9, 1, 2 will represent three different types, or shapes, of 
+contaminate particle to be determined, 
+
+
+The capital letter: are coefficients to be estimated by the least 
+squares method. When ectimated by computer these coefficients 
+will form the "blue" or best Linear unbiased estimate of q image 
+quality q for given readings of the eight factors a, b, e, f, g, h, 
+sandt,. 
+
+
+Other numerical results forthcoming frorn the program will be the 
+following: 
+
+
+1} The accuracy of the estimate, Ap of image quality, a, will 
+
+be given in the for-a of 35 percent confidence limits of g and q 
+
+shat is to say, “if a thousand experiments were performed on 
+
+different populations and everyone of them produced exactly 
+
+the same results, then, on an average 350 of the experimenters 
+2 
+
+
+ae 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+4.3 
+. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+would be correct in assuming thet the curve q fora given set 
+of factors is between qandq. The outstanding 50 experi- 
+menters would be in error. 
+
+
+2; The “ANOVA," or analysis of variance, will provide 
+information as to whether a significant difference in q does, 
+or docs not, exist due to changes in each factor a, b, ete. 
+If it is discovered that any particle factor does not affect 
+quality (for instance, it is conceivable that particle type, t, 
+may have no effect), the model may be simplified by the 
+omission of that factor and its coefficient in upper case (T), 
+
+
+3) It is anticipated that significant interactions between 
+factors will be discovered. Thus, possibly for large values 
+of h, small values of s may be degrading, whereas for small 
+h, even a large size of s may not de degrading. If so, then 
+in this exainple, the h-s interaction would be of significance. 
+
+
+srogram “NM DJ2R and SMIDC2V from 2M’D. TMealth Sciences 
+Computing Pacility, School of Medicine, UCLA, January 1964 will 
+be used. 
+
+
+The study will be a complete replicate ofa 4x10x4x4x3x5x3x3 
+(86,490) cell experiment with 10 observations (representing the 10 
+interpreter.) in each cell. The within-cell variance with 
+
+2x 86,409 (777,600) degrees of freedom is a highly satisfactory 
+deno:inator for the classical P-test of siqnificance. 
+
+The program as summarized in the chart on Fig. 1 and detailed in 
+
+Pig. 2 is further clarified below. The item numbers also refer to 
+
+the balloon numbering on Fig, 2. 
+
+Item 1. Classify contariinates according to 
+
+
+s=0, 1, 2, Jandt=0, 1, 2. 
+
+
+Item 2. Classify contar:inates into a = 0, 1, 2, 3 and 
+f=0, 1, 2, 3. 
+
+
+Item 3. Classify emulsion and grain size into 
+e=0, 1, 2, 3andq=1, 2, 3. 
+
+
+Iter 4. Accurately define background and height into b = 1, 
+woes ee 10, and h=0, 1,2, 3, 4. 
+
+
+item 5, Frepare pilot negatives. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Item 6. Confer with interpreters and develop uniform scoring 
+system for q = 0----- 10. 
+
+
+Item 7. Expose all negatives for complete program. 
+
+Item 8. Determine methodology for contamination of film samples. 
+
+Item 9. Frocess samples in contaminated environments. 
+
+Item 10. Process control samples in clean environment. 
+
+Item 11. Read and plot image quality of all samples. 
+
+Item 12. Devise suitable form to ease task of interpreters in 
+judging negatives, recording q, and to facilitate card 
+punching. 
+
+
+Item 13. Conduct training program of P.I. personnel. 
+
+
+Item 14. Fresent negatives in scheduled order to interpreters. 
+This is a major task of the program. 
+
+
+Item 15. Write instructions to computer personnel at computer 
+facility and transmit completed forms to them. 
+
+
+Item 16. Punching of computer cards. 
+
+Item 17. Computer processing and printout of results, 
+Item 18. Receive printout from computer facility. 
+Item 19. Evaluate computer printout. 
+
+
+Item 20. Write final report. 
+
+
+10. Program Breakdown. 
+
+
+The program as described in this proposal will be divided into 5 
+distinct phases, as follows: 
+
+
+PHASE 1. 
+
+
+a) Isolate, recognize and classify both aerosol and liquid con- 
+taminates into types, shapes, and sizes (Factors s & t). 
+
+
+b} Determine levels of both aerosol and liquid contaminates per 
+unit area (Factors a & f). 
+
+
+4, 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+c) In conjunction with project co-ordinator deterraine emulsions 
+to be used, and group selective grain sizes (Factors e & g). 
+
+
+da) In conjunction with project co-ordinator determine terrains 
+(sackgrounds) and effective camera heights (Factors b & h) 
+and determine source for master negatives of these. 
+
+e) Determine source and availability of photo interpreters. 
+
+f) Prepare pilot negatives. 
+
+g) Confer with interpreters and develop uniform scoring system. 
+
+:HASE 2. 
+
+h) Expose all negatives for complete program. 
+
+PHASE 3. 
+
+j} Detern.ine methodology for contamination of film samples. 
+
+k) Process samples in contaminated environments. 
+
+1} Yrocess control samples in clean environments. 
+
+mm) Read and plot image quality of all samples. 
+
+PHASE 4. 
+
+
+n}) Devise recording form to enter value judgements of q and to 
+expedite card punching. 
+
+
+o) Conduct training program of :.1. personnel, 
+
+
+p) Conduct subjective evaluation of image samples by Fhoto 
+Interpreters. 
+
+
+r) Frepare instructions and transmit complete forms to computer 
+facility. 
+
+
+s) Punch cards, process, and printout results at computer facility. 
+t) Receive computer printout, evaluate results. 
+
+
+v) Write final report. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+PROFOSED ANALYTICAL STUDY INTO EFFECTS OF CONTAMINATES 
+ON PHOTOGRAPHIC FILM 
+
+
+eee NY Mere tenet 
+
+
+Analytical Stidy of 
+Contaminants & Effects 
+
+
+een enon tence Snare 
+
+
+fe ee ee Statistical Model | 
+
+
+| Clean Room Operation 
+
+
+Solution Aerosol 
+
+
+Controlled Levels of 
+Contamination 
+
+
+rhoto 
+
+
+Processing 
+
+
+Photo Interpretation 
+
+
+Correlation of Image Degradation 
+
+
+Evaluation 
+
+
+and Contamination Level 
+
+
+Frogram Summary Fig. 1 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001 300020002-4 
+
+
+PHASE 
+1 PHASE 2 PHASE 3 | PHASE 4 
+: PHASE 5 
+
+
+.. Item. - 
+
+
+, | 
+= hs TO PARA, 9 FOR ITEM NO. en 
+
+
+| | | 
+| | 
+
+
+| 
+| pes er OF STUDY aes: | Finish 
+: Program 
+| 
+
+
+FIG, 2 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 ~~ 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+‘ RESEARCH LABORATORY PROGRAMS 
+
+
+The research laboratories were constructed, and the clean room complex 
+erected by funds obtained from a Government contract. This first stage of 
+this contract consisted of two major sections, the preparation of the area, 
+erection of the clean room complex and finishing of the area, and secondly, 
+a research program in which the following projects were worked on. 
+
+
+Liquid bearings, hydrodynamic and rotary. 
+
+Air bearings. Tunnel type and rotary. 
+
+Vacuum capstan, positive and negative pressure source. 
+Evaluation of pressure losses in standard pipes and fittings. 
+Determination of force required to bend film. 
+
+Sensitometric studies into the effects of elevated processing 
+temperatures and shortened times on aerial emulsions. 
+
+(7) Efficiency of temperature control systems. 
+
+(8) Conception of modulated film processor. 
+
+(9) Determination of the coefficient of film drag. 
+
+
+1 
+2 
+3 
+4 
+fe) 
+6 
+
+
+ON NN NN OO 
+~~ 
+
+
+In the current program, work on items 1, 2 and 3 is being completed. In 
+addition to these, the following new programs have been approved. 
+
+
+(10) Accelerated development by heat-shock. 
+(11) Studies into improved mathods of film drying. 
+(12) Continuation of sensitometric studies, 
+
+
+Additional programs now being actively sought, are an analytical study of the 
+effects of contamination on image quality and photographic interpretation, 
+and a program to determine the performance of dry process film emulsions, 
+In this field, we have, in conjunction with the company concerned, already 
+covered enough ground to be able to predict a line of hardware. In other 
+areas described in the following summaries, varying degrees of work have 
+been accomplished. In the case of the lead iodide process, for instance, 
+we have successfully deposited films on glass substrates and are awaiting 
+time and the opportunity of an optical bed to enable image exposures to be 
+made. In the instance of the use of lasers, we are cooperating with the 
+‘Korad Laboratories to assess the use of a laser beam in image quality 
+reading. In all other projects, some efforts have been made and a number 
+of proposals have already been prepared, 
+
+
+In consideration also for immediate preparation are proposals to up-date 
+the HTA/5, qualify the ABD4 and evaluate and if possible (in conjunction 
+convert the 4x 5 chip processor for other 
+
+
+purposes, 
+
+
+In the commercial field a study is being made of the requirements of setting 
+up an equipment qualifying and evaluation service, and an industry wide 
+sensitometric and laboratory service. A commercial brochure for this 
+purpose is in rough layout. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+AN UNIQUE APPROACH TO INFLIGHT PROCESSING 
+
+
+As military tactical strategy andlogistics demand closer to realtime 
+processing for immediate post-strike analysis, emphasis has been shifted 
+to inflight processing. This proposal, then, suggests research aired 
+toward two goals, 1) the production of an extremely high-speed processor, 
+rugged enough to withstand rough operational conditions, simple enough 
+for relatively untrained operators to load and control, but still capable of 
+producing original negatives of archival quality and, 2) film suitable for 
+use in such a processor. 
+
+
+Sufficient preliminary experiments were performed to establish the feasibility 
+of the following performance parameters: 
+
+
+) Processing cycle under 5 seconds. 
+
+) Development uniformity. 
+
+) Wide processing temperature latitude: 70°F + 20°. 
+
+) Wide processing time latitude: 5 times nominal time . 
+
+) Small volume solution requirements. 
+
+) Extended solution life from contamination or storage. 
+considerations: Minimum of three weeks. 
+
+7) No chemical fog. 
+
+8) Increase in effective film speed. 
+
+9) No sensitometric degradation. 
+
+0) No subject image degradation. 
+
+
+The principle involved is to incorporate a non-active fraction of the developer 
+in the film's emulsion, together with the photosensitive silver halide. After 
+exposure, the latent image is developed by activating the inert portion of the 
+agent with an accelerator and subsequently stabilizing the image. High 
+viscosity reagents are used throughout to avoid the inflight problems of 
+leakage under maneuvering conditions of roll, pitch, yaw, evasive action, 
+vibration and shock loads (landing, take-off, wind gusts, etc.). Another 
+area to be investigated would be the incorporation of both the inactive 
+portion of the developer and the accelerator in the emulsion (retained ina 
+stable condition by microscopic encapsulation). Development would then 
+consist of applying heat and/or pressure, thus approaching a dry-film 
+process. 
+
+
+While much research and developmental work has been done by the industry 
+to achieve the ideal completely self-contained inflight processor, no proto- 
+type now available promises both the speed of processing combined with 
+archival quality, herewith possible. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+HIGH VISCOSITY PROCESSING AND DE-VISCIDIZING 
+
+
+High viscosity (4000 centipoises or more) processing offers rewarding 
+
+results such as extreme development speeds, small grain size, good resolution 
+
+and gamma. The difficulties inherent in the process however, outweigh the 
+
+advantages somewhat. By combining experience in the 25X14 
+field of heat shock for rapid processing with the concept of viscous-layer 
+
+development (and, of course, short stop and fixation), an ideal of minimum 
+
+response time should be attainable. 
+
+
+One of the greatest assets of viscous processing, high speed, is, in itself, 
+a problem. The developing action continues until removal of the viscous 
+layer and subsequent short stop and, in the case of 15-to 20-second proces~- 
+sing times, one second, plus or minus, becomes critical. If the viscous 
+developer were not removed, but merely plunged into the short stop bath, 
+activity would continue until the acid had permeated the viscous layer and 
+neutralized the reaction at the interface boundary. The ideal solution to this 
+problem would provide developer removal faster and more thorough than high- 
+pressure water. 
+
+
+Two unique methods of de-viscidization of the solution retained on the film 
+are proposed as potentially fruitful avenues of research. This program, 
+therefore, investigates the use of de-peptizing agents or ultrasonic power 
+
+to effect instantaneous devisciditization of the solutions permitting inter- 
+bath transfer in the conventional manner. Concurrently, sensitometric 
+studies are proposed to determine the parameters of operation, and the effect 
+on image quality. The goal of this research program is the design of a very 
+high speed processor employing the best features of deep tank immersion in 
+a compact, efficient machine and having the simplicity of operation of 
+
+Dr. Land's "Polaroid" technique. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+LASERS 
+
+
+Many of the generators of coherent light, both solid state and gaseous, 
+produce frequencies of wave length to which photographic films may be 
+completely insensitive. Such a beam, then, could be used to scan the 
+latent image ona film (ie. before development) and set the parameters 
+for predictable gamma. 
+
+
+Another potentially fruitful line of research involves the use of lasers to 
+produce an image quality meter operating on a new principle. Existent 
+meters capable of reading gamma, granularity, acutance and resolution 
+generally use a white-light source and very small apertures. Highly 
+accurate readings depend upon extremely slow scanning speeds on the 
+order of a few microns per hour. 
+
+
+Laser beams, on the other hand, being coherent, can be made to produce 
+an interference pattern when bounced off, or transmitted through, objects 
+of sufficient density to absorb portions of the light. Several simple optical 
+systems can be made which will create this effect. Furthermore, the real 
+and virtual images produced can be greatly magnified depending upon the 
+optical system employed. After suitable scientific research, it is felt that 
+the pattern of interference rings could be related directly back to the para- 
+meters it is desired to measure. At this point, a suitable scanner and 
+electric eye could make a direct reading. 
+
+
+The inherent advantages of sucha device are: 
+
+
+1) Instantaneous response. 
+
+2) Primary standard accuracy. 
+
+3) Less costly to build than present instruments. 
+4) Simplicity of operation. 
+
+5) Reproducibility of measurements. 
+
+
+Another allied field appears to be the possibility of producing three dimen- 
+sional aerial photographs by this means. If a photograph of the interference 
+patterns described earlier is made and the photographic transparency 
+reilluminated with coherent light, the original object is recreated in 3-D. 
+Thus, it might prove possible to combine two acrial views of the same terrain 
+and project them into a 3-D image by this laser technique. The photo recon- 
+naigance gains to be expected certainly would justify some work toward this 
+
+
+goal. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+LEAD IODIDE PROCESSING 
+
+
+This is a new process in which an image is recorded by the localized photo- 
+decomposition of lead iodide. This project covers research into methods of 
+depositing films on various substrates, methods of image recording, and 
+determination of image quality. The process is intriquing to the research- 
+oriented mind, because the grain size of the PbI,-deposited layer is so fine 
+that the image attainable approaches the resolution of the optical system 
+used. The drawbacks of the material in its current carly state of development 
+are: (1) It must be sensitized at a temperature of 200°F. 2) It is photo- 
+graphically slow, and 3) It is soft and subject to abrasion. These short- 
+comings merely offer research challenges comparable to those faced in the 
+early history of silver halide experimentation. Nothing was published on 
+the phenomena prior to August, 1964, when the findings of a research group 
+at the University of Bristol, England were recorded. 
+
+
+The first significant breakthrough in photographic paper improvement occurred 
+when silver bromides and iodides were substituted for the slower halide, 
+chlorine. This certainly demands first priority in research attention. These 
+remains also the possibility that the process might be improved by the addition 
+of certain catalysts to speed up nucleation, or other heat sensitive, photon- 
+reacting combinations such as the diazonium photopolymers. 
+
+
+The material offers such a number of distinct advantages over other microfilm 
+_ recording medio that it deserves research investigation in depth. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+HIGH-TEMPERATURE, HIGH-SPEED SENSITOMETRIC PROCESSOR 
+
+
+Studies of the effect of elevated temperatures on negative aerial amulsions 
+are currently being conducted. One of the parameters of this project is the 
+increasing of the processing temperature, and the decreasing of the corres- 
+ponding processing time. At the present time, a temperature of 118°F has 
+been reached with a processing time of 15 seconds. Due to human limi- 
+tations, it has been found impossible to shorten this time with currently 
+available apparatus. An analysis of the requirements of a laboratory type 
+processor, shows that a processor of the type required is not available. 
+The need lies in a small compact research machine capable of operating 
+over a wide range of both time (20 runs to 1/2 second or less) and 
+temperatures (68°F to 95°F) and designed specifically for clean room use. 
+The processor should also be capable of reproducing the many methods of 
+agitation normally used, since much of the published photographic processing 
+data issued by leading film manufacturers does not state the method of 
+agitation employed when conducting the original photographic experiments 
+to determine the sensitometric characteristics of any one emulsion and its 
+response to a given developing formula. 
+
+
+Other features required in such a laboratory tool, is a duplication of all 
+methods of processing, daylight operation, continuous belt transport 
+system, small quantities of solution, high viscosity capability, heat shock 
+application provision, variable agitation to include spray, immersion, 
+turbulation bars, nitrogen burst, liquid bearing etc. The dry box must be 
+provided with per cent relative humidity control. Such a sensitometric 
+processor it is believed would find ready acceptance in many fields of 
+photographic research and production laboratories throughout the country. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+eT 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+DRY PROCESS REPRODU CTION 
+
+
+All government agencies currently involved in photographic processing are 
+beginning to evince interest in dry film and non-silver reproduction. The 
+burden of research, more over, is intensified because of the current world 
+shortage of silver (in 1964, usage was over twice total production) ‘ 
+
+
+These non-silver photo sensitive materials include blueprints (ferrocyanide- 
+aramonia), electrostatics, diazonium-photopolymers, etc. The Eastman — 
+RCA "Bimat" is a silver-halide dependent process which, in the technical 
+sense, is nota "dry" process. Development is achieved by bringing a 
+
+film, pre-soaked with processing solution, into intimate contact with the 
+exposed negative. Diffusion is augmented by pressure rollers. The process 
+is thus similar to the Polaroid viscous paste technique, but is much slower, 
+its speed being in the range of 1-inch per minute. 
+
+
+A new technique, which should be capable of producing non-silver images at 
+ed moderately high speeds, is now proposed. Using the recording technique 
+discovered a few years ago by General Electric, that of creating interference 
+
+patterns in thermoplastic film by applying heat, this could be achieved. This 
+research program however, suggests using a modulated laser beam as the 
+distorting source, rather than a hot wire. Thus, higher speeds would be 
+achieved while, at the same time, greater resolution should be possible 
+because of the small diameters attainable in beam width. An added advantage 
+of this process is that the film might prove to be reusable, if archival 
+retention were not required. Reheating the recording film, causes plastic 
+flow and the elastic memory returns it to its original smooth surface. 
+
+
+A research proposal covering investigations into lead iodide and lead 
+bromide (another photo-and heat-sensitive, dry process) is presented in 
+another section of this outline. 
+
+
+Thus, as military tactical strategy and logistics demand closer to realtime 
+processing so that post-strike analysis can be immediate, primary research 
+effort is forced into two channels. Reduce the processing time for the 
+original negative (perhaps, by inflight development) and secon reduce 
+the time now required for producing duplicates of the original. cael 
+preliminary investigation has already proven the feasibility of 
+producing high quality prints while development is still in process. This 25X1 
+opens the door for a whole new research endeavor, outlined below: 
+
+
+25X1 
+
+
+continued 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+DRY FILM PROCESSING PROGRAM 
+
+
+ie Determination of silver halide image quality relationship to 
+diazonium-photopolymer image quality. 
+
+
+ie Viewer Printer (Non-reversing) 
+a) 70m/m to 
+b) 2-1/2 in. 
+
+
+a4 Viewer Printer (Reversing) 
+a) 70m/m to 
+b) 9-1/2 in. 
+
+
+4, Viewer Printer Enlarger (Reversing) 
+a) 70m/m to 
+b) 9-1/2 in. 
+
+
+5. Viewer Printer Enlarger (Non-reversing) 
+a) 70m/m to 
+b) 9-1/2 in. 
+
+
+6, Print Copies. 
+a) Upto 11x17 in. 
+
+
+7. Investigation to assess possibility of combination of silver/halide 
+and diazonium-photopolymer to obtain fast dry processing direct 
+
+
+from camera. 
+
+
+8, To determine the possibilities of producing color in diazonium- 
+photopolymer type film. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ELECTROPHORESIS 
+
+
+Electrophoresis, or cataphioresis, literally means the movement of ions or 
+suspended particles through a fluid under the action of an electromotive 
+force (emf) applied to electrodes in contact with the suspension. Early 
+Houston Fearless experiments in heat-shock techniques used a stainless- 
+steel band in close proximity to the moving film. When heavy de current, 
+at low voltages, was applied to the band it heated, creating accelerated 
+local development of the negative. It also quickly lost its close-tolerance 
+adjustment due to plating out of silver from the film. This condition was 
+subsequently eliminated by supplying alternating current to the bands. 
+
+
+There is every possibility that this dc-plating effect, deleterious in the 
+case of heat-shock, could be used advantageously to accelerate develop- 
+ment. Since the main chemical purpose of a developer is to dissolve non- 
+activically activated silver ions, any process enhancing this action will 
+speed development. Tf, then, a negatively-charged, moving electrode 
+were placed close to the film and the latter given a positive charge, 
+
+silver ions (which have a positive charge) would migrate rapidly toward 
+the cathode. The potential would, of course, be adjusted to a lower level 
+than that at which disintegration of the developer would take place. The 
+migration would take place most rapidly in the areas of greatest density, ie. 
+the shadows, which is the desired effect. 
+
+
+An added advantage of this process should prove to be smaller grain growth 
+due to the decreased total time in the developing solution. Clearing time 
+should likewise be reduced due to fewer remaining undissolved and removed 
+silver salts in the emulsion. 
+
+
+The moving electrode would be continuously scavenged of its collected 
+silver by a second electrode, so that the space between the film and the 
+cathode could remain constant. Here, then, isa proposed process which 
+promises to improve response time while concurrently producing a valuable 
+by-product, pure silver. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized C 
+opy Approved for Release 2011/06/09 : CIA-RDP78B04747A00130002000 
+2-4 
+
+
+<OPER LUMINESCENCE © 
+
+
+/ During tests made in connection with the design of a processor, ultra sonic 
+
+agitation was experimented with. During this agitation it was noted that ae 
+
+the developer (D- 16) exhibited a marked luminescence. It would appear . 
+that the investigation of this phenomena would be a rewarding area of 
+investigation. Some of the logical reasons, are: 
+
+
+\ 
+
+
+1. Abasis for real-time chemical analysis of developers. 
+
+
+2, Automatic control of replenishment if the luminescence is 
+proportional to the chemical activity of the developing agents. 
+
+
+3, Ifthe luminescence wavelength and intensity do increase : 
+
+exposure levels of silver halides, then controlled amounts of 
+| luminescence could be used to produce intens ification of the 
+| latent image. 
+
+
+4, If vibration (ultra-sonic or sonic) produces luminescence over 
+a wide range, then these data would become important in airborne 
+or satellite processing areas, where processing chemicals may be | 
+
+subjected to ultrasonic vibrations during launch or in flight. 
+
+
+5. Ifon measurement, the luminescence does not increase oF promote 
+fogging of silver halide emulsions, then perhaps the light output 
+could be used for visual monitoring of processing operations. 
+
+
+‘It is believed that this phenomenon has never been thoroughly investigated 
+
+
+with regard to photographic materials and processing. Research into this 
+rea might well result in advances in the state-of-the-art. 
+
+
+ay 
+
+
+Sanitized C 
+opy Approved for Release 2011/06/09 : CIA-RDP78B04747A00130002000 
+2-4 
+
+
+ie 
+
+
+we 
+
+
+Sanitized 
+Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ULTRASONICS 
+
+
+Besides the proposal to use ultrasonic transducers to de-viscidize highly- 
+viscous processing chemicals (described under NDE-VISCIDIZING"), two 
+more areas worthy of research exist. These are: 1) A squeegee and 2) A 
+developer accelerator. 
+
+
+During early experimentation with air knives, OF 
+squeegees, to remove surface iquids from the film without injury to the 25X11 
+emulsion, a phenomenon was noted. At certain high velocities, 4 high- 
+frequency flutter would develop as the film passed through the knife. When 
+this occurred, water removal was much faster and efficient, as might be 
+expected. There is every reason to believe that ultra sonics could do as 
+well, if not better, in this application. One distinct advantage would be 
+the fact that ultra sonics are much easier to shield from the operator than 
+the high-pitched, siren-like wait of an air knife, which makes it extremely 
+unpleasant to work near. 
+fin past experimentation, it has been well established that many chemical “= 
+reactions, particularly those requiring diffusion for completion, are 
+accelerated by the addition of ultrasonic energy to the reaction bath. This 
+should be especially applicable to the photographic process. A series of 
+tests should be run appraising the effect of ultrasonic energy on rate of 
+development, image quality, granularity, etc. and similar effects in the 
+case of short stop, fixation, and washing. There is the distinct possibility 
+that all other standard forms of solution agitation might be eliminated, 
+particularly important in some of the industry's latest compact processors. 
+Some of the newest solid-state transducer power supplies are smaller 
+physically than the fractional horsepower motor and pump units currently 
+used in these processors. 
+
+
+She Anis — Aron 
+
+
+Sanitized 
+Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+a 
+
+
+w 
+
+
+Saniti 
+itized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+SPRAY PROCESSING COLOR FILM 
+
+
+Despite its inherent advantages of speed, economy, controllability and 
+compact processor permissibility, spray processing of color film has never 
+reached reduction to practice. Itis felt that none of the recognizable 
+problems would be resistant to a concerted research effort. 
+
+
+Some of the outstanding difficulties, such as aerial oxidation (more critical 
+in its effect on color film than it is on black and white) appear relatively 
+easy to overcome. Others, such as the differential diffusion rate of the 
+processing chemicals through the different color-sensitive layers of the 
+emulsion, offer more challenge. Since the foregoing phenomenon causes 
+
+a color imbalance in the final developed image, it is of critical significance. 
+
+
+In carrying out this proposal, research is indicated along the following lines. 
+Altering the process chemistry to attain a proper pH gradient throughout the 
+multilayer emulsion, igs one approach. Another promising approach is that of 
+introducing certain long-chain anti foggant polymers to the formulation to 
+control the penetration rate through the various layers. Thus, it might prove 
+possible to obtain color-balanced images by the same principle used ina 
+series of particulate grading screens. A third avenue open ig the use of 
+"competing" developers which have the net effect of limiting the reduction 
+
+of silver halide and, thus, preventing oxidation products from destroying 
+
+the effectivity of the color couplers. 
+
+
+It is felt that the future importance and potential of this field are well worth 
+extensive research effort now. 
+
+
+Saniti 
+itized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+DEGASSING AND DE-OXIDIZATION OF PHOTOGRAPHIC SOLUTIONS 
+
+
+Close study is being given to the problems of exacting control of 
+photographic processing, but in the area of the effects of developer 
+oxidization little appears to be known. The primary factor in developer 
+exhaustion other than direct usage is inherent in aerial oxidization. The 
+oxidization products, besides drastically reducing developer life, may 
+have an adverse effect upon the developing action. Tf anti-oxidants 
+could be reduced or eliminated improvements in the photographic process 
+would result, in addition to opening the door to new active developing 
+agents. The project would investigate various methods of de-gassing 
+and de-oxidizing solutions including the use of ultrasonics, the effect 
+on emulsions, and the effect of the removal of anti-oxidants from 
+developing solutions. 
+
+
+Other ramifications of this study are these. Numerous investigations over 
+a period of more than 40 years have conclusively proved that developers 
+will last almost indefinitely if the oxyphilic agent (hydroquinone, gallol, 
+etc.) is kept separate from the caustic agent (sodium hydroxide, sodium 
+carbonate, etc.). A spray processor should be investigated in which the 
+two main constituents are intermixed in the correct proportion at the spray 
+nozzle, itself. A similar system is used spraying two-component epoxy 
+resins. Thus, storage life would be greatly extended and activity at point 
+of contact, a constant. 
+
+
+Certain complex organic alcohols have been used to lessen surface eva ~ 
+poration from reservoirs by as much as 65 percent. Perhaps one of these 
+might act as an oxygen barrier, when dispersed on the surface of the 
+developing tank, without adversely affecting the photographic reaction. 
+This type of preservative would be thoroughly investigated. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+een 
+
+
+_... oanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B047474001300020002-4 
+
+
+SUMMARY OF PROPOSED RESEARCH PROJECTS 
+
+
+‘\ 
+
+A 
+
+‘ hs 
+yi # 
+: 4 : 
+
+; CE 
+
+\ 
+
+
+SSE ee 
+
+
+on" Onteniente Hot pre EE 
+Tite, 
+
+
+APRIL 1965 R&D GROUP 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : 
+
+
+FOREWORD CS, 
+
+
+adiformed to 
+
+
+meet the: requirements ofa government sponsored Trese program , This 
+program defined objective peculiar to the development of thd company : 
+designed air-liquid bearing concept of film processing. Because of the ; 
+broad spectrum of disciplines represented by the group, mani area$ of | 
+research have been revealed during the assignments idiod thig ; 
+program since September, 1964. These areas which have begn shown to: 
+be fruitful of separate research are outside the scope of the defines 
+objectives of this Rrogram, but appear to offer state-of-the-art advances, 
+
+
+or the development fof needed specific items of equipment. The opportunity 
+to submit study proposals on these projects would be welcomed ag a means 
+
+
+of broadening the activities of the group, to make possible: even fore 
+significant technical advances. _ Be 
+
+
+ih 
+
+Ri: ‘= 
+yi toy 
+‘iB be 
+eat 
+} fn 
+ot 
+ae 
+ead 
+
+
+SREB TIRER I bo Dow 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+CIA-RDP78B04747A001300020002-4 
+
+
+25X1 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+SUMMARY OF PROJECTS, 
+
+1. ' HEAT SHOCK & DE-VISCIDIZING 
+
+High viscosity (4000 centipoises or more) processing offers rewarding results 
+such as extreme eeveropment speeds, small grain size, good resoluton ae 
+
+
+; 
+{ 7 
+gamma, The aitticuilies inherent in the process however, outweigh the 
+
+
+advantages somjewhal. By combining experience 4 in the fields 29X11 
+
+
+bearing design and heat shock with the concept of viscous- i development, 
+the pacats of high load-bearing capacity and fast processing tne could be‘ 
+
+
+attained simultaneously. This program would investigate the § use of de- -peptizing 
+yr 
+agents or ultrasonic power to effect instantaneous devisciditigation os the ; ; 
+
+
+Pf ; 
+= bi 
+| 4 p 
+
+
+solutions permitting inter bath transfer in the ssavenional manner. 
+
+
+This program thus details a research program to investigate ing combined 
+
+
+use of high viscosity solutions in conjunction with liquid bearings ape heat 
+shock. A unique method of de-viscidization is proposed to refluce the viscosity 
+4 
+
+
+of the solution retained on the film. Concurrently, sensitometric studies 
+: 4 if 
+
+are proposed to determine the parameters of operation, and the eftegt on 
+
+image Saati: The goal of this research program is the aearen of d very 
+
+
+high ‘speed* processor employing the best features of deep tank immersion 
+
+
+ina eS paee efficient machine. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+nena 
+
+
+Saniti 
+; anitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+2. DEGASSING AND DE-OXIDIZATION OF PHOTOGRAPHIC SOLUTIONS. 
+
+
+Close study is. being given to the problems of exacting control of 
+photographic moceesing but in the area of the effects of developer 
+ozidization Litfle appesi= to be known. The primary factor ing developer 
+emiguetice other tha direct usage is inherent and aerial oxigication. 
+The oxidization prodhcts, besides drastically reducing developer Lite, 
+
+ad may have an adversd effect upon the developing action. If anti-oxidants 3 
+could be eadsed or i suedae improvements in the photograyhic provess : 
+would result, in addition to opening the door to new active agvelonipa 
+
+i] 
+
+
+agents. The project. ‘would investigate various methods of de- -gassing 
+
+
+and de- oxidizing solutions including the use of ultrasonics H the effect 
+i ed 
+
+
+¥, 
+on amulsions, and the effect of the removal of anti- -oxidants por agvoloping 
+
+
+solutions. 
+
+
+, 
+
+
+3, LEAD QxIDE PROCESSING. This is a new process In ee an ima ge 
+
+is ee by the localized photo- -decomposition of lead oxide. THis 
+
+project covers research into methods of depositing films on various 
+
+ibeaee methods of image recording, and determination ef image 
+
+quality. The process is. intriguing to the research- morlentedy ee because 
+
+the grain size of the PbI, deposited layer is so fine that the image attainable 
+
+approaches the resolution of the optical system used. The drawbacks of 
+
+the material in its current early state of development (1) It must be sensitized 
+
+at a temperature of 200°F, 2) Itis photographically slow, and 3) itis soft 
+
+and subject to abrasion) offer research challenges comparable to those faced 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+in the early history of silver halide experimentation. Nothing was published 
+on the phenomena prior to August, 1964, when the findings of a research 
+
+
+group at the University of Bristol, England were recorded. . i 
+
+
+4. PRINT DROP-OUT. 
+Discussions with veteran photographic interpretation staff members, » suggest 
+that a need exists fora method whereby 4 negative or posit Mi copy ‘ofa 
+— film frame (particularly in 9 1/2 ins. widths) could be snmealptey obtainable 
+while the negative film igs still in process. This project would evaluate | 
+various media, including ultra-violet sensitive emulsions for aia, and’ 
+propose various methods of producing such prints, either as i, addendum to 
+a processing machine or as a separate assembly to be fitted qn. Vafious | 
+methods of control are envisaged, such as providing a remot Vv. ip enable 
+a monitor to select a particular image for copy and immediate} propogpion | 
+-, by operating a simple push switch. Other alternative netnoad could provide 
+for pene ona selected time span (and therefore footage) basis, or As a 
+result of continuous viewing at the take-up end of a processof. mp objective 
+is to. permit an immediate inspection of a frame of a film whife the Femainder 
+' ; 
+is still in process. The resolution is to be such that the positive o negative 
+rere within the normal photographic interpretation range for the particular 
+
+
+imagery. Sucha proposal is in the realm of scientific feasibility due to 
+
+
+recent improvements in heat-developable emulsions. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+5. DEVELOPER LUMINESCENCE, 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+During tests made in connection with the design of a processor, ultrasonic 
+
+
+agitation was experimented with. During this agitation it was noted that the 
+
+
+developer (D-16) exhibited a marked luminescence. It would appear that. 
+
+
+a 
+
+
+the investigation of this phenomena would be a rewarding area of investigation. 
+
+
+Some of the logical reasons, are: 
+
+
+1. A basis for real-time chemical analysis of developers. 
+2. Automatic control of replenishment if the luminescence is 
+proportional to the chemical activity of the developing agents. 
+
+
+3. If the luminescence wavelength and intensity do increase 
+exposure igvelsiot silver halides, then controlled amounts of luminescence 
+could be ited td produce intensification of the latent image. 
+
+Aa. BE vibration ltra-sonic or sonic) produces luminescqnce over 
+
+a wide rare, then these data would become important irk airborne 
+
+or satellitd procbssin yj areas, where processing chemicals may be subjected 
+to ultra ee saetibae during launch or in flight. 
+
+
+s 
+
+
+5. If on measurement, the luminescence does not incrda se or 
+promote fogging of silver halide emulsions, then perhaps the light 
+
+
+cutput could be used for visual monitoring of processing operations. 
+
+
+It is believed that this phenomenon has never been thoroughly investigated 
+with regard to photographic materials and processing. Research into this 
+
+
+area might well result in advances in the state-of-the-art. 
+
+
+(4) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+6. HIGH-TEMPERATURE, HIGH -SPEED SENSITOMETRIC PROCESSOR 
+Studies of the effect of elevated temperatures on negative aerial emulsions 
+are currently being conducted. One of the parameters of this project is 
+the increasing of the processing temperature, and the decreasing of the, 
+corresponding processing time. At the present time, a temperature of 
+U8°F has been reached with a processing time of 15 seconds. Due to 
+human limitations, it has been found impossible to shorten this time] with 
+currently available apparatus. An analysis of the Pcie ofa , 
+laboratory type processor, shows that a processor of the type eae 
+is not available. The need lies in a small compact research machine 
+capable of operating over a wide range of both time (20 runs to 1/2 second: 
+or less) and temperatures (6 g°F to 95°F) and designed specifically for 
+clean room use. The processor should also be capable of reproducing the 
+many methods of agitation normally used, since much of the published 
+photographic proces ging data issued by leading film manufacturers does not 
+
+i 
+state the methdd of Agitation employed when conducting the origitat photographic 
+experiments to determine the sensitometric characteristics of any gne emulsion 
+and.its regponse to a given developing formula. Other features reves in such 
+a laboratory tool, is a duplication of all methods of Sieeeaning, daylight 
+operation, continuous belt transport system, small quantities of solution, 
+high viscosity capability, heat shock application Beuiaion: variable 
+agitation to include, spray, immersion, turbulation bars, nitrogen burst, 
+liquid bearing etc. The dry box must be provided with per cent relative 
+
+
+humidity control. Such a sensitometric processor it is believed would find 
+
+
+ready acceptance in many fields of photographic research and production 
+
+
+(5) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy A 
+py Approved for Release 2011/06/09 : CIA-RDP78B04747A00130 
+0020002-4 
+
+
+laboratories rhroughoul the country - 
+i 
+1 
+
+
+With today's emphasis on inflight processing many systems have been devised 
+4 : 
+
+
+utilizing the silver halide medium for rapid information transfer. 
+
+
+4 
+i 
+
+
+\ 
+
+A study of the current rapid processing systems indigates “the 
+4 
+
+following problem areas, and resultant information loss. . i 
+
+
+Saturated Web Processimy . 
+
+The saturated web processing application method has had limite success 
+where the development time is in excess of one minute at an clevated température 
+of approximately 120 F. However, in considering the web process for rapid 
+
+
+access, the following characteristics will be present. 
+
+
+Q) Imprint pattern of the web material 
+
+
+(2) Non-uniformity of application of film sizes in ek ‘cess of 35mjn 
+(3) If the film is not developed in one continuous ofprtiol the. 
+
+
+web will dry out in the areas adjacent to the film previously developed. 
+
+
+(4 4) Ak inclusion: Extreme difficulty is encountered}in achjevind 
+
+good Aaahace in all areas of the format to be developed. | 
+
+(5) The web imprint by subjective viewing appears * to be afr 
+
+to either a reticulation oF graininess pattern. The proces Js will produce 
+
+
+higher fog than normal, lower maximum density than normal and lower 
+
+
+gamma. There is a possibility of subsequent film speed loss. 
+
+
+Viscous Proces sing 
+
+
+Dann 
+
+
+(i) Extreme difficulty encountered in uniformity OF evenness of appli- 
+
+
+cation. Thus, resultant image is not uniformly developed or exhibits mottled 
+
+
+appearance. 
+
+
+(6) 
+
+
+Sanitized Cop 
+y Approved for Release 
+2011/06/09 : CIA-RD 
+: -RDP78B04747A001300 
+020002-4 
+
+
+_ Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+/{2) At Ona temperatures the processing time for this method 
+
+
+h 
+
+
+is extremely long. If the development solution temperature is pievaved above 
+
+
+A 
+: Q 
+\ if 
+
+
+120 oe extreme ditticupty is encountered in the development- mete cycle 
+
+
+(transfer of aevefopmebt by-products out of the emulsion, ond replacement 
+e 
+
+by fresh eevelonyg agents into the emulsion). ae 
+
+4 
+
+
+(3) In, ‘considering viscous processing for rapid information access 
+a monobath solution is} i eeuineds A monobtah solution in the vigeous state 
+
+
+will yield a high fog level, a lower maximum density, and cubdequently 
+
+
+lower gamma. y ; fi 
+
+
+Since the aipve processing methods have their limitations, ~much 
+thought has been devoted to the feasibility of an extremely hiy pyreed 
+
+
+processor which will enable the processing temperature to remafp att 
+
+
+ie 
+20°F level with a complete processing cycle under 5 seconds. tthe mast 
+important design feature is to produce an image comparable to a convéhtional 
+process. The method of rapid processing this proposal would research is See 
+in which Miter the complete or partial development chemistry is incorporated 
+within: the ne halide emulsion. The latent image would then be ptocessed 
+by first activating the developing agents that are ee | in the emulsion, 
+followed by a chemical stabliizing treatment. 
+
+| Preliminary experimenis in development used Ansco's commercial 
+liquid silver halide emulsion prepared for coating on 11" x 14" photographic 
+acetate base material. The control senda series of coatings did not 
+
+
+include developer chemistry. These control samples sensitometric and 
+
+
+(7) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+resolution tests were developed in Eastman Kodak D-19 and Rapid Foxer. 
+The second set of samples had the incorporated developer chemistry introduced 
+
+
+4 
+
+
+into the liquid einulsign prior to coating. 
+
+
+All piptourgphic tests were conducted using one in i 
+
+
+strips. The third exp§rimental factor investigates the function "of coins 
+
+
+thickness ‘in corgunctfon with incorporated developer chemistry. 
+The efperinlenta results indicates that with the wiinfeation of 
+& 
+Pesarnerared developer chemistry an extremely small process cho be designéd 
+
+
+to neaduee the following performance characteristics: Y } 
+
+
+(1) Processing cycle under 5 seconds y fi i! 
+(2) Development uniformity 
+(3) Wide processing temperature latitude: 70°F + 20° ; 
+(4) Wide processing time latitude: 5 times nominal pms f 
+® Small volume solution requirements @ 
+
+
+considerations: Minimum of three weeks. 
+(7) No chemical fog. 
+(8) Increase in effective film speed 
+(9) No sensitometric degradation im 
+(10) No subjective image degradation. i 
+
+
+"bee fresno ig So ae 
+
+
+The contact printed resolution test on both the control stangard which 
+was processed in D-19 68. F for 4 min, and the incorporated; develope: emulsion 
+was processed in an activator both for 4 seconds at 68°F. A micros¢ope 
+
+
+it 
+examination indicated equal resolution capability of 204 line¢/mm. 
+
+
+3 
+
+It is strongly believed that the preliminary experiments justify an 
+intensive research program to accurately establish the sensitometric characteristics 
+of various emulsion formulas, and the image quality obtained in terms of granularity, 
+fog, resolution, gamma and speed. If the research program resulted ina film 
+image product the equivalent of those produced by conventional processing 
+
+
+methods, a whole field of compact processors would become available for 
+
+
+(9) 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+i i i : nsidered 
+use in situations where the large conventional processors cannot be co 
+
+
+Some of these examples ready to mind are in-flight processors. micro film 
+processors mobile processing laboratories. sporting events film processing, 
+or in any situation calling for high speed , high resolution processing 
+
+
+where space for the equipment is ata premium. 
+
+
+pie GGA EE 
+
+
+verse 
+
+
+emirate gly oo 
+
+
+(9) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+PROPOSED SPONSORED 
+APPLIED DEVELOPMENT PROGRAMS 
+
+
+25X1 
+December 1965 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized SOR Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+INTRODUCTION 
+
+
+eee 
+
+
+research group was formed to meet the require- 25x14 
+ments of a government sponsored research program, which also 
+
+included the design and installation of a clean room complex. Because 
+of the broad spectrum of disciplines represented by the research group, 
+applied research in many areas of film processing and image exploitation 
+is possible, with the objective of the development of specific items of 
+eguipment as a means of continuing and broadening the activities of the 
+group beyond the present contract which expires on December 31, 1965. 
+Summaries of some of these areas are presented for evaluation and con- 
+sideration. The opportunity to present full proposals on any of these 
+projects will be welcomed. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+J 
+INDEX OF PROPOSED PROJECTS - 
+Ls A Tactical Continuous Printer Jo Te 
+2. Controllable Development <4 
+oo A Tactical Film Titler flack. 
+ae A Tactical 70mm thru 9-1/2"' Film Processor “3% 
+De Survey of dry film processing materials and design of equipment for use 
+of Diazo, Kalfax etc. to achieve rapid access prints, a/«. 
+* 6. Acceleration of Image Development by heat shock ( continuation of program) 
+x 7. Investigation of film drying techniques ( continuation of program) 
+- 8, The adaptation of Houston Fearless Water Conservation System to current 
+Air Force and Navy film processors, “«.-* 
+A rapid access enlarging printer with step and repeat capability. -" 
+~ 10. A rapid access step and repeat contact printer. oe 
+ll. A unique method of simultaneously achieving rapid access negative and 
+positive silver halide images 
+12, Exposure compensation through dye absorption developer inhibitors. 
+13, High viscosity processing with de-viscidization 
+14, Negative- positive viewer 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001 300020002-4 
+
+
+1, The Tactical Printer is proposed as a continuous- contact 25X1 
+
+
+printer that prints from a 70mm to 9-1/2 inch roll of either positive or negative 
+transparency onto a roll of film-base or paper-base photo-.sensitive ( printing) 
+material, and designed specifically for field use. 
+
+The Tactical Printer would consist of an enameled light-tight cabinet on 
+which are mounted light-proof cassettes for supply and takeup spools of the duplicating 
+film or paper. The supply spool has a drag clutch and the takeup spool has a torque 
+motor to insure positive transport and registration of the duplicating materials. The 
+interior of the cabinet houses the film transport mechanism and the printing light 
+source. The elements of the film transport mechanism are the transparency supply 
+and takeup spool adjustable supportw, two torque motors, and a driven metering 
+roller, One torque motor drives the original stock supply spool shaft; the other 
+drives the original stock takeup spool shaft and the metering roller for the duplicating 
+stock. A control for slewing the original stock and a viewer located on the left side 
+of the printer permit preselecting any frame or group of frames to be printed. A 
+voltage adjustable 40 watt incandescent lamp provides the printing light source. 
+Neutral density filters added to the exposing aperture permit finer exposure control. 
+
+The printer may be daylight operated from any 115 volt, 60 cycle power 
+source. Printing speed rate is 60 feet per minute. The transport mechanism will 
+operate in the printing mode only if the metering roller shaft is pushed down to press 
+the duplicating material in contact with the original material. Additional printing 
+mode conditions include POWER switch set to ON, SLEW switch to FORWARD, and 
+PRINT switch set to ON. The rewind mode requires the metering roller shaft 
+to be raised, POWER switch set to ON, and SLEW switch set to REVERSE. Quick 
+
+
+reference specifications are listed in Table l. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+rr 
+
+4 
+
+if 
+
+i 
+
+ie 
+
+i 
+
+4 
+e 
+a 
+ui 
+
+4 
+
+we 
+H 
+
+i 
+p 
+fF 
+a 
+u 
+
+
+25X1 
+'factical Printer 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+a 
++ 
+
+
+Saniti 3 
+itized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ee 
+ae 109-69 
+TABLE 1 
+SPECIFICATIONS 
+Material handled 70mm to 9-1/2 inch wide 
+
+
+negative/ positive roll film 
+70mm to 9-1/2 inch wide 
+duplicating film or 9- 3/8 inch 
+wide paper 
+
+
+Material Capacity — Original stock, 1000 foot spools 
+
+
+Duplicating stock, 1000 foot spools 
+
+
+Resolution 80 lines per millimeter minimum 
+Operating Speed 60 feet per “aniite 
+
+Operating Area Daylight 
+
+Slewing Capability Original stock only 
+
+Viewing Window g~1/2 by 4-1/2 inches 
+Dimensions Length 25 inches 
+
+
+Width 33-1/4 inches 
+Height 24-1/2 inches (without 
+magazines) 
+
+
+Weight - 
+
+
+Power Requirements 115-volt, 60-cycle ac 
+
+
+Saniti 
+itized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Q 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Q-109-65 
+
+
+CONTROLLABLE DEVELOPMENT 
+
+The heat shock program, marks but 4 small inroad into a field as vast 
+and complex as "“latensification, " or the study, measurement and 
+intensification of the latent image while still in the process of develop- 
+ment. Many different films (both original negative and duplicating 
+stocks) must be studied in combination with different developers and 
+processing rates. 
+
+
+Fither infrared or laser scanning could be coupled with image analysis 
+to provide point-to-point control of the development process. Natural 
+outgrowths of this study would be direct sensor control of local heat- 
+ing, local latensification with active light, local Hershel-effect erasure 
+and feedback control of chemical activity. The upper limits of latensi- 
+fication are not known to the photo scientific field and should be deter- 
+mined as these data are as basic to problems in modern photography as 
+the work of Hurter and Driffield was for its day. 
+
+
+Chemical Auto-Compensation 
+
+
+Aside from scanning the developing image and controlling further develop- 
+ment, there is another possible approach for exposure compensation, 
+
+This method is "Chemical auto-compensation. " This method is entirely 
+automatic, in that the image itself controls the further development of 
+
+the film. Furthermore, this method results in point-by-point compensa~ 
+tion of the image. 
+
+
+I) “Starvation Development" 
+
+
+By using a viscous developer with a low concentration of developing 
+agent, development of the overexposed areas will be limited by the 
+lack of available developing agent. Used in conjunction with a longer- 
+than-usual developing time, the underexposed areas will become over~ 
+developed while the overexposed areas will remain underdeveloped. 
+
+
+Similar results are achieved by initiating development in an ordinary 
+non-viscous developer, then allowing development to reach comple- 
+tion in a stationary water bath. 
+
+
+These methods have been investigated in the past, but never in regards 
+to exposure compensation. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Q-109-65 
+
+
+SURVEY OF DRY FILM PROCESSING, MATERIALS AND EQUIPMENT 
+
+
+The ease and cleanliness of dry film (and semi-dry film) processing 
+together with the advantage of employing relatively untrained operators, 
+has always intrigued both science and industry. Recently, the world- 
+wide shortage of silver and the scarcity of fresh water supplies have 
+combined to greatly increase the pressure for scientific exploitation of 
+non-silver halide processing. The net result of this unique set of cir- 
+cumstances is that a bewildering plethora of papers, films, processors 
+and techniques are now available. 
+
+
+Since much of this developmental work is proprietary in a highly com- 
+petitive field, a complex of patents, trade secrets and mystery shrouds 
+the products and inhibits an unbiased appraisal of the best process to 
+use for a given application. What is needed, then, is a complete sur- 
+very in depth of every process and material now on the commercial 
+market by a scientific laboratory unbiased by the possibility of a con- 
+flict of interests. 
+
+
+Such an exhaustive research project would produce immediately not only 
+the parameters necessary to permit selection of the best technique to use 
+for a given application, but also bases to predict possible limitations of 
+products when only the technical requirements of a new need are known, 
+
+
+Only on the basis of such a correlative survey as proposed above, would 
+it be possible to find the gaps in existent equipment and predict func- 
+tional gear scientifically within the state-of-the-art. Such a survey 
+could reveal many fields in which silver halide could be superceded by: 
+one of the dry film processes with its inherent advantages. Also, it can 
+be expected that data will be obtained that will predict whether existent 
+commercial or military equipment can be used directly, or modified to 
+encompass these products. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Q-109-65 
+
+
+ACCELERATION OF IMAGE DEVELOPMENT BY HEAT SHOCK - 
+CONTINUATION OF PROGRAM 
+
+
+The research program initiated for the first half of fiscal 1965 (July - 
+December) to advance the state-of-the-art produced by pioneering 
+efforts of engineers in image enhancement by heat 
+shock is showing good results beyond those expected in this early 
+stage of the program. Stable images have been produced in which 
+density has been raised from 3 stops under normal exposure to normal 
+without discernable grain growth or loss of resolution. 
+
+
+By the expiration date of the present research program, all criteria on 
+all aerial emulsions will not have been obtained from the experimental 
+processor nor the data reduced to permit a final analysis of performance 
+and application concepts to be prepared. It is proposed that this pro- 
+gram be funded to permit the outstanding work on black and white films 
+to be completed and to further investigate the use of heat shock in con- 
+junction with special chemistry to speed up color film processing. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+} INFRARED FILM 
+MAGAZINE 
+
+
+, ae PRESSURE 
+
+
+‘ ees ROLLER 
+EX POSURE oN 
+
+
+DRUM 
+
+
+ROTATING 
+GLASS DRUM 
+
+
+CONTROL 
+
+
+NEGATIVE 
+
+
+FILM 
+1.2. FILM 
+
+
+EXPOSURE DRUM 
+
+
+FILMA PATH ARRANGE MENT 
+
+
+4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+ee 
+
+
+ee 
+anitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+O- 109-65 
+
+
+Ts INVESTIGATION OF ADVANCED FILM DRYING TECHNIQUES - 
+CONTINUATION OF PROGRAM 
+
+
+A program for the investigation of advanced film drying techniques is 
+currently funded through December 1965. This program was initiated 
+
+in September 1965 to investigate, by mathematical analysis and lab- 
+oratory research, various methods of drying aerial photographic film 
+with the objective or determining the design parameters of an advanced 
+concept having 4 film handling capacity of 100 feet per minute or greater 
+and of a smaller physical size than the large units now being used at 
+lower film speeds. 
+
+
+The program to date has included the use of a moderate vacuum alone, 
+vacuum and radiant heating, vacuum and low temperature drying. The 
+use of solvents to increase the evaporation rate of water in the film 
+has included both miscible and non-miscible (with water) solvents in 
+conjunction with ultrasonic action to accelerate the diffusion of the 
+solvents into the film emulsion. The use of an ultrasonic squeegee is 
+also being tested for the removal of surface water. The preliminary 
+analysis and testing has indicated that the most promising techniques 
+to date to obtain the program objectives is the use of solvents with 
+ultrasonic action. 
+
+
+Due to the limited time available before expiration of the current pro- 
+gram, the thorough testing and analysis of all parameters will not be 
+completed. Therefore, because of the established need for a high 
+efficiency, high speed film dryer, a continuation of the program is 
+proposed to complete the laboratory testing and analysis of results 
+and to determine the design parameters upon which a prototype model 
+may be based. 
+
+
+Saniti 
+anitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+(= LUY=0d 
+
+
+11. A UNIQUE METHOD OF SIMULTANEOUSLY ACHIEVING RAPID ACCESS 
+NEGATIVE AND POSITIVE SILVER HALIDE IMAGES 
+A research study is proposed to determine the feasibility of simultaneously 
+printing and processing both negative and positive images. Inthe proposed 
+system, any of the commonly used negative films (i.e. 4400 - 4401 - 4404) 
+would be developed to a gamma level which would permit the exposing of a 
+positive image on infrared aerographic films. 
+
+
+The spectral sensitivity of both materials are such that with the proper 
+filtration, the infrared film can be exposed to the far-infrared portion of 
+the spectrum (800 -900 M U) without effecting a panchromatic emulsion 
+which loses its spectral sensitivity beyond 725 MU. 
+
+
+During the last stages of development of the negative image, the positive 
+infrared material is exposed by means of a rotating glass drum housing 
+
+the infrared light source. The infrared film is pre-wet in the developer 
+prior to exposure, then during the exposing cycle both films are squeezed 
+between the glass drum and a pressure roller. A minute amount of developer 
+will remain between both emulsions to eliminate the pos sibility of sticking. 
+The developer will also act as a liquid-gate system to achieve maximum 
+resolution and image quality. 
+
+
+To synchronize the rate of develoment of both the negative and positive 
+images, the technique of heat shock will be employed. Use of the heat 
+shock applicators will also permit independent control of the gamma of 
+
+either or both of the emulsions under development. 
+
+
+This technique could for example be employed by tactical air units utilizing 
+70mm camera systems to achieve rapid access images in less time than 
+
+the conventional cycle of original negative processing, printing of positive 
+images, and development of the same. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+12. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Q-109-65 
+
+
+POSURE COMPENSATION THROUGH DYE ABSORPTION DEVELOPER INHIBITORS 
+
+
+EXPOSURE COMPENSATION THROUGH DYE Stee 
+
+
+A unique method of exposure compensation is proposed, based on the 
+inclusion in the developer of a dye-coupler molecule which will couple 
+with the reaction products of development (e.g. bromide ion) to inhibit 
+further development. The dye (white, or light colored) formed would 
+deposit on the developing silver halide grain in direct proportion to the 
+degree of developing action occurring; that is to say, where the greatest 
+developing action is taking place, in the overexposed areas, the deposit 
+would be heaviest with the reverse effect in underexposed areas. 
+
+
+The effect can be utilized in two ways, first the deposition of the dye on 
+the overexposed areas will prohibit further development while permitting 
+the development of underexposed areas to continue. Secondly, by the 
+use of radiant (infrared) heat further control of development can be ob- 
+tained since the infrared will be reflected from the heavily coated areas 
+and absorbed by the uncoated areas. The action can be considered as 
+the equivalent of the wearing of a white shirt in the summer to reflect 
+the heat away from the wearer's body, as against the wearing of a black 
+suit in the winter to absorb ‘available heat. The result would again be the 
+intensification of development in the underexposed (lightly or uncoated) 
+areas due to the actions on the silver halide by the increased electro- 
+chemical energy of the developer. 
+
+
+At the same time, due to the white dye coating both isolating these heavily 
+coated overexposed areas from contact with developer, and by reflecting 
+the infrared energy, development would cease or be retarded. The feasi- 
+bility of this method has been proved by early research. A research pro- 
+gram is proposed to: 
+
+
+a) Determine the chemical requirements and action of the dye and devel- 
+opers required. 
+
+
+b) Develop the infrared source required. 
+
+
+c) Determine the sensitometric criteria and performance of the system 
+as a whole. 
+
+
+The| "Sepratron" concept of identical processing modules 
+lends itself to the application of such advanced methods of exposure com- 
+pensation. The substitution of variously modified modules would permit 
+accurate assessment of the results of such advanced methods as proposed 
+above. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X1 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Q-109-65 
+
+
+A further extension of the foregoing program would be research into the 
+formulation of a developer that would have the property of negative Kinetic 
+potential. This would be effected by the inclusion of a coupler molecule, 
+which, in place of the formation of a dye coating, would couple with the 
+reaction products of development to decrease the electro-chemical energy 
+of the developer, thereby retarding development in overexposed areas. 
+Conversely, development in underexposed areas, would be accelerated 
+since a cessation or decrease in development inhibition would be effected 
+due to the corresponding decrease in reaction products. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+13. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Q-109-65 
+
+
+HIGH VISCOSITY PROCESSING WITH DE-VISCIDIZATION 
+
+
+High viscosity (4000 centipoises or more) processing offers rewarding 
+results such as extreme development speeds, small grain size, good 
+resolution and gamma. The difficulties inherent in nracess however, 
+outweight the advantages somewhat. By ite celal ier 
+rience in the field of heat shock for rapid processing with the concept of 
+viscous-layer development (and, of course, short stop and fixation), an 
+ideal of minimum response time should be attainable. 
+
+
+25X11 
+
+
+One of the greatest assets of viscous processing, high speed, is in itself, 
+a problem. The developing action continues until removal of the viscous 
+layer and subsequent short stop and, in the case of 15- to 20-second proc- 
+essing times, one second, plus or minus, becomes critical. If the viscous 
+developer were not removed, but merely plunged into the short stop bath, 
+activity would continue until the acid had permeated the viscous layer and 
+neutralized the reaction at the interface boundary. The ideal solution to 
+this problem would provide developer removal faster and more thoroughly 
+than high-pressure water. 
+
+
+Two unique methods of de-viscidization of the solution retained on the film 
+are proposed as potentially fruitful avenues of research. This program, 
+therefore, investigates the use of de-peptizing agents or ultrasonic power 
+to effect instantaneous de-viscidization of the solutions permitting inter- 
+bath transfer in the conventional manner. Concurrently, sensitometric 
+studies are proposed to determine the parameters of operation, and the 
+effect on image quality. The goal of this research program is the design | 
+of a very high speed processor employing the best features of deep tank 
+immersion in a compact, efficient machine and having the simplicity of 
+operation of Dr. Land's "Polaroid" technique. 
+
+
+TECHNOLOGICAL ANNOTATION 
+
+
+Based on the latest published scientific advances in the fleld of photogra- 
+phic processing and technical papers from symposia describing individual 
+research efforts, 1t can be safely predicated that technology must advance 
+in a direction emphasizing viscous processing. Since fresh chemicals are 
+always applied to the film and discarded after their function is complete, 
+no replenishment is necessary and chemical control problems are elimi- 
+nated. Agitation is likewise no problem as the gelatinoid layer remains 
+undisturbed during the whole development treatment time. The degree and 
+uniformity of development are, therefore, accurately controllable. As an 
+added benefit, the chance of introducing environmental dirt are greatly 
+reduced. The speed of development is such that, even at high film rates, 
+the physical size of the machine can be a fraction of that of a deep-tank 
+unit. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+14, 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Q-109-65 
+
+
+NEGATIVE -POSITIVE VIEWER FOR IMAGE INTERPRETATION AND PILOT BRIEFING 
+
+
+A program is proposed to develop a viewer using closed-circuit T.V. tech- 
+niques to display aerial negatives to photo-interpreters, and remotely to 
+groups of pilots, P.I. Officers, etc. , by the use of additional T.V. moni- 
+tors, or by large screen T.V. projection. 
+
+
+The following features are significant: 
+
+
+a) 
+
+
+“yy 
+
+
+c) 
+
+
+d) 
+
+
+h) 
+
+
+The display of negative film as a negative or as a positive, eliminating 
+delay in printing. 
+
+
+A high definition over the whole viewed area. 
+
+
+The negative can be displayed laterally inverted, horizontally inverted, 
+or 90°, 180°, or 270° rotated by the operation of a switch. 
+
+
+Any portion of the negative may be selected and "blown up" to fill the 
+viewlng screen without loss of picture definition. 
+
+
+The portion selected can be returned to at any time, since the trans- 
+lating controls would be calibrated. a 
+
+
+Three magnifications can be provided, up to 10:1. 
+Contrast of the display image may be varied as required. 
+
+
+Rapid or slow film wind in both directions can be provided. 
+
+
+Further capabilities can be provided after development of the basic system, 
+such as the following: 
+
+
+a) 
+
+
+b) 
+
+
+c) 
+
+
+Instant prints or transparencies of any area could be obtained by the 
+provision of a swing down Polaroid Land Camera. 
+
+
+Additional remote viewing stations could be provided, together with 
+intercom stations at each with the P.I. station as the master. 
+
+
+To enable the photo-interpreter to see into shadows, highlights, and 
+areas generally lacking contrast, tonal expansion contrast could be 
+provided, in which a selected portion of the image gray scale could 
+be expanded to cover most of the tonal range, and to increase the 
+contrast of monotonic areas. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Q-109-65 
+
+
+d) Image enhancement may be obtained by electrically differentiating 
+edge gradients. 
+
+
+e) Itis believed to be within the state-of-the-art to provide an image 
+storage capability, wherein the image could be held and displayed 
+over long periods while the film is being wound on for the examina- 
+tion of other targets. 
+
+
+f) Secondary viewing stations would be provided to enable the image 
+storage to be effected. 
+
+
+g) Visual inspection of the film could be provided for by the addition 
+of built-in side tables. 
+
+
+The system proposed would utilize proven techniques and equipment com- 
+mercially available. The development would consist of system integration 
+and design. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Figure 1. NEGATIVE © POSITIVE VIEWER -- ARTIST'S IMPRESSION 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+SELECTED 
+RANGE 
+
+
+GATIVE'S TCNE RANGE 
+
+
+EXPANDED 
+SCALE 
+
+
+el NORMA 
+
+
+DISPLAYED TONE RANGE 
+
+
+Na 
+
+
+Figure 4. CONTRAST EXPANSION (IDEALIZED ) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+a, 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+sty r Ct 
+
+
+25X1 
+
+
+aaa ADDENDUM TO MONTHLY REPORT 
+This report, the second ina series of investigations extra-curricular to current 
+assignments was conducted to evaluate the effects of oxidation of developer 
+solutions, and to determine if a research program based on removal and 
+inhibition of oxygen from such solutions could be justified. The investigation 
+was commenced with a literature research, the results of which are summarized 
+below. 
+
+
+As early as 1882, Berkeley introduced the use of sodium sulfite in organic 
+developers as an oxidation inhibitor. Since that era, a monumental amount of 
+research effort has been expended to determine the exact action of sulfites in 
+photographic developer and the beneficial and/or deleterious effects on the 
+additive on speed and gamma. A number of the basic findings on sulfite 
+reactivity are presented after this summary. To these can be added some 
+specialized esoteric research results. 
+
+
+For example, in developing systems of the hydroquinone-quinone type, the 
+electrochemical potentials depend greatly upon the pH of the solutions. They 
+may be considered as determined by the concentrations of the oxidized form 
+and of the divalent ion of the reduced form. If Ky and K, are considered the 
+first and second dissociation constants of hydroquinone, it can be shown that 
+hydroquinone in alkaline solution absorbs oxygen at a rate proportional to the 
+square of the hydroxyl-ion concentration below PK,. The reaction is auto- 
+catalytic because of the formation of the highly reactive semiquinone. Semi- 
+quinoids are radicals in which one electron is shared by 2 atoms which possesses 
+a septet of electrons each (alternated to an octet by the odd electron) as: 
+
+H+ 
+
+N 
+
+
+Michaelis and Hill found them stable only in moderately acid solutions in their 
+potentiometric studies of the radical. 
+
+
+James and Weissberger in their 1939 studies of the mutually oxidation inhibitory 
+reactions of hydroquinone and sulfite stated that the action of sulfite on hydro- 
+quinone is not known, They experimented with cysteine, thidglycolic acid, 
+thioglycolic anilide, p-thioresol and barbital as antioxidants} These foregoing 
+additives are all more difficult to obtain, more expensive or less effective and/ 
+or have more deleterious side effects than sodium sulfite. 
+
+
+In a classic study performed by Weissberger and Thomas in 1942, it was shown 
+that silver catalyzes the decomposition of peroxide while the reaction of 
+
+
+(more) 
+Le 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Addendum to Monthly Report 
+
+
+peroxide with developing agent is itself catalyzed by silver. Thus, was 
+shown that the addition of silver strongly dimished the total amount of 
+oxygen absorbed by the developing agents in alkaline solution. 
+
+
+In spite of the voluminous research which has been expended in just the last 
+forty years, a cursory examination of typical hydroquinone-elon/metol 
+formulations shows no significant change in the basic mixtures from the 
+relatively primative photographic processing era to modern automatic machines. 
+
+
+The Function of Sodium Sulfite in a Photographic Developer 
+
+
+Sodium sulfite is a preservative that prevents oxidation. When a developer 
+solution oxidizes, it tends to discolor, loses its activity, and stains the 
+gelatin of the film. The addition of sulfite to developers produces the following 
+effects: 
+
+
+1. Protects organic developing agents against aerial oxidation. The oxygen 
+of the air readily attacks developing agents, as hydroquinone, converting them 
+into two products, quinone and hydrogen perioxide. 
+
+
+OH O 
+is 
+fe) 
++02 = | | + Hy Oy 
+Oxygen ke Hydrogen Peroxide 
+OH O 
+Hydroquinone Quinone 
+
+
+Small amounts of quinone may accelerate the reaction between hydroquinone 
+and oxygen, by setting up a chain reaction. This reaction increases in speed 
+as the quinone builds up. It is evident that if the concentration of quinone is 
+allowed to build up, oxidation becomes more rapid and soon the developing 
+power is destroyed. 
+
+
+When sulfite is present, this reaction is prevented. It reacts with the quinone 
+rapidly converting it into a colorless soluble and harmless material. If 
+sufficient sulfite is present in a hydroquinone solution, the quinone is used up 
+about as fast as it is formed and little or none of it is left over to convert the 
+hydroquinone into semi-quinone and accelerate the reaction of the oxygen. The 
+ability of sulfite to act as a preservative may depend upon its ability to react 
+rapidly with quinone. 
+
+
+2. Tend to prevent the formation of staining developer products. Without the 
+presence of sulfite, staining developer products are formed in hydroquinone 
+in two ways. As mentioned before, in the presence of oxygen it is converted 
+into two products, quinone and hydrogen peroxide. Neither of these two 
+
+
+25 (more) 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Addendum to Monthly Report 
+
+
+compounds produce significant staining. Although produced by the same 
+reaction, these compounds are not mutually compatible, the perioxide 
+attacks the quinone converting it into another compound, oxyquinone. 
+
+
+Oxyquinone is highly unstable and almost instantly passes over into a 
+brown insoluble material. If this brown material is formed within a photo- 
+graphic emulsion, it cannot be washed out and remains there as a stain. 
+
+
+For the second stain-producing reaction, the presence of oxygen is not 
+necessary. When hydroquinone acts as a developer, the silver bromide is 
+converted into silver. Simultaneously, the hydroquinone is converted into 
+quinone. This time no peroxide is formed. But, quinone is unstable in carbonate 
+solution, although not so unstable as oxyquinone, The oxyquinone again passes 
+into a brown insoluble material, producing a stain on the film. 
+
+
+When sulfite is present in the solution, the series of reactions are able to 
+progress only to the quinone peroxide stage, because sulfite reacts very rapidly 
+with both. With peroxide, it forms sodium sulfate, a soluble, relatively inert 
+chemical. With quinone it forms a compound chemically known as sodium 
+hydroquinone monosulfate. This is a colorless compound that is soluble and 
+produces no stain. 
+
+
+OH OH 
+a _ 80,Na 
+
+
+- | 
+2 2 ~ 
+
+
+a a 
+
+
+The sulfite prevents stain because it is easily able to remove the two stain- 
+forming materials, quinone and peroxide. 
+
+
++2Na,8O3 + O +Naz SO, + NaOH 
+
+
+The stain-preventing action of the sulfite does not carry over to the removal of 
+stain once formed. The stain is not produced by the quinone itself but by an 
+oxidation and polymerization product of the quinone. Sulfite will not convert 
+this material into a colorless product. . 
+
+
+3, Acts as a silver halide solvent by the formation of complexes. Sulfite 
+exerts a solvent action on silver chloride and silver bromide. The sulfite ion 
+forms a number of soluble complexes of the form Na (n+ ) Ag Pt (8,03) (n+1) 
+(when n= 1, 2, 3, 4 and, perhaps more) with the silver aids 
+
+This solvent action is of practical importance only with relatively dilute 
+developer, or with developer of low alkalinity. 
+
+
+(more) 
+
+
+Gs 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Addendum to Monthly Report 
+
+
+In fine grain developers, sulfite is used ina relatively high concentration. 
+The solvent action takes place upon the surface of the silver halide grains 
+preventing them from retaining their full size in development and reduces the 
+tendency of the grains in close proximity to one another to merge and form 
+larger clumps of silver. 
+
+
+This action does not hold true in the use of all silver solvents. The use of a 
+solvent can be overdone. Strong solvents produce an increase in graininess. 
+- The change in graininess produced by a solvent, also depends upon the 
+emulsion in question. It is quite possible to obtain an increase in graininess 
+with one emulsion and a decrease in another, the same addition of solvent to 
+the developing solution being used. 
+
+
+4. Sodium sulfite is a weak alkali and under certain conditions, increases 
+the rate of development and maximum density obtainable. Since sulfite 
+raises the pH of the developer and accelerates the development in developers 
+having a low pH, those having a high pH are affected slightly differently. 
+
+
+When added in large amounts to a developer composed of elon or hydroquinone, 
+sulfite appears to retard development. A solution composed simply of 
+hydroquinone carbonate and water will produce an image much faster than one 
+containing sulfite. The reason for this is that sulfite, while it does not 
+actually retard development, prevents the formation of oxyquinone, a material 
+which otherwise would speed it up. What sulfite does do in this capacity is 
+increase the maximum developer density obtainable for a given exposure. The 
+cause of this increase is the dependence of the developer potential on the 
+concentration of sulfite. As sulfite is added to the solution, the potential at 
+first drops very rapidly and then more slowly. Since the density obtained for - 
+a given exposure varies almost linearly with the potential, it follows that the 
+addition of small amounts of sulfite should increase the density greatly, as 
+has been found to be the case. 
+
+
+5. Sodium sulfite also reduces excessive softening of the emulsion when 
+high concentrations are used in a developing solution. 
+
+
+6. The reaction with silver bromide in the presence of sulfite follows the 
+equation: 
+
+
+OH OH 
+ZZ Ze SO,Na 
++2AgBr + NA, SO, = +2Ag + NaBr + HBr 
+SN —~ 
+OH H 
+(more) 
+4, 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Addendum to Monthly Report 
+
+
+Acid is liberated in this reaction, which accordingly tends to decrease the 
+pH of the solution. The reactions of metol in the presence of sulfite follow 
+similar courses. On the other hand, 1-phenyl-3~-pyrazolidone ("Phenidone") 
+does not form a sulfonate. The sulfite is not as effective as a preservative 
+for Phenidone as it is for metol and hydroquinone. 
+
+
+Conclusions 
+
+
+Based on the findings of the investigation it is our opinion that a research 
+program to determine the most effective means of de-gassing solutions in 
+processing machines, and in chem-mix and storage tanks where oxygen 
+entrainment is at a maximum is justified. 
+
+
+6/4/65 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X1 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+~@& 
+
+
+4 
+
+
+Pod 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+‘ __ Sanitized Copy EPPIONeS for melease 2011/06/09 : CIA- RDP78B04747A001300020002- 4 
+
+
+DRWSNS LONS 
+
+
+i Glass Index of | Dispersion. ‘Diameter ' Thickness Noe | 
+Bes Refcaction inches inches Pieces ; 
+% al a | 
+uSehe | 
+: tugé 
+a : j 
+; wetrfoWanctode  usrtauceestne Aroreabme, oof conan rocercemencne et eee: appa tM BUF CERT TRE UT ITN ORES RN ERA ET ETI A IE ROSIE NORCO 
+¢ ‘ é : 5 kb 
+ee ok | 306 1.2.03 } 168 39 
+g Davie F lin f dei 
+RP: SME LN STE ETERS NAS ATEN SAE Maa ES INE SETA R RETRO S T T TO PESTO TD Fn tent 
+1 BAF@9 — we 
+i Boav vie fie 2.0 2 2 2 
+205 2 
+3 a. Ere 
+{BAFH20 123. 2 
+$ xe dat Fhaé : 2 ee 
+{ 
+a 
+
+
+t baviom 
+RO rown 
+
+
+SCC UU LET STR GR 
+
+
+esa 
+
+
+Peace OR Be Sr? Re TERE 
+
+
+BK=1 
+4 Povosieile fe 
+Cxewn 
+
+
+1 Rp AARP AO MN AMES EE 
+
+
+ES OSes SPAT Seep streren syn ceece Tonks saw enema 88 PZ Rests ge cee TN PATE wactens tale tense et a mat Rare ne 2 ces on a eR: 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 Eck ( 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+SEI EE RETR I A ARR TRI STE ANE NET 
+
+
+coe neeneimmen aves mennpremanmrironmncn ag ricer inn once grea Ta ee ame 2 | 
+: ee 4 Thickness Oo 
+“ess Incex of Dispersion Diameter ; P j 
+ne: toy caevson [ inches inches penees 
+ty pe ae , ' 
+9 ' 
+Stately tegieslios \ = < gon ea aia ssn: Re EY EI eee erent os ‘ni rans CADRE Ps 20 
+ti 
+Re 7 i 4 16 640 & @ 9 = 3 bd on rv i “ seen srenerenye 
+a = - a aceeiaelll i 
+9.3 47 Bee 45 se tice 
+Berosidicake I 22? pe oO En etree : 
+Cyowen i | 944 2.0 Paice ae ee 
+i y : , 
+| | eee earn - eon 
+Pee Cee renee beeen ee eens Se 
+
+
+ene rere ee aes re eee ; ok 
+
+
+; sean (STS | | r 6 ! 1 3/8 ae, 
+‘aFel j«* 529 516 [ee aac 236 7 
+
+
+Crows | 517 | 10.9 05/8: ee 
+i 
+
+
+| aa Sie Pune Pt i 
+529 st nn ek: ne a 2 [a 
+: 3220 412.0 | _ 3e75 | aia 
+| 12.0 «11 7/8 | 323 nO) 
+te eee ae 77: | 
+
+
+Sexe SI 
+
+
+H ; : 16025 ‘sina mia tte _— 
+| 16 3/8 25 
+
+
+if 
+
+
+| 
+
+
+ier apa eel tena 
+
+
+i ; t 16.5 
+
+f q wae 
+
+HI f 
+
+| 16.5 a 
+Hi t ‘commons 
+
+\ q 
+
+{i 
+
+
+i 
+i 
+
+
+| | | 162 : 
+| 26 5/8 
+520 | 518 18 15/16 
+
+
+Ki foo fun Le fiw jr ho for fn fon fe [rv 
+
+
+t 
+! 
+
+
+Ay 
+NS 
+
+
+i 
+
+
+e ie 
+
+
+| 
+
+
+9 3/8 
+9 5/8 
+TD eee Meee eee wanes, 
+10.19 ne ie 28 
+
+
+1 620 
+
+
+Cites to SB -le 
+
+
+(4 
+fo: § 
+
+
+621 
+
+
+im) 
+in 
+
+
+620 10.19 . ae 
+j - a a 7 . ma t 
+if g 
+i 4 
+i 4 4 
+3 | ds 
+ee Se Sogo 
+
+
+(2) 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+808 YET RAR EY ECR IGS AES ARNE 
+
+
+PNM PCRS ON RAEI MIATE SAN NEEM 
+
+
+“Sjimensions 
+
+
+Dianeter Thickness Noe 
+| & | Index of Dispersion ee | inches | Pieces 
+Type cereale o > | | 
+| DRC-2 611 9/215 
+‘> (). an oO rc —— 
+| ie 8.0 [3/8 _ 
+ee 8.0 | ey | 3 
+8.0 eee j = 
+82/16 ares ee | as 
+32/8 | ve 
+| 905 [36 | 1 
+9 15/16 | 5/8 i 
+| 97/8 | 2.0 3 
+10.0 ae eee as 
+| 13/68 | 11/8 13 
+| 11.98 Sa ae aa 4O 
+| ee 
+ee a ee Be eae 7: 
+| 8.0 Fe afb | 2 
+| : 97s | 23/4 it 
+915/16 |e 1 
+| 9 15/16 | 13/8 | = 
+| | 915/16 | _212/26 _| 2 
+| 10.0 | _15/16 3 
+10.0 i 
+12.1/8_ ot 
+| 11.0 _2 
+13.5 se : 
+16 1/8 _1 1/16 2 
+| | 
+
+
+Sanitized Copy Approved for Release 201 1/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+| Diameter Thickness | = Now 
+inches inches | Pieces 
+
+
+|Index of Dispersion 
+Refraction | U 
+
+
+PET Te 
+
+
+§ 
+i 
+= ie 
+
+
+{ 
+j 
+
+
+q ' My ¢ 
+u i u 
+| aa es Se Sa 
+
+
+aa 
+7 
+
+
+us fe dee fee fe fur fon foo fet Le fro fro fro fw for [ee fe te fe 
+4 
+= eae 
+
+
+9.13/16 
+915/16 | 28 | 
+ee ee 
+ct ee Oy ee eT 
+10.0 | 1% | 3 
+wo SL as 
+10.0 | 2 5/16 — 
+wyie || rye dT 
+10.25 ce) eee ee ee 
+10.25 Die | 2 
+
+ee i eee | 
+
+10_ 5/16 43/4 
+10_3/8 ee eee, 
+
+
+a ee eae 
+1065 Paes ae 
+
+
+1025 eee: 
+2 ~| 
+
+
+1005 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+=] 
+
+
+t 
+4c 
+fo) 
+
+
+oo 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+Sey een 1 oT a 
+
+jass Index of ppispereten | Diameter / ‘Thickness | Noo 
+
+ype Refraction inches inches Pieces 
+
+
+572 } 2005 a Enea 
+10.5 ae eee ee ee 
+1065 [25/8 | 3a. 
+1005 [3.0 | = aes 
+10 9/16 ; ee ee 
+10 9/16 _ [7s i... 
+10 3/4 er eee ae 
+10 13/16 ZO... 
+ns oe 
+1.0. | 7 | 
+11.0 
+i ee i ee 2 
+11.25 
+11 5/8 eran (een) 
+
+11 3/4 x 1165 3.0 
+
+
+11 7/8 x 11 7/8| 25/8 
+11 5/8 x 11 3/4 
+11 9/16 x 11 3/4] 2 3/4 
+
+
+11 3/4 x 11 3/4 
+11 3/4 x 11 3/4 3 3/4 
+
+
+“J 
+oo 
+
+
+pie ie fe fede fe le ie fe te le le de ie lode de de ie pe de te ie | 
+
+
+12.0 ae 
+12.0% 12.0 | 23/4 | 
+12.5 _1_ 7/8 
+13_3/8 iy | 
+| 3305 %131/8 | 32/8 | 
+13.5 [135/16 
+1305x335 | 3.0  __| 
+13 3/4 x 14.0 | 25/8 | 
+15 7/16 Pp 19/16 | 
+10.25 a7 on | 
+565 | 33/16 | 
+5 | 25/6 | 
+16.0 2.25 | 
+
+
+» 05) 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Sanitized Copy Approved for Release 201 1/06/09 : CIA- M-RDP/6B04747A001300020002-4. “4 - 
+i: “Dimensions 
+Dispersion {Diameter 
+
+
+U inches 
+
+
+Thickness Ne. 
+
+
+inches 
+
+
+iIndex of 
+Refraction 
+
+
+pt AE TSIEN SUNT AEN OE AD IPN OA AIEEE ELM NNEC ITS TI ETI LER 
+
+
+26.0 0 
+
+
+1.5 St 8 5/8 
+{a Se i). ee 
+18 5/8 8 A 
+LE), es ed, ave 
+189/16 | 25 
+1823/16 B16 
+1815/16 2 8 
+19 7/8 dt 38 8 
+20.0 pues Me? A: 
+20.25 ewe weehe dn Af 8 
+
+} 22. 3/8 dt 2 8 
+
+| 22.25 | 2.0 
+
+960 _ |. 2.0 
+
+
+= 3/8 L209 
+
+
+2 3/8 
+
+
+(6) 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Pieces 
+
+
+(12.5 x10 9/16} 2 3/4 eee See 
+
+
+1.19 = a eS ee 
+
+
+i 
+: 
+
+
+16225 ae 
+18.0 as 
+1320 eon es _ | 
+18 3/8 | 2 33/36 ot 
+18.5 sida 33/38 as. ae 
+
+
+i 
+§ 
+} y 
+este iar soe oer 
+
+
+Sanitized Copy Approved for EWES? aan 1/06/09 : CIA- RDP78B04747A001300020002- 4 
+
+
+SA RM tae ae or ee re ANNIE ASRS 8 WRIA EE a eben NR 
+
+
+“imensions 
+Diemeter Thickness 
+inches inches 
+
+
+swear nar goles wa a ae 
+
+
+was 
+
+
+| Dispersion 
+
+
+Glass | Indes of 
+2efraction 
+
+
+i 
+4 
+¥ 
+i 
+a : 
+
+
+el] ae S oniaeeeaih 
+
+
+Pe yeeeerr 
+
+
+13.0 | | 
+19:1/8 
+
+
+1 
+4 
+3 
+i 
+
+
+Z 
+ws 
+NST Oo ia 
+ao 
+i i @s 
+’ 4 
+i 
+dae! asa. man recom nee Raa 
+
+
+649 339 | 233/16 
+
+8.0 
+
+2.2L 
+2728 
+10.0 
+12225 
+14.25 
+15 2/8 
+
+
+1 
+
+3 | 1 
+a 4 
+
+F i 
+
+3 i i 
+OT PORT | 
+
+
+{ 
+J 
+
+
+fee fre de fe de fe de de fro fe de fe | 
+
+
+a] 
+a 
+
+
+293 | (13635 
+
+
+a ee Gee ve : a | ok | ne 5 a , 4 
+
+
+ht 
+
+od 
+o 
+Ss] 
+« 
+
+
+ek 617 { 366 | 7.85 ae 
+: 5 esas 1.5 
+
+
+A 
+AN 
+° 
+oo 
+
+
+| 
+
+e 
+
+ws) 
+or i d j 3% 4 : j | F E i t j i 
+Ny iro | 
+
+
+n 
+Vd : 
+nh! 
+¢ 
+e 
+
+
+392 
+
+
+25 _ 1.5 
+
+
+a8] 
+= 
+@ 
+
+
+ee me 
+
+
+fv 
+= 
+o 
+rere) 
+AN 
+e 
+NO 
+
+
+* 
+h 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+fe 
+
+
+_ 
+ae 
+4 
+aay 
+< 
+
+
+— sy 
+¢ 
+%. 
+
+
+| K2FS-1_ 
+
+
+Pa tS SESE ER ER ea Nah SI SIO REL OT TTT LT ST 
+
+
+“KaP=4 
+
+
+i Index of 
+Refraction 
+
+
+iene pate “ant” | 
+
+
+511 
+
+
+IlpDispersion 
+
+
+U 
+
+
+591 
+
+
+“547 
+
+
+Diemeter 
+
+
+are Sane Wes 
+
+
+inches 
+
+
+11.7 
+
+
+12.7 
+
+
+1207, 
+
+
+8.35 
+9.0. 
+
+
+an 
+
+
+9. Oo 
+
+
+> 
+
+
+8.35 
+
+
+Fa OEE REAM ITT 
+
+
+9.20_ 
+904 
+12.0 
+
+
+i COMET DANE SA PR“ 
+
+
+13075. 
+8.35 
+14.075, 
+
+
+inches 
+
+
+Hl 
+
+R 
+f 
+
+a aa 
+y 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+° Sanitized Copy pepe for pelea 201 1/06/09 : CIA- RDP78B04747A001300020002-4 | 
+a Dimensions : 
+Thickness 
+
+
+Nee 
+Pieces 
+
+
+In fro fe [ro 
+
+
+Poa | 
+
+
+fw fin ry fr pr | 
+
+
+Rf ; ‘ ' 
+¥ e i ! ' F 
+% i R a i if 
+EEE! ee Soe eee 
+
+
+J 
+
+
+3 
+é 
+
+
+] 
+
+
+j 
+
+
+j 
+
+
+i 
+
+
+Ht 
+a 3 HY 
+iy 4 @ 
+
+TERR PRONE REDS AR RESIS RED ES: 
+
+
+j 
+
+
+f 
+a a 
+
+
+i i i . H ae . 
+Glass jindex of j Dispersion Diameter Thickness. | NOe 
+iPype j tefraction U inches inches Mleces 
+
+
+ai 
+
+
+se Shedd a a a Dime Rae ES: 
+2 a 
+
+
+soremmtet nent Sot eo nae 
+
+
+ier 
+
+
+es nse AR rears yecem nore 
+
+
+Nay A ; __ Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+[ee aera nner mari or emer IS, Eo en 
+
+
+ee ee 
+
+
+jf? 
+LE=4 | DHg 
+
+
+18 RA RE of REET AER TI RET OF 
+
+
+LP=5 
+
+
+SLIME RA ET 
+
+
+| 
+
+
+borin 
+
+
+3 PON ARI RS TI ANE TN EP 
+
+
+SF-8 
+
+
+Peceenea tennant ot 
+
+
+SF-18 
+
+
+SKe-l 
+Dense 
+
+
+davivh? 
+ca eeet n 
+
+
+RE EERO PERE A ZENA TE OREM BS ERASE ET LET 
+
+
+(9) 
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+gate. a _Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+oa Dimensions, i 
+Diameter | Thickness — Now 
+inches inches  j Pieces 
+
+
+| ive of 
+Refraction 
+
+
+| Dispersion 
+
+
+650.5. | — é wl 
+
+12.0 a eee eee 
+
+pee geaaae 7 ie Cr ee De ee 
+en Be eee eee, 
+
+2ho2 | et ee eal 
+
+é ” i E i 
+
+lr re iad | 
+
+i eee 15 ae 
+
+8.35 1.5 2 _ 
+
+1000-6 a aan 6 
+
+10.2 12 
+
+10.5, _ J 2. 
+
+11.3 | 20 ~~ | 40 | 
+
+12.5 ee eee ee 
+
+eee __l 
+
+Qa | J 2 
+
+a 2 = 
+
+8.35 eta a 
+
+6.0 1.5 4 Pers 
+
+i eee pees Gee ore 
+
+12.0 is Sees 2 
+
+| 
+
+| 
+; h i 
+i | | 
+FI ‘ 
+L ee i Set Matra Si fo a2 | 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Reni nee 
+
+
+Index of 
+
+
+Piefraction sion 
+
+
+384 
+
+
+; C 
+
+i Dd 
+
+¢ 
+
+i ee 
+renal ne 
+
+a Bey 
+
+
+ae cS ADEE HN TS 
+
+
+esas Ry ETM NRE TENTION ETE 
+
+
+a8 aah ONAN MIO ASG ch MARL a 8 EARP AE 2¢ Get YL AEROR he? 
+
+
+eet ae emt oho eA A 
+
+
+j Disper-~ 
+
+
+pcrecst AP OTA ET I me 
+Et AAC ABE RO A AE AS ae 
+
+
+“pimensions 
+
+
+Thickness 
+inches 
+
+
+Diameter 
+Inches 
+
+
+19 1/2" x 19. i/at 
+19 et x 19 fet 
+
+
+ny 1/a" 
+
+
+| 12 3/2" es 
+
+
+1 x il 
+ies x 1 374 
+ay x 
+
+
+Tex 12 1/6" 
+1 - pee wt 
+
+
+Pat 
+
+
+as Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+cement AIS mS nee 
+¥ 
+
+
+Noo 
+
+
+Piece: 
+
+
+as a 
+
+
+yi 
+
+
+“Ganitizéd i eany Approved for Release 201 1/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+i # 
+4 
+age linens 8, 
+
+
+er a rs 
+Tey cooned rarnctewnentumee: Samant 
+
+
+pene tet 
+
+
+FY it o4 
+Fe TTI FT EAM 
+
+
+care alae seneshd id eat 
+
+
+I DR Ae RESP T MO MEE DT SE AES RES at RABUN RE BE PT: 
+
+
+ERD Re SORE he CATA G HS ee 
+
+
+AS AGATE ROT. 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+Chur: owwed | 
+
+
+Crgda LOS Pypei nie yy 5 
+oe “ara é ee ae / 
+f 7 t fs - i. 2 25X1 
+
+
+f PHo re - Wisk Fels 
+
+
+of 
+PRESenT We w Rid STrosies 
+ASD PREXA 
+Foe ere 
+‘ \ 
+{ Sinvey Abe Aer, pe IS 1 oe ee aaeneres 
+weeer Wis | aa der dual KERO REE 
+Pie Cede ‘ i EAA | STEP y RRA T pee 
+i. on 2 Corn 
+
+
+TER = fe eee | PRATER 
+thane ici Redden by 
+
+
+FREES 
+
+
+[sv ieee Maho MA TERME 
+iaatieneeniementaatiel 
+
+
+A bAny | PReCe Le oR 
+
+
+VL TAPSOK IES 
+TO Heeelipy TE 
+Devere fuer 
+
+
+Sanitized Copy Approved for Release 2011/06/09 : CIA-RDP78B04747A001300020002-4 
+
+
+25X11 
+
+

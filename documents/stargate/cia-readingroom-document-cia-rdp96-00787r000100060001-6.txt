@@ -1,0 +1,873 @@
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+MEMO 
+
+
+TO Mr. Manfred Gale (HQDA, DAMA-ZD) DATE 3 August 1979 
+FROM H. E, Puthoff LOCATION Bld, 44 
+SUBJECT. gRT/Gale Committee Meeting of 24-25 July ce 
+
+
+We appreciated having an opportunity to discuss with you and members of your 
+committee several aspects of our work during your recent visit to SRI. We 
+welcome this kind of dialog and exchange of views with individuals of diverse 
+backgrounds, who are willing to focus on issues of importance to us and our 
+program, 
+
+
+There were certain aspects of the meeting, however, which we felt were 
+unsatisfactory, but for which we have specific remedial actions to propose, 
+
+
+As you know from our agenda, we had intended to cover four major areas of 
+interest: (1) an historical overview, including past applications to problems 
+
+of interest to clients; (2) scientific questions with regard to RV protocols, 
+judging, statistics, and so forth; (3) the goals and planned activities on 
+
+present client programs; and (4) committee discussion with program remote viewers. 
+Unfortunately, with the extended ad hoc discussions that took place during the 
+opening presentation on historical material (Part 1) and the need to press on 
+
+to a discussion of planned efforts on present client programs (Part 3), we all 
+
+but skipped Part 2 on scientific questions (for example, none of the slides were 
+shown). This seemed expedient at the time, given the apparent inappropriateness, 
+in a group of such diverse interests, of getting involved in detailed discussions 
+on specific technical issues (e.g., nuances as to protocol procedures, statistical 
+evaluation techniques, etc.), This may have been "penny-wise and pound foolish," 
+however, for all of us at SRI realized at one time or another in casual discussions 
+with individual committee members during dinner breaks, etc., that there was a 
+profound lack of understanding of some very basic issues. To cite some specific 
+examples: 
+
+
+(1) It was expressed that the RV target pool should be chosen and 
+maintained by someone further removed from the experimentation 
+than the principal investigators, and that access to the target 
+pool should be limited. 
+
+
+The above is in fact the procedure already in force. An independent 
+target selection team generated the target pool and turned them 
+over to the Project SSO who keeps them stored in a secure container. 
+Targets are then withdrawn only under supervision of the SSO (who 
+
+
+records their withdrawal) at the beginning of RV sessions. In 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+SRI 2903 2/78 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Mr, Manfred Gale 
+
+
+Page 2 
+
+
+3 August 1979 
+
+
+(2) 
+
+
+(3) 
+
+
+particular, the RV session interviewers (Targ and Puthoff) had 
+never seen the target list until your committee asked that it be 
+brought to the conference room, 
+
+
+Concern was expressed that apparently successful RV results in 
+
+our protocols might be due instead to a combination of remote viewer 
+guesses of known Bay Area landmarks and/or artifactual sharpening 
+
+of a subject's narrative by cues from the interviewer who is at 
+least educated, if not directly knowledgeable as to the target 
+possibilities, (We think that is was understood that the inter- 
+viewer never knows the particular target.) The corollary to this 
+concern is that although the RV function may exist, our protocols 
+can't demonstrate it because of the above-stated circumstances. 
+
+
+In fact, the statistical procedure we use takes into account at 
+the outset the possibility that the target pool might be completely 
+known to both remote viewer and interviewer--that it could be that 
+
+
+EN ee 
+
+
+EN VN SVP 
+
+
+during the session; in short, that the RV series is to be treated 
+
+as belonging to that class of studies in which the elements of the 
+target pool are known a priori to both remote viewer and interviewer, 
+as in studies involving numbers or cards as targets, (In fact, we 
+would go this apparent criticism one step further and assert that 
+
+it would be naive to assume that by any change in protocol one could 
+in principle avoid the assumption that the remote viewer knows the 
+target pool.) Thus, when there is a statistically significant result 
+in our protocols, the cause must lie elsewhere than remote viewer 
+guess or interviewer cueing, as these possibilities are handled at 
+
+a fundamental level by a statistical procedure that assumes the worst, 
+This fact must be understood by the committee members if they are 
+
+to assess the SRI program results properly, 
+
+
+It was repeatedly suggested that it would be better to dispense with 
+the interviewer in an RV session so as to have a "cleaner" protocol, 
+and that the use of an interviewer is somehow a methodological flaw. 
+
+
+Such a suggestion indicates a complete failure to comprehend that 
+success as obtained by use of the SRI RV protocols (as opposed to other 
+procedures) is in large part due to an innovative design which 
+incorporates a division of labor between remote viewer and interviewer 
+designed to mirror the two primary modes of cerebral functioning; 
+namely, the nonanalytic cognitive style (brain function) that pre- 
+dominates in spatial pattern recognition and other holistic processing 
+(and is hypothesized to predominate in psi functioning), and the 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Mr. Manfred Gale 
+Page 3 
+3 August 1979 
+
+
+analytical cognitive style that predominates in verbal and other 
+analytical functioning, (Only very experienced remote viewers 
+appear to have the ability to handle both cognitive styles 
+simultaneously.) The removal of the burden of analytical functioning 
+(by the interviewer) during exercise of the RV faculty appears 
+
+to be an important ingredient for success, A change in this 
+
+aspect of the methodology may give the appearance of a cleaner 
+protocol (it is not), but it may also yield the lower level results 
+characteristic of classical academic (as opposed to operational) 
+studies, Our client programs, on the other hand, force us to 
+develop techniques that yield results, and it cannot be stressed 
+enough that we have developed the appropriate statistical procedures 
+to handle such possibilities as remote viewer guessing and 
+interviewer cueing or sharpening, 
+
+
+To the degree that the committee's overall evaluation of the SRI program will 
+touch on technical issues such as these, we would suggest that it is incumbent 
+
+on the committee members to obtain a more thorough grounding in the technical 
+details than was possible in the few hours available during the July meeting at 
+SRI. We would doubt, for example, that anyone would be in a position to 
+
+critique our present RV statistical procedures fairly and justly (not that there 
+wasn't the potential because of the expertise represented) simply because we did 
+not have an opportunity to present them, and, being a new approach in our program 
+(Scott's direct-count-of-permutations method), we have not discussed them at any 
+length in publications available to the committee. Since the approach (a) is 
+specifically designed to handle narrative material of the remote viewing type, 
+(b) takes into account the possibility of potential remote viewer/interviewer 
+guessing and/or knowledge of the target pool, and (c) has been thoroughly 
+investigated, used, and documented in the academic parapsychology community as 
+the most conservative reference statistic to fall back on, one cannot assess 
+remarks such as (1) ~ (3) above without at least an intuitive understanding of the 
+assumptions and implications of this approach, Beyond this, there were other 
+items that to our mind need clearing up, such as confusion of our work with 
+
+other labs' work and statements, and little awareness that we have done considerable 
+experimentation with simpler paranormal functions than remote viewing (e.g., 
+computer-automated number-perception tasks, binary card tasks) to establish 
+certain parameters of the more complicated functioning. (Such scientific legwork 
+we did not present to the committee, as it seemed beyond the scope of interest 
+expressed at the time,) 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Mr. Manfred Gale 
+Page 4 
+3 August 1979 
+
+
+To remedy the shortcomings inherent in the brief orientation meeting of 24-25 
+July, to ensure that we do justice to the multitudinous concerns of the committee, 
+and to ensure that the SRI program obtains a fair hearing from the committee, we 
+propose that: (1) all committee members receive from your office a copy of this 
+memo and the attached protocols to gain a better understanding of our procedures; 
+(2) further discussions be held in smaller groups between SRI personnel and those 
+members of the committee who are especially concerned with specific issues 
+
+(e.g., protocol procedures and statistical approaches with Drs, Synder and 
+
+
+Tang). 
+
+
+We are available for such interactions at Menlo Park, Washington, or elsewhere, 
+and would appreciate the opportunity to resolve these issues at the earliest 
+convenience, Out of such interactions we could also expect as a bonus to define 
+with greater clarity those scientific issues that need to be pursued in more 
+detail should fundamentally-oriented research programs be set up in the future, 
+as they must. 
+
+
+Since we are mitually tasked by our sponsor to provide the best technical 
+assessment possible of a field fraught with complex and subtle issues, we believe 
+that additional actions such as we have proposed are necessary if we are to 
+fulfill our mutual goals and responsibilities, 
+
+
+Enclosed are copies of the memo and protocols for all the committee members, 
+which we would appreciate your distributing. Also enclosed for use at your 
+discretion are additional copies for Maj. Gen, E. R. Thompson, Dr. Ruth Davis, 
+and the Hon, Walter Laberge. 
+
+
+We remain at your disposal as to arrangements should you decide to follow up on 
+the further interactions we have proposed, 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+“ 
+
+
+[_ Approv9ad For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+e 
+
+
+| Internattione 
+
+
+August 1979 
+
+
+STANDARD REMOTE VIEWING (RV) PROCEDURES: LOCAL SITES 
+
+
+Prepared by: 
+
+
+H, E, Puthoff, Ph.D. 
+R, Targ 
+E. C. May, Ph.D. 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, California 94025 
+ohaved For Release 2000/08/4-Gr'QNA-RDPYG08:78FRG00'F00060001 -6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+STANDARD REMOTE VIEWING (RV) PROCEDURES 
+
+
+(LOCAL SITES) 
+
+
+Our present standard remote-viewing (RV) procedures are similar to 
+those in our Proc. IEEE paper, "A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical Perspective and Recent 
+
+
+"1 The elements of the protocol, each of which is addressed 
+
+
+Research, 
+below, consist of (1) basic procedural design; (2) remote viewer/interviewer 
+roles; (3) target pool selection; (4) target storage and access; (5) remote 
+viewer orientation; (6) interviewer behavior; (7) target person behavior; 
+
+
+(8) post-experiment feedback; (9) evaluation procedure, 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+I BASIC PROCEDURAL DESIGN 
+
+
+At the beginning of a trial, a remote viewer is closeted with an 
+interviewer in an isolated windowless room of the Radio Physics Laboratory 
+in the SRI complex to await an agreed-upon start time, At the same time 
+a target person is sent, without communication with the remote viewer or 
+interviewers remaining at SRI, to a target location somewhere in the 
+San Francisco Bay Area (~500 square km), The target is determined by 
+random-number access to a target pool of sealed travelling orders previously 
+prepared by an independent experimental team and kept locked in a secure 
+safe. The target pool consists of more than 50 target locations chosen 
+
+
+from a target-rich environment, 
+
+
+During a predetermined viewing period of 15 minutes duration, the 
+remote viewer is asked to render drawings and describe into a tape recorder 
+his impressions of the target site being visited by the outbound target 
+person. The interviewer with the remote viewer is kept ignorant of the 
+target and is therefore free to question him to clarify his descriptions 
+
+
+without fear of cueing (overt or subliminal) as to the particular target.” 
+
+
+Since general knowledge of the San Francisco Bay Area target region on 
+the part of the remote viewer and interviewer must be taken as a given, 
+and since particular knowledge of the contents of the target pool is 
+revealed as a series progresses, one must take into account the possi- 
+bility that any particular description may be artifactually sharpened. 
+(Such sharpening can in principle increase the apparent quality of the 
+result only if there is functional remote viewing to begin with, It 
+cannot in the absence of ESP produce an inflated result.) This sharpening 
+possibility in the presence of an already functioning RV capability is 
+handled in the statistical evaluation of the results by conservatively 
+assuming at the outset that the series is to be treated as belonging to 
+that class of studies in which the elements of the target pool are known 
+a priori to both remote viewer and interviewer, as in studies involving 
+numbers or cards as targets, 
+
+2 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+When the target person returns to SRI following the remote viewing 
+period, the subject is then taken to the target site so that he may obtain 
+direct feedback, Following a series of such trials over a several-day 
+period, a formal blind judging procedure (described below) is used to 
+
+
+evaluate the data and quantify the results, 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+II REMOTE VIEWER/INTERVIEWER ROLES 
+
+
+An important methodological aspect of the SRI RV protocols revolves 
+around the fact that the remote viewer/interviewer team constitutes a 
+single information gathering unit in which the remote viewer's role is 
+designed to be that of perceiver/information source, and the interviewer's 
+
+
+role is designed to be that of analytical control. 
+
+
+This division of labor is designed to mirror the two primary modes of 
+cerebral functioning; namely, the nonanalytic cognitive style (related to 
+brain function) that predominates in spatial pattern recognition and other 
+holistic processing (and is hypothesized to predominate in psi functioning), 
+and the analytical cognitive style that predominates in verbal and other 
+analytical functioning .*~4 (Only very experienced remote viewers appear 
+to have the ability to handle both cognitive styles simultaneously.) The 
+interviewer role, removing as it does the burden of analytical functioning 
+during exercise of the RV faculty, appears to be a key element in generating 
+the level of success required in operational programs, and we attribute 
+the success of the SRI RV protocols in large part to this innovative design 
+
+
+which appears to provide an appropriate match to the required functioning. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+III TARGET POOL SELECTION 
+
+
+Target locations in the San Francisco Bay Area are selected by a team 
+of two Radio Physics Laboratory personnel who are not involved as inter~ 
+viewers in the experiments (to prevent direct knowledge of the target pool 
+by the interviewers), The locations are chosen to satisfy the following 
+
+
+criteria: 
+
+
+(1) Target sites must be within a half-hour drive of the 
+SRI Menlo Park complex so that a uniform target access 
+time exists for all experiments, 
+
+
+(2) The target pool is constructed to contain several targets 
+of various types-~that is, several fountains, several 
+churches, several boathouses, and so forth--specifically 
+to circumvent analysis strategies of the type "there was 
+a fountain yesterday, so it is unlikely that there is a 
+fountain today." Furthermore, targets of different types 
+are not chosen to be particularly distinct from each other, 
+so that overlapping features exist. In this manner the 
+content of a given target, determined by random entry 
+into the target pool, is essentially independent of the 
+contents of other targets ("open-deck" design). 
+
+
+(3) The definition of what constitutes each target is 
+established in advance of the entire RV series 
+by written descriptions on a set of 3" X 5" target 
+cards, (Ex: Four Seasons Restaurant, on El Camino 
+Real, just north of San Antonio Road. Stand under the 
+entry arch and feel the bricks.) These cards constitute 
+the outbound team's instructions at the beginning 
+of the trial, and the judge's target list during the 
+evaluation phase, 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+IV TARGET STORAGE AND ACCESS 
+
+
+The target cards are numbered and placed in individual envelopes, 
+Similarly numbered, by the target selection team; they are then turned 
+over to the project Special Security Officer (SSO) who maintains them in 
+
+
+a GSA-approved secure container, 
+
+
+At the start of an RV session the interviewer, remote viewer, and 
+target person rendevous in the laboratory and establish the trial start 
+time (30 minutes hence), The target person then leaves the laboratory 
+for the SSO station, generates a random number in the presence of the SSO 
+by the use of the random-number function on a Texas Instruments Model 
+SR-51 hand calculator, obtains the associated envelope (which is recorded 
+
+
+by the SSO), and departs for the target site. 
+
+
+6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+V REMOTE VIEWER ORIENTATION 
+
+
+During the period that the target person is enroute to the target, 
+the interviewer and remote viewer have a period to relax and discuss the 
+protocols, The goal of the interviewer during this period is to make it 
+
+
+re 
+
+
+"safe" for the remote viewer to experience remote viewing. For the initial 
+orientation of a new remote viewer, this typically includes a discussion 
+as to how remote viewing appears to be a natural rather than abnormal 
+
+
+function, and that many people appear to have done it successfully. 
+
+
+The remote viewer is told that memory and imagination constitute 
+noise in the channel, and therefore the closer he can get to raw uninter- 
+preted imagery, the better, He is encouraged to report raw perception 
+rather than analysis, since the former tends to be correct while the latter 
+
+
+is often wrong, 
+
+
+Since remote viewing is a difficult task, apparently similar to the 
+perception of subliminal stimuli ,° it takes the full attentive powers of 
+the remote viewer, Therefore, the environment, procedures, etc., are 
+designed to be as natural and comfortable as possible so as to minimize 
+the diversion of attention to anything other than the task at hand. No 
+hypnosis, strobe lights, or sensory-derivation procedures are used, since 
+in our view such (novel) environmental factors would divert some of the 
+
+
+subject's much-needed attention. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+VI INTERVIEWER BEHAVIOR 
+
+
+The interviewer arranges ahead of time to have pen and paper available 
+for drawing, and a tape recorder, The room lighting is somewhat subdued 
+
+
+to prevent after-image highlights, shadows on eyelids, etc, 
+
+
+When the agreed-upon RV trial time arrives, the interviewer simply 
+asks the remote viewer to "describe what impressions come to mind with 
+regard to where the target person is."" The interviewer does not pressure 
+the remote viewer to verbalize continuously; if he were to, the remote 
+viewer might tend to embroider descriptions to please the interviewer, 
+
+a well-known syndrome in behavioral studies of this type. If the remote 
+viewer tends toward being analytical ("I see Macy's") the interviewer 
+gently leads him into description, not analysis. ("You don't have to tell 
+me where it is, just describe what you see."') This is the most important 
+and difficult task of the interviewer, but is apparently necessary for 
+
+
+good results, especially with inexperienced remote viewers, 
+
+
+It is also useful for the interviewer to "surprise" the remote viewer 
+with new viewpoints. (''Go above the scene and look down--what do you see? 
+If you look to the left, what do you see?") The remote viewer's viewpoint 
+appears to shift rapidly with a question like this, and the data come 
+through before the viewer's defenses activate to block it out, The shifting 
+of viewpoint also obviates the problem of the remote viewer spending the 
+entire session time giving meticulous detail on a relatively trivial item, 
+such as a flower, which, even if correct, generally will be of little use 
+in assessing the session, (Once a remote viewer feels he sees something, 
+he tends to hang on to this perception rather than commit himself to a new 
+
+
+viewpoint.) It is important to recognize again that with the division of 
+
+
+8 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+labor outlined in Section II it is the interviewer's (not the remote 
+viewer's) responsibility to see that the necessary information to permit 
+discrimination among the range of target possibilities is generated, the 
+remote viewer's responsibility being confined to exercise of the RV 
+
+
+faculty. 
+
+
+The remote viewer is encouraged to sketch what he sees, even over 
+his objections that he is not an artist, can't sketch, etc, He may do 
+so throughout, or wait until the end of the session if intermittent 
+drawing would distract his concentration, Since drawings tend to be more 
+accurate than verbalizations, this is an extremely important factor for 
+
+
+good results. 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+VII TARGET PERSON BEHAVIOR 
+
+
+After obtaining a target card in the manner described in Section V, 
+
+
+the target person proceeds to the target site indicated, 
+
+
+He is asked to come upon the target location at the starting time 
+so that his view of it is fresh at the beginning of the remote viewing 
+period, He is to then simply pay attention to the environment as dictated 
+by instructions on the target card, At the end of the agreed-upon target 
+
+
+viewing time of 15 minutes the target person returns to the lab, 
+
+
+10 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+VIII POST-EXPERIMENT FEEDBACK 
+
+
+When the target person returns, and after all the raw data has been 
+turned over to the SSO, the interviewer, remote viewer, and target person 
+proceed directly to the target site for feedback, This helps to develop 
+the remote viewer's sense of which aspects of his mental imaging process 
+are correct, which are incorrect, This appears to bring the RV trial to 
+closure for the remote viewer, so that when he has a following session, 
+his mind is no longer involved with wondering how he did on the previous 
+one, Only a very experienced subject can function well time after time 
+without feedback, so this is done for each trial to optimize the potential 
+
+
+for success, 
+
+
+11 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+IX EVALUATION PROCEDURE 
+
+
+In a sense, the most critical part of the remote-viewing procedure 
+is the evaluation procedure, Any single experiment in remote viewing, 
+even if perfect, could in principle be dismissed as possibly a coincidence, 
+Further, any result less than pefect might be called into question as a 
+generalized "grass is green, sky is blue" transcript that fits every target. 
+Only blind differential discrimination of transcripts across a series of 
+targets can provide a basis to discriminate between these dismissals and 
+
+
+the RV interpretation, 
+
+
+To obtain a numerical evaluation of the accuracy of a standard six~ 
+trial remote viewing series with a given remote viewer, the results are 
+subjected to independent judging on a blind basis by an SRI research 
+
+
+analyst not otherwise associated with the series, 
+
+
+In preparation for judging, the remote viewer's tapes are transcribed. 
+The resulting transcripts are then edited only to the extent of deleting 
+information which might act as artifactual cues to a judge, such as 
+references to other targets, or phrases which might indicate the temporal 
+
+
+order of the transcripts. 
+
+
+The transcripts (including associated drawings) and target cards, 
+each arranged in their own random order different from the order of target 
+usage, are then turned over to the judge. The judge is instructed to 
+visit the target locations on the basis of the target card instructions, 
+and to blind rank order, on a scale of 1-6 (best to worst match), each of 
+the six transcripts against each of the six target sites, generating a 
+
+
+6 X* 6 matrix as in the example shown in Table 1, 
+
+
+12 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+TYPICAL 6 X 6 JUDGING MATRIX 
+
+
+Distribution of Judge's Rankings 
+
+
+TRANSCRIPT LETTER 
+TARGET 
+fafefelfof{s{ F| 
+
+
+A precise measure of the statistical significance of the matrix of 
+target/transcript relations is given by a direct-count-of-permutations 
+method of great generality.® It is an exact calculation method requiring 
+no approximations such as normality assumptions. Furthermore, the judging 
+process that went into generating the matrix is not required to be inde- 
+pendent transcript-to-transcript nor target-to-target. Finally, the 
+statistical evaluation procedure is general enough that, in addition to 
+being applicable to the blind rank order procedure in use at the present 
+time, it can be applied to analyses in which numerical estimates of 
+target/transcript correspondences are made on the basis of other rank-order 
+or rating scales, This includes rating 1-7, zero to complete correspondence; 
+arbitrary scale rating arrived at by some complex procedure involving many 
+
+
+factors such as occurs in multiple-judge voting; cases in which, for a 
+13 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+given target, several transcripts are given the same rating, all transcripts 
+are rated zero, a few transcripts are assigned rank order numbers and the 
+rest are assigned the mean of the remaining rank order numbers, and so 
+forth, The only requirement is that no artifactual information is provided 
+as to the order of targets and transcripts. In particular, it can be 
+
+
+shown that if targets are used with replacement or are non-orthogonal, 
+
+
+interviewer. Thus the possibility of interviewer cueing or subject 
+guessing based on a priori knowledge of the target pool is handled at a 
+fundamental level by a statistical procedure that assumes the worst. 
+
+
+The argument is as follows, 
+
+
+In the absence of knowledge as to which transcript was generated in 
+response to which target, one observes that in setting up the matrix there 
+are n! possible ways to label the columns (transcripts), given any 
+particular order of the rows (targets), and vice versa. Thus, there are 
+n! possible matrices which could be constructed from the raw judging data, 
+ali of them equally likely a priori in the absence of knowledge as to the 
+
+ny’ order of targets and transcripts. Each has its associated sum on the 
+
+
+diagonal corresponding to a possible alignment of targets and transcripts. 
+
+
+The significance level for the experiment is then determined by 
+counting the number of possible matrices that would yield a result 
+
+
+(diagonal sum) equal to or better (i.e., lower sum of ranks in the rank- 
+
+
+order case, higher sum of scores in the correspondence-rating case, etc.) 
+than that obtained for the matrix corresponding to the key, and dividing 
+by n! This ratio gives the probability of obtaining by chance a result 
+equal to or better than that obtained in the actual judging process. 
+
+For the 6 X 6 matrix used as an example (Table 1) we have, by direct 
+computer count of the 6! matrices obtained by interchanging columns, 
+
+
+-3 
+p = 2/6 = 2.8%10°, 
+
+
+14 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+This statistical procedure, in use for more than two decades by many 
+researchers, was specifically designed to handle narrative material of the 
+remote viewing type, and it cannot be stressed enough that it is constructed 
+sufficiently conservatively so as to apply even in the limiting case in 
+which the target pool is completely known a priori to all involved, thus 
+handling any possible contamination due to remote viewer guessing or 
+
+
+interviewer cueing in protocols of the type used in the SRI RV procedure, 
+
+
+15 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+
+REFERENCES 
+
+
+1. H. E, Puthoff and R. Targ, "A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical Perspective and Recent 
+Research," Proc, IEEE, Vol. 64, pp. 329-354 (March 1976), 
+
+
+2, J, Ehrenwald, "Cerebral Localization and the Psi Syndrome," J. of 
+Nervous and Mental Disease, Vol. 161, No. 6, pp. 393-398, 
+
+
+3. R. Ornstein, The Nature of Human Consciousness, San Francisco, CA: 
+Freeman, 1973, Ch. 7 and 8, 
+
+
+4, R.W. Sperry, "Cerebral Organization and Behavior," Science, Vol, 133, 
+pp. 1749-1757 (1961). 
+
+
+5. H. F. Dixon, "Subliminal Perception and Parapsychology: Points of 
+Contact," Proc, of the XXVII Annual International Conference of the 
+Parapsychology Foundation, Inc., New York (in press), 
+
+6, C. Scott, "On the Evaluation of Verbal Material in Parapsychology: 
+
+
+A Discussion of Dr, Pratt's monograph," Jour. Soc, Psych. Res., 
+Vol, 46, No, 752, pp. 79-90 (June 1972), 
+
+
+16 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000100060001-6 
+
+

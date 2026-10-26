@@ -1,0 +1,90 @@
+Approved For Relens9 2001/03/26 : CIA-RDP96-007828000200080009-5 
+
+
+OF THE AMERICAN PHYSICAL SOCIETY 
+
+
+1 DECEMBER 1976 
+
+
+INCLUDING THE PROGRAM OF THE 
+1976 WINTER MEETING AT STANFORD UNIVERSITY 
+20-22 DECEMBER 1976 
+
+
+SESSION FC: THEORETICAL PHYSICS 
+Wednesday morning, 22 December 1976 
+
+Physics Lecture Halt 101 at 9:00 A.M, 
+Nelan R, Quinn, presiding 
+
+
+FC 9 Direct_Perception of Remate Geographical Locations. ——- 
+H. E. PUTHOPF and R. TARG, Stanford Res. Inst.--Since 1972 we have FC 11 EEG Correlates to Remote Stimuli Under Cond! tions 
+
+
+been investigating facets of human perception that appear to fall outside idelding. R. TARG, H.E, PUTHOFF and E.C. MAY, 
+
+
+of Sensory 
+the range of well-understood perceptual/processing capabilities. Of particular Stanford Res. Inst.--We report evidence for a correlatim 
+interest has been a human information-accessing capability that we call 
+
+
+between direct physiological measurement and a remote 
+“remote viewing.” This phenomenon pertains to the ability of certain light stimulus blocked from ordinary perception. In pi- 
+individuals to access and describe, by means of mental processes, informa 
+
+
+lot studies with a selected subject, a strobelight was 
+tion sources blocked from ordinary perception, and generally accepted as 
+
+
+; placed 9m from a subject in a steel enclosure in a sec- 
+secure against such access, In particular, the phenomenon we have investi- ond room. EEG was recorded, and fast-Fourier-transforms 
+
+
+gated most extensively is the ability of a subject to view remote geographical (FFTs) were obtained. FFIs of the 168 intermixed peri- 
+locations up to several thousand km distant from his physical location given ods of flash and no-flash conditions showed that the oc- ( 
+only a known person on whom to target. We have recently carried out currence of the light flash correlated significantly 
+coast to coast experiments using a computer to interface with individuals (p <0.03) with a decrease in 9-11 Hz EEG production. 
+whose remote perceptual abilitics have been developed sufficiently to allow Two formal studies were then carried out, each consist~ 
+them to describe--often in great detail--geographical or technical material ing of 14 runs of 40 trials making use of a battery op- 
+such as buildings, roads, and natural formations. Our accumulated data erated lamp to eliminate any possibility of electro- } 
+indicate that both specially selected and unselected persons can be assisted magnetic interference (EMI) associated with a conventiar 
+in developing remote perceptual abilities up to a level of useful information al flash lamp. These studies again show significant 
+transfer, correlations between EEG output and light flash stimulus. 
+In the first study the 9-11 Hz EEG power again decreased 
+during the stimulus condition (p <0.02); in the second 
+
+
+FC 10 Some P hysical Models Potentially Applicable to study the EEG output increased during the stimulus con- 
+
+
+Observed Perception Data, E,A, Rauscher, Lawrence dition (p <0.01). Although the subject was not able 
+Berkeley Laboratory ~-The purpose of this investigation to guess the stimulus condition, the observed changes 
+is to utilize the remote perception experimental data are consistent with a response on the part of the sub- 
+base” to deduce what physical principles govern the ject, albeit at a noncognitive level of awareness. 
+
+
+accessing of remote, sensorily shielded information, The 
+data base appears to be stable enough to allow us to make 
+some definitive statements about the correlation of this 
+data with principles and content of physics, We examine 
+the constraints represented by this data in relationship 
+to three major physics principles: Poincaré (Lorentz) in- 
+variance, analyticity (causality) and unitarity, We 
+
+
+examine in detail some specific Lorentz invariant models 
+as well as some quantum mechanical models, such as Bell's 
+inequality, in relationship to the spacial and temporal 
+properties of this data, 
+*Consultant to Stanford Research Institute 
+
+- 1, HE, Puthoff and R, Targ, IREE, 64, 329 (1976), 
+
+
+Approved For Release 2001/03/26 : CIA-RDP96-00787R000200080009-5 
+
+

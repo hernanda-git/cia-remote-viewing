@@ -1,0 +1,555 @@
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+- January 1979 
+
+
+Submitted for Publication to NATURE: 
+
+
+INFORMATION TRANSMISSION IN REMOTE VIEWING EXPERIMENTS: II 
+H. E, Puthoff 
+
+
+Russell Targ 
+SRI International 
+
+
+REANALYSIS OF SRI REMOTE VIEWING EXPERIMENTS 
+
+
+Charles T. Tart 
+University of California, Davis 
+
+
+SRI international 
+SARNPOee Ur RelSASESDGO UE O : CLASRSBS6.08787RO00200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+INFORMATION TRANSMISSION IN REMOTE VIEWING EXPERIMENTS: II 
+
+
+Marks and Kammann in a recent letter to Neture? report failure in 
+their attempt to replicate our experiments in "remote viewing," the 
+ability of certain individuals to access and describe, by means of 
+mental processes, information blocked from ordinary perception by 
+distance or shieidtne In order to account for the discrepancy 
+between their failure and our reported success, they hypothesize that 
+the apparent success in our experiments may be an artifact of statements 
+in the subject transcripts which provide extraneous cues useful to 
+judges attempting to blind match transcripts to target sites. Marks 
+and Kammann argue post hoc that examples from the transcripts of our 
+first published experiment--a nine-trial series with subject pribencc 
+support their hypothesis. Generalizing to the rest of our work they 
+then conclude that the remote viewing phenomenon is as yet unconfirmed. 
+
+We present here and in the following letter by Tart, evidence 
+demonstrating that their conjecture is invalid for our work in general, 
+and for the Price series in particular. . For the Price series we 
+include a rigorous test of their hypothesis, which we show to be false. 
+
+Background, At the beginning of an experiment, one experimenter 
+is closeted with a subject to await an agreed-upon start time. A 
+second experimenter is then sent, by random-number access to a 
+previously prepared target pool, to a target location in the 
+San Francisco Bay Area (~ 250 square km). During a predetermined 
+30-min viewing period the subject is asked to render drawings and 
+describe into a tape recorder his impressions of the target site being 
+
+
+1 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+visited by the outbound experimenter. The experimenter remaining with 
+the subject is kept ignorant of both the particular target and 
+
+the contents of the target pool, and is therefore free to question the 
+subject to clarify his descriptions without fear of cueing, overt or 
+subliminal, 
+
+Following a series of such experiments over a several-day period, 
+the data are given to independent judges for various forms of blind 
+analysis such as correlation of target/transcript descriptors, blind 
+matching, etc, In the blind-matching procedure, which provides an 
+overall estimate of target/transcript correlations, a judge attempts 
+to blind-match transcripts to target sites, putatively on the basis 
+of information in the transcripts derived via the remote-viewing 
+channel. For this matching process, extraneous cues that might be helpful 
+to a judge must be absent from the judging package. Although in the 
+Price series in question we took certain precautions to ensure that 
+the judging package was cue-free (light editing of transcript preambles, 
+randomization procedures), Marks and Kammann assert that the process 
+was not carried far enough. Indeed, they hypothesize that certain 
+phrases that were not edited out of the transcripts (e.g., "second 
+place of the day'') are solely responsible for the target/transcript 
+matchings, and that "the successful identification of target sites by 
+judges is impossible" in the absence of such phrases. 
+
+Rejudging. To test the Marks-Kammann hypothesis rigorously, 
+the nine-transcript series in question was turned over to an independent 
+research psychologist” for rejudging on the basis of the criteria 
+implied by the Marks-Kammann criticism. He set himself the task of 
+
+
+going over the transcripts carefully, removing all phrases suggested as 
+
+
+2 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+potential cues by Marks and Kammann, and editing the transcripts still 
+further, removing any additional phrases for which even the most remote 
+post hoc cue argument could be made. He then arranged to have the 
+series rejudged by an independent qualified fade. who was completely 
+unfamiliar with this study, The materials turned over to the judge 
+consisted of the newly edited transcripts presented in random order, 
+and the list of target sites, also in random order (different from 
+both the transcript random order and from the order of original target 
+usage). The judge was instructed to provide, on a blind basis, a 
+detailed content analysis of target/transcript correlations, which 
+required that she visit each target site and rate transcripts to targets 
+on a scale of 0-100 for all possible combinations, These data also 
+yield the conventional overall measure of target/transcript correlations 
+by indicating the best transcript description from the set of nine for 
+each target, 
+
+Results. The result of the blind matching of transcripts to target 
+sites in the rejudging was that seven of the nine were correctly 
+matched, the same results obtained by the best two of the previous six 
+
+
+ise The appropriate statistic for this overall matching result 
+
+
+judges. 
+is derived assuming non-independent assignment of transcripts to target 
+sites (as in guessing the order of a random sequence of the digits 
+
+zero through nine, each used once);’ the result (seven out of nine 
+correctly matched) is significant at p < 107*, The more detailed 
+matrix of target/transcript rating correlations can be analyzed by the 
+Pratt-Birge mathods” the result obtained by this analysis is significant 
+at p< 1; (For details, see accompanying letter by Tart.) The 
+
+
+greater significance obtained by the latter, more sensitive measure of 
+
+
+3 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+target/transcript correlations reflects the following fact: The judge 
+found that, with the exception of two transcripts that did not appear 
+to correspond to any site, the eerminin’ seven transcripts each showed 
+high correlation to one (correct) site and low correlation to the 
+others, 
+
+Therefore, on the basis of an independently conducted empirical 
+test, we can reject as invalid the Marks-Kammann conjecture that 
+success in our first-published study on remote viewing might be 
+attributable to cueing artifacts rather than to transcript/target 
+correlations, 
+
+Discussion. To place the preceding arguments in proper perspective, 
+we first draw attention to the fact that the Marks-Kammann critique 
+did not address the quality of the remote-viewing descriptions in the 
+transcripts per se, but was instead limited to criticism of a particular 
+judging procedure used to evaluate those descriptions, With regard to 
+the descriptions themselves, we note that in the nine-transcript series 
+in question, when the target was a boat marina the subject gave a 
+consistent narrative that began with "What I'm looking at is a little 
+boat jetty or boat dock along the bay. It is in a direction about 
+like that (pointing) from here, Yeah, I see the little boats, some 
+motor launch (sic), some little sailing ships...." For a landmark 
+Hoover Tower site, the subject summarized his impressions as "The area-- 
+I have a place--seems like it would be Hoover Tower." For a Seseea tional 
+swimming pool site with a 75' x 100' rectangular pool and a 129! 
+diameter circular pool, the subject made a drawing of the target area 
+as centered about two pools of water, which he dimensioned as a 
+
+
+60' x 89' rectangular pool and a 120' diameter circular pool; and so 
+
+
+4 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+forth, Furthermore, as pointed out above, blind content 
+
+analysis of the transcripts, which provides a sensitive measure 
+
+of the degree of target/transcript correspondences, confirms objectively 
+the subjective impression of above-chance correspondences that one infers 
+from examples such as the above. With data of this quality we would 
+argue that it is not surprising that empirical test failed to confirm 
+the cueing-artifact hypothesis put forward by Marks and Kammann, but 
+rather confirmed that the target/transcript matches in our first remote- 
+viewing study are to be attributed (as originally interpreted) to the 
+quality of the subject's descriptions themselves. 
+
+Secondly, we note that in our extensive replication studies, > which 
+also yielded significant results, the Marks-Kammann criticisms do not 
+apply in principle, Target lists and transcripts were separately 
+randomized, and transcripts were carefully checked prior to judging 
+to ensure absence of any phrasing for which even a weak post hoc potential- 
+cue argument could be made, 
+
+Finally, where Marks and Kammann report failure in their attempt 
+to replicate our remote-viewing results, there are other laboratories 
+who, following our procedures, have reported sticcess.” > We will 
+have to await disclosure of the Marks-Kammann protocols to determine 
+whether failure on their part can be traced to differences in procedure. 
+
+Given (1) the failure (by empirical test) of the Marks-Kammann 
+cueing-artifact hypothesis to account for the success of our first- 
+published remote-viewing pena (2) the level of significance of 
+detailed content analysis of that study, (3) the inapplicability of 
+their hypothesis to our later replication studies, > and (4) the 
+
+
+continuing successful replication of this work in our own and other 
+
+
+5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+laboratories, 4-49 we stand confirmed in our original conclusion that 
+
+
+remote viewing is a viable human perceptual capability. 
+We wish to thank Prof, Charles T, Tart, University of California, 
+Davis, for his contribution in carrying out the independent rejudging 
+
+
+study necessary for the test of the Marks-Kammann hypothesis. 
+
+
+Harold E. Puthoff 
+Russell Targ 
+
+Radio Physics Laboratory 
+SRI International 
+
+Menlo Park, California 
+
+
+6 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+REFERENCES 
+
+
+1, Marks, D. and Kammann, R. Nature 274, 680-681 (1978), 
+
+2. Targ, R. and Puthoff, H, Nature 252, 602-607 (1974). 
+
+3. Puthoff, H. and Targ, R. Proc. IEEE 64, 329-354 (1976). 
+
+4, Targ, R. and Puthoff, H. Mind-Reach (Delacorte, New York, 1977). 
+
+5. Prof. Charles T. Tart, Department of Psychology, University of 
+California, Davis, 
+
+6. Qualified on the basis of having previously demonstrated competence 
+in blind matching and verbal content analysis of similar materials-- 
+see accompanying letter by Tart for details, 
+
+7. Feller, W. An Introduction to Probability Theory and Its Applications, 
+vol. 1, 2nd ed., 98 (John Wiley and Sons, New York, 1957). 
+
+8, Pratt, J. and Birge, W. Jour. of Parapsychology 12, 236-256 (1948), 
+
+9. Hastings, A. and Hurt, D. Proc. IEEE 64, 1544-1545 (1976), 
+
+10. Whitson, T., Bogart, D., Palmer, J. and Tart, C. Proc. IEEE 64, 1550-1551 
+(1976). 
+
+11, Bisaha, J, and Dunne, B, Research in Parapsychology 1976 (Scarecrow, 
+Metuchen, NJ, 1977). 
+
+12, Dunne, B. and Bisaha, J. Rageater: in Parapsychology 1977 (Scarecrow, 
+Metuchen, NJ, 1978). 
+
+13, Bisaha, J. and Dunne, B, Proc, IEEE 1977 Intern'l Conf, on Cybernetics 
+and Society, 512-516 (IEEE, NY, 1977). 
+
+14, Proc, IEEE Electro/77 Special Session on the State of the Art in 
+Psychic Research (IEEE, NY, 1977). 
+
+15. Proc, IEEE 1977 Intern'l Conf, on Cybernetics and Society, 508-539 
+
+
+(IEEE, NY, 1977). 
+
+
+7 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+REANALYSIS OF SRI REMOTE VIEWING EXPERIMENT 
+
+
+Marks and Kenmann! examined the transcripts of the first remote- 
+viewing experiment published by Targ and Puthof£- and hypothesized 
+that inadvertent cues in the subject's (Pat Price) and experimenter's 
+remarks might have provided an artifactual basis for matching the 
+transcripts and target sites. They also report attempts by two judges 
+of their own selection to match a subset of five of the transcripts 
+(with potential artifactual cues edited out) and target sites. This 
+judging produced only chance results, leading them to conclude that no 
+evidence for extrasensory perception (ESP) exists in this particular 
+remote-viewing series, Although the case for ESP in general and 
+remote-viewing in particular is based on many other erpesinents: to 
+which this artifactual cueing hypothesis is not applicable, I felt 
+it was important to test the Marks and Kammann hypothesis, because the 
+published examples of data from the Price series seemed to show 
+exceptionally strong ESP functioning. My independent reanalysis of 
+the Price series, after eliminating possible artifacts of the type 
+hypothesized by Marks and Kammann, shows it to be exceptionally 
+significant and indicative of ESP functioning. 
+
+In analyzing experimental results of this type, somewhat ambiguous 
+verbal material must be skillfully matched to see if there is ESP 
+"signal" among the noise of guesses and generalities, Such analysis 
+involves two assumptions that should be made explicit: (1) The judge 
+has whatever specialized intellectual faculties are needed to 
+discriminate the signal from the noise in the transcripts, and (2) the 
+judge is motivated to use these faculties effectively. If these two 
+
+
+assumptions are not reasonably well met, then we cannot reliably decide 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+1 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+whether ESP is present in verbal material. In particular, the judging 
+analysis can produce a negative result if the judge does not possess 
+the necessary discrimination, or if he is not motivated to use these 
+faculties or is negatively motivated, or if no ESP is present in the 
+data, 
+
+To minimize the likelihood of negative results from an incompetent 
+or poorly motivated judge in rejudging the Price series, I began with 
+a simple judge selection procedure. I obtained transcripts from 
+another successful remote-viewing series (not the Price series) of 
+Puthoff and tare’ and constructed a test set of five transcripts and 
+five target sites. Transcripts were edited by me to be certain no 
+artifactual clues of the type postulated by Marks and Kammann were 
+present. The transcripts were then randomly ordered, and the target 
+locations were arranged in another random order. Two potential judges 
+who had no knowledge of the published data on the Price series or the 
+test series were asked to match the test set of targets and transcripts. 
+One of the two judges scored at chance (one of five possible correct 
+matches) and was thus disqualified from judging the Price series, while 
+the other correctly matched all five transcripts, and was thus selected 
+to blind judge the Price ‘series. 
+
+I then obtained the nine transcripts of the Price series and the 
+list of target sites from Targ and Puthoff, and edited them to delete 
+all references that could conceivably give any indication as to the 
+order of the experiments. I also deleted all remarks that referred 
+even indirectly to other experimental sessions, This procedure 
+eliminated potential cues of the type hypothesized by Marks and 
+
+
+Kammann. 
+
+
+2 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+I arranged the nine edited transcripts of the Price series in random 
+order, and the nine target locations in another random order, The 
+judge was instructed to first visit all nine Gieeee to get a general 
+familiarity with them before reading any transcripts. She was then 
+asked to visit each site and, while there, to rate each of the nine 
+transcripts against that site on a 0-to-100-point scale, with zero 
+representing no similarity and 100 representing a very high degree of 
+similarity between target site and transcript. 
+
+The judge's results were analyzed by the Pratt-Birge dchaiaus’ 
+for evaluating degree of correspondence between descriptions and sites. 
+This statistical method basically tests the null hypothesis that the 
+subject's descriptions are generalities, randomly distributed as to 
+correctness over all target sites, versus the ESP hypothesis that the 
+subject said specific and correct things about particular sites that he 
+was intending to describe, This method is more sensitive for evaluating 
+this kind of material than simple ranking or only counting first-place 
+matches, because it takes the magnitude of the judge's ratings into 
+
+
+account. The results are shown in Table l. 
+
+
+As can be seen from the table, the judge rated most transcripts 
+as having zero resemblance to most sites. When she did see correspondence 
+between sites and transcripts, however, it was frequently a high degree 
+of correspondence (80 to 100 points). For seven of the nine target 
+sites the highest correspondence rating was given to the correct 
+transcript. The results obtained in Table 1 would occur by chance with 
+
+
+p< 10°", one-tailed, The null hypothesis that there are no specific 
+
+
+Approved For Release 2000/08/10 2ClA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+correspondences between targets and descriptions is thus soundly 
+rejected, as is Marks and Kammann's hypothesis that significant 
+judging depends on artifactual cues. 
+
+Marks and Kammann also had two judges, described as "research 
+psychologists" try to match a subset of five targets and transcripts 
+of the Price series. This subset was picked because nothing has been 
+published about specific target-transcript correspondences, Their 
+judges could not match targets and transcripts with greater than chance 
+expectancy. I extracted the same subset of targets and sites from my 
+judge's ratings: It is highly significant for ESP functioning by the 
+Pratt-Birge analysis (p = 0.005, one-tailed). 
+
+While non-psychologists might assume that psychologists are 
+experts at judging verbal material, this is not the case. Most of us 
+receive no training at all in this sort of procedure in the course of 
+our education. I would hypothesize that Marks and Kammann were unable 
+to obtain significant results in their reanalysis of the subset of 
+the Price series because their judges either lacked the necessary 
+discriminative skills and/or were not sufficiently motivated to use 
+them effectively. 
+
+In summary, although Marks and Kammann have raised questions 
+concerning the data analysis procedure in the Price series, when the 
+series is rejudged taking their suggestions into account there is no 
+loss of sient ticance in the data, and ESP remains the most reasonable 
+interpretation of the results. 
+
+Charles T, Tart 
+Professor of Psychology 
+
+
+University of California 
+Davis, California 95616 
+
+
+4 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+Table l 
+
+
+TARGET -- TRANSCRIPT CORRESPONDENCES 
+
+
+DISTRIBUTION OF BLIND RATINGS (0-100) ASSIGNED TO TRANSCRIPTS 
+FOR EACH TARGET SITE 
+
+
+(SUBJECT PRICE) 
+
+
+TRANSCRIPT 
+
+
+aoe vane [ a 
+Frew soo fo a 
+Peewee fe on 
+a 
+Pose een | 
+[mcouon rao 
+Penner fo 
+cs 
+[omvew fm 
+
+
+Note: Judge's blind ratings on the Price remote-viewing series. 
+The number in each cell represents the judge's rating, on a 0-to- 
+100-point scale, of the degree of resemblance between each site 
+and each transcript. The table is arranged so that cells on the 
+diagonal are ratings for transcripts the subject generated for 
+
+
+the corresponding target site. 
+
+
+Approved For Release 2000/08/10 : GIA-RDP96-00787R000200090017-5 
+
+
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+
+REFERENCES 
+
+
+1. Marks, D. and Kammann, R., Nature, 274, No. 5672, 680-681 (1978). 
+2. Targ, R. and Puthoff, H., Nature, 252, No. 5476, 602-607 (1974). 
+3. Tart, C., Science, 202, No. 4373, 1145 (1978). 
+
+4, Puthoff, H. and Targ, R., Proc. IEEE, 64, No. 3 (1976). 
+
+5. I wish to thank Phyllis Matson for her services as a judge. 
+
+6. The Palo Alto Drive-In Theatre site had been razed since the 
+original experiment had been conducted. However the judge 
+located the cement driveways from it that were still there, 
+used them to orient herself to the general area, and filled in 
+her perception of the site with memories from having been to 
+that drive-in in the past. 
+
+
+7. Pratt, J. and Birge, W., J. Parapsychology, 12, 236-256 (1948). 
+
+
+6 
+Approved For Release 2000/08/10 : CIA-RDP96-00787R000200090017-5 
+
+

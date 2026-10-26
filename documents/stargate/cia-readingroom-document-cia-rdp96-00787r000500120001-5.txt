@@ -1,0 +1,825 @@
+Approved For Release 2002/11/18 : PIS ROPDROCTS UOMO 
+
+
+SECRET rannve aa 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS Cog 
+ra 
+
+
+= 
+
+
+14 November 1978 
+
+
+Monthly Progress Letters 5 and 6 (combined) 
+Covering the Period 1 September to 1 November 1978 
+SRI International Project 7403 
+
+
+SENSORY TECHNOLOGY ASSESSMENT (U) 
+
+
+By 
+Harold E. Puthoff 
+
+
+Russell Targ 
+Edwin C. May 
+
+
+Classification Determination Pending 
+Protect as though Classified SECRET 
+
+
+Copy No, 1 of 5 copies 
+This document consists of 12 pages 
+SRI 8-4514 
+
+
+“771. <™ NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+333 Ravenswood Ave. * Menlo Park, California 94025 
+International 
+
+
+pproved Far Rebesse Q002sbid 1STAGHER DROB-80787RUS0S004 Z0O0'E.5 
+A 
+
+
+Eee SECRET rmxmurive 
+
+
+Approved For Release OS RCREE aie 
+TENTATIVE 
+
+
+I OBJECTIVE 
+
+
+The purpose of this program is to provide a basis for assessing 
+psychoenergetic processes as an advanced threat technology that could 
+be developed by the USSR. This study is to determine the state of the 
+art and to evaluate application feasibility of developments in this 
+area, 
+
+
+It SUMMARY OF SIGNIFICANT ACTIVITIES 
+
+
+A. Long-Distance Communication of Binary Symbols 
+
+
+It has been difficult in the field of psychoenergetics to 
+obtain reliability in the simple task of sending a message consisting 
+of similar elements, such as Zener cards or binary digits. However, we 
+instituted a procedure at the suggestion of consultant Swann that has 
+been remarkably productive. 
+
+
+The experiment is one in the communication of binary symbols 
+via psychoenergetic channels, The baseline is New York City - SRI 
+Menlo Park, 
+
+
+To overcome the boredom factor generally associated with 
+repeating target symbols, such as 0110101001..., the binary symbols 
+used here as in the form of a sequence of word pairs (sun/moon, many/ few 
+wee), picture pairs (3%/(@, @/@....), and word/picture pairs (star/yy, 
+moon/(@....). The target pair is changed for each trial, and the 
+particular element of the target pair (e.g., whether sun or moon in 
+the sun/moon target pair) is determined by random number generator. 
+
+
+The protocol involves an SRI experimenter (H.P.) calling 
+subject Il shortly before the experiment is to begin. To carry out the 
+experiment, the SRI phone is set in a speaker phone cradle, beside which 
+is a button-operated door chime, a random number generator (RNG function 
+on a Texas Instruments SR-51 hand calculator), and tabulation sheets. 
+The subject calls out one of the dichotomy pairs (e.g-, sun/moon words). 
+The experimenter then enters the RNG to obtain a two-digit random number 
+(00-99), the last digit of which, being odd or even, is taken to represent 
+1 or 0, respectively. The particular pole of the dichotomy indicated is 
+drawn from a vertical-slot file and displayed on a desk in front of the 
+experimenter. At this point the chime is sounded and the subject makes 
+a call, to which the experimenter responds verbally with the correct 
+target which is then recorded on the tabulation sheet along with the 
+subject's call. The subject then calls out another dichotomy and the 
+procedure is repeated. 
+
+
+To date, the results are as follows. Altogether, 218 trials 
+have been carried out, of which 61% (133) were hits (3.250, p= 5.8 x 
+10-4, or odds of 1700:1). Of the three categories of target pairs (word 
+pairs, picture pairs, word/picture pairs), all were independently 
+significant where the latter yields the highest hit rate. In this 
+category, 37 trials have been carried out, of which 76% (28) were hits 
+(3.13 0, p = 8.7 x 107%, or odds of 1150:1). 
+
+
+2 
+
+
+Approved For Release 2002/11/18 5 CjA- 96-00787R000500120001-5 
+SEChEr TENTATIVE 
+
+
+Approved For Releaqep ay A SSTE TE BIPR7 R008 001 20001-5 
+
+
+It appears, therefore, that the best procedure found to date 
+for binary communication consists of a sequence of non-repeating concepts 
+(sun, moon, star, outside, many, near, etc.), where for each the binary 
+dichotomy (0,1) is word/picture. 
+
+
+B. Mini-Computer Automated Communications Experiment 
+
+
+As described in previous reports, we have initiated an auto- 
+mated communications experiment of the following type. Sender and 
+receiver are each seated before a console that has a circular display 
+of numbers 1 through 10. The two consoles are located in separate 
+buildings. A button push at the sender's console initiates access to a 
+random number generator in a mini-computer, which then illuminates one 
+of the numbers on the sender's console, and turns on a "ready" light 
+on the receiver's console, With the sender concentrating on the 
+illuminated digit on his console, the receiver scans his unlit panel 
+of numbers until he thinks he knows the answer, at which time he presses 
+a button below the number of his choice. At that point the correct 
+digit is illuminated on his panel to give him immediate feedback, The 
+sequence is then repeated, 
+
+
+The mini-computer automatically records all data (trial 
+number, target/response pair) and, at the end of a session, calculates 
+and displays on video the cumulative hits, pattern of spatial displace- 
+ments (how far around the circular display the receiver's choice was 
+from the correct target), and pattern of temporal displacements (whether 
+subject was ahead or behind in time with regard to the target sequence). 
+All data are recorded on magnetic tape for later analysis. 
+
+
+Since the automated communications device has been operational, 
+over the last two months we have carried out a number of sessions, both 
+to familiarize ourselves with operation of the equipment and to find 
+subjects capable of high scoring. Progress toward both goals is off 
+to an excellent start. 
+
+
+To date 12 subjects have carried out a total of 375 trials. 
+By chance alone we would expect 1 out of 10, or 37.5 hits; we have 
+observed 52 direct hits, which has a probability of p = 0.006 (odds 
+of 167:1), so overall we are getting significant instances of psycho- 
+energetic communication, 
+
+
+A further breakdown of the above scoring is necessary, as 
+some of the subjects are novices, while some were selected as having 
+shown ESP ability in previous tests. Three subjects who had shown 
+ability in earlier remote viewing experiments scored as follows: one 
+has obtained 6 hits in 38 trials to date (p = 0.17, or odds of 5.9:1), 
+which is encouraging; one has obtained 5 hits in 39 trials to date 
+(p = 0.35, or odds of 2.9:1, as well as especially interesting displace- 
+ment patterns, also encouraging; and one, to our surprise, has obtained 
+only 4 hits in 52 trials, along with no other evidence (such as spatial 
+or temporal displacement hits) of orientation to the test. Finally, the 
+
+
+3 
+
+
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+Approved For asa NCUA sSrritD ee" 20001-5 
+
+
+the subject most extensively worked with to date has shown 26 hits 
+
+in 160 trials (p = 0.004, or odds of 250:1), The results are therefore 
+encouraging at this point, and we will continue to collect and analyze 
+direct hits, as well as spatial and temporal displacements. 
+
+
+Cc. Abstract Targeting 
+
+
+One of the tasks of principal interest in this program is to 
+define what is necessary for target acquisition (e.g., cooperative 
+target person at site, names, maps, pictures, various coordinate 
+systems, etc.). In two experiments last year we made tentative headway 
+on this problem by examining the extent to which a subject in the 
+laboratory could describe the remote location of a person not known to 
+him, In those experiments the subject had only the driver's license 
+of the outbound target individual. In both these trials, the subject 
+gave excellent descriptions of the remote location, and in one case 
+gave an accurate character sketch of the outbound person. 
+
+
+In an effort to quantify this apparent tracking ability, 
+given only a photograph of an ee bere we carried out a series 
+
+
+of five trials in cooperation with an experimenter at the University of 
+Chicago. The experimenter supplied us with a photograph of herself, 
+and set out for a ten-day trip through the Midwest. On each of five 
+
+
+the outbound experimenter in present time. ) 
+
+
+The five trials by our subject are to be blind matched by 
+judges in Chicago, who are experienced in rank-order matching on the 
+basis of other remote viewing experiments carried out by the Chicago 
+group. 
+
+
+The outbound experimenter called to give us feedback as to 
+her subjective assessment of the transcripts. She felt that three of 
+the subject's descriptions of her activities would be matched as direct 
+hits, with one of them being the most accurate remote viewing description 
+she had ever seen. ("It is as though the subject was sitting in my lap 
+the whole time.") The remaining two transcripts had matchable elements, 
+but were of lesser quality. The formal judging will be completed during 
+November, and will be reported next month. 
+
+
+D. Mini-Computer Based Random-Event Generator Experiment 
+
+
+As indicated in earlier monthly reports, a class of experiments 
+that have been extensively reported in the psi literature are those 
+
+
+# 
+
+C. Honorton, "Replicability, Experimenter Influence and Parapsychology," 
+paper presented to the annual meeting of the AAAS in Washington, D.C., 
+1978, 
+
+
+4 
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 20a a Relea 736 79.'797R000500120001-5 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+that involve alleged human/machine interaction with electronic random- 
+event generators, In these experiments, digital electronic noise derived 
+either from a thermal noise source or from the decay of a radioactive 
+material is monitored while a subject attempts to alter the statistical 
+properties of the noise distribution. The usual protocol involves 
+providing visual and audio feedback signals, proportional to various 
+statistical parameters, to a subject who is asked to concentrate upon 
+
+the feedback signals and to alter them in a prescribed way. We have 
+completed the design stage for a mini-computer based investigation of 
+this phenomenon with the goal of constructing a psychoenergetic "switch." 
+
+
+With the aid of $15K additional funding from the sponsor, we were 
+able to finalize the hardware specifications for the mini-computer portion 
+of the random-event generator. A purchase order has been placed for a 
+Digital Equipment LSI-11 packaged laboratory system which includes a 
+sufficient number of input/output channels to monitor not only the 
+random process in question, but also a number of environmental parameters. 
+The mini-computer also includes sufficient software, disk storage and 
+memory to be useful as a stand-alone developmental system. We expect 
+delivery of special components within a few weeks so that construction 
+of the random process interface can begin in expectation of the entire 
+system delivery in January. 
+
+
+Since the hardware specifications have been finalized, we were 
+able to begin software development of analysis techniques with the aid 
+of our general purpose laboratory computer. One approach under con- 
+sideration is sequential analysis, first developed by Wald. By 
+adjusting the parameters of the theory, this technique can be made to 
+be very sensitive to small non-random perturbations in an otherwise 
+random process, Using the computer's pseudo-random generator, we were 
+able to model the theory with standard Monte Carlo techniques. We found 
+that, if we are willing to extend the trial periods to increase the 
+reliability, we could make a switch closure decision with a generator that 
+has been biased by only 0.5% and a false alarm rate of one closure in 
+1000 trials, as observed by Monte Carlo modeling. 
+
+
+E. Grill Flame Meetings 
+
+
+On 13-14 September a meeting was held at SRI to discuss 
+experiments to test tactical applications of the remote viewing 
+phenomenon, Discussants included Dale Graff of FTD, WPAFB, OH; 
+
+John W. Kramar and Col, Albert De Prospero of AMSAA, Aberdeen Proving 
+Ground, MD; Marion Bryson, CDEC, Ft. Ord, CA; Major William Stoner, 
+ACSI, Washington, DC; SRI personnel Harold E, Puthoff, Russell Targ, 
+and consultants Edwin May, Charles Tart, and Ingo Swann. 
+
+
+* 
+Abraham Wald, Sequential Analysis (Dover Publications, New York, 1973). 
+
+
+5 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+Approved For Release 2002/41/18, P96-00787R000500120001-5 
+TATIVE 
+
+
+Approved For Release ee 
+TENTATIVE 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+The tasks of interest to which psychoenergetic functioning 
+might be applied were determined to be the following: 
+
+
+I SENSING 
+
+
+A. 
+
+
+Unit State 
+
+
+1. Quiescent 
+2. Preparation 
+3. Movement 
+
+
+Target Damage 
+
+
+1. Massive Physical 
+2s Significant Functional 
+3. Little or None 
+
+
+Access Codes 
+
+
+1. Computers 
+2. Control Systems 
+
+
+II LOCATING 
+
+
+A. 
+
+
+Military Materiel 
+
+
+l. Combat Vehicles 
+
+2. Indirect Fire Weapons 
+3. Aircraft 
+
+4. c4 Systems 
+
+
+Tactical Units 
+
+
+1, Maneuver 
+
+2. Fire Support 
+3 Command 
+
+4. Observation 
+5. Support 
+
+
+Strategic Units 
+
+
+Ly Bases 
+2. Launchers 
+3, Loaded Launchers 
+
+
+Military Personnel 
+
+
+1, Commanders 
+2. Key Staff 
+3. Other Personnel 
+
+
+III GENERAL 
+
+
+A. 
+
+
+E. 
+
+
+Utility of Successful Points 
+Protocols 
+
+Screening Criteria 
+
+Failure Patterns 
+
+
+Other Applications 
+
+
+6 
+Approved ror a SOD ER aU sl ecieedoizo0t 
+
+
+TENTATIVE 
+
+
+Approved For Release 200digpii@ahPeGOP96710797R000500120001-5 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+It was planned that SRI personnel will visit Ft. Ord in 
+November for a firsthand view of possible experimental scenarios to 
+determine the feasibility and priority associated with individual 
+entrees in the task list. 
+
+
+On 19-20 October 1978, discussions were held at SRI with 
+AMSAA representatives Samuel Phillips and Lynne S, Taylor, and BRL 
+representative Evan H. Walker. 
+
+
+The two-day discussion focussed primarily on the protocols 
+and results of AMSAA's remote viewing replication studies, with some 
+discussion of physical models for the mechanisms, A number of points 
+were clarified as to specifics of the SRI procedures, 
+
+In general, it appears from an analysis of AMSAA results that 
+results there are similar to those obtained at SRI. 
+
+
+F, Additional Efforts 
+
+
+Although not specifically carried out for this project, by Aas 
+
+
+way of information we include the following items. c 
+(Ae. 
+
+
+Consultant Charles Tart delivered an Invited Address to the 
+Division of Philosophical Psychology of the American Psychological 
+Association, entitled "Information Processing Mechanisms and ESP, 
+Trans-Temporal Inhibition," This is the second time he has been asked 
+to deliver an Invited Address on ESP for the American Psychological 
+Association, and represents an important change in attitudes in the 
+scientific community. Professor Tart also prepared and delivered a 
+second paper as part of a symposium on the nature of consciousness at 
+the same meeting, "Trans-Personal Realities or Neurophysiological 
+Illusions: Toward an Empirically Tested Dualism." This paper postulates 
+a dualistic approach to the nature of consciousness, centering around 
+the fact that paranormal phenomena seem to violate many currently 
+accepted physical principles, and so may require the development of new 
+scientific laws for adequate explanation. It sharpens the areas of 
+apparent lack of fit between physics and paranormal phenomena in order 
+to provoke further research. 
+
+
+The proceedings of two IEEE (Institute of Electrical and 
+Electronics Engineers) conferences on psychoenergetic phenomena were 
+prepared for publication as a book entitled MIND AT LARGE: Institute 
+of Electrical and Electronics Engineers Symposia on the Nature of ESP, 
+C. Tart, H.E. Puthoff, and R. Targ, editors. The chapter summaries 
+for this book, to be published by Praeger Publishers in spring 1979, 
+are attached as an appendix. 
+
+
+NOT RELEASABLE TO FOREIGN NATIONALS 
+
+
+Approved For Release 200 eR FN TAR R900 00120001-5 
+
+
+Approved For Reape LA SOP ET Ey oto 120001 -S 
+
+
+III PLANS FOR NEXT PERIOD 
+Resolution Experiments 
+
+
+In parallel with carrying forward the items already discussed, an 
+additional resolution experiment is being initiated. In the past year's 
+program, a series of experiments was carried out to determine the extent 
+to which a subject could describe the contents of a metal container that 
+was sealed and light tight. In these experiments significant results 
+were obtained, with the subject in some cases describing objects that 
+were only a few millimeters across. 
+
+
+To test further the resolution capabilities of remote viewing, 
+a new experiment has been designed. For this experiment microdot targets 
+have been photographically prepared from representational photos of 
+ordinary objects or scenes. The basic design concept of the experiment 
+consists of a comparison of results obtained with these microdot targets 
+versus postcard-sized targets of similar content, Target pools for 
+these experiments consist of twelve items each: six 35 mm transparencies 
+with 1 mm x 1 mm images, and six 6 cm x 8 em black and white photographs. 
+Each of the twelve targets are sandwiched between stiff cardboard and 
+placed in opaque envelopes such that the type of target (microdot or 
+photo) is indistinguishable, 
+
+
+The experimental protocol requires that the subject in the laboratory 
+describe the picture (microdot or photo) in an envelope chosen by random 
+number generator, which will be in the possession of an outbound experi- 
+menter who is ignorant of the target. (This follows the protocol 
+established in the sealed container experiment of last year's program. ) 
+
+At the close of each individual trial, the subject will be given feedback 
+as to the target, by viewing the photograph, or, in the case of a slide, 
+by examining the slide through a microscope. An experiment will consist 
+of twelve such trials employing the six microdot and six photo targets 
+randomly intermixed. 
+
+
+The results of the experiment will be judged separately for the 
+slide and photo experiments. A judge will read the subject's descrip- 
+tions generated in those experiments in which a slide was the target 
+and then rank order the six transcripts, best to worst match, for each 
+of the six slides in turn. The same will be done for the six photos 
+and their descriptions. A comparison will then be made between the 
+subject's success for the slides and the photos. 
+
+
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+Approved For Releasy PREY A'S 'S REDE fy 87R000500120001-5 
+
+
+IV. FINANCIAL STATUS 
+The expenditures are as shown in Figure 1. The program is on 
+schedule and sufficient funds and subject commitments remain to meet 
+
+
+the objectives of the program. 
+
+
+Prepared by: 
+
+
+Harold E, Puthoff 
+Senior Research Engineer 
+Radio Physics Laboratory 
+
+
+as 
+
+
+Russell Targ 
+Senior Research Physicis 
+Radio Physics Laboratory 
+
+
+Edwin C. May = 
+
+
+Consultant 
+Radio Physics Laboratory 
+
+
+Appr oved: 
+
+
+Mel,t-d. 
+
+
+William A. Edson 
+Staff Scientist 
+Radio Physics Laboratory 
+
+
+9 
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+220 
+
+
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+1979 
+
+
+(U) 
+
+
+PROJECT EXPENDITURES 
+
+
+1978 
+FIGURE 1 
+
+
+8 8 So ¢ & 8 8 8 ¢ x ° 
+N - - - - 3 
+$y — S3SYNLIGNSdX3 
+
+
+10 
+
+
+Approved For Reled gob G/LiAgS SA-RdifeQb0787R000500120001-5 
+
+
+Approved For Relekgeep Qs SAP PE B)787R000500120001-5 
+
+
+APPENDIX 
+
+
+Chapter summaries for MIND AT LARGE: Institute of Electrical and 
+
+
+Electronics Engineers Symposia on the Nature of ESP, C. Tart, H. Puthoff, 
+
+
+1, 
+
+
+and R. Targ, editors, Praeger Publishers, spring 1979. 
+
+
+Edgar Mitchell, A Look at the Exceptional. Astronaut Mitchell asks 
+provocative questions about the social implications and our view of 
+human potentials and giftedness in general posed by parapsychological 
+phenomena, He proposes that gifted individuals of all types should 
+be protected and treasured as a national asset, 
+
+
+H. Puthoff and R, Targ, A Perceptual Channel for Information Transfer 
+
+
+over Kilometer Distances: Historical Perspective and Recent 
+Research. For more than 100 years scientists have attempted to 
+
+
+assess claims that individuals can sometimes describe remote 
+situations in the absence of known, relevant sensory data, After 
+reviewing historical data, the remote viewing experiments at 
+Stanford Research Institute are described in detail, with photos 
+
+and drawings illustrating the phenomenal accuracy that can sometimes 
+be attained. Physical theories attempting to explain the phenomena 
+are also discussed. 
+
+
+H. Puthoff, R. Targ, and E.C. May, Direct Perception of Remote 
+
+
+Geographical Locations, An extension of the remote viewing research 
+
+
+of the previous chapter to long distance studies and further 
+specifications of the research methods, showing that distance is 
+apparently not a barrier to paranormal functioning. 
+
+
+E. May, R. Targ, and H. Puthoff, Possible EEG Correlates to Remote 
+Stimuli Under Conditions of Sensory Shielding. Presents three 
+
+
+SS ee Ei ke ee a ccd acca t Va. ieee or 
+studies suggesting that some individual's brain waves can be 
+
+
+affected by a flashing light even when that light is so distant 
+and thoroughly shielded they cannot possibly see it. 
+
+
+E. Wortz et al., An Investigation of Soviet Psychical Research. 
+Reviews what is apparently a very large scale research effort by 
+the Soviets to develop not only physical explanations of para- 
+psychological phenomena, but also practical uses. 
+
+
+C. Tart, Improving Real Time ESP by Suppressing the Future: Trans- 
+
+
+temporal Inhibition, Details the discovery that individuals 
+
+
+successfully using telepathy to perceive real time targets are 
+simultaneously and unknowingly using precognitive ESP to suppress 
+
+
+' their perception of future targets, This is interpreted as a form 
+
+
+of contrast enhancement that makes ESP more efficient, and gives 
+insights into the nature of ESP and the nature of time as well. 
+
+
+ll 
+
+
+Approved For Release 2002/11/18 : CIA-RDP96-00787R000500120001-5 
+
+
+UNCLASSIFIED 
+
+
+10, 
+
+
+ll. 
+
+
+Approved For Releald NG LA SSARLED s7R0005001 20001-5 
+
+
+0. Costa de Beauregard, Quantum Paradoxes and Aristotle's Two- 
+
+Fold Information Concept. Discusses ways in which parapsychological 
+phenomena can be integrated into a wider view of reality stemming 
+from quantum theory and modern physics. 
+
+
+J. Bisaha, Multiple Information Transfer Across Spacio-Temporal 
+Boundaries via Non-Ordinary Channels of Communication. Extends 
+
+
+the remote viewing procedure by having a group of subjects 
+successfully describe where an experimenter will be 35 minutes 
+
+in the future and having one subject in Chicago successfully 
+describe the experimenter's randomly determined location 24 hours 
+in the future as he traveled through the USSR. 
+
+
+M. Persinger, ELF Field Mediation in Spontaneous Psi Events: 
+Direct Information Transfer or Conditioned Elicitation? Describes 
+a theory of extremely low frequency electromagnetic radiation 
+(ELF) acting as a carrier of information for apparently paranormal 
+events happening in everyday life. 
+
+
+H. Schmidt, Evidence for Direct Interaction Between the Human Mind 
+and External Quantum Processes. Presents a variety of experiments 
+indicating that mental willing can affect the output of various 
+electronic random number generators. The generators' output may 
+be controlled by either quantum processes (radioactive decay) or 
+noise sources, 
+
+
+I. Swann, Some Comments on the Subjective Nature of Psychic Research, 
+The Subject-Experimenter Relationship and the Psychic Type of 
+Personality. All parapsychological interactions with the physical 
+world involve a human subject as an essential component. One of the 
+world's most successful experimental psychics describes essential 
+conditions for making parapsychological phenomena manifest in the 
+laboratory. 
+
+
+12 
+
+
+Approved For ReasoPNCLASSIFIED. 
+
+

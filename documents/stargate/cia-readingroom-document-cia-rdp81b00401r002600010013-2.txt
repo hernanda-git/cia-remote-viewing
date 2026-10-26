@@ -1,0 +1,3796 @@
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Next 11 Page(s) In Document Exempt 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+- Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+A PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER OVER KILOMETER DISTANCES: 
+HISTORICAL PERSPECTIVE AND RECENT RESEARCH 
+
+
+H. E. Puthoff and R. Targ 
+
+
+Copyright © 1976 by The Institute of Electrical and Electronics Engineers, Inc. 
+Printed in U.S.A. Annals No. 603PR004 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+TAL 
+
+
+” Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+PROCEEDINGS OF THE IEEE, VOL. 64, NO. 3, MARCH 1976 
+
+
+329 
+
+
+A Perceptual Channel for Information Transfer 
+over Kilometer Distances: Historical Perspective 
+and Recent Research © 
+
+
+Abstract—For more than 100 years, scientists have attempted to 
+determine the truth or falsity of claims for the existence of a perceptual 
+channel whereby certain individuals are able to perceive and describe 
+remote data not presented to any known sense. This paper presents an 
+outline of the history of scientific inquiry into such so-called paranor- 
+
+
+= ~mal perception and surveys the current state of the art in parapsycho- 
+
+
+logical research in the United States and abroad. The nature of this 
+perceptual channel is examined in a series of experiments carried out 
+in the Electronics and Bioengineering Laboratory of Stanford Research 
+Institute. The perceptual modality most extensively investigated is the 
+ability of both experienced subjects and inexperienced volunteers to 
+view, by innate mental processes, remote geographical or technical 
+targets including buildings, roads, and laboratory apparatus. The ac- 
+cumulated data indicate that the phenomenon is not a sensitive func- 
+tion of distance, and Faraday cage shielding does not in any apparent 
+way degrade the quality and accuracy of perception. On the basis of 
+this research, some areas of physics are suggested from which a descrip- 
+tion or explanation of the phenomenon could be forthcoming. 
+
+
+I. INTRODUCTION 
+
+
+“rT IS THE PROVINCE of natural science to investigate 
+[este impartially and without prejudice” [1]. Nowhere 
+in scientific inquiry has this dictum met as great a chal- 
+lenge as in the area of so-called extrasensory perception (ESP), 
+the detection of remote stimuli not mediated by the usual 
+sensory processes. Such phenomena, although under scientific 
+consideration for over a century, have historically been fraught 
+with unreliability and controversy, and validation of the phe- 
+nomena by accepted scientific methodology has been slow in 
+coming. Even so, a recent survey conducted by the British 
+publication New Scientist revealed that 67 percent of nearly 
+1500 responding readers (the majority of whom are working 
+scientists and technologists) considered ESP to be an estab- 
+lished fact or a likely possibility, and 88 percent held the 
+investigation of ESP to be a legitimate scientific undertaking 
+[2]. 
+
+A review of the literature reveals that although experiments 
+by reputable researchers yielding positive results were begun 
+over a century ago (e.g., Sir William Crookes’ study of D. D. 
+Home, 1860’s) [3], many consider the study of these phe- 
+nomena as only recently emerging from the realm of quasi- 
+science. One reason for this is that, despite experimental 
+results, no satisfactory theoretical construct had been advanced 
+to correlate data or to predict new experimental outcomes. 
+Consequently, the area in question remained for a long time 
+in the recipe stage reminiscent of electrodynamics before the 
+
+
+Manuscript received July 25, 1975; revised November 7, 1975. The 
+submission of this paper was encouraged after review of an advance 
+proposal. This work was supported by the Foundation for Parasensory 
+Investigation and the Parapsychology Foundation, New York, NY; the 
+Institute of Noetic Sciences, Palo Alto, CA; and the National Aero- 
+nautics and Space Administration, under Contract NAS 7-100. 
+
+The authors are with the Electronics and Bioengineering Laboratory, 
+Stanford Research Institute, Menlo Park, CA 94025. 
+
+
+HAROLD E. PUTHOFF, memper, IEEE, AND RUSSELL TARG, sENIOR MEMBER, IEEE 
+
+
+unification brought about by the work of Ampere, Faraday, 
+and Maxwell. Since the early work, however, we have seen the 
+development of information theory, quantum theory, and 
+neurophysiological research, and these disciplines provide 
+powerful conceptual tools that appear to-bear directly on the 
+issue. In fact, several physicists (Section V) are now of the 
+opinion that these phenomena are not-at all inconsistent with 
+the framework of modern physics: the often-held view that 
+observations of this type are a priori incompatible with known 
+laws is erroneous in that such a concept is based on the naive 
+realism prevalent before the development of quantum theory. 
+In the emerging view, it is accepted that research in this area 
+can be conducted so as to uncover not just a catalog of inter- 
+esting events, but rather patterns of cause-effect relationships 
+of the type that lend themselves to analysis and hypothesis 
+in the forms with which we are familiar in the physical 
+sciences. One hypothesis is that information transfer under 
+conditions of sensory shielding is mediated by extremely 
+low-frequency (ELF) electromagnetic waves, a proposal that 
+does not seem to be ruled out by any obvious physical or 
+biological facts. Further, the development of information 
+theory makes it possible to characterize and quantify the 
+performance of a communications channel regardless of 
+the underlying mechanism. : 
+
+For the past three years, we have had a program in the 
+Electronics and Bioengineering Laboratory of the Stan- 
+ford Research Institute (SRI) to investigate those facets of 
+human perception that appear to fall outside the range of well- 
+understood perceptual/processing capabilities. Of particular 
+interest is a human information-accessing capability that we 
+cali “remote viewing.” This phenomenon pertains to the 
+ability of certain individuals to access and describe, by means 
+of mental processes, information sources blocked from ordi- 
+nary perception, and generally accepted as secure against such 
+access, 
+
+In particular, the phenomenon we have investigated most 
+extensively is the ability of a subject to view remote geograph- 
+ical locations up to several thousand kilometers distant from 
+his physical location (given only a known person on whom to : 
+target).! We have carried out more than fifty experiments * 
+under controlled laboratory conditions with several individuals 
+whose remote perceptual abilities have been developed suf- 
+ficiently to allow them at times to describe correctly—often in 
+great detail—geographical or technical material such as build- 
+ings, roads, laboratory apparatus, and the like. 
+
+As observed in the laboratory, the basic phenomenon appears 
+to cover a range of subjective experiences variously referred to 
+
+
+a Se 
+
+
+1 Our initial work in this area was reported in Nature [4], and re- 
+printed in the IEEE Commun. Soc. Newsletter, vol. 13, Jan. 1975 
+
+
+_ Copyright © 1976 by The Institute of Electrical and Electronics Engineers, Inc. 
+
+
+Printed in U.S.A. Annals No. p 
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2. 
+
+
+! 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+330 
+
+
+ta 72 
+
+
+Bactoy 
+
+
+(225-480 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+Fig. 1. Airport in San Andres, Colombia, used as remote-viewing target, along with sketch produced by subject 
+in California. 
+
+
+in the literature as autoscopy (in the medical literature); exteri- 
+orization or disassociation (psychological literature); simple 
+clairvoyance, traveling clairvoyance, or out-of-body experience 
+(parapsychological literature); or astral projection (occult liter- 
+ature). We choose the term “remote viewing’ as a neutral 
+descriptive term free from prior associations and bias as to 
+mechanisms. 
+
+The development at SRI of a successful experimental pro- 
+cedure to elicit this capability has evolved to the point where 
+persons such as visiting government scientists and contract 
+monitors, with no previous exposure to such concepts, have 
+learned to perform well; and subjects who have trained over a 
+one-year. period have performed excellently under a variety of 
+experimental conditions. Our accumulated data thus indicate 
+that both specially selected and unselected persons can be 
+assisted in developing remote perceptual abilities up to a 
+level of useful information transfer. 
+
+In experiments of this type, we have three principal findings. 
+First, we have established that it is possible to obtain signifi- 
+cant amounts of accurate descriptive information about remote 
+locations. Second, an increase in the distance from a few 
+meters up to 4000 km separating the subject from the scene 
+to be perceived does not in any apparent way degrade the 
+quality or accuracy of perception. Finally, the use of Faraday 
+cage electrical shielding does not prevent high-quality descrip- 
+tions from being obtained. 
+
+To build a coherent theory for the explanation of these 
+phenomena, it is necessary to have a clear understanding of 
+what constitutes the phenomena. In this paper, we first briefly 
+summarize previous efforts in this field in Section II. We then 
+
+
+than fifty experiments with nine subjects carried out in our 
+own laboratory, which represent a sufficiently stable data base 
+to permit testing of various hypotheses concerning the func- 
+tioning of this channel. Finally, in Section V, we indicate 
+those areas of physics and information theory that appear to 
+be relevant to an understanding of certain aspects of the 
+phenomena. 
+
+First, however, we present an illustrative example generated 
+in an early pilot experiment. As will be clear from our later 
+discussion, this is not a “‘best-ever’’ example, but rather a 
+typical sample of the level of proficiency that can be reached 
+and that we have come to expect in our research. 
+
+Three subjects participated in a long-distance experiment 
+focusing on a series of targets in Costa Rica. These subjects 
+said they had never been to Costa Rica. In this experiment, 
+one of the experimenters (Dr. Puthoff) spent ten days traveling 
+through Costa Rica on a combination business/pleasure trip. 
+This information was all that was known to the subjects about 
+the traveler’s itinerary. The experiment called for Dr. Puthoff 
+to keep a detailed record of his location and activities, includ- 
+ing photographs of each of seven target days at 1330 PDT. 
+A total of twelve daily descriptions were collected before the 
+traveler’s return: six responses from one subject, five from 
+another, and one from a third. 
+
+The third subject who submitted the single response supplied 
+a drawing for a day in the middle of the series. (The subject’s 
+response, together with the photographs taken at the site, are 
+shown in Fig. 1). Although Costa Rica is a mountainous 
+country, the subject unexpectedly perceived the traveler at a 
+
+
+beach and ocean setting. With some misgiving, he described an’ 
+
+
+Present in Sectiona baaidd Fer'Reléade 2007/04/02 CHAPRDPS1 BOOACPROOPGOOO4GOFGUAh the ocean at the 
+
+
+OES LE TE OD eT NN Se ys POR aT SEP 
+
+
+* + Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 331 
+
+
+end (correct). An airport building also was drawn, and shown 
+to have a large rectangular overhang (correct). The traveler 
+had taken an unplanned one-day side trip to an offshore island 
+and at the time of the experiment had just disembarked froma 
+plane at a small island airport as described by the subject 
+4000 km away. The sole discrepancy was that the subject’s 
+drawing showed a Quonset-hut type of building in place of the 
+rectangular structure. : 
+
+The above description was chosen as an example to illustrate 
+a major point observed a number of times throughout the 
+
+
+~~~program to be described. Contrary to what may be expected, 
+
+
+a subject’s description does not necessarily portray what may 
+reasonably be expected to be correct (an educated or “‘safe” 
+guess), but often runs counter even to the subject’s own 
+expectations. 
+
+
+i “x, We wish to stress again that a result such as the above is not 
+
+
+unusual. The remaining submissions in this experiment pro- 
+vided further examples of excellent correspondences between 
+target and response. (A target period of poolside relaxation 
+was identified; a drive through a tropical forest at the base of 
+a truncated volcano was described as a drive through a jungle 
+below a large bare table mountain; a hotel-room target descrip- 
+tion, including such details as rug color, was correct; and so 
+on.) So as to determine whether such matches were simply 
+fortuitous—that is, could reasonably be expected on the basis 
+of chance alone—Dr. Puthoff was asked after he had returned 
+to blind match the twelve descriptions to his seven target 
+locations. On the basis of this conservative evaluation proce- 
+dure, which vastly underestimates the statistical significance 
+of the individual descriptions, five correct matches were ob- 
+tained. This number of matches is significant at p = 0.02 by 
+exact binomial calculation.” 
+
+The observation of such unexpectedly high-quality descrip- 
+tions early in our program led to a large-scale study of the 
+phenomenon at SRI under secure double-blind conditions (i.e., 
+target unknown to experimenters as well as subjects), with 
+independent random target selection and blind judging. The 
+results, presented in Sections III and IV, provide strong evi- 
+dence for the robustness of this phenomenon whereby a 
+human perceptual modality of extreme sensitivity can detect 
+complex remote stimuli. 
+
+
+Il. BACKGROUND 
+
+
+Although we are approaching the study of these phenomena 
+as physicists, it is not yet possible to separate ourselves entirely 
+from the language of the nineteenth century when the labora- 
+tory study of the paranormal was begun. Consequently, we 
+continue to use terms such as “paranormal,” “telepathy,” and 
+the like. However, we intend only to indicate a process of 
+information transfer under conditions generally accepted as 
+secure against such transfer and with no prejudice or occult 
+assumptions as to the mechanisms involved. As in any other 
+scientific pursuit, the purpose is to collect the observables that 
+result from experiments and to try to determine the functional 
+relationships between these observables and the laws of physics 
+as they are currently understood. 
+
+
+2The probability of a correct daily match by chance for any given 
+transcript is p = 4. Therefore, the probability of at least five correct 
+matches by chance out of twelve tries can be calculated from 
+
+
+12 42! 1\i {6\O2) 
+P= 2 Ga-m (;) (;) ene: 
+
+
+Organized research into so-called psychic functioning began 
+roughly in the time of J. J. Thomson, Sir Oliver Lodge, and 
+Sir William Crookes, all of whom took part in the founding of 
+the Society for Psychical Research (SPR) in 1882 in England. 
+Crookes, for example, carried out his principal investigations 
+with D. D. Home, a Scotsman who grew up in America and 
+returned to England in 1855 [3]. According to the notebooks 
+and published reports of Crookes, Home had demonstrated 
+the ability to cause objects to move without touching them. 
+We should note in passing that, Home, unlike most subjects, 
+worked only in the light and spoke out in the strongest pos- 
+sible terms against the darkened seance rooms popular at the 
+time [5]. 
+
+Sir William Crookes was a pioneer in the study of electrical 
+discharge in gases and in the development of vacuum tubes, 
+some types of which still bear his name. Although everything 
+Crookes said about electron beams and plasmas was accepted, 
+nothing he said about the achievements of D. D. Home ever 
+achieved that status. Many of his colleagues, who had not 
+observed the experiments with Home, stated publicly that they ~ 
+thought Crookes had been deceived, to which Crookes angrily 
+responded: 
+
+
+Will not my critics give me credit for some amount of common 
+sense? Do they. not imagine that the obvious precautions, which 
+occur to them as soon as they sit down to pick holes in my 
+experiments, have occurred to me also in the course of my pro- 
+longed and patient investigation? The answer to this, as to all 
+other objections is, prove it to be an error, by showing where 
+the error lies, or if a trick, by showing how the trick is per- 
+formed. Try the experiment fully and fairly. If then fraud be 
+found, expose it; if it be a truth, proclaim it. This is the only 
+scientific procedure, and it is that I propose steadily to pursue 
+
+
+[3]. 
+
+
+In the United States, scientific interest in the paranormal 
+was centered in the universities. In 1912, John Coover {6] 
+was established in the endowed Chair of Psychical Research at 
+Stanford University. In the 1920’s, Harvard University set up 
+research programs with George Estabrooks and L. T. Troland 
+[7], [8]. It was in this framework that, in 1930, William 
+McDougall invited Dr. J. B. Rhine and Dr. Louisa Rhine to 
+join the Psychology Department at Duke University [9]. For 
+more than 30 years, significant work was carried out at Rhine’s 
+Duke University Laboratory. To examine the existence of 
+paranormal perception, he used the now-famous ESP cards 
+containing a boldly printed picture of a star, cross, square, 
+circle, or wavy lines. Subjects were asked to name the order 
+of these cards in a freshly shuffled deck of twenty-five such . 
+cards. To test for telepathy, an experimenter would look at 
+the cards one at a time, and a subject suitably separated from 
+the sender would attempt to determine which card was being 
+
+
+- viewed. 
+
+
+Dr. J. B. Rhine together with Dr. J. G. Pratt carried out 
+thousands of experiments of this type under widely varying 
+conditions [10]. The statistical results from these experiments 
+indicated that some individuals did indeed possess a paranor- 
+mal perceptual ability in that it was possible to obtain an 
+arbitrarily high degree of improbability by continued testing 
+of a gifted subject. 
+
+The work of Rhine has been challenged on many grounds, 
+however, including accusations of improper handling of statis- 
+tics, error, and fraud. With regard to the statistics, the general 
+consensus of statisticians today is that if fault is to be found 
+in Rhine’s work, it would have to be on other than statistical 
+grounds [11]. With regard to the accusations of fraud, the 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 ‘ 
+PROCEEDINGS OF THE IEEE, MARCH 1976: 
+
+
+332 
+
+
+most celebrated case of criticism of Rhine’s work, that of 
+G. R. Price [12], ended 17 years after it began when the 
+accusation of fraud was retracted by its author in an article 
+entitled ‘““Apology to Rhine and Soal,”’ published in the same 
+journal in which it was first put forward {13]. It should also 
+be noted that parapsychological researchers themselves re- 
+cently exposed fraud in their own laboratory when they 
+encountered it [14]. 
+
+At the end of the 1940's, Prof. S. G. Soal, an English mathe- 
+matician working with the SPR, had carried out hundreds of 
+card guessing experiments involving tens of thousands of calls 
+[15]. Many of these experiments were carried out over ex- 
+tended distances. One of the most notable experiments was 
+conducted with Mrs. Gloria Stewart between London and 
+Antwerp. This experiment gave results whose probability of 
+occurring by chance were less than 107°. With' the publication 
+of Modern Experiments in Telepathy by Soal and Bateman 
+(both of whom were statisticians), it appeared that card guess- 
+ing experiments produced significant results, on the average.? 
+_ The most severe criticism of all this work, a criticism diffi- 
+
+cult to defend against in principle, is that leveled by the well- 
+known British parapsychological critic C. E. M. Hansel {17], 
+who began his examination of the ESP hypothesis with the 
+stated assumption, “In view of the a priori arguments against 
+it we know in advance that telepathy, etc., cannot occur.” 
+Therefore, based on the “a priori unlikelihood” of ESP, 
+Hansel’s examination of the literature centered primarily on 
+the possibility of fraud, by subjects or investigators. He 
+reviewed in-depth four experiments which he regarded as 
+
+
+providing the best evidence of ESP: the Pearce-Pratt distance - 
+
+
+series [18]; the Pratt-Woodruff [19] series, both conducted 
+at Duke; and Soal’s work with Mrs. Stewart and Basil Shackle- 
+ton [15], as well as a more recent series by Soal and Bowden 
+{20]. Hansel showed, in each case, how fraud could have been 
+committed (by the experimenters in the Pratt-Woodruff and 
+Soal-Bateman series, or by the subjects in the Pearce-Pratt 
+and Soal-Bowden experiments). He gave no direct evidence 
+that fraud was committed in these experiments, but said, “If 
+the result could have arisen through a trick, the experiment 
+must be considered unsatisfactory proof of ESP, whether or 
+not it is finally decided that such a trick was in fact used” (17, 
+p. 18]. As discussed by Honorton in a review of the field 
+[21], Hansei’s conclusion after 241 pages of careful scrutiny 
+therefore was that these experiments were not “fraud-proof” 
+and therefore in principle could not serve as conclusive proof 
+of ESP. 
+
+Even among the supporters of ESP research and its results, 
+there remained the consistent problem that many successful 
+subjects eventually lost their ability and their scores gradually 
+drifted toward chance results. This decline effect in no way 
+erased their previous astronomical success; but it was a disap- 
+pointment since if paranormal perception is a natural ability, 
+one would like to see subjects improving with practice rather 
+than getting worse. , 
+
+One of the first successful attempts to overcome the decline 
+effect was in Czechoslovakia in the work of Dr. Milan Ryzl, a 
+chemist with the Institute of Biology of the Czechoslovakian 
+Academy of Science and: also an amateur hypnotist [22]. 
+Through the use of hypnosis, together with feedback and 
+
+
+5Recently, some of the early Soal experiments have been criticized 
+[16]. However, his long-distance experiments cited here were judged 
+in a double-blind fashion of the type that escaped the criticism of the 
+early experiments. 
+
+
+reinforcement, he developed several outstanding subjects, one 
+of whom, Pavel Stepanek, has worked with experimenters 
+around the world for more than 10 years. 
+
+Ryzl’s pioneering work came as an answer to the questions 
+taised by the 1956 CIBA Foundation conference on extra- 
+sensory perception. The CIBA Chemical Company has annual 
+meetings on topics of biological and chemical interest, and 
+that same year they assembled several prominent parapsy- 
+chologists to have a state-of-the-art conference on ESP [23]. 
+The conference concluded that little progress would be made 
+in parapsychology research until a repeatable experiment 
+could be found; namely, an experiment that different experi- 
+menters could repeat at will and that would reliably yield a 
+Statistically significant result, 
+
+Ryzl had by 1962 accomplished that goal. His primary con- 
+tribution was a decision to interact with the subject as a per- 
+son, to try to build up his confidence and ability. His protocol 
+depended on “working with” rather than “running” his sub- 
+jects. Ryzl’s star subject, Pavel Stepanek, has produced highly 
+significant results with many contemporary researchers [24]- 
+[29]. In these experiments, he was able to tell with 60-percent 
+reliability whether a hidden card was green side or white 
+side up, yielding statistics of a million to one with only a 
+thousand trials. 
+
+As significant as such results are Statistically, the information 
+channel is imperfect, containing noise along with the signal. 
+When considering how best to use such a channel, one is led 
+to the communication theory concept of the introduction of 
+redundancy as a means of coding a message to combat the 
+effects of a noisy channel [30]. A prototype experiment by 
+Ryzl using such techniques has proved to be successful. Ryzl 
+had an assistant select randomly five groups of three digits 
+each. These 15 digits were then encoded into binary form and 
+translated into a sequence of green and white cards in sealed 
+envelopes. By means of repeated calling and an elaborate 
+majority vote protocol, Ryzl was able after 19 350 calls by 
+Stepanek (averaging 9s per call) to correctly identify all 15 
+numbers, a result significant at p=107!5 The hit rate for 
+individual calls was 61.9 percent, 11 978 hits, and 7372 misses 
+[31]. 
+
+Note Added in Proof: It has been brought to our attention 
+that a similar procedure was recently used to transmit without 
+error the word “‘peace’”’ in International Morse Code (J. C. 
+Carpenter, “Toward the effective utilization of enhanced 
+weak-signal ESP effects,” presented at the Annual Meeting of 
+the American Association for the Advancement of Science, 
+New York, NY, Jan. 27, 1975). 
+
+The characteristics of such a channel can be specified in 
+accordance with the precepts of communication theory. The 
+bit rate associated with the information channel is calculated 
+from [30] 
+
+R = H(x)- Hy (x) (1) 
+
+
+where H(x) is the uncertainty of the source message containing 
+symbols with a priori probability Dj: 
+
+
+2 
+H(x) =~ D° p; loge pj (2) 
+
+
+ivi 
+and H,(%) is the conditional entropy based on the a posteriori 
+probabilities that a received signal was actually transmitted: 
+
+
+(3) 
+
+
+2 
+Hy(x)=- > pi, 7) log, p,(/). 
+i,j=1 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Pa 
+
+
+" Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 333 
+
+
+For Stepanek’s run, with p; = i, D; (/) = 0.619, and an average 
+time of 9s per choice, we have a source uncertainty H(x) = 1 
+bit and a calculated bit rate 
+
+
+R 0.041 bit/symbol 
+or 
+
+
+R/T © 0.0046 bit/s. 
+
+
+(Since the 15-digit number (49.8 bits) actually was transmitted . 
+
+
+at the rate of 2.9 X 107% bit/s, an increase in bit rate by a 
+factor of about 20 could be expected on the basis of a coding 
+scheme more optimum than that used in the experiments. See, 
+for example, Appendix A.) 
+
+Dr. Charles Tart at the University of California has written 
+extensively on the so-called decline effect. He considers that 
+having subjects attempt to guess cards, or perform any other 
+repetitious task for which they receive no feedback, follows 
+the classical technique for deconditioning any response. He 
+thus considers card guessing “a technique for extinguishing 
+psychic functioning in the laboratory” [32]. 
+
+Tart’s injunctions of the mid-sixties were being heeded at 
+Maimonides Hospital, Brooklyn, NY, by a team of researchers 
+that included Dr. Montague Ullman, who was director of 
+research for the hospital; Dr. Stanley Krippner; and, later, 
+Charles Honorton. These three worked together for several 
+years on experiments on the occurrence of telepathy in dreams. 
+In the course of a half-dozen experimental series, they found 
+in their week-long sessions a number of subjects who had 
+dreams that consistently were highly descriptive of pictorial 
+material that a remote sender was looking at throughout the 
+night. This work is described in detail in the experimenters’ 
+book Dream Telepathy [33]. Honorton is continuing work 
+of this free-response type in which the subject has no precon- 
+ceived idea as to what the target may be. 
+
+In his more recent work with subjects in the waking state, 
+Honorton is providing homogeneous stimulation to the subject 
+who is to describe color slides viewed by another person in a 
+remote room. In this new work, the subject listens to white 
+noise via earphones and views an homogeneous visual field 
+imposed through the use of Ping-Pong ball halves to cover the 
+subject’s eyes in conjunction with diffuse ambient illumina- 
+tion. In this so-called Ganzfeld setting, subjects are again able, 
+now in the waking state, to give correct and often highly 
+accurate descriptions of the material being viewed by the 
+sender [34]. © 
+
+In Honorton’s work and elsewhere, it apparently has been 
+the step away from the repetitive forced-choice experiment 
+that has opened the way for a wide variety of ordinary people 
+to demonstrate significant functioning in the laboratory, with- 
+out being bored into a decline effect. 
+
+This survey would be incomplete if we did not indicate 
+certain aspects of the current state of research in the USSR. 
+It is clear from translated documents and other sources [35] 
+that many laboratories in the USSR are engaged in paranormal 
+research. 
+
+Since the 1930’s, in the laboratory of L. Vasiliev (Leningrad 
+Institute for Brain Research), there has been an interest in the 
+use of telepathy as a method of influencing the behavior of a 
+person at a distance. In Vasiliev’s book Experiments in Mental 
+Suggestion, he makes it very clear that the bulk of his labora- 
+tory’s experiments were aimed at long-distance communica- 
+tion combined with a form of behavior modification; for 
+example, putting people at a distance to ee through hyp- 
+nosis [36]. 
+
+
+Similar behavior modification types of experiments have been 
+carried out in recent times by I. M. Kogan, Chairman of the 
+Bioinformation Section of the Moscow Board of the Popov 
+Society. He is a Soviet engineer who, until 1969, published 
+extensively on the theory of telepathic communication [37]- 
+[40]. He was concerned with three principal kinds of experi- 
+ments: mental suggestion without hypnosis over short dis- 
+tances, in which the percipient attempts to identify an object; 
+mental awakening over short distances, in which a subject is 
+awakened from a hypnotic sleep at the “beamed” suggestion 
+from the hypnotist; and long-range (intercity) telepathic com- 
+munication. Kogan’s main interest has been to quantify the 
+channel capacity of the paranormal channel. He finds that the 
+bit rate decreases from 0.1 bit/s for laboratory experiments 
+to 0.005 bit/s for his 1000-km intercity experiments. 
+
+
+In the USSR, serious consideration is given to the hypothesis: 
+
+
+that telepathy is mediated by extremely low-frequency (ELF) 
+electromagnetic propagation. (The pros and cons of this 
+hypothesis are discussed in Section V of this paper.) In 
+general, the entire field of paranormal research in the USSR 
+is part of a larger one concerned with the interaction between 
+electromagnetic fields and living organisms [41], [42]. At 
+the First International Congress on Parapsychology and 
+Psychotronics in Prague, Czechoslovakia, in 1973, for example, 
+Kholodov spoke at length about the susceptibility of living 
+systems to extremely low-level ac and dc fields. He described 
+conditioning effects on the behavior of fish resulting from the 
+application of 10 to 100 pW of RF to their tank [43]. The 
+USSR take these data seriously in that the Soviet safety re- 
+quirements for steady-state microwave exposure set limits 
+at 10 uW/cm?, whereas the United States has set a steady-state 
+limit of 10 mW/cm? [44]. Kholodov spoke also about the 
+nonthermal effects of microwaves on animals’ central nervous 
+systems. His experiments were very carefully carried out and 
+are characteristic of a new dimension in paranormal research. 
+
+The increasing importance of this area in Soviet research was 
+indicated recently when the Soviet Psychological Association 
+issued an unprecedented position paper calling on the Soviet 
+Academy of Sciences to step up efforts in this area [45]. 
+They recommended that the newly formed Psychological 
+Institute within the Soviet Academy of Sciences and the 
+Psychological Institute of the Academy of Pedagogical Sciences 
+review the area and consider the creation of a new laboratory 
+within one of the institutes to study persons with unusual 
+abilities. They also recommended a comprehensive evaluation 
+of experiments and theory by the Academy of Sciences’ Insti- 
+tute of Biophysics and Institute for the Problems of Informa- 
+tion Transmission. : 
+
+The Soviet research, along with other behavioristically 
+oriented work, suggests that in addition to obtaining overt 
+responses such as verbalizations or key presses from a subject, 
+it should be possible to obtain objective evidence of informa- 
+tion transfer by direct measurement of physiological parame- 
+ters of a subject. Kamiya, Lindsley, Pribram, Silverman, 
+Walter, and others brought together to discuss physiological 
+methods to detect ESP functioning, have suggested that a 
+whole range of electroencephalogram (EEG) responses such as 
+evoked potentials (EP’s), spontaneous EEG, and the contingent 
+negative variation (CNV) might be sensitive indicators of the 
+detection of remote stimuli not mediated by usual sensory 
+processes [46]. 
+
+Early experimentation of this type was carried out by 
+Douglas Dean at the Newark College of Engineering. In his 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 
+
+
+334 
+
+
+: CIA-RDP81B00401R002600010013-2 : 
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+search for physiological correlates of information transfer, he 
+used the plethysmograph to measure changes in the blood 
+volume in a finger, a sensitive indicator of autonomic nervous 
+system functioning [47]. A plethysmographic measurement 
+was made on the finger of a subject during telepathy experi- 
+ments. A sender looked at randomly selected target cards 
+consisting of names known to the subject, together with names 
+unknown to him (selected at random from a telephone book). 
+The names of the known people were contributed by the sub- 
+- ject and were to be of emotional significance to him. Dean 
+found significant changes in the chart recording of finger 
+blood volume when the remote sender was looking at those 
+names known to the subject as compared with those names 
+randomly chosen. 
+
+Three other experiments using the physiological approach 
+have now been published. The first work by Tart [48], a later 
+work by Lloyd [49], and most recently the work by the 
+authors [4] all follow a similar procedure. Basically, a subject 
+is closeted in an electrically shielded room while his EEG is 
+recorded. Meanwhile, in another laboratory, a second person 
+is stimulated from time to time, and the time of that stimulus 
+is marked on the magnetic-tape recording of the subject’s EEG. 
+The subject does not know when the remote stimulus periods 
+are as compared with the nonstimulus periods. 
+
+With regard to choice of stimulus for our own experimenta- 
+tion, we noted that in previous work others had attempted, 
+without success, to detect evoked potential changes in a sub- 
+ject’s EEG in response to a single stroboscopic flash stimulus 
+observed by another subject [50]. In a discussion of that 
+experiment, Kamiya suggested that because of the unknown 
+temporal characteristics of the information channel, it might 
+be more appropriate to use repetitive bursts of light to increase 
+the probability of detecting information transfer [51]. There- 
+fore, in our study we chose to use a stroboscopic flash train of 
+10-s duration as the remote stimulus. 
+
+In the design of the study, we assumed that the application 
+of the remote stimulus would result in responses similar to 
+those obtained under conditions of direct stimulation. For 
+example, when an individual is stimulated with a low- 
+frequency (< 30 Hz) flashing light, the EEG typically shows 
+a decrease in the amplitude of the resting rhythm and a 
+driving of the brain waves at the frequency of the flashes [52]. 
+We hypothesized that if we stimulated one subject in this 
+manner (a putative sender), the EEG of another subject in a 
+remote room with no flash present (a receiver) might show 
+changes in ‘alpha (9-11 Hz) activity and possibly an EEG 
+driving similar to that of the sender, or other coupling to the 
+sender’s EEG [53]. The receiver was seated in a visually 
+opaque, acoustically and electrically shielded, double-walled 
+steel room about 7m from the sender. The details of the 
+experiment, consisting of seven runs of thirty-six 10-s trials 
+each (twelve periods each for 0-Hz, 6-Hz, and 16-Hz stimuli, 
+randomly intermixed), are presented in [4]. This experiment 
+proved to be successful. The receiver’s alpha activity (9-11 Hz) 
+showed a significant reduction in average power (~ 24 percent, 
+p <0.04) and peak power (-28 percent, p < 0.03) during 
+16-Hz flash stimuli as compared with periods of no-flash 
+stimulus. [A similar response was observed for 6-Hz stimuli 
+(-12 percent in average power, -21 percent in peak power), 
+but the latter result did not reach statistical significance. ] 
+Fig. 2 shows an overlay of three averaged EEG spectra from 
+one of the subject’s 36 trial runs, displaying differences in 
+alpha activity during the three stimulus conditions. Extensive 
+
+
+contol procedures Re ES Roses BBB HOMES 
+
+
+2 0 
+c 
+=) 
+ms 
+£ a 6 
+= 
+w 16 
+Ww ' 
+oO 
+f{ 
+_ 
+~ 
+(oe) 
+> 
+5 Hz 10 Hz 15 Hz 
+
+
+Fig. 2. Occipital EEG frequency spectra, 0-20 Hz, of one subject (H.H.) 
+acting as receiver showing amplitude changes in the 9-11-Hz band as a 
+function of strobe frequency. Three cases: 0-, 6-, and 16-Hz flashes 
+
+
+(twelve trial averages). 
+
+
+results were produced by system artifacts, electromagnetic 
+pickup (EMI), or subtle cueing; the results were negative [4]. 
+
+As part of the experimental protocol, the subject was asked 
+to indicate a conscious assessment for each trial (via telegraph 
+key) as to the nature of the stimulus; analysis showed these 
+guesses to be at chance. Thus arousal as evidenced by signifi- 
+cant alpha blocking occurred only at the noncognitive level of 
+physiological response. Hence the experiment provided direct 
+physiological (EEG) evidence of perception of remote stimuli 
+even in the absence of overt cognitive response. 
+
+Whereas in our experiments we used a remote light flash as a 
+stimulus, Tart [48] in his work used an electrical’ shock to 
+himself as sender, and Lioyd [49] simply told the sender to 
+think of a red triangle each time a red warning light was 
+illuminated within his view. Lloyd observed a consistent 
+evoked potential in his subjects; whereas in our experiments 
+and in Tart’s, a reduction in amplitude and a desynchroniza- 
+tion of alpha was observed—an arousal response. (If a subject 
+is resting in an alpha-dominant condition and he is then 
+stimulated, for example in any direct manner, one will observe 
+a desynchronization and decrease in alpha power.) We con- 
+
+
+sider that these combined results are evidence for the existence . 
+
+
+of noncognitive awareness of remote happenings and that they 
+have a profound implication for paranormal research. 
+
+
+Ill. SRI INVESTIGATIONS OF REMOTE VIEWING 
+
+
+Experimentation in remote viewing began during studies 
+carried out to investigate the abilities of a New York artist, 
+Ingo Swann, when he expressed the opinion that the insights 
+gained during experiments at SRI had strengthened his ability 
+(verified in other research before he joined the SRI program) 
+to view remote locations [54]. To test Mr. Swann’s asser- 
+tion, a pilot study was set up in which a series of targets from 
+around the globe were supplied by SRI personnel to the ex- 
+perimenters on a double-blind basis. Mr. Swann’s apparent 
+ability to describe correctly details of buildings, roads, 
+bridges, and the like indicated that it may be possible for 
+a subject by means of mental imagery to access and describe 
+randomly chosen geographical sites located several miles 
+from the subject’s position and demarcated by some appro- 
+priate means. Therefore, we set up a research program to 
+test the remote-viewing hypothesis under rigidly controlled 
+scientific conditions. 
+
+In carrying out this program, we concentrated on what we 
+considered to be our principal responsibility—to resolve under 
+
+
+Ce BSESTS Yivley tet 63> TAME LTA Ao or not this 
+
+
+' 
+
+
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+class of paranormal perception phenomenon exists. At all 
+
+
+times, we and others responsible for the overall program took 
+
+
+measures to prevent sensory leakage and subliminal cueing and 
+to prevent deception, whether intentional or unintentional. 
+To ensure evaluations independent of belief structures of both 
+experimenters and judges, all experiments were carried out 
+under a protocol, described below, in which target selection at 
+the beginning of experiments and blind judging of results at 
+the end of experiments were handled independently of the 
+researchers engaged in carrying out the experiments. 
+
+Six subjects, designated Si through $6, were chosen for the 
+study. Three were considered as gifted or experienced subjects 
+(S1 through $3), and three were considered as learners (54 
+through S6). The a priori dichotomy between gifted and 
+learners, was based on the experienced group having been 
+successful in other studies conducted before this program 
+and the learners group being inexperienced with regard to 
+paranormal experimentation. 
+
+The study consisted of a series of double-blind tests with 
+local targets in the San Francisco Bay Area so that several in- 
+dependent judges could visit the sites to establish documenta- 
+tion. The protocol was to closet the subject with an experi- 
+menter at SRI and at an agreed-on time to obtain from the 
+subject a description of an undisclosed remote site being 
+visited by a target team. In each of the experiments, one of 
+the six program subjects served as remote-viewing subject, 
+and SRI experimenters served as a target demarcation team at 
+the remote location chosen in a double-blind protocol as 
+follows. : 
+
+In each experiment, SRI management randomly chose a 
+target location from a list of targets within a 30-min driving 
+time from SRI; the target location selected was kept blind to 
+subject and experimenters. The target pool consisted of more 
+than 100 target locations chosen from a target-rich environ- 
+ment. (Before the experimental series began, the Director of 
+the Information Science and Engineering Division, not other- 
+wise associated with the experiment, established the set of lo- 
+cations as the target pool which remained known only to him. 
+The target locations were printed on cards sealed in envelopes 
+and kept in the SRI Division office safe. They were available 
+only with the personal assistance of the Division Director who 
+issued a single random-number selected target card that con- 
+stituted the traveling orders for that experiment.) 
+
+In detail: To begin the experiment, the subject was closeted 
+with an experimenter at SRI to wait 30 min before beginning 
+a narrative description of the remote location. A second ex- 
+perimenter then obtained from the Division Director a target 
+location from a set of traveling orders previously prepared and 
+randomized by the Director and kept under his control. The 
+target demarcation team, consisting of two to four SRI experi- 
+menters, then proceeded by automobile directly to the target 
+without any communication with the subject or experimenter 
+remaining behind. The experimenter remaining with the sub- 
+ject at SRI was kept ignorant of both the particular target and 
+the target pool so as to eliminate the possibility of cueing 
+(overt or subliminal) and to allow him freedom in questioning 
+the subject to clarify his descriptions. The demarcation team 
+remained at the target site for an agreed-on 15-min period 
+following the 30 min allotted for travel.? During the observa- 
+
+
+“The first subject (S1) was allowed 30 min for his descriptions, but 
+it was found that he fatigued and had little comment after the first 15 
+min. The viewing time was therefore reduced to 15 min for subjects 
+82 through S6. 
+
+
+335 
+
+
+tion period, the remote-viewing subject was asked to describe 
+his impressions of the target site into a tape recorder and to 
+make any drawings he thought appropriate. An informal com- 
+parison was then made when the demarcation team returned, 
+and the subject was taken to the site to provide feedback. 
+
+
+A. Subject Sl: Experienced 
+
+
+To begin the series, Pat Price, a former California police com- 
+missioner and city councilman, participated as a subject in 
+nine experiments. In general, Price’s ability to describe 
+correctly buildings, docks, roads, gardens, and the like, includ- 
+ing structural materials, color, ambience, and activity—often 
+in great detail—indicated the functioning of a remote per- 
+ceptual ability. A Hoover Tower target, for example, was 
+recognized and named by name. Nonetheless, in general, the 
+descriptions contained inaccuracies as well as correct state- 
+
+
+.ments. A typical example is indicated by the subject’s drawing 
+
+
+shown in Fig. 3 in which he correctly described a park-like 
+area containing two pools of water: one rectangular, 60 by 
+89 ft (actual dimensions 75 by 100 ft); the other circular, 
+diameter 120 ft (actual diameter 110 ft), He incorrectly indi- 
+cated the function, however, as water filtration rather than 
+recreational swimming. (We often observe essentially correct 
+descriptions of basic elements and patterns coupled with in- 
+complete or erroneous analysis of function.) As can be seen 
+from his drawing, he also included some elements, such as 
+the tanks shown in the upper right, that are not present at the 
+target site. We also note an apparent left-right reversal, often 
+observed in paranormal perception experiments. 
+
+To obtain a numerical evaluation of the accuracy of the 
+remote-viewing experiment, the experimental results were 
+subjected to independent judging on a blind basis by an SRI 
+research analyst not otherwise associated with the research. 
+The subject’s response packets, which contained the nine 
+typed unedited transcripts of the tape-recorded narratives 
+along with any associated drawings, were unlabeled and pre- 
+sented in random order. While standing at each target loca- 
+tion, visited in turn, the judge was required to blind rank order 
+the nine packets on a scale 1 to 9 (best to worst match). The 
+statistic of interest is the sum of ranks assigned to the target- 
+associated transcripts, lower values indicating better matches. 
+For nine targets, the sum of ranks could range from nine to 
+eighty-one. The probability that a given sum of ranks s or 
+less will occur by chance is given by [55] 
+
+
+nae s k _qif? i- Ni-1 
+Pr (3 or less) = > yk 1) (")( n~1 ) 
+
+
+f=n l=0 
+
+
+where s is obtained sum of ranks, NV is number of assignable 
+ranks, n is number of occasions on which rankings were made, 
+and / takes on values from zero to the least positive integer & 
+in (i~n)/n. (Table I is a table to enable easy application of 
+the above formula to those cases in which VN =n.) The sum in 
+this case, which included seven direct hits out of the nine, was 
+16 (see Table I), a result significant at p= 2.9X 107° by 
+exact calculation. 
+
+In Experiments 3, 4, and 6 through 9, the subject was se- 
+cured in a double-walled copper-screen Faraday cage. The 
+
+
+Faraday cage provides 120-dB attenuation for plane-wave 
+radio-frequency radiation over a range of 15 kHz to 1 GHz. 
+For magnetic. fields, the attenuation is 68 dB at 15 kHz and 
+decreases to 3 dB at 60 Hz. The results of rank order judging 
+(Table II) indicate that the use of Faraday cage electrical 
+
+
+Approved For Release 2007/04/02 
+
+
+: CIA-RDP81B00401 
+
+
+u 
+(*) 
+C 
+
+
+Ca 
+? Service 
+YARD 
+
+
+POOL HOUSE 
+
+
+CONCRETE BLock ty 
+
+
+“Meee 
+
+
+FIRE 
+-. ree) 
+ome \ 
+(PICNIC AREA / 
+\ = 
+
+
+Nw 
+
+
+Assignable 
+Ranks (N) - 
+
+
+Note: This table applies only to those Special case: 
+are being ranked (”) is equal to the number of assi; 
+number that is significant at the indicated P-level. So 
+
+
+shielding does no 
+
+
+t prevent high 
+obtained, 
+
+
+“quality descriptions from being 
+
+
+4 
+
+
+205 [Fo io [io 
+
+
+8 in which the number of occasions 
+gnable ranks (V). E 
+urce: R. L. Morris {S5]. 
+
+
+B. Subject §4- Learner 
+
+
+Paranormal functionin 
+At the’ time we be 
+
+
+8. 
+
+
+: ‘ Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 337 
+
+
+tt 
+
+
+Sea 
+
+
+Ri 
+
+
+CS 
+
+
+Se ee 
+
+
+Fig. 4. Subject Hammid (S4) drawing, described as “‘some kind of diagonal trough up in the air.” 
+
+
+TABLE II 
+DISTRIBUTION OF RANKINGS ASSIGNED TO TRANSCRIPTS 
+ASSOCIATED WITH EACH TARGET LOCATION FOR EXPERIENCED 
+Sussect Price (SI) 
+
+
+Distance 
+Target Location km: 
+
+
+Hoover Tower, Stanford 
+
+
+Rank of 
+Associated 
+Transcript 
+
+
+Baylands Nature Preserve, Palo Alto 
+Radio telescope, Portola Valley 
+Marina, Redwood City 
+
+Bridge toll plaza, Fremont 
+Drive-in theater, Palo Alto 
+
+Arts and Crafts Plaza, Menlo Park 
+Catholic Church, Portola Valley 
+
+
+Swimming pool complex, Palo Alto 
+
+
+Total sum of ranks 
+
+
+(p=2.9x107° ) 
+
+
+who felt that he used his remote-viewing ability in his every- 
+day life. 
+
+In comparison with the latter two, many people are more 
+influenced by their environment and are reluctant under 
+public scrutiny to attempt activities that are generally thought 
+to be impossible. Society often provides inhibition and nega- 
+tive feedback to the individual who might otherwise have 
+explored his own nonregular perceptual ability. We all share 
+an historical tradition of “the stoning of prophets and the 
+burning of witches” and, in more modern times, the hospitaliza- 
+tion of those who claim to perceive things that the majority do 
+
+
+scientific rigor, one of our primary tasks as researchers is to 
+provide an environment in which the subject feels safe to 
+explore the possibility of paranormal perception. With a new 
+subject, we also try to stress the nonuniqueness of the ability 
+because from our experience paranormal functioning appears 
+to be a latent ability that all subjects can articulate to some 
+degree. : 
+
+Because of Mrs. Hammid’s artistic background, she was Ca- 
+pable of drawing and describing visual images that she could 
+not identify in any cognitive or analytic sense. When the target 
+demarcation team went to a target location which was 2 
+pedestrian overpass, the subject said that she saw “a kind of 
+trough up in the air,” which she indicated in the upper part 
+of her drawing in Fig. 4. She went on to explain, “If you 
+stand where they are standing you will see something like 
+this,” indicating the nested squares at the bottom of Fig. 4. 
+As it turned out, a judge standing where she indicated would 
+have a view closely resembling what she had drawn, as can be 
+seen from the accompanying photographs of the target loca- 
+tion. It needs to be emphasized, however, that judges did not 
+have access to our photographs of the site, used here for 
+illustrative purposes only, but rather they proceeded to each 
+of the target locations by list. 
+
+In another experiment, the subject described seeing ‘“‘an 
+open barnlike structure with a pitched roof.” She also saw 
+a “kind of slatted side to the structure making light and dark 
+bars on the wall.” Her drawing and a photograph of the 
+associated bicycle shed target are shown in Fig. 5. (Subjects 
+are encouraged to make drawings of anything they visualize 
+and associate with the remote location because drawings they 
+make are in general more accurate than their verbal description.) 
+
+
+not admit to ssaiyproVRP EOF RbRSSUS 26 7HONETT bia ABPBIOUEOTROUSE00D1001R2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+BICYCLE SHED TARGET 
+
+
+DETAIL OF BICYCLE SHED 
+oR 
+
+
+Fig. 5. Subject Hammid (S4) response to bicycle shed target described as an open “barn-like building” with “slats 
+on the sides” and a “pitched roof.” 
+
+
+TABLE III 
+DISTRIBUTION OF RANKINGS ASSIGNED TO TRANSCRIPTS ASSOCIATED 
+WITH EACH TARGET LOCATION FOR LEARNER SUBJECT HAMMID (S4) 
+Rank of 
+
+
+Associated 
+Transcript 
+
+
+Distance 
+Target Location 
+
+
+Methodist Church, Palo Alto 
+
+
+w 
+
+
+Ness Auditorium, Menlo Park 
+Merry-go-round, Palo Alto 
+
+Parking garage, Mountain View 
+
+SRI International Courtyard, Menlo Park 
+Bicycle shed, Menlo Park 
+
+
+Railroad trestle bridge, Palo Alto 
+
+
+Pumpkin patch, Menlo Park 
+
+
+were 9 SO @&@ WY CO we 
+
+
+ow w 
+NoR~- NN FP NR ee 
+
+
+Pedestrian overpass, Palo Alto 
+
+
+Total sum of ranks 13 
+
+
+(p=1,8x207& ) 
+
+
+experiment series were submitted for independent judging on 
+a blind basis by an SRI research analyst not otherwise associ- 
+ated with the research. While at each target location, visited 
+in turn, the judge was required to blind rank order the nine 
+unedited typed manuscripts of the tape-recorded narratives, 
+along with any associated drawings generated by the remote 
+viewer, on a scale 1 to 9 (best to worst match). The sum of 
+ranks assigned to the target-associated transcripts in this case 
+was 13, a result significant at p = 1.8 X 107 by exact calcula- 
+tion (see Table I and discussion), and included five direct hits 
+
+
+and four second ranks Tap6 Vue For Release 2007/04/02 
+
+
+Again, as a backup judging procedure, a panel of five addi- 
+tional judges not otherwise associated with the research 
+were asked simply to blind match the unedited typed tran- 
+scripts and associated drawings generated by the remote viewer, 
+against the nine target locations which they independently 
+visited in turn. A correct match consisted of a transcript of 
+a given date being matched to the target of that date. In- 
+stead of the expected number of I match each per judge, 
+the number of correct matches obtained by the five judges 
+was 5, 3, 3, 2, and 2, respectively. Thus, rather than the ex- 
+pected total number of 5 correct matches from the judges, 
+15 such matches were obtained. 
+
+
+C. Subjects S2 and S3: Experienced 
+
+
+Having completed a series of 18 remote-viewing experiments, 
+9 each with experienced subject $1 (Price) and learner S4 
+(Hammid), additional replication experiments, four with each 
+subject, were carried out with experienced subjects $ 2 (Elgin) 
+and $3 (Swann) and learners $5 and S6. To place the judging 
+on a basis comparable to that used with S1 and S4, the four 
+transcripts each of experienced subjects $2 and S3 were com- 
+bined into a group of eight for rank order judging to be com- 
+pared with the similarly combined results of the learners 
+S5 and S6. 
+
+The series with $2 (Elgin, an SRI research analyst) provided 
+a further example of the dichotomy between verbal and draw- 
+ing responses. (As with medical literature, case histories often 
+are more illuminating than the summary of results.) The ex- 
+
+
+ICHO-RDPStBC040+ROG2E000100 t3niucted with this 
+
+
+pproved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+339 
+
+
+TARGET—TENNIS COURTS 
+
+
+"4 
+\ 
+
+
+we 
+
+
+ai 
+
+
+| 
+
+
+Fig. 6. Subject Elgin (S2) drawings in response to tennis court target. 
+
+
+subject. It was a demonstration experiment for a government 
+visitor who had heard of our work and wanted to evaluate our 
+experimental protocol. 
+
+In the laboratory, the subject, holding a bearing compass at 
+arm’s length, began the experiment by indicating the direction 
+of the target demarcation team correctly to within 5°. (In all 
+four experiments with this subject, he has always been within 
+10° of the correct direction in this angular assessment.) The 
+subject then generated a 15-min tape-recorded description and 
+the drawings shown in Fig. 6. 
+
+In discussing the drawings, Elgin indicated that he was 
+uncertain as to the action, but had the impression that the 
+demarcation team was located at a museum (known to him) 
+in a particular park. In fact, the target was a tennis court lo- 
+cated in that park about 90 m from the indicated museum. 
+Once again, we note the characteristic (discussed earlier) of a 
+resemblance between the target site and certain gestalt ele- 
+ments of the subject’s response, especially in regard to the 
+drawings, coupled with incomplete or erroneous analysis of 
+the significances. Nonetheless, when rank ordering transcripts 
+1 through 8 at the site, the judge ranked this transcript as 2. 
+This example illustrates a continuing observation that most of 
+the correct information related to us by subjects is of a non- 
+analytic nature pertaining to shape, form, color, and material 
+rather than to function or name. 
+
+A second example from this group, generated by S3 (Swann), 
+indicates the level of proficiency that can be attained with 
+practice. In the two years since we first started working with 
+Swann, he has been studying the problem of separating the ex- 
+
+
+ternal signal from (Ap FOYER FET Reldase 20 OFG2" 
+
+
+experiments, he dictates two lists for us to record. One list 
+contains objects that he ‘‘sees,” but does not think are located 
+at the remote scene. A second list contains objects that he 
+thinks are at the scene. In our evaluation, he has made much 
+progress in this most essential ability to separate memory 
+and imagination from paranormal inputs. This is the key to 
+bringing the remote-viewing channel to fruition with regard to 
+its potential usefulness. 
+
+The quality of transcript that can be generated by this pro- 
+cess is evident from the results of our most recent experiment 
+with Swann. The target location chosen by the usual double- 
+blind protocol was the Palo Alto City Hall. Swann described a 
+tall building with vertical columns and “‘set in” windows. His 
+sketch, together with the photograph of the site, is shown in 
+Fig. 7. He said there was a fountain, ‘“‘but I don’t hear it.” 
+At the time the target team was at the City Hall during the 
+experiment, the fountain was not running. He also made an 
+effort to draw a replica of the designs in the pavement in front 
+of the building, and correctly indicated the number of trees 
+(four) in the sketch. 
+
+For the entire series of eight, four each from S2 and S3, the 
+numerical evaluation based on blind rank ordering of tran- 
+scripts at each site was significant at p = 3.8 X 10™* and in- 
+cluded three direct hits and three second ranks for the target- 
+
+
+_associated transcripts (see Table IV). 
+
+
+D. Subjects S5 and S6: Learners 
+
+
+To complete the series, four experiments each were carried’ 
+out with learner subjects S5 and $6, a man and woman on the 
+
+
+: CALREP STE AF ROd BE OVEdT SS case, taken as a 
+
+
+Approved For Release 2007/04/02 : 
+
+
+340 
+
+
+Fig. 7. Subject Swann (S3) response to City Hall target. 
+
+
+group, did not differ significantly from chance. For the series 
+of eight (judged as a group of seven since one target came up 
+twice, once for each subject), the numerical evaluation based 
+on blind rank ordering of transcripts at each site was non- 
+significant at p = 0.08, even though there were two direct hits 
+and two second ranks out of the seven (see Table V). 
+
+One of the direct hits, which occurred with subject S6 in her 
+first experiment, provides an example of the “first-time effect” 
+that has been rigorously explored and is well-known to experi- 
+menters in the field [57]. 
+obtained, by random protocol from the pool, a target blind 
+to the experimenter with the subject, as is our standard pro- 
+cedure, and proceeded to the location. The subject, a mathe- 
+
+
+The outbound experimenter * 
+
+
+CIA-RDP81B00401R002600010013-2 
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+TABLE IV 
+DISTRIBUTION OF RANKINGS ASSIGNED TO TRANSCRIPTS ASSOCIATED 
+WITH EACH TARGET LOCATION FOR EXPERIENCED SUBJECTS ELGIN (S2) 
+AND SWANN (S3) 
+
+
+Cee 
+Target Location km 
+
+
+16,1 
+
+
+Rank of 
+Associated 
+Transcript 
+
+
+BART Station (Transit System), Fremont 
+Shielded room, SRI, Menlo Park 
+
+Tennis court, Palo Alto 
+
+Golf course bridge, Stanford 
+
+City Hall, Palo Alto 
+Miniature golf course, Menlo Park 
+
+
+Kiosk in park, Menlo Park 
+
+
+ew vee RN DY 
+
+
+Baylands Nature Preserve, Palo Alto 
+
+
+15 
+(px3, 8x107*) 
+
+
+Total sum.of ranks 
+
+
+TABLE V 
+DISTRIBUTION OF RANKINGS ASSIGNED TO TRANSCRIPTS ASSOCIATED 
+WITH EACH TARGET LOCATION FOR LEARNER SUBJECTS S5 AND S6 
+
+
+lace ease 
+Subject ko 
+$5 5.0 
+
+
+$5 
+
+
+Rank of 
+Associated 
+Target Location Transcript 
+
+
+Pedestrian overpass, Palo Alto 
+
+
+Railroad trestle bridge, Palo Alto 
+
+
+Windmill, Portola Valley 
+White Plaza, Stanford (2) 
+Airport, Palo Alto 
+
+Kiosk in Park, Menlo Park 
+
+
+Boathouse, Stanford 
+
+
+Total sum of ranks 
+
+
+(p=0.08, NS) 
+
+
+vious experience in remote viewing, began to describe a large 
+square with a fountain. Four minutes into the experiment, 
+she recognized the location and correctly identified it by name 
+(see Fig. 8). (It should be noted that in the area from which 
+the target locations were drawn there are other fountains 
+as well, some of which were in the target pool.) As an ex- 
+ample of the style of the narratives generated during remote 
+viewing with inexperienced subjects and of the part played by 
+the experimenter remaining with the subject in such a case, 
+we have included the entire unedited text of this experiment 
+as Appendix B. 
+
+
+E. Normal and Paranormal: Use of Unselected Subjects in 
+Remote Viewing 
+
+
+After more than a year of following the experimental pro- 
+tocol described above and observing that even inexperienced 
+subjects generated results better than expected, we initiated a 
+series of experiments to explore further whether individuals 
+other than putative ‘“‘psychics” can demonstrate the remote- 
+viewing ability. To test this idea, we have a continuing pro- 
+gram to carry out additional experiments of the outdoor type 
+with new subjects whom we have noa@ priori reason to believe 
+have paranormal perceptual ability. To date we have collected 
+data from five experiments with two individuals in this cate- 
+gory: a man and a woman who were visiting government 
+scientists interested in observing our experimental protocols. 
+The motivation for these particular experiments was twofold. 
+First, the experiments provide data that indicate the level of 
+
+that can be expected from unselected volunteers. 
+
+
+matician in the coymputsr scippes taborate ry. BOOvIOa/OS « CIA-RDPS1B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+Fig. 8. Subject (S6) drawing of White Plaza, Stanford University. Sub- 
+ject drew what she called “curvy benches” and then announced cor- 
+rectly that the place was “White Plaza at Stanford.” 
+
+
+Second, when an individual observes a successful demonstra- 
+tion experiment involving another person as subject, it inevi- 
+tably occurs to him that perhaps chicanery is involved. We 
+have found the most effective way to settle this issue for the 
+observer is to have the individual himself act as a subject so as 
+to obtain personal experience against which our reported 
+results can be evaluated. 
+
+The first visitor (V1) was invited to participate as a subject 
+in a three-experiment series. All three experiments contained 
+elements descriptive of the associated target locations; the 
+quality of response increased with practice. The third re- 
+sponse is shown in Fig. 9, where again the pattern elements in 
+the drawing appeared to be a closer match than the subject’s 
+analytic interpretation of the target object as a cupola. 
+
+
+RESPONSES OF VISITING 
+SCIENTIST SUBJECT 
+
+
+Fig. 9. Subject (V1) drawing of merry-go-round target. 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+341 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+342 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+TECHNOLOGY SERIES 
+TYPEWRITER TARGET 
+
+
+Seon ty aeselee wile APorts 
+owe Silling owlep off the ten. ~ 
+
+
+VY ype wud be sis 
+A gree Creccut 
+
+
+SUBJECT SWANN (S3) RESPONSE 
+
+
+SUBJECT HAMMID (S4) RESPONSE 
+
+
+Fig. 10. Drawings of a typewriter target by two subjects. 
+
+
+The second visitor [V2] participated as a subject in two ex- 
+periments. In his first experiment, he generated one of the 
+higher signal-to-noise results we have observed. He began 
+his narrative, ‘There is a red A-frame building and next to it 
+is a large yellow thing [a tree—Editor]. Now further left 
+there is another A-shape. It looks like a swing-set, but it is 
+pushed down in a gully so I can’t see the swings.”’ [All cor- 
+rect.) He then went on to describe a lock on the front door 
+that he said “looks like it’s made of laminated steel, so it 
+must be a Master lock.” [Also correct.] 
+
+For the series of five—three from the first subject and two 
+from the second—the numerical evaluation based on blind 
+rank ordering of the transcripts at each site was significant at 
+p=0.017 and included three direct hits and one second rank 
+for the target-associated transcripts. (See Table VI.) 
+
+
+Approved For Release 2007/04/02 : 
+
+
+TABLE VI 
+DISTRIBUTION OF RANKINGS ASSIGNED TO TRANSCRIPTS ASSOCIATED WITH 
+EACH TARGET LOCATION FOR VISITOR SUBJECTS V1 AND V2 
+
+
+Rank of 
+Distance | Associated 
+Target Location km Transcript 
+
+
+Bridge over stream, Menlo Park 
+Baylands Nature Preserve, Palo Alto 
+Merry-go-round, Palo Alto 
+
+Windmill, Portola Valley 
+
+
+Apartment swimming pool, Mountain View 
+
+
+Total sum of ranks 
+
+
+8 
+(p=0.017) 
+
+
+CIA-RDP81B00401R002600010013-2 
+
+
+TARGET LOCATION: XEROX MACHINE 
+
+
+(TECHNOLOGY SERIES) 
+
+
+<< 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+343 
+
+
+TO ADD INTEREST TO TARGET 
+LOCATION EXPERIMENTER WITH 
+HIS HEAD BEING XEROXED 
+
+
+Fig. 11. Drawings by three subjects (S2, $3, and V3) for Xerox machine target. When asked to describe the square at upper left of response on 
+the right, subject (V3) said, “There was this predominant light source which might have been a window, and a working surface which might have 
+been the sill, or a working surface or desk.” Earlier the subject had said, ‘I have the feeling that there is something silhouetted against the 
+
+
+window.” 
+
+
+Observations with unselected subjects such as those de- 
+scribed above indicate that remote viewing may be a latent and 
+widely distributed perceptual ability. 
+
+
+F. Technology Series: Short-Range Remote Viewing 
+
+
+Because remote viewing is a perceptual ability, we consid- 
+ered it important to obtain data on its resolution capabilities. 
+To accomplish this, we turned to the use of indoor techno- 
+logical targets. 
+
+Twelve experiments were carried out with five different sub- 
+jects, two of whom were visiting government scientists. They 
+were told that one of the experimenters would be sent by 
+random protocol to a laboratory within the SRI complex and 
+that he would interact with the equipment or apparatus at 
+that location. It was further explained that the experimenter 
+remaining with the subject was, as usual, kept ignorant of the 
+contents of the target pool to prevent cueing during question- 
+ing. (Unknown to subjects, targets in the pool were used with 
+replacement; one of the goals of this particular experiment was 
+to obtain multiple responses to a given target to investigate 
+whether correlation of a number of subject responses would 
+provide enhancement of ‘the signal-to-noise ratio.) The sub- 
+ject was asked to describe the target both verbally (tape 
+recorded) and by means of drawings during a time-synchronized 
+15-min interval in which the outbound experimenter inter- 
+acted in an appropriate manner with the equipment in the 
+target area. 
+
+In the twelve experiments, seven targets were used: a drill 
+press, Xerox machine, video terminal, chart recorder, four- 
+state random number generator, machine shop, and type- 
+writer, Three of these were used twice (drill press, video 
+terminal, and typewriter) and one (Xerox machine) came up 
+three times in our random selection procedure. 
+
+
+<. 
+
+
+Comparisons of the targets and subject drawings for three of 
+the multiple-response cases (the typewriter, Xerox machine, 
+and video terminal) are shown in Figs. 10, 11, and 12. As is 
+apparent from these illustrations alone, the experiments 
+provide circumstantial evidence for an information channel 
+of useful bit rate. This includes experiments in which visit- 
+ing government scientists participated as subjects (Xerox 
+machine and video terminal) to observe the protocol. In 
+general, it appears that use of multiple-subject responses to a 
+single target provides better signal-to-noise ratio than target 
+identification by a single individual. This conclusion is borne 
+out by the judging described below. 
+
+Given that in general the drawings constitute the most 
+accurate portion of a subject’s description, in the first judging 
+procedure a judge was asked simply to blind match only the 
+drawings (i.e., without tape transcripts) to the targets. Multiple- 
+subject responses to a given target were stapled together, and 
+thus seven subject-drawing response packets were to be 
+matched to the seven different targets for which drawings were 
+made. The judge did not have access to our photographs of 
+the target locations, used for illustration purposes only, but 
+rather proceeded to each of the target locations by list. While 
+standing at each target location, the judge was required to rank 
+order the seven subject-drawing response packets (presented in 
+random order) on a scale 1 to 7 (best to worst match). For 
+seven targets, the sum of ranks could range from 7 to 49. The 
+sum in this case, which included 1 direct hit and 4 second 
+ranks out of the 7 (see Table VII) was 18, a result significant 
+at p = 0.036. 7 
+
+In the second more detailed effort at evaluation, a visiting 
+scientist selected at random one of the 12 data packages (a 
+drill press experiment), sight unseen and submitted it for in- 
+dependent analysis to an engineer with a request for an esti- 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+344 
+
+
+TARGET: 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+VIDEO MONITOR FOR TEXT EDITING (TECHNOLOGY SERIES) 
+
+
+Cr alll mar Blac 
+
+
+(a) 
+
+
+(b) 
+Fig. 12. Drawing by two subjects of a video monitor target. (a) Subject (S4) drawing of “‘box with light coming out of it... painted flat black 
+
+
+and in the middle of the room.” (b) Second subject (V2) saw a computer terminal with relay racks in the background. 
+
+
+TABLE VII 
+DIsTRIBUTION OF RANKINGS ASSIGNED TO SUBJECT 
+DRAWINGS ASSOCIATED WITH EACH TARGET LOCATION 
+
+
+$3, 4 
+
+
+Rank of 
+Associated 
+
+
+Target Drawings 
+
+
+Drill press 
+$2, $3, V3 Xerox machine 
+84, V2 Video terminal 
+“$3 Chart recorder 
+84 Random number generator 
+84 Machine shop 
+
+
+Typewriter 
+
+
+Total sum of ranks 
+
+
+18 
+(p=0.036) 
+
+
+mate as to what was being described. The analyst, blind as to 
+the target and given only the subject’s taped narrative and 
+drawing (Fig. 13), was able, from the subject’s description 
+alone, to correctly classify the target as a “man-sized vertical 
+boring machine.” 
+
+
+G. Summary of Remote Viewing Results 
+
+
+1) Discussion: The descriptions: supplied by the subjects 
+in the experiments involving remote viewing of natural targets 
+or laboratory apparatus, although containing inaccuracies, 
+were sufficiently accurate to permit the judges to differentiate 
+among various targets to the degree indicated. A summary 
+
+
+Approved For Release 2007/04/02 : 
+
+
+TABLE VII 
+SumMaRy: REMOTE VIEWING 
+
+
+Number of 
+Subject Experiments 
+
+
+With natural targets 
+
+
+p-Value, Rank 
+Order Judging 
+
+
+5 
+
+
+Sl (experienced) 2.9 x 10° 
+$2 and S3 (experienced) 3.8 x 10" 
+$4 (learner) 1.8 x 107° 
+
+
+$5 and $6 (learners) 0.08 (NS) 
+
+
+0.017 
+
+
+Vl and v2 (learners/visitors) 
+
+
+With technology targets 
+
+
+82, $3, S4, v2, v3 
+
+
+tabulation of the statistical evaluations of these fifty-one ex- 
+periments with nine subjects is presented in Table VIII. The 
+overall result, evaluated conservatively on the basis of a 
+judging procedure that ignores transcript quality beyond that 
+necessary to rank order the data packets (vastly underestimat- 
+ing the statistical significance of individual descriptions), 
+clearly indicates the presence of an information channel of 
+useful bit rate. Furthermore, it appears that the principal 
+difference between experienced subjects and inexperienced 
+volunteers is not that the latter never exhibit the faculty, but 
+rather that their results are simply less reliable, more sporadic, 
+Nevertheless, as described earlier, individual transcripts from 
+the inexperienced group of subjects number among some of 
+the best obtained. Such observations indicate a hypothesis 
+that remote viewing may be a latent and widely distributed 
+perceptual ability. 
+
+
+CIA-RDP81B00401R002600010013-2 
+
+
+4 
+
+
+’ 
+
+
+* Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER" 345 
+
+
+BELT DRIVE FOR ORILL 
+PRESS (CAN BE SEEN ONLY 
+FROM ABOVE MACHINE) 
+
+
+TARGET: DRILL PRESS 
+(TECHNOLOGY SERIES) 
+
+
+/ re 
+& ; / 
+
+
+Fig. 13. Subject (S4) drawing of drill press showing belt drive, stool, 
+and a “vertical graph that goes up and down.” 
+
+
+Thus the primary achievement of the SRI program was the 
+elicitation of high-quality remote viewing from individuals 
+who agreed to act as subjects. Criticism of this claim could 
+in principle be .put forward on the basis of three potential 
+flaws. 1) The study could involve naiveté in protocol that 
+permits various forms of cueing, intentional or unintentional. 
+2) The experiments discussed could be selected out of a larger 
+pool of experiments of which many are of poorer quality. 
+3) Data for the reported experiments could be edited to show 
+only the matching elements, the nonmatching elements being 
+discarded. 
+
+All three criticisms, however, are invalid. First, with regard 
+to cueing, the use of double-blind protocols ensures that none 
+of the persons in contact with the subject can be aware of the 
+target. Second, selection of experiments for reporting did not 
+take place; every experiment was entered as performed ona 
+master log and is included in the statistical evaluations. Third, 
+data associated with a given experiment remain unedited; all 
+experiments are tape recorded and all data are included un- 
+edited in the data package to be judged and evaluated. 
+
+
+In the process of judging—attempting to match transcripts 
+against targets on the basis of the information in the 
+transcripts—-some patterns and regularities in the transcript 
+descriptions became evident, particularly regarding individual 
+styles in remote viewing and in the perceptual form of the 
+descriptions given by the subjects. These patterns and the - 
+judging procedure are discussed below. 
+
+a) Styles of response: The fifty-one transcripts were 
+taken from nine different subjects. Comparing the tran- 
+scripts of one subject with those of another revealed that each 
+pattern tended to focus on certain aspects of the remote 
+target complex and to exclude others, so that each had an 
+individual pattern of response, like a signature. 
+
+Subject $3, for example, frequently responded with topo- 
+graphical descriptions, maps, and architectural features of the 
+target locations. Subject S2 often focused on the behavior of 
+the remote experimenter or the sequence of actions he carried 
+out at the target. The transcripts of subject S4, more than 
+those of other subjects, had descriptions of the feel of the lo- 
+cation, and experiential or sensory gestalts—for example, 
+light/dark elements in the scene and indoor/outdoor and 
+enclosed/open distinctions. Prominent features of S1’s tran- 
+scripts were detailed descriptions of what the target persons 
+were concretely experiencing, seeing, or doing—for example, 
+standing on asphalty blacktop overlooking water; looking at 
+a purple iris. 
+
+The range of any individual subject’s responses was wide. 
+Anyone might draw a map or describe the mood of the remote 
+
+
+- experimenter, but the consistency of each subject’s overall 
+
+
+approach suggests that just as individual descriptions of a 
+directly viewed scene would differ, so these differences also 
+occur in remote-viewing processes. 
+
+b) Nature of the description: The concrete descriptions 
+that appear most commonly in transcripts are at the level of 
+subunits of the overall scene. For example, when the target 
+was a Xerox copy machine, the responses included (S2) a 
+rolling object (the moving light) or dials and a cover that is 
+lifted (S3), but the machine as a whole was not identified by 
+name or function. 
+
+In a few transcripts, the subjects correctly identified and 
+named the target. In the case of a computer terminal, the 
+subject (V2) apparently perceived the terminal and the relay 
+racks behind it. In the case of targets which were Hoover 
+Tower and White Plaza, the subjects (S1 and S6, respectively) 
+seemed to identify the locations through analysis of their 
+initial images of the elements of the target. 
+
+There were also occasional incorrect identifications. Gestalts 
+were incorrectly named; for example, swimming pools in a 
+park were identified as water storage tanks at a water filtration 
+plant (S1). 
+
+The most common perceptual level was thus an intermediate 
+one—the individual elements and items that make up the tar- 
+get. This is suggestive of a scanning process that takes sample 
+‘perceptions from within the overall environment. 
+
+When the subjects tried to make sense out of these fragmen- 
+tary impressions, they often resorted to metaphors or con- 
+structed an image with a kind of perceptual inference. From 
+a feeling of the target as an ‘‘august” and “solemn” building, 
+a subject (S4) said it might be a library; it was a church. A 
+pedestrian overpass above a freeway was described as a conduit 
+(S4). A rapid transit station, elevated above the countryside, 
+was associated with an observatory (S2). These responses 
+seem to be the result of attempts to process partial informa- 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 : 
+
+
+346 
+
+
+tion: similarly, this occurs in other parapsychological experi- 
+ments. These observations are compatible with the hypotheses 
+that information received in a putative remote-viewing mode 
+is processed piecemeal in pattern form (consistent with a low 
+bit rate process, but not necessarily requiring it); and the 
+errors arise in the processes of attempted integration of the 
+data into larger patterns directed toward verbal labeling. 
+
+When the subjects augmented the verbal transcripts with 
+drawings or sketches, these often expressed the target elements 
+more accurately than the verbal descriptions. Thus the draw- 
+ings tended to correspond to the targets more clearly and 
+precisely than the words of the transcript. 
+
+The descriptions given by the subjects sometimes went be- 
+yond what the remote experimenter experienced, at least con- 
+sciously. For example, one subject (S4) described and drew 
+a belt drive at the top of a drill press that was invisible even to 
+the remote experimenter who was operating the machine; 
+another subject (S1) described a number of items behind 
+shrubbery and thus not visible to members of the demarcation 
+team at the site. , 
+
+Curiously, objects in motion at the remote site were rarely 
+mentioned in the transcript. For example, trains crossing the 
+railroad trestle target were not described, though the remote 
+experimenter stood very close to them. 
+
+Also in a few cases, the subject descriptions were inaccurate 
+regarding size of structures. A 20-ft courtyard separating two 
+buildings was described as 200 ft wide, and a small shed was 
+expanded to a barn-like structure. 
+
+c) Blind judging of transcripts: The judging procedure 
+entailed examining the transcripts for a given experimental 
+series and attempting to match the transcripts with the cor- 
+rect targets on the basis of their correspondences. The tran- 
+scripts varied from coherent and accurate descriptions to mix- 
+tures of correspondences and noncorrespondences. Since the 
+judge did not know a priori which elements of the descriptions 
+were correct or incorrect, the task was complicated, and.tran- 
+scripts often seemed plausibly to match more than one target. 
+A confounding factor in these studies is that some target lo- 
+cations have similarities that seem alike at some level of per- 
+ception. For example, a radio telescope at the top of a hill, 
+the observation deck of a tower, and a jetty on the edge of a 
+bay all match a transcript description of “looking out over a 
+long distance.”’ A lake, a fountain, and a creek may all result 
+in an image of water for the subject. Therefore, in several 
+cases, even correct images may not help in the conservative 
+differential matching procedure used. 
+
+According to the judge, the most successful procedure was a 
+careful element-by-element comparison that tested each tran- 
+script against every target and used the transcript descriptions 
+and drawings as arguments for or against assigning the tran- 
+script to a particular target. In most cases, this resulted in 
+either a clear conclusion or at least a ranking of probable 
+matches; these matches were subjected to the statistical 
+analyses presented in this paper. 
+
+2) Summary: In summary, we do not yet have an under- 
+standing of the nature of the information-bearing signal that a 
+subject perceives during remote viewing. The subjects com- 
+monly report that they perceive the signal visually as though 
+they were looking at the object or place from a position in its 
+immediate neighborhood. Furthermore, the subjects’ per- 
+ceptual viewpoint has mobility in that they can shift their 
+point of view so as to describe elements of a scene that would 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+not be visible to an observer merely standing at ground level 
+and describing what he sees. (In particular, a subject often 
+correctly describes elements not visible to the target demarca- 
+tion team.) Finally, motion is seldom reported; in fact, 
+moving objects often are unseen even when nearby static 
+objects are correctly identified. 
+
+A comparison of the results of remote viewing (a so-called 
+free-response task) with results of forced-choice tasks, such as 
+the selection of one of four choices generated by a random 
+number generator [58], reveals the following findings. From a 
+statistical viewpoint, a subject is more likely to describe, with 
+sufficient accuracy to permit blind matching, a remote site 
+chosen at random than he is to select correctly one of four 
+random numbers. Our experience with these phenomena leads 
+us to consider that this difference in task performance may 
+stem from fundamental signal-to-noise considerations. Two 
+principal sources of noise in the system apparently are mem- 
+ory and imagination, both of which can give rise to mental 
+pictures of greater clarity than the target to be perceived. In 
+the random number task, a subject can create a perfect mental 
+picture of each of the four possible outputs in his own imagi- 
+nation and then attempt to obtain the correct answer by a 
+mental matching operation. The same is true for card guessing 
+experiments. On the other hand, the subject in remote view- 
+ing is apparently more likely to approach the task with a 
+blank mind as he attempts to perceive pictorial information 
+from remote locations about which he may have no stored 
+mental data. 
+
+Finally, we observe that most of the correct information 
+that subjects relate to us is of a nonanalytic nature pertaining 
+to shape, form, color, and material rather than to function or 
+name. In consultation with Dr. Robert Ornstein of the Langley- 
+Porter Neuropsychiatric Institute, San Francisco, CA, and with 
+Dr. Ralph Kiernan of the Department of Neurology, Stanford 
+University Medical Center, Stanford, CA, we have formed 
+the tentative hypothesis that paranormal functioning may 
+involve specialization characteristic of the brain’s right hemi- 
+sphere. This possibility is derived from a variety of evidence 
+from clinical and neurosurgical sources which indicate that the 
+two hemispheres of the human brain are specialized for dif- 
+ferent cognitive functions. The left hemisphere is predomi- 
+
+
+nantly active in verbal and other analytical functioning and the. 
+
+
+right hemisphere predominates in spatial and other holistic 
+processing [59], [60]. Further research is necessary to 
+elucidate the relationship between right hemisphere function 
+and paranormal abilities. Nonetheless, we can say at this 
+point that the remote-viewing results of the group of subjects 
+at SRI have characteristics in common with more familiar 
+performances that require right hemispheric function. The 
+similarities include the highly schematicized drawings of ob- 
+jects in a room or of remote scenes. Verbal identification of 
+these drawings is often highly inaccurate and the drawings 
+themselves are frequently left-right reversed relative to the 
+target configuration. Further, written material generally is 
+not cognized. These characteristics have been seen in left 
+brain-injured patients and in callosal-sectioned patients. 
+
+As a result of the above considerations, we have learned to 
+urge our subjects simply to describe what they see as opposed 
+to what they think they are looking at. We have learned that 
+their unanalyzed perceptions are almost always a better guide 
+to the true target than their interpretations of the perceived 
+data. 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+IV. CONSIDERATIONS CONCERNING TIME 
+
+If the authors may be forgiven a personal note, we wish to 
+express that this section deals with observations that we have 
+been reluctant to publish because of their striking apparent in- 
+compatibility with existing concepts. The motivating factor 
+for presenting the data at this time is the ethical consideration 
+_ that theorists endeavoring to develop models for paranormal 
+functioning should be apprised of all the observable data if 
+their efforts to arrive at a comprehensive and correct descrip- 
+tion are to be successful. 
+
+During the course of the experimentation in remote viewing 
+(Section III), subjects occasionally volunteered the informa- 
+tion that they had been thinking about their forthcoming par- 
+ticipation in a remote-viewing experiment and had an image 
+come to them as to what the target location was to be. On 
+these occasions, the information was given only to the experi- 
+menter remaining at SRI with the subject and was unknown to 
+the outbound experimenter until completion of the experi- 
+ment. Two of these contributions were among the most 
+accurate descriptions turned in during those experiments. 
+Since the target location had not yet been selected when the 
+subject communicated his perceptions about the target, we 
+found the data difficult to contend with. 
+
+We offer these spontaneous occurrences not as proof of pre- 
+cognitive perception, but rather as the motivation that led us 
+to do further work in this field. On the basis of this firsthand 
+evidence, together with the copious literature describing years 
+of precognition experiments carried out in various other labo- 
+ratories, we decided to determine whether a subject could per- 
+form a perceptual task that required both spatial and temporal 
+remote viewing. 
+
+It is well known and recently has been widely discussed that 
+nothing in the fundamental laws of physics forbids the appar- 
+ent transmission of information from the future to the present 
+(discussed further in Section V). Furthermore, there is a gen- 
+eral dictum that “in physical law, everything that is not forbid- 
+den, is required” [61]. With this in mind, we set out to con- 
+duct very well-controlled experiments to determine whether 
+we could deliberately design and execute experiments for the 
+sole purpose of observing precognition under laboratory 
+conditions. | 
+
+The experimental protocol was identical to that followed in 
+previous remote-viewing experiments with but one exception. 
+The exception was that the subject was required to describe 
+the remote location during a 15-min period beginning 20 min 
+before the target was selected and 35 min before the outbound 
+experimenter was to arrive at the target location. 
+
+In detail, as shown in Table IX, each day at ten o’clock one 
+of the experimenters would leave SRI with a stack of ten 
+sealed envelopes from a larger pool and randomized daily, con- 
+taining traveling instructions that had been prepared, but that 
+were unknown to the two experimenters remaining with the 
+subject. The subject for this experiment was Hella Hammid 
+(S4) who participated in the nine-experiment series replicating 
+the original Price work described earlier. The traveling experi- 
+menter was to drive continuously from 10:00 until 10:30 be- 
+fore selecting his destination with a random number generator. 
+(The motivation for continuous motion was our observation 
+that objects and persons in rapid motion are not generally seen 
+in the remote-viewing mode of perception, and we wished the 
+traveler to be a poor target until he reached his target site.) At 
+the end of 30 min of driving, the traveling experimenter gener- 
+
+
+" Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 . 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+347 
+
+
+TABLE IX 
+EXPERIMENTAL PROTOCOL: PRECOGNITIVE REMOTE VIEWING 
+
+
+Experimenter/Subject Activity 
+
+
+Outbound experimenter leaves with 10 envelopes (containing 
+target locations) and random number generator; 
+begins half-hour drive 
+
+
+Time 
+Schedule 
+
+
+Experimenters remaining with subject in the laboratory 
+elicit from subject a description of where outbound 
+experimenter will be from 10:45-11:00 
+
+
+Subject response completed, at which time laboratory part 
+of experiment is over 
+
+
+Outbound experimenter obtains random number from a random 
+number generator, counts down to associated envelope, and 
+proceeds to target location indicated 
+
+
+Outbound experimenter remains at target location for 
+15 minutes (10:45-11:00) 
+
+
+Fig. 14. Subject Hammid (S4) described ‘‘some kind of congealing tar, 
+or maybe an area of condensed lava ... that has oozed out to fill up 
+some kind of boundaries.” 
+
+
+ated a random digit from 0 to 9 with a Texas Instruments 
+SR-51 random number generator; while still in motion, he 
+counted down that number of envelopes and proceeded di- 
+rectly to the target location so as to arrive there by 10:45. He 
+remained at the target site until 11:00, at which time he re- 
+turned to the laboratory, showed his chosen target name to a 
+security guard, and entered the experimental room. 
+
+During the same period, the protocol in the laboratory was 
+as follows. At 10:10, the subject was asked to begin a descrip- 
+tion of the place to which the experimenter would go 35 min 
+hence. The subject then generated a tape-recorded description 
+and associated drawings from 10:10 to 10:25, at which time 
+her part in the experiment was ended. Her description was 
+thus entirely concluded 5 min before the beginning of the tar- 
+get selection procedure. ; 
+
+Four such experiments were carried out. Each of them ap- 
+peared to be successful, an evaluation later verified in blind 
+judging without error by three judges. We will briefly sum- 
+marize the four experiments below. 
+
+The first target, the Palo Alto Yacht Harbor, consisted en- 
+tirely of mud flats because of an extremely low tide (see Fig. 
+14). Appropriately, the entire transcript of the subject per- 
+tained to “some kind of congealing tar, or maybe an area of 
+condensed lava. It looks like the whole area is covered with 
+some kind of wrinkled elephant skin that has oozed out to fill 
+up some kind of boundaries where (the outbound experi- 
+menter) is standing.’ Because of the lack of water, the dock 
+where the remote experimenter was standing was in fact rest- 
+ing directly on the mud. 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 
+348 : 
+
+
+eee 
+
+
+Fig. 15. Subject (S4) described a formal garden “very well manicured” 
+behind a double colonnade. . 
+
+
+Note that the subject has learned not to rush into interpreta- 
+tion as to the nature or purpose of the place. This isa result 
+of our cautioning based on the observation that such efforts 
+tend to be purely analytical and in our experience are almost 
+invariably incorrect. If a subject can limit himself to what he 
+sees, he is often then able to describe a scene with sufficient 
+accuracy that an observer can perform the analysis for him and 
+identify the place. 
+
+The second target visited was the fountain at one end ofa 
+large formal garden at Stanford University Hospital (Fig. 15). 
+The subject gave a lengthy description of a formal garden be- 
+hind a wall with a “double colonnade” and “very well mani- 
+cured.” When we later took the subject to the location, she 
+was herself taken aback to find the double colonnaded wall 
+leading into the garden just as described. 
+
+The third target was a children’s swing at a small park 4.6km 
+from the laboratory (Fig. 16). The subject repeated again and 
+
+
+again that the main focus of attention at the site was a “‘black - 
+
+
+iron triangle that the outbound experimenter had somehow 
+walked into or was standing on.” The triangle was “bigger 
+than a man,” and she heard a “‘squeak, squeak, about once a 
+second,” which we observe is a match to the black metal swing 
+that did squeak. 
+
+
+: CIA-RDP81B00401R002600010013-2 ‘ 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+‘ 
+
+
+\ 
+
+
+a re 
+
+
+DAS Tae 
+off ®! i Sd ey 
+7 
+
+
+N 
+
+
++ oe” 
+
+
+HI" 
+cee 
+
+
+Fig. 16. Subject (S4) saw a “black iron triangle that Hal had somehow 
+walked into” and heard a “‘squeak, squeak, about once a second.” 
+
+
+B ae meee 
+
+
+Fig. 17. Subject (S4) described a very tall structure located among city 
+streets and covered with “Tiffany-like glass.” 
+
+
+The final target was the Palo Alto City Hall (Fig. 17). The 
+subject described a very, very tall structure covered with 
+“Tiffany-like glass.” She had it located among city streets and 
+with little cubes at the base. The building is glass-covered, and 
+the little cubes are a good match to the small elevator exit 
+buildings located in the plaza in front of the building. 
+
+To obtain a numerical evaluation of the accuracy of the pre- 
+cognitive viewing, the experimental results were subjected to 
+independent judging on a blind basis by three SRI scientists 
+who were not otherwise associated with the experiment. The 
+judges were asked to match the four locations, which they 
+visited, against the unedited typed manuscripts of the tape- 
+recorded narratives, along with the drawings generated by the 
+remote viewer. The transcripts were presented unlabeled and 
+in random order and were to be used without replacement. A 
+correct match required that the transcript of a given experi- 
+ment be matched with the target of that experiment. All three 
+judges independently matched the target data to the response 
+data without error. Under the null hypothesis (no information 
+channel and a random selection of descriptions without re- 
+placement), each judge independently obtained a result signifi- 
+cant at p =(4!)"* = 0.042. 
+
+For reasons we do not as yet understand, the four transcripts 
+generated in the precognition experiment show exceptional co- 
+herence and accuracy as evidenced by the fact that all of the 
+judges were able to match successfully all of the transcripts to 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+, ’ App 
+
+
+the corresponding target locations. A long-range experimental 
+program devoted to the clarification of these issues and involv- 
+ing a number of subjects is under way. The above four experi- 
+ments are the first four carried out under this program. 
+
+Currently, we have no precise model of this spatial and tem- 
+poral remote-viewing phenomenon. However, models of the 
+universe involving higher order synchronicity or correlation 
+have been proposed by the physicist Pauli and the psychologist 
+Carl Jung [62]. 
+
+
+ACAUSALITY. If natural law> were an absolute truth, then of 
+course there could not possibly be any processes that deviate 
+from it. But since causality is a statistical truth, it holds good 
+only on average and thus leaves room for exceptions which must 
+somehow be experienceable, that is to say, real. I try to regard 
+synchronistic events as acausal exceptions of this kind. They 
+prove to be relatively independent of space and time; they rela- 
+tivize space and time insofar as space presents in principle no ob- 
+stacle to their passage and the sequence of events in time is in- 
+verted so that it looks as if an event which has not yet occurred 
+were causing a perception in the present. - 
+
+
+We shall see in the next section that such a description, 
+though poetic, has some basis in modern physical theory. 
+
+
+V. DISCUSSION 
+
+
+It is important to note at the outset that many contempo- 
+rary physicists are of the view that the phenomena that we 
+have been discussing are not at all inconsistent with the 
+framework of physics as currently understood. In this emerg- 
+
+
+ing view, the often-held belief that observations of this type: 
+
+
+are incompatible with known laws in principle is erroneous, 
+such a concept being based on the naive realism prevalent 
+before the development of modern quantum theory and 
+information theory. 
+
+One hypothesis, put forward by I. M. Kogan of the USSR, 
+is that information transfer under conditions of sensory 
+shielding is mediated by extremely low-frequency (ELF) 
+electromagnetic waves in the 300-1000-km region [37]- 
+[40]. Experimental support for the hypothesis is claimed 
+on the basis of slower than inverse square attenuation, com- 
+patible with source-percipient distances lying in the induc- 
+tion field range as opposed to the radiation field range; ob- 
+served low bit rates (0.005-0.1 bit/s) compatible with the 
+information carrying capacity of ELF waves; apparent ineffec- 
+tiveness of ordinary electromagnetic shielding as an attenuator; 
+and standard antenna calculations entailing biologically gener- 
+ated currents yielding results compatible with observed signal- 
+to-noise ratios. 
+
+M. Persinger, Psychophysiology Laboratory, Laurentian Uni- 
+versity, Toronto, Canada, has narrowed the ELF hypothesis to 
+the suggestion that the 7.8-Hz ‘“‘SShumann waves” and their 
+harmonics propagating along the earth-ionosphere waveguide 
+duct may be responsible. Such an hypothesis is compatible 
+with driving by brain-wave currents and leads to certain other 
+hypotheses such as asymmetry between east-west and west- 
+east propagation, preferred experimental times (midnight-4 
+A.M.), and expected negative correlation between success 
+and the U index (a measure of geomagnetic disturbance 
+throughout the world). Persinger claims initial support for 
+these factors on the basis of a literature search [63], [64]. 
+
+On the negative side with regard to a straightforward ELF 
+interpretation as a blanket hypothesis are the following: a) ap- 
+
+
+5 As usually understood. 
+
+
+Approved For Release 2007/04/02 : 
+
+
+roved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 
+
+
+349 
+
+
+parent real-time descriptions of remote activities in sufficient 
+detail to require a channel capacity in all probability greater 
+than -that allowed by a conventional modulation of an ELF 
+signal; b) lack of a proposed mechanism for coding and decod- 
+ing the information onto the proposed ELF carrier; and c) ap- . 
+parent precognition data. The hypothesis must nonetheless re- 
+main open at this stage of research, since it is conceivable that 
+counterindication a) may eventually be circumvented on the 
+basis that the apparent high bit rate results from a mixture of 
+low bit rate input and high bit rate ‘filling in the blanks” from 
+imagination; counterindication b) is common to a number of 
+normal perceptual tasks and may therefore simply reflect a 
+lack of sophistication on our part with regard to perceptual 
+functioning [65]; and counterindication c) may be accom- 
+modated by an ELF hypothesis if advanced waves as well as 
+retarded waves are admitted [66], [67]. Experimentation to 
+determine whether the ELF hypothesis is viable can be carried 
+out by the use of ELF sources as targets, by the study of para- 
+metric dependence on propagational directions and diurnal 
+timing, and by the exploration of interference effects caused 
+by creation of a high-intensity ELF environment during ex- 
+perimentation, all of which are under consideration in our lab- 
+oratory and elsewhere. 
+
+Some physicists believe that the reconciliation of observed 
+paranormal functioning with modern theory may take place at 
+a more fundamental level—namely, at the level of the founda- 
+tions of quantum theory. There is a continuing dialog, for 
+example, on the proper interpretation of the effect of an ob- 
+server (consciousness) on experimental measurement [68], 
+and there is considerable current interest in the implications 
+for our notions of ordering in time and space brought on by 
+the observation [69], [70] of nonlocal correlation or ‘‘quan- 
+tum interconnectedness” (to use Bohm’s term [71]) of distant 
+parts of quantum systems of macroscopic dimensions. The 
+latter, Bell’s theorem [72], emphasizes that ‘‘no theory of 
+reality compatible with quantum theory can require spatially 
+separated events to be independent” [73], but must permit 
+interconnectedness of distant events in a manner that is con- 
+trary to, ordinary experience [74]-[75]. This prediction has 
+been experimentally tested and confirmed in the recent 
+experiments of, for example, Freedman and Clauser [69], 
+{70}. 
+
+E. H. Walker and O. Costa de Beauregard, independently 
+proposing theories of paranormal functioning based on quan- 
+tum concepts, argue that observer effects open the door to the 
+possibility of nontrivial coupling between consciousness and 
+the environment and that the nonlocality principle permits 
+such coupling to transcend spatial and temporal barriers [76], 
+{77]. 
+
+Apparent ‘“‘time reversibility”’—that is, effects (e.g., observa- 
+tions) apparently preceding causes (e.g., events)—though con- 
+ceptually difficult at first glance, may be the easiest of appar- 
+ent paranormal phenomena to assimilate within the current 
+theoretical structure of our world view. In addition to the 
+familiar retarded potential solutions f(t - r/c), it is well known 
+that the equations of, for example, the electromagnetic field 
+admit of advanced potential solutions f(¢ + r/c)—solutions that 
+would appear to imply a reversal of cause and effect. Such 
+solutions are conventionally discarded as not corresponding to 
+any observable physical event. One is cautioned, however, by 
+statements such as that of Stratton in his basic text on electro- 
+magnetic theory [78]. 
+
+
+CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+350 
+
+
+The reader has doubtless noted that the choice of the function 
+f(t -r/c) is highly arbitrary, since the field equation admits also 
+asolution f(t + r/c). This function leads obviously to an advanced 
+time, implying that the field can be observed before it has been 
+generated by the source. The familiar chain of cause and effect 
+is thus reversed and this alternative solution might be discarded 
+as logically inconceivable. However, the application of “logical” 
+causality principles offers very insecure footing in matters such 
+as these and we shall do better to restrict the theory to retarded 
+action solely on the grounds that this solution alone conforms to 
+the present physical data. 
+
+
+Such caution is justified by the example in the early 1920’s of 
+Dirac’s development of the mathematical description of the 
+telativistic electron that also yielded a pair of solutions, one of 
+which was discarded as inapplicable until the discovery of the 
+positron in 1932. 
+
+In an analysis by O. Costa de Beauregard, an argument is put 
+forward that advanced potentials constitute a convergence 
+toward “finality” in a manner symmetrical to the divergence 
+of retarded potentials as a result of causality [77]. Such 
+phenomena are generally unobservable, however, on the gross 
+macroscopic scale for statistical reasons. This is codified in 
+the thermodynamic concept that for an isolated system entropy 
+(disorder) on the average increases. It is just this requirement 
+of isolation, however, that has been weakened by the observer 
+problem in quantum theory, and O. Costa de Beauregard argues 
+that the finality principle is maximally operative in just those 
+situations where the intrusion of consciousness as an ordering 
+phenomenon results in a significant local reversal of entropy 
+increase. At this point, further discussion of the subtleties of 
+such considerations, though apropos, would take us far afield, 
+so we simply note that such advanced waves, if detected, could 
+in certain cases constitute a carrier of information precognitive 
+to the event. 
+
+The above arguments are not intended to indicate that the 
+precise nature of the information channel coupling remote 
+events and human perception is understood. Rather, we in- 
+tend to show only that modern theory is not without resources 
+that can be brought to bear on the problems at hand, and we 
+expect that these problems will, with further work, continue 
+to yield to analysis and specification. 
+
+Furthermore, independent of the mechanisms that may be 
+involved in remote sensing, observation of the phenomenon 
+implies the existence of an information channel in the 
+information-theoretic sense. Since such channels are amenable 
+to analysis on the basis of communication theory techniques, 
+as indicated earlier, channel characteristics such as bit rate can 
+be determined independent of a well-defined physical channel 
+model in the sense that thermodynamic concepts can be ap- 
+plied to the analysis of systems independent of underlying 
+mechanisms. Furthermore, as we have seen from the work of 
+Ryz! discussed in Section II, it is possible to use such a channel 
+for error-free transmission of information iffedundancy coding 
+is used. (See also Appendix A.) Therefore, experimentation 
+involving the collection of data under specified conditions per- 
+mits headway to be made despite the formidable work that 
+needs to bé done to clarify the underlying bases of the 
+phenomena. 
+
+
+VI. CONCLUSION 
+
+
+For the past three years we have had a program in the Elec- 
+tronics and Bioengineering Laboratory of SRI to investigate 
+those facets of human perception that appear to fall outside 
+the range of well-understood perceptual or processing capa- 
+
+
+bilities. The primary achievement of this program has been 
+the elicitation of high-quality “remote viewing’’—the ability 
+of both experienced subjects and inexperienced volunteers 
+to view, by means of innate mental processes, remote geo- 
+graphical or technical targets such as roads, buildings, and 
+laboratory apparatus. Our accumulated data from over fifty 
+experiments with more than a half-dozen subjects indicate 
+the following. a) The phenomenon is not a sensitive function 
+of distance over a range of several kilometers. b) Faraday cage 
+shielding does not appear to degrade the quality or accuracy of 
+perception. c) Most of the correct information that subjects 
+relate is of a nonanalytic nature pertaining to shape, form, 
+color, and material rather than to function or name. (This 
+aspect suggests a hypothesis that information transmission 
+under conditions of sensory shielding may be mediated pri- 
+marily by the brain’s right hemisphere.) d) The principal 
+
+
+difference between experienced subjects and inexperienced ’ 
+
+
+volunteers is not that the latter never exhibit the faculty, but 
+rather that their results are simply less reliable. (This observa- 
+tion suggests the hypothesis that remote viewing may be a 
+latent and widely distributed, though repressed, perceptual 
+ability.) 
+
+‘Although the precise nature of the information channel cou- 
+pling remote events and human perception is not yet under- 
+stood, certain concepts in information theory, quantum 
+theory, and neurophysiological research appear to bear directly 
+on the issue. As a result, the working assumption among re- 
+searchers in the field is that the phenomenon of interest is 
+consistent with modern scientific thought, and can therefore 
+be expected to yield to the scientific method. Further, it is 
+recognized that communication theory provides powerful 
+techniques, such as the use of redundancy coding to improve 
+signal-to-noise ratio, which can be employed to pursue special- 
+purpose application of the remote-sensing channel independent 
+of an understanding of the underlying mechanisms. We there- 
+fore consider it important to continue data collection and to 
+encourage others to do likewise; investigations such as those 
+reported here need replication and extension under as wide a 
+variety of rigorously controlled conditions as possible. 
+
+
+APPENDIX A 
+
+
+SIGNAL ENHANCEMENT IN A PARANORMAL 
+COMMUNICATION CHANNEL BY APPLICATION 
+OF REDUNDANCY CODING 
+
+
+Independent of the mechanisms that may be involved in 
+remote sensing, observation of the phenomenon implies the 
+existence of an information channel in the information- 
+theoretic sense. As we have seen from the work of Ryzl dis- 
+cussed in Section 11,6 it is even possible to use such a (noisy) 
+channel for error-free transmission of information if suf- 
+ficient redundancy coding is used [30], [31]. Following isa 
+general procedure that we have used successfully for signal 
+enhancement. 
+
+We shall assume that the “message” consists of a stream of 
+binary digits (0,1) of equal probability (e.g., binary sort of 
+green/white cards as in Ryzl’s case, English text encoded as in 
+Table X and sent long distance by strobe light on/off, and so 
+on). To combat channel noise, each binary digit to be sent 
+through the channel requires the addition of redundancy bits 
+(coding). Efficient coding requires a compromise between the 
+desire to maximize reliability and the desire to minimize re- 
+
+
+See also the note added in proof on the successful work done by 
+Carpenter. % 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+ae 
+
+
+ener ener eee eee eee eee eee 
+
+
+~ 
+
+
+: ; Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 351 
+TABLE X 
+5-Bit CoDE FoR ALPHANUMERIC 
+CHARACTERS 
+
+
+G 
+
+
+s OOMONIADAU PF WYNP BW TOK 
+
+
+E 
+T 
+N 
+R 
+I 
+fe) 
+A 
+s 
+D 
+H 
+L 
+Cc 
+F 
+2 
+U 
+M 
+
+
+Note: Alphabet characters listed 
+in order of decreasing frequency 
+in English text. See, for example, 
+A. Sinkov [79]. (The low-fre- 
+quency letters, X, Z, K, Q, and J, 
+have been grouped with similar 
+characters to provide space for 
+numerics in a 5-bit code.) In 
+consideration of the uneven dis- 
+tribution of letter frequencies in 
+English text, this code is chosen 
+such that 0 and 1 have equal 
+probability. 
+
+
+dundancy. One efficient coding scheme for such a channel is 
+obtained by application of a sequential sampling procedure of 
+the type used in production-line quality control {80]. The 
+adaptation of such a procedure to paranormal communication 
+channels, which we now discuss, was considered first by 
+Taetzsch [81]. The sequential method gives a rule of proce- 
+dure for making one of three possible decisions following the 
+receipt of each bit: accept 1 as the bit being transmitted; reject 
+1 as the bit being transmitted (i.e., accept 0); or continue 
+transmission of the bit under consideration. The sequential 
+sampling procedure differs from fixed-length coding in that 
+the number of bits required to reach a final decision on a 
+message bit is not fixed before transmission, but depends on 
+the results accumulated with each transmission. The principal 
+advantage of the sequential sampling procedure as compared 
+with the other methods is that, on the average, fewer bits per 
+final decision are required for an equivalent degree of 
+reliability. 
+
+Use of the sequential sampling procedure requires the speci- 
+fication of parameters that are determined on the basis of the 
+following considerations. Assume that a message bit (0 or 1) 
+is being transmitted. In the absence of a priori knowledge, we 
+may assume equal probability (p = 0.5) for the two possibili- 
+ties (0,1). Therefore, from the standpoint of the receiver, the 
+probability of correctly identifying the bit being transmitted is 
+p = 0.5 because of chance alone. An operative remote-sensing 
+channel could then be expected to alter the probability of 
+correct identification to a value p = 0.5 + w, where the param- 
+eter W satisfies O<|W|]<0.5. (The quantity may be positive 
+or negative depending on whether the paranormal channel 
+
+
+results in so-called psi-hitting or psi-missing.) Good psi func-. 
+
+
+tioning on a repetitive task has been observed to result in yy = 
+0.12, as reported by Ryzl [31]. Therefore, to indicate the 
+design procedure, let us assume a baseline psi parameter 
+Wp = 0.1 and design a communication system on this basis. 
+
+
+DECISION 1 
+Accept ‘1 as 
+the Bit Being 
+
+
+Transmitted ; 
+Continue 
+
+
+DECISION 2 
+Accept ‘0” as 
+the Bit Being 
+Transmitted 
+
+
+TARGET MESSAGE SEQUENCE 
+
+
+qe 
+
+
+0 10 20 30 40 50 60 70 80 
+NUMBER OF TRIALS 
+
+
+CUMULATIVE NUMBER OF MATCHES AGAINST 
+
+
+Fig. 18. Enhancement of signal-to-noise ratio by sequential sampling 
+procedure (p, = 0.4, p, = 0.6,a= 0.01, 8 = 0.01). 
+
+
+The question to be addressed is whether, after repeated 
+transmission, a given message bit is labeled a ‘“‘1”’ at a low rate 
+Po commensurate with the hypothesis Hp that the bit in ques- 
+tion is a “0,” or at a higher rate py commensurate with the 
+hypothesis H, that the bit in question is indeed a “1.’’ The 
+decision-making process requires the specification of four 
+parameters. 
+
+
+Po The probability of labeling incorrectly a ‘‘0’’ message bit 
+-as a “1.” The probability of labeling correctly a ‘‘0”’ as 
+a “0” isp =0.5 + Wy, = 0.6. Therefore, the probability 
+of labeling incorrectly a “0” asa “1” is 1- p=0.4=po. 
+
+P, The probability of labeling correctly a ‘‘1’’ message bit 
+as a “‘1,” is given by p, =0.5+ W, = 0.6. 
+
+a The probability of rejecting a correct identification for 
+a “0” (Type Terror). We shall take a= 0.01. 
+
+8 The probability of accepting an incorrect identification 
+for a “1” (Type II error). We shall take 8 = 0.01. 
+
+
+With the parameters thus specified, the sequential sampling 
+procedure provides for construction of a decision graph as 
+shown in Fig. 18. The equations for the upper and lower limit 
+lines are 
+
+
+2. =d,+SN 
+=-dyg + 
+2, dg + SN 
+where 
+1- l-a 
+log log 
+a B 
+dy = do= 
+Pi 1-Po P1 1- Po 
+log g 
+Po l-P1 Po 1- Pi 
+1- Po 
+6 = 
+pie Pi 
+P1 1- Do 
+log — 
+Po 1~ Pi 
+
+
+in which S is the slope, N is the number of trials, and d, and 
+do are the y-axis intercepts. A cumulative record of receiver- 
+generated responses to the target bit is compiled until either 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+352 
+
+
+1.0 
+
+
+0.8 
+
+
+0.6 
+
+
+0.4 
+
+
+0.2 
+
+
+RELIABILITY (probability of correctly 
+determining message being transmitted) 
+
+
+0 
++0.4 +0.2 0 -0.2 -0.4 
+Ww (psi parameter) 
+
+
+Fig. 19. Reliability curve for sequential sampling procedure (Pp, = 0.4, 
+P, =0.6,a= 0.01, 6 = 0.01). 
+
+
+the upper or the lower limit line is reached, at which point a 
+decision is made to accept 0 or 1 as the bit being transmitted. 
+
+Channel reliability (probability of correctly determining 
+message being transmitted) as a function of operative psi 
+parameter W is plotted in Fig. 19. As observed, the sequential 
+sampling procedure can result in 90 percent or greater reliability 
+with psi parameters on the order of a few percent. 
+
+Implementation of the sequential sampling procedure re- 
+quires the transmission of a message coded in binary digits. 
+Therefore, the target space must consist of dichotomous ele- 
+ments such as the white and green cards used in the experi- 
+ments by Ryzl. 
+
+In operation, a sequence corresponding to the target bit (0 
+or 1) is sent and the cumulative entries are made (Fig. 18) until 
+a decision is reached to accept either a 1 or a O as the bit being 
+transmitted. At a prearranged time, the next sequence is 
+begun and continues as above until the entire message has been 
+received. A useful alternative, which relieves the percipient of 
+the burden of being aware of his self-contradiction from trial 
+to trial, consists of cycling through the entire message repeti- 
+tively and entering each response on its associated graph until 
+a decision has been reached on all message bits. The authors 
+have used this technique successfully in a pilot study, but a 
+discussion of this would take us beyond the intended scope of 
+this paper. 
+
+From the results obtained in such experiments, the channel 
+bit rate can be ascertained for the system configuration under 
+consideration. Furthermore, bit rates for other degrees of 
+reliability (i.e., for other po, p;, &, and B) can be estimated by 
+construction of other decision curves over the same data base 
+and thus provide a measure of the bit rate per degree of 
+reliability. . 
+
+In summary, the procedures described here can provide for a 
+specification of the characteristics of a remote-sensing channel 
+under well-defined conditions. These procedures also provide 
+for a determination of the feasibility of such a channel for 
+particular applications. 
+
+
+APPENDIX B 
+
+
+REMOTE-VIEWING TRANSCRIPT 
+
+
+Following is the unedited transcript of the first experiment 
+with an SRI volunteer (S6), a mathematician in the computer 
+science laboratory, with no previous experience in remote 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+viewing. The target, determined by random procedure, was 
+White’s Plaza, a plaza with fountain at Stanford University 
+(shown in Fig. 8). As is our standard protocol, the experi- 
+menter with the subject is kept ignorant of the specific target 
+visited as well as the contents of the target pool. The experi- 
+menter’s statements and questions are italics. 
+
+
+Today is Monday, October 7th. It is 11:00 and this is a re- 
+mote viewing experiment with Russ Targ, Phyllis Cole, and Hal 
+Puthoff. In this experiment Hal will drive to a remote site 
+chosen by a random process. Phyllis Cole will be the remote 
+viewer, and Russ Targ is the monitor. We expect this experi- 
+ment to start at twenty minutes after eleven and run for fif- 
+teen minutes. 
+
+It is just about twenty minutes after eleven and Hal should 
+be at his target location by now. 
+
+Why don’t you tell me what kind of pictures you see and 
+what you think he might be doing or experiencing. 
+
+The first thing that came to mind was some sort of a large, 
+square kind of a shape. Like Hal was in front of it. It wasa 
+... not a building or something, it was a square. I don’t know 
+if it was a window, but something like that so that the bottom 
+line of it was not at the ground. About where his waist was, at 
+least. That’s what it seemed to me. It seems outdoors some- 
+how. Tree. 
+
+Does Hal seem to be looking at that square? 
+
+I don’t know. The first impression was that he wasn’t, but I 
+have a sense that whatever it was was something one might 
+look at. I don’t know if it would be a sign, but something that 
+one might look at. 
+
+Can you tell if it is on the ground or vertical? 
+
+It seemed vertical. 
+
+I don’t have a sense-that it was part of anything particular. 
+It might be on a building or part of a building, but I don’t 
+know. There was a tree outside, but I also got the impression 
+of cement. I don’t have the impression of very many people 
+or traffic either. I have the sense that he is sort of walking 
+back and forth. I don’t have any more explicit picture than 
+that. 
+
+Can you move into where he is standing and try to see what 
+he is looking at? 
+
+I picked up he was touching something—something rough. 
+Maybe warm and rough. Something possibly like cement. 
+
+It is twenty-four minutes after eleven. 
+
+Can you change your point of view and move above the 
+scene so you can get a bigger picture of what’s there? 
+
+I still see some trees and some sort of pavement or some- 
+thing like that. Might be a courtyard. The thing that came to 
+mind was it might be one of the plazas at Stanford campus or 
+something like that, cement. 
+
+Some kinds of landscaping. 
+
+I said Stanford campus when I started to see some things in 
+White Plaza, but I think that is misleading. 
+
+I have the sense that he’s not moving around too much. 
+That it’s in a small area. , 
+
+I guess I'll go ahead and say it, but I’m afraid I’m just putting 
+on my impressions from Stanford campus. I had the impres- 
+
+
+- sion of a fountain. There are two in the plaza, and it seemed 
+
+
+that Hal was possibly near the, what they call Mem Claw. 
+
+What is that? 
+
+It’s a fountain that looks rather like a claw. It’s a black 
+sculpture. And it has benches around it made of cement. 
+
+Are there any buildings at the place you are looking at? Are 
+there any buildings? You described a kind of a courtyard. 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+eh 
+
+
+ay 
+
+
+; 
+| 
+
+
+on ge ew, ee 
+
+
+an: teens 
+
+
+Pe ee ee Le ae a Se ee a gh ee do RENO Ae PRS GER TORS ge ee ee Fg 
+
+
+Nn FE nN i nts] 
+
+
+: * Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+PUTHOFF AND TARG: PERCEPTUAL CHANNEL FOR INFORMATION TRANSFER 353 
+
+
+Usually at some places there should be a building, large or 
+small that the courtyard is about. Look at the end or the sides 
+of the courtyard. Is there anything to be seen? 
+
+I have a sense that there are buildings. It’s not solid build- 
+ings. I mean there are some around the periphery and I have a 
+sense that none of them are very tall. Maybe mostly one story, 
+maybe an occasional two story one. 
+
+Do you have any better idea of what your square was that 
+you saw at the outset? 
+
+No. I could hazard different kinds of guesses. 
+
+Does it seem part of this scene? 
+
+It... I think it could be. It could almost be a bulletin board 
+or something with notices on it maybe. 
+
+Or something that people are expected to look at. Maybe a 
+window with things in it that people were expected to look at. 
+
+What kind of trees do you see in this place? 
+
+I don’t know what kind they are. The impression was that 
+they were shade trees and not terribly big. Maybe 12 feet of 
+trunk and then a certain amount of branches above that. So 
+that the branches have maybe a 12 foot diameter, or some- 
+thing. Not real big trees. 
+
+New trees rather than old trees? 
+
+Yeah, maybe 5 or 10 years old, but not real old ones. 
+
+Is there anything interesting about the pavement? 
+
+No. It seems to be not terribly new or terribly old. Not 
+very interesting. There seems to be some bits of landscaping 
+around. Little patches of grass around the edges and periph- 
+eries. Maybe some flowers. But, not lush. 
+
+You saw some benches. Do you want to tell me about them? 
+
+Well, that’s my unsure feeling about this fountain. There 
+was some kind of benches of cement. Curved benches, it felt 
+like. 
+
+They were of rough cement. 
+
+What do you think Hal is doing while he is there? 
+
+I have a sense that he is looking at things trying to project 
+them. Looking at different things and sort of walking back 
+and forth not covering a whole lot of territory. mS 
+
+Sometimes standing still while he looks around. 
+
+I just had the impression of him talking, and I almost sense 
+that it was being recorded or something. I don’t know if he 
+has a tape recorder, but if it’s not that, then he is. saying some- 
+thing because it needed to be remembered. It’s 11:33. He’s 
+just probably getting ready to come back. 
+
+
+ACKNOWLEDGMENT 
+
+
+The authors wish to thank the principal subjects, Mrs. Hella 
+Hammid, Pat Price, and Ingo Swann, who showed patience and 
+forbearance in addition to their enthusiasm and outstanding 
+perceptual abilities. We note with sadness the death of one of 
+our subjects, Mr. Price. We express our sincere thanks also to 
+Earle Jones, Bonnar Cox, and Dr. Arthur Hastings, of SRI, and 
+Mrs. Judith Skutch and Richard Bach, without whose en- 
+couragement and support this work could not have taken 
+place. 
+
+
+REFERENCES 
+
+
+[1] J. R. Smythies, Ed., Science and ESP. London, England: Rout- 
+ledge, 1967. 
+
+[2] C. Evans, ‘“Parapsychology—What the questionnaire revealed,” 
+New Scientist, Jan. 25, 1973, p. 209. 
+
+{3] A. Gauld, The Founders of Psychical Research. New York: 
+Schocken Books, 1968. See also W. Crookes, Researches in the 
+Phenomena of Spiritualism. London, England: J. Burns, 1874. 
+
+[4] R. Targ and H. Puthoff, “Information transmission under condi- 
+tions of sensory shielding,” Nature, vol. 252, pp. 602-607, Oct. 
+
+
+{5] 
+[6] 
+[7] 
+[8] 
+{9] 
+[10] 
+(11] 
+[12] 
+[13] 
+[14] 
+[is] 
+
+
+[16} 
+
+
+[17] 
+
+
+[18] 
+
+
+[19] 
+[20] 
+[21] 
+[22] 
+[23] 
+[24] 
+[25] 
+[26] 
+[27} 
+
+
+[28] 
+{29] 
+
+
+[30] 
+{31} 
+[32] 
+[33] 
+[34] 
+[35] 
+[36] 
+[37] 
+[38] 
+[39] 
+[40] 
+[41] 
+
+
+[42] 
+
+
+* [43] 
+
+
+[44] 
+[45] 
+
+
+18, 1974. - 
+
+D. D. Home, Lights and Shadows of Spiritualism. New York: 
+G. W. Carleton, 1877. 
+
+J. Coover, Experiments in Psychical Research. Palo Alto, CA: 
+Stanford Univ. Press, 1917. 
+
+G. Estabrooks, Bull. Boston Society for Psychical Research, 1927. 
+See also [12, pp. 18-19]. 
+
+L. T. Troland, Techniques for the Experimental Study of Telep- 
+athy and Other Alleged Clairvoyant Processes. Albany, NY, 1928. 
+J. B. Rhine, New Frontiers of the Mind. New York: Farrar and 
+Rinehart, 1937. 
+
+J. Pratt and J. B. Rhine et al., Extra-Sensory Perception after 
+Sixty Years. New York: Henry Holt, 1940. 
+
+C. Scott, “G. Spencer Brown and probability: A critique,” 
+J. Soc. Psychical Res., vol. 39, pp. 217-234, 1958. 
+
+G. R. Price, “Science and the supernatural,” Science, vol. 122, 
+pp. 359-367, 1955. 
+
+——, ‘Apology to Rhine and Soal,” Science, vol. 175, p. 359, 
+1972. 
+
+J. B. Rhine, “A new case of experimenter unreliability,” J. 
+Parapsychol., vol. 38, pp. 215-225, June 1974, 
+
+S. G. Soal and F. Bateman, Modern Experiments in Telepathy. 
+London, England: Faber and Faber, 1953. 
+
+C. Scott and P. Haskell, ‘‘‘Normal’ explanation of the Soal- 
+Goldney experiments in extra-sensory perception,” Nature, vol. 
+245, pp. 52-54, Sept. 7, 1973. 
+
+C. E. M. Hansel, ESP—A Scientific Evaluation. New York: 
+Scribner, 1966. : 
+
+J. B. Rhine and J. G. Pratt, “A review of the Pearce-Pratt dis- 
+tance series of ESP tests,” J. Parapsychol., vol. 18, pp. 165-177, 
+1954, 
+
+J. G. Pratt and J. L. Woodruff, “Size of stimulus symbols in extra- 
+sensory perception,” J. Parapsychol., vol. 3, pp. 121-158, 1939. 
+S. G. Soal and H. T. Bowden, The Mind Readers: Recent Experi- 
+ments in Telepathy. New Haven, CT: Yale Univ. Press, 1954. 
+
+C. Honorton, “Error some place!” J. Commun., vol. 25, no. 1 
+(Annenberg School of Commun.), Winter 1975. 
+
+M. Ryzl, “Training the psi faculty by hypnosis,” J. Amer. Soc. 
+Psychical Res., vol. 41, pp. 234-251, 1962. 
+
+CIBA Foundation Symposium on Extra Sensory Perception. 
+Boston, MA: Little, Brown, 1956. 
+
+M. Ryzi and J. Pratt, “A repeated-calling ESP test with sealed 
+cards,” J. Parapsychol., vol. 27, pp. 161-174, 1963. 
+
+—~, “A further confirmation of stabilized ESP performance in a 
+selected subject,” J. Parapsychol., vol. 27, pp. 73-83, 1963. 
+
+J. Pratt, “Preliminary experiments with a ‘borrowed’ ESP sub- 
+ject,” J. Amer, Soc. Psychical Res., vol. 42, pp. 333-345, 1964. 
+J. Pratt and J. Blom, “A confirmatory experiment with ‘bor- 
+rowed” outstanding ESP subject,” J. Amer. Soc. Psychical Res., 
+vol. 42, pp. 381-388, 1964, 
+
+W. G. Roll and J. G. Pratt, “An ESP test with aluminum targets,” 
+J, Amer. Soc, Psychical Res., vol. 62, pp. 381-387, 1968. 
+
+J. Pratt, ‘‘A decade of research with a selected ESP subject: An 
+overview and reappraisal of the work with Pavel Stepanek,” 
+Proc, Amer. Soc. Psychical Res., vol. 30, 1973. 
+
+C. Shannon and W. Weaver, The Mathematical Theory of Com- 
+munication. Urbana, IL: Univ. Hlinois Press, 1949. 
+
+M. Ryzl, “A model for parapsychological communication,” 
+J. Parapsychol., vol. 30, pp. 18-31, Mar. 1966. 
+
+C. Tart, “Card guessing tests: Learning paradigm or extinction 
+paradigm,” J. Amer. Soc. Psychical Res., vol. 60, p. 46, 1966. 
+
+M. Ullman and S. Krippner, with A. Vaughan, Dream Telepathy. 
+New York: Macmillan, 1973. 
+
+C. Honorton, ‘‘State of awareness factors in psi activation,” J. 
+Amer. Soc. Psychical Res., vol. 68, pp. 246-257, 1974. 
+
+Proc. 2nd Int. Congr. Psychotronic Research (Monte Carlo). 
+Cotati, CA: Int. Assoc. Psychotronic Res., 1975. 
+
+L. L. Vasiliev, Experiments in Mental Suggestion. Hampshire, 
+England: ISMI Publ., 1963. 
+
+I. M. Kogan, “Is telepathy possible?” Radio Eng., vol. 21, p. 75, 
+Jan. 1966. 
+
+—, “Telepathy, hypotheses and observations,’ Radio Eng., vol. 
+22, p. 141, Jan. 1967. 
+
+~—, “Information theory analysis of telepathic communication 
+experiments,”’ Radio Eng., vol. 23, p. 122, Mar. 1968. 
+
+—,, “The information theory aspect of telepathy,” RAND Publ., 
+Santa Monica, CA, p. 4145, July 1969. 
+
+A. S. Presman, Electromagnetic Fields and Life. New York: 
+Plenum, 1970. 
+
+Y. A. Kholodov, Ed., Influence of Magnetic Fields on Biological 
+Objects, IPRS 63038, NTIS, Springfield, VA, Sept. 24, 1974. 
+
+Y. A. Kholodov, “Investigation of the direct effect of magnetic 
+fields on the central nervous system,” in Proc. 1st Conf. Psycho- 
+tronic Res., JPRS L/5022-1 and 2, Sept. 6, 1974. 
+
+D. Mennie, ‘Consumer electronics,” IEEE Spectrum, vol. 12, 
+pp. 34-35, Mar. 1975. 
+
+W. P. Zinchenko, A. N. Leontiev, B. M. Lomov, and A. R. Luria, 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+354 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+
+“Parapsychology: Fiction or reality?’? Questions of Philosophy, 
+vol. 9, pp. 128-136, 1973. 
+
+R. Cavanna, Ed., Proc. Int. Conf. Methodology in PSI Research. 
+New York: Parapsychology Foundation, 1970. 
+
+E. D. Dean, ‘“‘Plethysmograph recordings as ESP responses,” Int. 
+J. Neuropsychiatry, vol. 2, Sept. 1966. 
+
+C. Tart, “Physiological correlates of psi cognition,” Int. J. Para- 
+psychol., no. 4, 1963. 
+
+D. H. Lloyd, “Objective events in the brain correlating with 
+psychic phenomena,” New Horizons, vol. 1, no. 2, Summer 1973. 
+J. Silverman and M. S. Buchsbaum, “Perceptual correlates of con- 
+sciousness; A conceptual model and its technical implications for 
+psi research,” in Psi Favorable States of Consciousness, R. Ca- 
+vanna, Ed. New York: Parapsychology Foundation, pp. 143- 
+169, 1970. 
+
+J. Kamiya, “Comment to Silverman and Buchsbaum,” ibid., pp. 
+158-159. 
+
+D. Hill. and G. Parr, Electroencephalography. A Symposium on 
+Its Various Aspects. New York: Macmillan, 1963. 
+
+T. D. Duane and T. Behrendt, “Extrasensory electroencephalo- 
+graphic induction between identical twins,” Science, vol. 150, 
+Pp. 367, 1965. 
+
+K. Osis, ASPR Newsletter, no. 14, 1972. 
+
+R. L. Morris, “An exact method for evaluating preferentially 
+matched free-response material,” J. Amer. Soc. Psychical Res., 
+vol. 66, p. 401, Oct. 1972, 
+
+G. R. Schmeidler, “PK effects upon continuously recorded tem- 
+peratures,” J. Amer. Soc. Psychical Res., vol. 67, no. 4, Oct. 
+1973. 
+
+W. Scherer, “Spontaneity as a factor in ESP,” J. Amer. Soc. 
+Psychical Res., vol. 12, pp. 126-147, 1948. 
+
+R. Targ, P. Cole, and H. Puthoff, ‘Techniques to enhance man/ 
+machine communication,” SRI, Menlo Park, CA, Final Rep., 
+NASA Contract NAS7-100, June 1974. 
+
+R. Ornstein, The Nature of Human Consciousness. 
+cisco, CA: Freeman, 1973, ch. 7 and 8. 
+
+R. W. Sperry, “Cerebral organization and behavior,’’ Science, 
+vol. 133, pp. 1749-1757, 1961. 
+
+oO. Bilaniuk and E. C. G. Sudarshan, ‘Particles beyond the light 
+barrier,” Phys. Today, vol. 22, May 5, 1969. 
+
+W. Pauli and C. G. Jung, Eds., The Interpretation of Nature and 
+the: Psyche (Bollingen Ser. LI). Princeton, NJ: Princeton Univ. 
+Press, 1955. 
+
+M. A. Persinger, ‘‘ELF waves and ESP,’’ New Horizons Trans. 
+Toronto Society for Psychical Research, vol. 1, no. 5, Jan. 1975. 
+
+
+San Fran- 
+
+
+[64] 
+
+
+* [65] 
+
+
+[66] 
+[67] 
+
+
+[68] 
+[69] 
+
+
+[70] 
+
+
+[71] 
+
+
+[72} 
+{73} 
+
+
+[74] 
+
+
+[75] 
+
+
+[76] 
+
+
+[77] 
+
+
+{78] 
+[79] 
+[80] 
+[81] 
+
+
+PROCEEDINGS OF THE IEEE, MARCH 1976 
+
+
+—, “The paranorma!l—P. II: Mechanisms and models,” M.S.S. 
+Information Corp., New York, 1974. 
+
+B. Julesz, Foundations of Cyclopean Perception. 
+Univ. Chicago Press, 1971. 
+
+H. Puthoff and R. Targ, in Psychic Exploration—A Challenge for 
+Science, J. White, Ed. New York: Putnam, 1974, pp. 522-542. 
+G. Feinberg, ‘‘Precognition—A memory of things future?” in 
+Proc. Conf. Quantum Physics and Parapsychology (Geneva, 
+Switzerland). New York: Parapsychology Foundation, 1975. 
+
+E. P. Wigner, “The problem, of measurement,” Amer. J. Phys., 
+vol. 31, no. 1, p. 6, 1963. 
+
+J. J. Freedman and J. F. Clauser, “Experimental test of local 
+hidden variable theories,” Phys. Rev. Lett., vol. 28, no. 14, p. 
+938, Apr. 3, 1972. 
+
+J. F. Clauser and M. A. Horne, “Experimental consequences of 
+objective local theories,’’ Phys. Rev. D, vol. 10, no. 2, p. 526, 
+July 15, 1974. 
+
+D. Bohm and B. Hiley, ‘‘On the intuitive understanding of non- 
+locality as implied by quantum theory” (Birkbeck College, 
+London, Erigland), Feb. 1974, Preprint. 
+
+J. S. Bell, “On the problem of hidden variables in quantum 
+theory,” Rev. Mod. Phys., vol. 38, no. 3, p. 447, July 1966. 
+
+H. Stapp, ‘“‘Theory of reality,’’ Lawrence-Berkeley Lab. Rep. 
+LBL-3837, Univ. California, Berkeley, Apr. 1975. 
+
+A. Einstein, B. Podolsky, and N. Rosen, ‘‘Can quantum-mechani- 
+cal description of physical reality be considered complete?” Phys. 
+Rev., vol. 47, p. 777, May 15, 1935. 
+
+R. H. Dicke and J. P. Wittke, Introduction to Quantum Mechan- 
+ics. Reading, MA: Addison-Wesley, 1960, ch. 7. 
+
+E. H. Walker, “Foundations of paraphysical and parapsychologi- 
+cal phenomena,” in Proc. Conf. Quantum Physics and Para- 
+psychology (Geneva, Switzerland). New York: Parapsychology 
+Foundation, 1975. 
+
+O. Costa de Beauregard, “Time symmetry and interpretation of 
+quantum mechanics,’’ Lecture delivered at Boston Colloquim for 
+Philosophy of Science (Feb. 1974), Foundations of Physics (in 
+press). 
+
+J. A. Stratton, Electromagnetic Theory. New York: McGraw- 
+Hill, 1941. os 
+
+A. Sinkov, Elementary Cryptanalysis—A Mathematical Approach. 
+New York: Random House, 1968. 
+
+P. Hoel, Introduction to Mathematical Statistics, 2nd ed. New 
+York: Wiley, 1954, p.27. — 
+
+R. Taetzsch, “Design of a psi communications system,” Int. J. 
+Parapsychol., vol. 4, no. 1, p. 35, Winter 1962. 
+
+
+Chicago, IL: 
+
+
+Approved For Release 2007/04/02 : CIA-RDP81B00401R002600010013-2 
+
+

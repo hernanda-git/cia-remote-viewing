@@ -1,0 +1,242 @@
+Approved for Release: 2021/03/22 C06775919 
+FOR-OFFICIAL USE ONLY 
+
+
+NOTE FOR: 
+FROM: 
+DATE 01/12/97 05:03:00 PM 
+SUBJECT: +At0t67 RDP Weekly Report, 6-10 January 1997 
+(U) The Automatic Declassification Date is 17 April 2000 
+(U) Activities and Accomplishments 
+(U) Image Workflow Automation System (IWAS) Prototype Status 
+
+
+AW} Personnel 
+
+
+Anew me IWAS development team has joined the RDP program. 
+Jan 1997. will be working on IWAS development. 
+
+
+—AIWO)}— Summary 
+
+
+started work on 6 
+
+
+The Development Team has begun to align themselves to perform the dual roles of technology implementors and a support 
+resource. This will be an evolving process over the next three months as components of the factory are implemented. The 
+Information Management Unit (IMU) and Records Conversion components are well underway. Creation of a Pilot IWAS 
+application is underway, with a software design having been completed and several of the underlying service components ready 
+
+
+for testing. The next three to four weeks will see refinement of the Prototype's elements into a more highly integrated application, 
+
+
+capable of the desired performance goals. Design and development of the first help component, the Declassification Guide, has 
+
+
+processing of STARGATE boxes. Two workstations were set up in each of the Transition CDF areas. 
+
+
+begun. 
+
+—ftAtdO} CDF Operations 
+Form 14s being placed on all STARGATE boxes and procedures have been tightened up control on the way boxes are being 
+issued to the STARGATE indexers. held the first weekly production meeting. Actions were identified to initiate 
+
+
+installed the STARGATE database on each of the workstations requiring it (in lieu of placing it on the server, which we have not 
+
+
+tested yet). One box (the only one which has been quality control (QC) checked for its index records) has been processed through 
+
+
+scanning and scanning quality control. As we do QC on additional STARGATE boxes, we will begin to process boxes from the 
+AARC in accordance with established pull lists. An order has been placed for desktop supplies for the Records Conversion 
+
+
+business process. 
+
+
+FOR-OCFRICHLHSEONEY 
+
+
+Approved for Release: 2021/03/22 C06775919 
+
+
+(b)(3) 
+(b)(3) 
+
+
+(b)(3) 
+(b)(3) 
+
+
+Approved for Release: 2021/03/22 C06775919 
+FOR OF FICtAL YSE-ONLY 
+
+
+Production Staff 
+As of 10 January 1997, only 1,192 days until "D" day! 
+
+
+Team and Unit Chiefs met this week to discuss manual redaction procedures. After a month's of experience using different 
+colored pencils for document mark-up, we decided that this method has resulted in final redaction markings that could be 
+confusing to whomever has to prepare these documents for final release. We all agreed that we should use a black lead pencil to 
+bracket sections or words of a document to be redacted. A new notice outlining the new procedures will be prepared for approval. 
+
+
+Team and Unit Chiefs also met with SPU to discuss final disposition of some pages of classified documents in the FBIS (b)(3) 
+collection. The meeting resulted i ific procedures for final document preparation and mark-up before releasing these 
+documents along with the othe unclassified FBIS documents to NARA. (b)(3) 
+
+
+Production Metrics through 3 January 1997: 
+
+
+Review fully completed by Directorate Teams 
+
+
+DA pages (b)(3) 
+DCI 
+DI 
+DO 
+DST 
+
+
+Total pages 
+
+
+External Referral Unit (ERU) 
+
+ERU welcomes the assignment of and 
+matters, and will work documents on tne Side. 
+ERU has spent the past week indoctrinating new people and is embarked on an endeavor to tighten our processes in anticipation 
+
+
+of an avalanche of documents that will be referred as a result of greater RDP productivity. Our current automation is being honed 
+to ensure that statistical reporting to Production Staff includes accurate information. 
+
+
+wil be helping with the RAC program and ERU policy (b)(3) 
+(b)(3) 
+
+
+Exception Handling Unit (EHU) 
+
+
+Thanks to the efforts of |and LAN administrator, | |we now have a Lotus Notes Bulletin Board for (b)(3) 
+posting Guidance regarding redaction procedures and policies. This Bulletin Board represents official RDP guidance on how to 
+implement the Executive Order in those cases where the Guide is not clear or where specific guidance is lacking. 
+
+
+FOR OFFICIAL USE ONLY 
+
+
+Approved for Release: 2021/03/22 C06775919 
+
+
+(b)(3) 
+(6)(3) 
+
+
+Approved for Release: 2021/03/22 C06775919 
+—FOR-OFFICHLUSE-ONEY 
+
+
+Several bulletins were distributed electronically to RDP redactors, including one on "Privacy" which was based on a recent 
+briefing by OGC. 
+
+
+Special Processing Unit (SPU) 
+
+
+For the first half of this week and surveyed DS&T jobs at the AARC, in data for creating 
+box pull lists. On Thursday and Friday, began his vacation and began helping prepare th ages of FBIS 
+material for release to NARA. worked on this FBIS material throughout the week including holding a meeting with key RDP 
+personnel to nail down document marking and handling procedures. helped IMU in the reproduction of 
+documents throughout the week. 
+
+
+Information Management Unit (IMU) 
+
+
+C/IMU arranged a meeting between some RDP staff and CSI/HRG to discuss several issues of common concern. Some records 
+recently recalled by RDP had previously been reviewed by HRG. The box records, while reflecting an HRG review, did not 
+indicate which documents had been reviewed. HRG will make their index available to RDP. Several other issues of common 
+concern were discussed and all agreed to meet on a regular basis to keep each other aware of our respective declassification 
+initiatives and to ensure we avoid overlap and duplication in our reviews. 
+
+
+DS&T Team 
+The first box of STARGATE documents has been scanned and two terminals have been set up in the "factory" for checking the 
+
+
+indexed materials. | and are going to check and correct the indexed records. Because of the speed of 
+the scanning system, it is unlikely that the indexers and checkers will be able to keep up with the scanning operations. 
+
+
+returned to work this week from his recent hip surgery. Welcome back, 
+
+
+DI/DCI Team 
+
+
+With the return of DI/DCI Team members from holiday leave, the Team resumed their usual high rate of productivity. The backlog 
+of documents awaiting Level III certification has been eliminated. Level | and II review of a fresh batch of DI documents provided 
+by IMU, meanwhile, continued apace. Much of this material will probably be of significant historical interest since it entails Agency 
+assessments of Soviet military and economic capabilities at a time when US technical collection systems were just beginning to 
+unravel the Soviet enigma. Additionally, in its spare time, the DI/DCI Team continued to assist the DA Team, performing Level | 
+review on some | document ages. 
+
+
+(U) Upcoming Week 
+
+
+AHO} 
+
+
+The Community Historical Review Advisory 
+Council (CHRAC) under CSI, 
+
+
+—FOROCFRICHALHSEONET 
+
+
+Approved for Release: 2021/03/22 C06775919 
+
+
+MLANIAN 
+
+
+(evs) 
+(b)(3) 
+
+
+(b)(3) 
+
+
+Approved for Release: 2021/03/22 C06775919 
+—FOR-OFRICHLHSEONEE 
+
+
+will receive an IWAS demo. 
+
+
+Chief, Records Declassification Program 
+MSG/OIT 
+
+
+Note: Portion Markings pertain to all portions below the marking until a new portion marking is encountered. 
+
+
+CC: 
+
+
+FOR OFFICTAEUSEONEEY 
+
+
+Approved for Release: 2021/03/22 C06775919 
+
+

@@ -1,0 +1,1499 @@
+Proposal for Research: 
+
+
+SRI No. ISU 74-266 
+
+
+TECHNICAL SERVLCES 
+
+
+Part One-~Technical Proposal 
+
+
+Approved: 
+
+
+i 
+
+
+_/—-3 \ 
+
+
+ics 
+
+
+Racle D. Jones, Mirecto 
+
+
+> 
+Electronics anf’ Bloons ieee ins L 
+
+
+il ¥, O Mater ae 
+
+
+SCs Ger — 
+
+
+<SaeennEEEEn 
+
+
+20 December 1974 
+
+
+Prepared by: 
+
+
+Harold E. Puthoff 
+Senior Research Engineer 
+
+
+Russell Targ 
+Senior Research Physicist 
+
+
+boratory 
+
+
+Bonnar Cox, ecutive Director 
+
+
+Information Seience and Engineering Division 
+
+
+Copy Na. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Proposal for Research 
+SRI No. ISH 74~266 
+
+
+TECHNICAL SERVICES 
+
+
+I OBJECTIVE 
+
+
+The purpose of the program is to determine the characteristics of para- 
+normal functioning by which individuals obtain or. infer information about 
+their environment, wherein such information is not available by any known 
+channel. , 
+
+
+The program is divided into two categories; basic research and applied 
+research. The purpose of the basic research effort is to identify the 
+physiological and psychological characteristics of individuals possessing 
+paranormal abilities, and to identify neurophysiological correlates and 
+basic mechanisms involved in such functioning. The purpose of the applied 
+research effort is to explore experimentally the potential for applications 
+of paranormal abilities, with special attention given to accuracy and 
+
+
+reliability. 
+II PROPOSED PROGRAM 
+A. Objective. - 
+
+
+Stanford Research Institute proposes to undertake a one-month research 
+program to investigate the abilities and characteristics of a gifted 
+individual whose services will be made available by the client. The 
+program is to consist of a basic research effort and an applied research 
+effort. The basic research effort will be directed toward the identifica- 
+tion of measurable characteristics possesséd by the designated individual 
+and will include a thorough medical, psychological, and neuropsychological 
+evaluation carried out jointly by the Stanford Hospital and Palo Alto 
+Medical Clinic. The data will be compared with that obtained under 
+identical protocol with six other subjects whose paranormal functioning 
+
+is being investigated under a parallel effort. 
+
+
+The applied research effort will consist of replication with this individual 
+of a series of screening tests in paranormal functioning carried out with 
+previous. subjects. The tests proposed are (a) remote viewing of natural 
+targets, i.e., attempts at description of geographical sites and pieces 
+
+of equipment at Locations physically remote from the subject and connected 
+by no known information channel, (b) reproduction of simple line drawings 
+hidden from the subject but viewed by an experimenter, a variant including 
+reproduction of drawings executed with special materials of low density, 
+
+and (c) determination of the state of a four-state electronic random 
+stimulus generator (electronic lock analog). 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+03-3 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R0007001000 
+
+
+B. Technical Approach 
+: me Approach 
+l. "Basic Research 
+(a) Medical’ Evaluation 
+Ws EVasuation 
+
+
+The medical evaluation of the designated individual of interest has 
+been assigned to the Palo Alto Medical Clinic. Coordination of the program 
+is being handled by Robert Armbruster, M.D., Director of the Clinic's 
+Department of Environmental Medicine. . 
+
+
+The testing procedures fall into six categories: 
+
+
+(1) General physical examination, including complete medical and 
+
+family history; 
+
+(2) Laboratory examinations, including SMA-12 Panel blood chemistries, 
+Protein electrophoresis, blood lipid profile, urinalysis, serology, 
+blood type and factor, pulmonary function Screening, and 12-lead 
+electrocardiogram; ; 
+
+(3) Neurological examination, including comprehensive and electro- 
+encephalogram (sleeping and routine); 
+
+
+(4) Audiometric examination, including comprehensive, Bekesy bone 
+conduction, speech discrimination, and impedance bridge test; 
+
+
+(5) Ophthalmologist examination, including comprehensive, card 
+testing, peripheral field test, muscle test, dilation funduscope, 
+and indirect ophthalmoscopic and fundus examination; 
+
+
+(6) EMI brain scan. 
+
+
+(b) Psychological Evaluation 
+
+
+The psychological evaluation of the gifted individual of interest 
+has also been assigned to the Palo Alto Medical Clinic. Coordination of 
+the program is being handled by Dr. J.E. Heenan, Chief Clinical Psychologist 
+of the Department of Psychiatry. , 
+
+
+The evaluation consists of: 
+
+
+(1) In-depth interviews, including objective events and subjective 
+views relating to the discovery and enhancement of paranormal 
+‘capacities; Socioeconomic, cultural, familial, religious environ-— 
+ment 5 outstanding peaks, traumas; values, motivation, inter- 
+bersonal style: 
+
+
+(2) Wechsler Adult Intelligence Scale (W.A.T.S.); 
+(3) Minnesota Multiphaste Personality Inventory (M.M.P.T.); 
+
+
+(4) Benton Visual Memory Test and Wechsler Memory Scale; 
+
+
+2 
+
+
+| 03-3 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R0007001000 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+(5) Thematic Apperception Test (T.A.T.) and Rorschach projective 
+tests; , 
+
+
+(6) Bender Gestalt Visual Motor Test; 
+(7) Luscher color test; 
+(8) Strong Vocational Interest Blank; 
+
+
+(9) Edwards Personality Preference Scale (E.P.P.S.). 
+
+
+(c) Neuropsychological Evaluation - 
+
+
+In addition to the measurement of the physiological components of 
+the neurological system covered in the medical evaluation, a neuropsycho- 
+logical profile is to be obtained by the administration of the Halstead- 
+Reitan Neuropsychology Test Battery. This phase of the program is being 
+handled by Dr. Ralph Kiernan of the Department of Neurology, Stanford 
+Hospital. 
+
+
+The test battery consists of: 
+
+
+(1) Halstead Category Test3 
+
+(2) Tactile Performance Test; 
+
+(3) Speech Perception Test; 
+
+(4) Seashore Rhythm Test; 
+
+(5) Trail Making Test; 
+
+(6) Knox Cube Test; 
+
+(7) Halstead-Wepman Aphasia Screening Test; 
+(8) Raven Progressive Matrices; 
+
+(9) Verbal Concept Attainment Test; 
+
+(10) Buschke Memory Test; 
+
+(11) Finger-Tapping Test; 
+
+(12) Dynamometer Grip Strength; 
+
+(13) Groove Pegboard Test. 
+
+The results of the medical, psychological, and neuropsychological 
+
+
+evaluations shall be compared and contrasted with those of six other 
+subjects whose paranormal functioning is being examined. 
+
+
+2. Applied Research 
+One of the key issues in a program of this nature is the establishment 
+
+
+of criteria capable of differentiating individuals who are apparent lv 
+gifted in paranormal functioning from those who are not. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Three experimental paradigms were chosen to act as screening tests on the 
+basis that these tests had been useful for such purposes prior to this 
+program (in the sense that certain apparently gifted individuals did 
+exccedingly well on at least one of the tests, whereas the results of 
+
+
+unselected volunteers did not differ significant.» from chance expectation). 
+The tests are (a) remote viewing of natural targe:- (b) reproduction of 
+simple line drawings hidden from the subject but +..wed by an experimenter, 
+
+
+and (c) determination of the state of a four-state aleetioute random 
+‘stimulus generator. The tests are also considered to be useful analogs 
+of certain operational situations. 
+
+
+The first test constitutes a so-called "free-response" paradigm in which 
+
+the subject originates freely about contents of his awareness; furthermore, 
+the channel in general may involve both direct perception of the remote 
+
+site and perception of the mental contents of an observer at the site. 
+
+The second test is more constrained than the first in that the target 
+‘information is more analytical or abstract, being associated with a graphical 
+representation of an item of interest rather than the item itself. The 
+third test is the most constrained in that the target is blind to all 
+participants in the experiment and the subject's choice is precisely 
+constrained. The details of these tests are given below. 
+
+
+For -the purpose of Seveenihe: the criteria as to what constitutes a 
+paranormal result was chosen arbitrarily, viz: ; 
+
+
+For the purpose of screening, a result is to be 
+considered unequivocally paranormal if the a priori 
+probability for the occurrence of the result by 
+chance, under the null hypothesis, is < 1076, 
+
+
+Although the above requirement is exceedingly strict by usual psycho- 
+physiological standards, it is chosen here because (a) the controversial 
+mature of the subject requires strict handling, and (b) in our work and 
+elsewhere, a bimodal distribution has been observed empirically in which 
+a subset of individuals participating in paranormal research produce 
+results at a level of statistical significance p < 107 6 in comparison 
+with the bulk of individuals who cluster about the mean as expected. 
+Therefore, we base our criteria on an observable natural Garet on into 
+eieauly Eunertonal and nonfunctional categories. 
+
+
+(a) Remote Viewing of Natural Targets 
+
+
+The first screening test is based on previous SRI research results 
+which indicate that it is possible for a subject to describe randomly 
+chosen geographical sites located several miles from the subject's 
+position and demarcated by some appropriate means. A variant of this 
+experiment involves using a technological piece of equipment within SRI 
+Asa tareet. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+“Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+This experiment consists of a series of double-blind tests involving 
+local targets in the San Francisco Bay aréa which can be documented by 
+independent judging. Target locations within 30 minutes driving time 
+from SRI are randomly chosen from a list of targets kept blind to subject 
+and experimenters and used without replacement. 
+
+
+To begin an experiment, an experimenter is closeted with a subject 
+at SRI to wait 30 minutes to begin a narrative description of the remote 
+location. A second experimenter obtains a target location from the target 
+pool and proceeds directly to the target without communication with-the 
+subject. or experimenter ‘remaining behind. The setond experimenter remains 
+at the target site for an agreed-upon 30-minute period following the 30 
+minutes allotted for travel. During the observation period, the remote 
+viewing subject is asked to describe his impressions of the target site 
+into a tape recorder. A comparison is made when the experimenter returns. 
+
+
+Following a series of experiments, the results are subjected to 
+independent judging on a blind basis by SRI scientists not otherwise 
+associated with the research. The judges are asked to blind match 
+locations, independently visited, against typed-manuscripts of tape- 
+recorded narratives of the remote viewer. A given narrative can be 
+assigned to more than one target location. A correct match requires 
+that a transcript of a given date and time be associated with the target 
+of that date and time. Probability calculations are on the basis of the 
+a_ priori probability of the obtained series of matches by chance, con- 
+servatively assuming assignment without replacement on the part of the 
+judges. As an example, reference 1 contains results obtained with a 
+gifted subject under this protocol. 
+
+
+(b) Line Drawings 
+
+
+A pool of fifty simple line drawings of everyday objects has been 
+drawn, randomized, and placed in a secure location. ; 
+
+
+During experimentation, experimenters and subject are separated by 
+having the subject enter a separate room so that from that time forward 
+the subject is at all times visually and acoustically shielded from 
+personnel and material at the target location. 
+
+
+Following isolation a target from the pool of fifty is chosen by a 
+‘randomization technique. The subject's task is then to reproduce with 
+pen on paper the line drawing now displayed at the target location. 
+
+
+Following a period of effort not to exceed half an hour, the subject 
+may either pass (when he does not feel confident) or indicate he is ready 
+to submit a drawing to the experimenters, in which case the drawing is 
+collected by an experimenter before the subject is permitted to sce the 
+target. The experiment is then repeated with replacement until ten 
+drawings have been obtained from the subject 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+To obtain an independent evaluation of the correlation between target 
+and response data, the experimenters submit the data for judging on a blind 
+basis by two SRI scientists not otherwise associated with the research. 
+
+The judges are asked to match the response data with the corresponding 
+target data (without replacement). Reference 1 includes an example of 
+results obtained with a gifted subject under this protocol. : 
+
+
+(c) Four-State Electronic Random Stimulus Generator 
+
+
+he determination of the state of a four-state electronic random 
+stimulus generator comprises the third screening test. The target is in 
+the form of one of four art slides randomly chosen (p = 1/4) by an 
+electronic random generator. The generator does not indicate its choice 
+until the subject indicates his choice to the machine by pressing a 
+button (see Figure 1). As soon as the subject indicates his choice, the 
+target slide is illuminated by provide visual and auditory (bell if correct) 
+feedback as to the correctness or incorrectness of his choice. Until 
+that time both subject and experimenter remain ignorant of the machine's 
+choice, so the experiment is of the double-blind type. Five legends at 
+the top of the machine face are illuminated one at a time with increasing 
+correct: choices (6, 8, 10, ...) to provide additional reinforcement. 
+The machine choice, subject choice, cumulative trial number, and cumulative 
+hit. number are recorded automatically on a printer. Following trial ; 
+number 25, the machine must be reset manually by depressing a RESET button. 
+
+
+A methodological feature of the machine is that the choice of a 
+target is not forced. That is, a subject may press a PASS button when he 
+wishes not to guess, in which case the machine indicates what its choice 
+was, and neither a hit nor a trial is scored by the machine, which then 
+.g0es on to make its next selection. Thus, the subject does not have to 
+guess at targets when he does not feel that he has an idea as to which to 
+choose. , 
+
+
+Under the null hypothesis of random binomial choices with probability 
+1/4 and no learning, the probability of observing k successes inn trials 
+is approximated by the probability of a normal distribution value 
+
+
+v2 
+
+
+2k - 
+
+
+5) | Pali6 
+For the purpose of screening, in our program each subject. is required 
+tocomplete 100 25-trial runs (i.e., a total of 2,500 trials). As an 
+
+
+example, data from four of six subjects in the parallel effort mentioned 
+previously are tabulated in Table l. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+PAGE(S). 7 
+
+
+MISSING 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+“Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+TABLE 1 
+
+
+“SCREENING DATA; FOUR-STATE ELECTRONIC RANDOM STIMULUS GENERATOR 
+
+
+af Mean Score/100 Trials 
+Subject Over 2,500 Trials 3inomial Probability 
+
+
+25.76 
+
+
+29.36 
+25.76 
+25.40 
+
+
+On the basis of this test, Subject 2, whose scores are plotted ‘in 
+Figure 2, qualifies as a gifted individual, having satisfied the criterion 
+‘of producing a result whose a priori probability under the null hypothesis 
+
+is p< 10-6, 
+
+
+Cc. Statement of Work 
+
+
+oe 1.. SRI personnel shall undertake a research program of approximately 
+one-month duration to investigate the abilities and characteristics of ‘the 
+‘designated individual to be supplied by the clients. 
+
+
+2. SRI shall arrange for the designated individual to participate in 
+the medical, psychological, and neurological evaluation program described. 
+in B.1. (a), (b), and (c), and shall prepare a summary analysis comparing 
+- and contrasting the results with those obtained with previous Se a who 
+
+have undergone identical test EOS: 
+
+
+3. The individual sent to SRI by the clients shall participate in 
+the screening procedure described in B.2. (a), (b), and (c). In remote 
+viewing test (a), five Bay Area locations and five SRI technological 
+equipment areas shall be used as targets. In the line drawing experiment 
+(b), ten drawing experiments shall be conducted. In four-state electronic 
+random generator test, 2500 trials are to be completed by the subject. 
+
+
+4. In view of the exploratory nature of this program, 15 percent of 
+the effort will be set aside to explore, with the clients' cognizance, 
+avenues of research of interest to the client, e.g., card sorting experi- 
+ments involving discrimination between blank cards and cards written on 
+with special materials of low density, etc. 
+
+
+dD. Reporting Schedule 
+
+
+A technical report detailing the tests and their results will be delivered 
+60 days after the commencement date of the contract. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+PAGE(S) 9 |” 
+
+
+MISSING 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Throughout the effort the investigators plan to remain in close telephone 
+communication with the client. 
+
+
+References 
+
+
+1. R. Targ and H. Puthoff, "Information Transmission Under Conditions 
+of Sensory Shielding," Nature 251, 602 (October 18, 1974). 
+
+
+III QUALIFICATIONS OF STANFORD RESEARCH INSTITUTE 
+
+
+Stanford Research Institute is an independent, nonprofit organiza- 
+tion performing a broad spectrum of research under contract to business, 
+industry, and government. The Institute, which was formerly affiliated 
+with Stanford University, was founded in 1946. Its operations include 
+the physical and life sciences, industrial and development economics, 
+management systems, engineering systems, electronics and radio sciences, 
+information science, urban and social systems, and various combinations 
+of disciplines within these fields. 
+
+
+Stanford Research Institute has no endowment; payments ‘by clients 
+under research contracts and grants amount to approximately $70 million 
+annually and are used to cover all operating costs. Such revenue also 
+helps the Institute maintain the excellence of its research capabilities. 
+
+
+SRI's facilities include more than one million square feet of office 
+and laboratory space and incorporate the most advanced scientific equip- 
+ment, including unique instrumentation developed by the staff. The bulk 
+of these facilities and most of the research staff are located at the 
+Institute's headquarters in Menlo Park, California. Regional office 
+‘locations include Washington, D.C.; New York City; Chicago; Houston; 
+and Los Angeles. 
+
+
+Of SRI's total staff of 2800 approximately one-half are in profes- 
+- Sional and technical categories. Some 400 members of the professional 
+staff have Ph.D. or equivalent degrees; 600 others have their Master's 
+degree. 
+
+
+The project leader and other research personnel who would be active 
+in the proposed work are meibers of the Electronics and Bioengineering 
+Laboratory. This group curfently occupies 40,000 square feet of labora- 
+tory space, divided into many serarate laboratory rooms, technicians' 
+work areas, a machine shop, and a computer room housing a LINC-8 and 
+related terminals and equipment. In addition, a well-cquipped computa- 
+tion center is available. 
+
+
+10 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+The Llectronics and Bioengineering Laboratory employs a number of 
+technicians and enginecring assistants and has available electronics 
+material and test equipment useful in the development and testing of 
+the teaching machines. Especially suited to the work described in the 
+proposal are a number of shielded rooms with various instrumentation 
+
+
+available. 
+
+
+Finally, a backup team of psychologists and statisticians can be 
+brought into the project on an internal counsulting basis. 
+
+
+The proposed research will be conducted by SRI staff members within 
+the Electronics and Bioengineering Laboratory under the management of 
+its director, Mr. Earle Jones. The principal investigator will be Dr. 
+Harold Puthoff. Mr. Russell Targ, of the Electronics and Bioengineering 
+Laboratory will be a co-investigator. 
+
+
+In addition to the scientific personnel directly engaged in the 
+research aspects of this investigation, Stanford Research Institute 
+has established an internal technical advisory board. This board con- 
+sists of several directors of SRI's operating divisions, together with 
+our legal counsel, all: under the chairmanship of the senior vice president 
+for research. . It is the function of this advisory board not only to make 
+recommendations and approve or disapprove every new direction taken by 
+the Institute in this research area but to monitor related ongoing projects 
+as well. 
+
+
+11 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+EAs ie 
+
+
+rpvetearr 
+
+
+Srectaltzed professtonat competence 
+
+
+- Analysis and design of electronic-optical systems, television, fac- 
+simile systems including bandwidth compression techniques, electro- 
+static printing, bioengineering instrumentation, and ultrasonics 
+
+
+Representative researen assignments at SRI (since 1956) 
+
+
+* Director, Electronics and Bioengineering Laboratory; responsible for 
+four researcn programs: 
+* Optics: laser applications in oceanography, spectroscopy, and re- 
+mote detection 
+* Ultrasonics: real-time acoustic imaging for medical diagnostics 
+and nondestructive testing 
+* Electronics: ‘electrostatic printing, television systems, and fac- 
+simile : 
+* Bioengineering: vision research instrumentation, prosthetic devices, 
+and diagnostic medical instruments . ; 
+* Manager, tlectronics and Optics Group; project leader, Meteorological 
+Satellite Facsimile System, color television cameras 
+* Research engineer; character generator design; electrostatic label 
+printer; delay’ line scanning; high density photographic peed ie of 
+television signals; frequency synthesizers; time domain equalizer 
+color facsimile; bandwidth compression 
+
+
+e background : 
+
+B.S. in electrical engineering (1956), Georgia Institute of Technology; 
+M.S, in electrical engineering (1958), Stanford University; graduate 
+work (1965-68) including statistics, communication theory, Fourier 
+optics, and bioengineering 
+
+
+Publteations and patents 
+
+
+* dany papers and reviews in the fields of character generators, cir- 
+cuitry, color television cameras, bandwidth compression, television 
+recording, and ultrasonic imaging 
+
+. Seven issued U.S. patents in character generators, frequency synthe- 
+sizer, and electrostatics 
+
+
+Professtonal, assoctations and nonors 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+SENIOR RESEARCH ENGINEER 
+BIOLGGINEERING LABORATORY 
+E AND ENGINEERING DIVISION 
+
+
+Spectalized professtonal competence 
+
+
+* Tunable laser research and development; quantum electronic Ss; electron 
+beam devices; biofeedback and biomeasurement research : 
+
+
+Representative research assignments . 
+
+
+* Development of tunable ultraviolet laser source for pollution studies 
+and medical research 
+* Development of high-power tunable infrared laser source (50-259 microns) 
+for materials research 
+* Assessment of potential of fiber optics and lasers for use in optical 
+computers 
+_* Development of biofeedback monitors (GSR) for use in educational con- 
+puters and other man-machine links 
+* Research and development in biofield measurements 
+
+
+Other professional experience 
+
+
+* Research associate, Hansen Laboratories of Physics and lecturer 
+‘Department of Fieetpical Engineering, Stanford University (1967-71); 
+teaching, textbook author, and research supervisor of Ph.D. candidates 
+-in the. area of lasers and nonlinear optics 
+
+* Consultant on application of lasers to industr 
+
+
+ial and medical problems 
+
+and research assistant, Stanford University (1963-57) 
+Bena 
+of 
+
+
+* Lt., USNR (1960-63); in-house research and contract monitoring en DoD 
+(NSA) contracts concerned with the development of ultra high-speed 
+(GHz) computers 
+
+*. Research engineer, Sperry Electronic Tube Division and Sperry Fellow, 
+University of Florida (1958-60); design and testing of electron beam 
+focusing systems for use in microwave tubes 
+
+
+4 
+
+
+Academte baexground 
+
+
+* BLE.E. (1958) and M.S.E. (1960), University of Florida; Ph.D. in 
+electrical engineering (1967), Stanford University 
+
+
+Publteattons and patents 
+
+
+* Coauthor of textbook, Fundamentals of eclatas Eleetrontes 8, Wiley; 
+2 reference book contributions; 23 bp in profession 
+14 national symposium papers; numerous cochaieat ve 
+* 2 patents 
+
+
+io] 
+"cD 
+& é 
+me 
+
+
+(ai) 
+He n 
+[ - 
+ct 
+Yn 
+
+
+Provesstonal associations and honors 
+
+
+‘ Institute of Electrical and Electronics Engineers; Sigma Tau; Pai 
+Aapoa Phi; Phi Eta Sigma; Sigma Xi 
+ee ? & ’ 
+Bune Let? 
+13 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+PUBLICATIONS OF HAROLD E. PUTHOFF 
+
+
+W. We. Peterson and HH, kK. Puthoff, “As Theoretical Study of lon Plasma Oscille- 
+
+
+tions,” IRE Elect, tsvices, Vol. ED-6, p. 372 (1959). 
+
+
+H, E, Puthoff, "Crossed-Field Focusing of a Hollow Cylindrical Electron Dean,’ 
+M.S, Thesis, University of Florida, Gainesville, Florida (January 1960). 
+
+
+A. D. Sutherland et al., "On the Use of Periodic Electrostatic Focusing in 
+Klystrons," presented at Int. Congress on Microwave Tubes, Munich, West Gerneny 
+(June 1960). Also presented at 18th Conf. on Electron Tube Research, Seattle, 
+Washington (June 1960). 
+
+
+H. E. Puthoff, “Design of a Crossed-Field Electron Gun," presented at 16th Conf. 
+on Electron Tube Research, Seattle, Washington (June 1960), 
+
+
+H. E. Puthoff, "Scaling Matrix for the Analog Computer," NSA Tech, Jour., Vol. 
+“9 (1962). 
+
+J. T. Tippett and H. E, Puthoff, "The Status of Optical Logic Elements for 
+
+Nanosecond Computer Systems," Proc. Pacific Computer Conf,., Pasadena, Cali- 
+
+fornia (March 1963). Also published in NSA Tech. Jour., Vel. 8 (1963). 
+
+
+H. -E, Puthoff, R. ll, Pantell, and B. G, Huth, "Tunability of the Raman Laser,’ 
+J. Appl. Phys., Vol. 37, p. 860 (1966), 
+
+
+“R, H, Pantell et al., "Mode Coupling in an External Raman Resonator," Appl. Phys. 
+Letters, Vol. 9, p. 104 (1966). 
+
+
+B. G. Huth et al., “Characteristics of the Stimulated Raman Effect in an external — 
+Resonator," Proc, Sixth Int, Conf. on Microwaye and Optical Generation and ; 
+Amplification, Cambridge, England (September 1966). 
+
+r "Q Quantitative Study of the Stimulated Raman Effect Using an Off- 
+
+
+Axis Resonator,” IFEE J. Quent. Elect., Vol. QE-2, p. 763 (1966). 
+
+
+R. Pentell et al., “Theoretical end Experimental Values for Two, Three, and Four 
+Photon Absorptions,” J. Chem, Phys., Vol. 46, p. 3507 (1967), 
+
+
+HL E. Puthoff£ et al,, "Near-Forward Raman Scattering in LiNbO, y" J. Appl, Phys., 
+Vol. 39, p. 2144 (1968). 
+
+
+H, E. Puthoff, "The Stimulated Raman. Effect and Its Application as a Tunoble 
+Laser," Ph.D. Thesis, Stanford University, Stanford, California (June 1967). 
+
+
+R. H, Pantell, G, Soncini, and H. E. Puthoff, "Stimulated Photon-Electron 
+Scattering," IEEE J. Quant. Elect., Vol. QE-4, p. 903 (1968). 
+
+
+t 
+
+
+J. Gelobwachs et al., "A Tuneble Stimulated Raman Oscillator,’ Anpl. Phys. 
+
+
+Letters, Vol. 14, p. 253 (1969). 
+
+
+J. Me. Yarborough et al., "Efficient Tunable Optical Emission from NikbO3 WADI Gt 
+a Resonator,” Appl. Mhys. Letters, Vol. 15, p, 102 (1969). 
+
+
+S. S, Sussman et al., "A New Source of Tunable Optical and Infrared Rediation," 
+Proc, Polytechnic Institute of Brooklyn International Svinnoslum of Subnillineter 
+
+
+Waves, hew York, New York (Merch 1960), 
+
+
+14 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+B. C, Johnson et al., “Power end Linewidth of Tunable Stimulated Far IR Emission 
+in LinhbOs,"" Appl. Phys, letters, Vol. 18, p. 161 (1970), 
+
+E, Amzallag et al., "Stimulated Raman and Polariton Scattering in kites,” 
+
+J. Appl. Phys., Vol. 43, p. 3251 (1971), : 
+
+D. L. Hecht et al., "Dye Lasers With Ultrafast Transverse Flow," IFFE J. Quent, 
+
+
+Elect., Vol. QE-8, p. 15 (1972), 
+
+
+H. Puthoff and R. H. Pantell, Funcanentals of Quantum Electronics (John 
+Wiley & Sons, Inc.,.New York, New York, 1969). Published in Russian by 
+Mir Publishing House, Moscow, 1972, . 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+——_— 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+HL TARG, SENIOR RESEAR 
+
+
+cC 
+AD BIOENGINEERING LASCRATORY 
+SCIENCE AND ENGINEERING DIVISION 
+
+
+Spectaltzed professional competence’ 
+
+
+* Development of new gas lasers; .FN laser and Supermode laser techniques; 
+laser noise reduction; optical modulation and demodulation; exzperi-- 
+ments in new gaseous laser media; microwave diagnostic techniques; 
+microwave generation from plasmas : 
+
+
+Professtonal expertence 
+
+
+* Sylvania Corporation (1962-72); investigation of technigues for 
+development of new gas lasers, making use of his research with com- 
+Pact, self-contained multi-kilowatt CO» lasers 
+
+* Technical Research Group (1959-62); experiments in new gaseous laser 
+‘media 
+
+* Polytechnic Institute of Brooklyn; assisted in the establishment of 
+the Electron Beam Laboratory 
+
+* Sperry Gyroscope Company, Electron Tube Division (1956-59): experi- 
+
+’ Mental work in microwave generation from plasmas; early work in the 
+technology of ultrahigh-vacuum and ion-pump design 
+
+
+Academie background 
+
+
+* B.S. in.physics (1954), Queens College, New York; graduate work in 
+physics (1954-56), Columbia University, New York 
+
+
+Publteattons and tnventions 
+
+
+* Author of “Optical Heterodyne Detection of Microwave-Modulated Light," 
+Proce. IEEE (1964); coauthor of numerous articles on lasers and plasma 
+‘oscillations ; 
+
+* Invention of the tunable plasma oscillator at microwave frequencies 
+
+
+Professtonal associations and honors 
+
+
+* IEEE; American Physical Society; The Optical Society of America 
+* Avarded the position of research associate with the Polytechnic Insti- 
+
+
+tute of Brooklyn 
+
+
+16 | 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+PUBLICATIONS OF RUSSELL TARG 
+
+
+R. Targ and L. P, Levine, “Backward-Wave Oscillations ina System Composed of san 
+
+Electron Beam and a Hydrogen Gas Plasma," J. of Appl. Phys., Vol. 32, No. 4, 
+ens Se ee id 
+
+pp. 731-737 (April 1961). 
+
+
+M, Ettenberg and R, Targ, “Observations of Plasma and Cyclotron Oscillations," 
+Proc. of the Syinpos ium on Electronic Wavepuides, Polytechnic Institute of 
+Brooklyn, New York (April 8-10, 1958), = 
+
+
+-P, Rabinowitz, S, Jacobs, R. Targ, and G. Gould, "Honodyne Detection of Phase- 
+-Modulated Light," Proc, IRE, Vol. 90, No, 11 (November 1962), 
+
+
+G, Grosof and R, Torg, "Enhancement in Mercury-Krypton and Xenon-Krypton Gaseous 
+Discharges," Appl. Optics, Vol, 2, No. 3, pp. 299-302 (March 1963), 
+
+
+R. Targ, “Optical Heterodyne Detection of Microwave-Modulated Light," Proc, IEEE 
+. (Correspondence), pp. 303-304 (March 1964), 
+
+
+R. Targ, D, E. Caddes, and B. J, McMurtry, "The Traveling-Wave Phototube, Part 
+
+II: Experimental Analysis," IEEE Trans, on Electron Devices, Vol. ED-ll, pp. 
+tee ev cess 
+
+164-170 (April 1964), 
+
+
+S. E. Harris and R, Targ, ‘FM Oscillation of the He-Ne Laser," App. Phys, 
+Letters, Vol. 5, No, 10, pp. 202-204 (15 November 1964), 
+
+
+_R. Targ, G. A, Massey, and S, E, Harris, "Laser Frequency Translation by Keans 
+of Electro-Optic Coupling Control," Proc, IEEE (correspondence), Vol. 52, No. 
+10, pp. 1247~1248 (October 1964), 
+
+
+R. Targ and W. D, Bush, "Automatic Frequency Control of a Laser Local Oscillator: 
+for the Heterodyne Detection of Microwave-Modulated Light," Appl, Optics, Vol. 
+4. No. 11, pp. 523-1527 (December 1965)... 
+
+
+G. A, Massey, M. K, Oshman, and R, Targ, "Generation of Single~Frequency Light 
+Using the FM Laser," Appl, Phys, Letters, Vol. 6, No, 1, pp, 10-11 (January 
+1965), 
+
+
+_L. M, Osterink and R, Targ, “Single-Frequency Light from an Argon FM Laser," 
+Appl, Phys. Letters, Vol, 10, No. 4, pp. 115-117 (February 1967), 
+
+
+R. Targ and J. M. French, "Stabilization of a He-Ne Laser," Proc, IEEE, Vol. 55, 
+No. 7, pp. 1185-1192 (July 1967). 
+
+
+L. M, Osterink and R. Targ, "Single-Frequency Light Using the Super=Mode Tech- 
+nique with an Argon FM Laser," Proc. of the Symposium on Modern Optics, Poly- 
+technic Institute of Brooklyn, New York (March 22-24, 1967), 
+
+
+R. Targ and L, M, Osterink, "Frequency Stabilization and Quieting of the Fi! 
+Laser," 1967 WESCON Convention Record, San Francisco, California, 
+
+
+R. Targ and J. NM, Yarborough, ’ Mode-Locked Quieting of the He-Ne and Argon 
+Lasers,” Appl. Phys. Letters, Vol, 12, No. 1, pp. 3=4 (1 January 1968), 
+
+
+17 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+| Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+D. E. Caddes, L, M. Osterink, and R, Targ, ‘“Mode-Locking of the CO9 Laser 
+Appl, Phys, Letters, Vol, 12, No. 3, pp. 74-76 (1 February 1968), 
+
+R. Tare, J. M, Yarborough, and J. M, French, "Frequency Stabilization and Noise 
+Suppression in.the Argon FM Laser," IEEE J. of Quant. Elect., Vol, QE-4, pp, 
+644-648 (October 2968), 
+
+W. B, Tiffany, R, Targ, and J. OD, Foster, "Kilowatt co, ‘Gas-Transport Laser," 
+Appl, Phys. Letters, Vol. 15, No. 3 (1969), 
+
+
+W. B, Tiffany, and R, Targ, "The Gas-Transport Laser--A New Class of High~ Power 
+Electro-Optic Devices,‘ Laser Focus, pp. 48-50 (September 1969), 
+
+
+R. Targ and W. B, Tiffany, ' "Gain and Saturation in Transverse Flowing COp ~N, g~He 
+Mixtures," Appl. Phys, Letters, Vol, 15, No. 9 (1 November 1969), 
+Se ers 
+
+
+S. E. Schwarz, T, A, deTemple, and R. Targ, "High Pressure Pulsed Xenon Laser, 
+Appl. Phys. Letters, Vol, 17, No..7 (1 October 1970), 
+
+
+J. D, Taynat, R. Targ, and W. B, Tiffany, "An Investigation of Tellurium for 
+
+Frequency Doubling with COo Lasers, “ IEEE J. of Quant. Elect,, Vol. QE-~7 
+Sa Ce 
+
+(8 August 1971), : 
+
+
+R. Targ and Me. W. Sasnett, "High Repetition Rate Xenon Laser with Transverse 
+Excitation,” IEEE J. of Quant, Elect., Vol. QE-8, pp. 166-169 (February 1972), 
+a eect 
+
+
+R, Targ and M. W, Sasnett, "Xenon-Helium Laser at High Pressure and High Repeti-~ 
+tion Rate," Appl. Phys. patecee, Vol. 19, No, 12 (15 December 1971), 
+et ees 
+
+
+R. Targ, ' ‘Pulsed Nitrogen Laser at High Repetition Rate," IEEE J, of Quant. 
+Elect., Vol, QE- -8, pp. 726~728 (August 1972), 
+
+
+R. Targ and D; Hurt, “Learning Clairvoyance and Precognition with an Extracens sory 
+Perception Teaching Machine," Parapsychology Review, pp, 9-11 (July 1972). 
+
+
+18 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 | 
+
+
+SGFOIA2 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Next 4 Page(s) In Document Exempt 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+, 
+* Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+STANFORD RESEARCH INSTITUTE 
+MENLO PARK, CALIFORNIA 94025 
+4415) 326-6200 
+
+
+July 12, 1974 
+
+
+SG1Il 
+
+
+Enclosed for your perusal is a_ list of the elements in the physical 
+examination. If you think of additional items you wish to include, 
+
+or if you desire further information on the items listed, please do not 
+hesitate to call. We will, of course, provide a detailed description 
+of the tests along with the analyses, some of which will be available 
+
+
+to you before the end of August. 
+
+
+aN n se Tener des 
+
+
+Nk. ra 
+H. E. Puthoff, Ph.D. 
+
+
+Electronics and Bioengineering 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+at 
+
+
+“Executive Director 
+
+
+R. HEWLETT UGE, M.D, 
+Vice Exoculive Director 
+
+
+H. CHAISTIAN ZWENG, M.D. 
+
+
+_KENN 
+MAURI 
+
+
+E FOX, 6.0, 
+
+
+SYDNEY P. HECKER, M.D, 
+SIDNEY P. MITCHELL, M.D. 
+
+
+lnternal Medicine 
+
+
+CARDIOLOG 
+
+© SESGIOS BniYalte M.D, 
+CLAR TENGE MM. TINSLEY, M.D. 
+ROPERT L. HILL, i.D. 
+GARY A FRY, M.D. 
+
+
+CHEST DISEASES. 
+SIDNEY P. MITCHELLY M. 0. 
+FRANCIS S$. NORTH, M.D. 
+J. TAN McNEILE, M.D. 
+GLEN A. LILLIN: ON, 
+LENOHE A. SH 
+
+_ BONALD A. YOU 
+
+
+x 
+yee Mh d. 
+
+
+ENDOCRINE A AND i ETAEOLIC DISEASES 
+HAROLD G. 
+WILLIARL H, CCARK,- M.D. 
+BERNARD J. LEWIS. M.0. 
+MAURICE FOX, M.D. 
+
+LAWPENCE V. BASSO, M.D 
+
+
+GASTROENTEROLOGY" 
+OWEN C. PEGK 
+FERNANDO G 
+RICHARD A, “sat 
+
+
+GENERAL. MEDICINE + 
+RUSSEL V. LEE. M0 
+Jv. SEWALL BAQVIN.« 1D, 
+JOHN F. ECKERT, 
+AUSTIN. M, CLARK. 4.0. 
+WILLIAM E, CHAP Mai UL M.D. 
+
+
+HEMATOL OGY AND ONCOLOGY 
+
+
+Cae K, JOINS J 
+WILLIAM M. ROGOWAY, "M.D. 
+
+INFECTIOUS DISCASE AND ariUiCLGay 
+JACK S. REMINGTON, M.D, 
+
+NUCLEAR MEDICINE 
+JOHN FE. Sot IQLER, M. oe 
+
+
+RENAL DISEASES 
+JOHN V. YOUNG, M.D. 
+RHEUMATOLOGY 
+
+
+RONALD L. KAYE, MO. 
+MELVIN. C, CRITTG 
+
+
+Allergy 
+VAL VLECK CHAM 
+WILLIANT DL McKEE, 
+
+
+BERS. BLD, 
+Pinen 
+
+
+ce eae 
+
+
+Bannadelogy 
+BART J. een 
+ROBERT MM. 4 
+
+
+Approved For Release 2001/03/07 : 7 Gik Rored aovaTnuugiok oARba 
+
+
+PLIS, M.D. 
+
+
+THE PALO ALTO MEDICAL CLINIC S 
+
+
+“G. CAMPBELL, M.D, 
+
+
+RUSSEL V, LEE, M.0.. 
+: Consullaal 
+
+
+‘Pediatrics 
+
+
+ESTHER BG. CLARK, t4.0. 
+JOSEPH H. DAVIS, ts D. 
+GUADON S. oH. PULFOR 
+WILLIAM C. BLATEH, Mv 5. 
+MARGARET S. KOSEK. M.D. 
+YOAN M. MERIGAN, MD, 
+HARRY E. HARTZELL, JR., M.D. 
+
+
+Pediatrics and Pediatric Cardiology 
+
+. . RICHARD -A, GREENE, M.D. 
+
+Bepeiet Practice mee 
+WARD* LISTON, oP 
+
+BEN H. MOORE. Mi 
+
+MY BON GANA 
+
+wii oe g 
+
+
+Psychiatry ata 
+
+Clinical Psycholoay 
+JULIAN b Piede L. MLD. = 
+ROBERT B, SHELBY, M.D. ao ces 
+THOMAS F, BALL, wD, 7 
+JAMES E, HEENAN, PHD. wD 
+KAREN L. NELSON, Ph. Db. 
+
+General Surgery 
+BLAKE C. WILBUR. M.D. 
+RALPH 0, CRESSN Ny oe 
+ALEC S. MACKENZIE, M.D. 
+
+General and 
+
+Thoracic Surgery Ae 
+ROBERT W. JAMPLIS OM. LD. 
+
+
+. General and 
+
+
+Vascular Surgery 
+R. HEWLETT LEE, M.D, 
+JOH Hi IENALDO, tl 
+Plastic and aa 
+Reconmrective Se og 
+HABVEY i TO.S.. M.D. 
+MORTON 5 8 ER, M.O, 
+Neurcsurge ary = 
+JAM CS B. GOLDEN, M.D. 
+
+
+Oilhopedic Surgery 
+JOSEPH & TANNE 
+
+
+1D. 
+
+
+nen 
+
+
+on OAvID E 
+DONm L. Gis 
+
+
+ELSTON C. ROTRERMEL, DPM, 
+Crihopedic Suracry 
+and Ath en Ihe eo ine 
+
+
+eee cM oe c 
+
+
+; Business. ifagager 
+J. BORT ROSE 
+. Assisiant Adauaistrator. 
+ENOCH JUNGLING 
+Businuss Othea (Manager 
+
+
+ROY R. CRAMBLIT 
+Personnel hdaneger 
+
+
+loiztyngology gy As : 
+“oe RR, WESLEY WIIG D. 
+JOPN R. CHA STE San) MLD. 
+a. LOUIE FANG, Wo, 
+GS 
+
+
+Obstetrics - Gynecoloay 
+
+
+os JAMES ses STIOHL. cR, WD. se 6+ 
+
+
+SHIRLEY TOM, A1.0. 
+
+
+“"pnesthesiolcay . 
+
+
+,t 
+
+
+_Environm ental ite dicitie : 
+“ROGERS H. ARMBRUSTER. M.D. 
+_ LEONARD A. SAGAN, LD, 
+
+
+co ts 
+
+
+Missistony 
+HON | “F, WEIReN, MMO. 
+\ uM 
+
+
+RUPP, | MWD, 
+
+
+“Petholocy 4 
+JOHN TOI fERCING. M0. 
+
+
+SGFOIA2 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+
+Next 1 Page(s) In Document Exempt 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100003-3 
+
+

@@ -1,0 +1,2596 @@
+oa er | (UG Geek ste Sea Cenane tesa 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+[1] UNCLASSIFIED «== (_] [NTERNAL [] CONFIDENTIAL [1 SECRET 
+
+
+ROUTING AND RECORD SHEET 
+SUBJECT: (Optional) 
+
+
+User Requirements for an Agency Standard Soft Copy Computer Terminal 
+
+
+FROM; 
+STAT DC/DD/ODP 
+
+
+STAT : 
+building) 
+1. 
+D. May, D/ODP 
+
+
+Attached is the User 
+
+
+Requirements for an Agency 
+Standard Soft Co Computer 
+Terminal. A arate copy of 
+
+
+this document was reviewed in 
+September by the entire Term- 
+inal Requirements Working 
+Group. In October the ODP 
+contingent of the group (Bill 
+
+
+STAT 
+
+
+STAT reviewed the 
+
+I rom the entire 
+group. I've scheduled distri 
+bution of this resulting 
+updated document to the 
+entire group on 7 November 
+1977. 
+
+As chartered, an RFP is 
+now being prepared by Engi- 
+neering Division with my par- 
+ticipation. Much of Section 
+II and III of the requirements 
+document is appropriate for 
+direct inclusion into the RFP. 
+
+additional refinement, from 
+an engineering rather than a 
+user requirement standpoint, 
+must be done to the security/ 
+emanations and communications 
+portions of this document by 
+ngineering Division during 
+the RFP generation period. 
+
+If you have any comments 
+please call. 
+
+
+cc enc /as ) 
+
+
+hile Lhen goof pd - 
+
+
+2 610 “tome (] SECRET [[] CONFIDENTIAL INTERNAL §=--s«)_s«UNCLASSIFIED 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+7. 
+
+
+15. 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+USER REQUIREMENTS FOR AN 
+
+
+AGENCY STANDARD SOFT COPY 26 October 1977 
+COMPUTER TERMINAL 
+
+
+a” 
+
+
+10010011121101100110100102101000011101011010001010011001011100111110110001001 
+1010000111100000101100111100010110001000100010000011110100110101100000110111 
+0010001110110000111010110100000010010010100110010100110110001111011000001010 
+41110111001 011000011010000111111101110001003011001001000101011111010001010001 = 
+00101111010110011111110010101011001101101110010001011000010001111210001110000 
+1011101011100001110110000100111110011000001110000100111100000011000111100111 
+1010010110001101101011001000111000010100011000000011000100001001001001001100 
+0000111114112010001110100011110111100111010100111011101010011111010011001010 
+
+
+01010101197 *941910000111107°7" **94900011110001110NAN19NN1100000000 
+011001 41420034 711102100 : 410004 
+10107 10000: ‘001110 9011 
+110° -4U11Ue 1141 vali. 11010 wae 110 
+007 1100100102 “1016 2011114 10011 101014 144 
+00 001100100113 116 L010000: 1010 11009 112 
+1 001101000011 1103 10001013 2100 wade 101 
+10 11100100011? ytd 1000000" 3100 1111 
+013 101110111¢ 0012 ‘gaaaa4 + 1002 -v41111 
+0104 ananae 01111 101° 10111 .v42yy001000112 
+11004 -001110 -000001 -00121100600011 
+0001314 v01101101 410100011 111000100001002 
+0010010011. -24441111010001..--.. ~+«v111100111010 111101030011111 
+
+
+0100110010100101010110101111100010100001111010001011010100001111000111000010 
+0011000000000110011011010100000001011100111001001111011001011101100111010111 
+0000011100011010111111111101010211010100001011111101000101001001110110001111 
+1100011100111101001100111011001000101121110000000021110110011111010110001001 
+1101001111100011000110110010010100001011020001001101111001101100011011010101 
+0101001011110011000100011001001111201100110100101101000011101011010001010011 
+0010111001111101100010011010000111100000101100211100010110001000100010000011 
+1101001101011000001101110010001110110000111010110100000010010010100110010100 
+
+
+Office of Data Processing 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/0 CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+Woe wi. ee 
+
+
+Deeb AS aoa Ly 
+
+
+USER REQUIREMENTS 
+FOR AN 
+
+
+AGENCY STANDARD SOFT COPY COMPUTER TERMINAL 
+
+
+26 October 1977 
+
+
+ar ae ty 
+
+
+“i 
+
+
+to ao Be 
+he pc ies ca 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+nie TNtCVOGUCCLONs 20 os swiss ee ee ee re ee ee 
+Il. General Terminal RequireMents.......cceeeeeee 2 
+
+A. Configuration......... dda rt ere arbre euouete Soares e 2 
+
+
+B. Display Functions and Character Sets..... 3 
+
+
+C. Terminal Controls and User Entry 
+DEVICES... cee reer erences See owe, MS 
+
+
+D. TranSmisSsion ParaMetersS....ceewesecsseeee 6 
+
+
+E. Bmanations Control... cece rnvvencsssseces 7 
+
+
+III. Key Requirements..... Bat dle pte: Be acd aud) ROUSSE, dae a ale Bad 8 
+A. Terminal Emulation and Mainframe 
+ACCESSIDLIILY« 6056 sie ew esas s aacdieeraee 9 8 
+Iv. Terminal Technology Considered.......eee--+-- 10 
+A. Vendor Presentations....... eee cere cees -- 10 
+B. CRT vs Non-CRT Soft Copy Displays........ 10 
+C. Some Conclusions........... ih Bees scene epee. LO 
+Vv. Glossary of Terms.......-.2e6. Sieee wath Sreceue: SAetevelat ee 11 
+Attachment I -- Terminal Questionnaire 
+Attachment II -- Terminal Questionnaire Responses 
+Attachment III -- Project SAFE Workstation (Terminal) 
+Requirements (Excerpt from: SAFE 
+Functional Requirements -~ Dated 
+
+
+1 March 1977) 
+
+
+pan : my 
+
+
+es 
+
+
+were se 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Reg ace ad caine ee set 
+
+
+I. INTRODUCTION 
+
+
+This document contains the user requirements 
+for a soft copy* computer terminal which will be 
+adopted as Agency standard for the period FY 78 to 
+FY 83. It was prepared by the ODP contingent of 
+the Terminal Requirements Working Group. The 
+Terminal Requirements Working Group, chartered 
+in April 1977, consisted of representatives from 
+most components of the Agency. 
+
+
+A primary input to this document was the 
+Terminal Questionnaire (Attachment I) that was 
+completed by members of the entire Working Group 
+during June-September 1977. Also considered was 
+the availability of terminal features in the 
+marketplace. This information was obtained from 
+the literature, discussions with users, and through 
+vendor presentations to the Terminal Requirements 
+Working Group. 
+
+
+A draft version of this document was distributed 
+for comments to the entire Working Group during 
+September 1977. Resulting comments were reviewed 
+by the ODP contingent of the Working Group. 
+
+
+An important assumption for the requirements is 
+that existing Agency Delta Data and some of the 
+other Agency terminals will remain in use until at 
+least FY 82. That is, existing terminals will 
+continue to service a large portion of the Agency's 
+terminal requirements for several years. 
+
+
+The requirements specified in this document 
+shall be used as input to a Request for Proposal 
+(RFP) to be generated by Engineering Division of 
+ODP for competitive procurement of terminals. 
+Much of the Section II and II of this document is 
+appropriate for direct inclusion into an RFP. 
+Additional refinement, from an engineering rather 
+than a user requirement standpoint, must be done 
+to the security/emanation and communication 
+portions of this document by Engineering Division 
+during the RFP generation period. 
+
+
+* As opposed to hard copy. 
+
+
+one i 
+
+
+3 
+
+
+£ 
+ce ite, = 
+can 
+
+
+vet eun fs 
+tia yt s 
+
+
+we 8h4 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+UNCLASSIFIED 
+
+
+II. GENERAL TERMINAL REQUIREMENTS 
+
+
+The user requirements for general terminal features 
+are based upon availability in the market place and the 
+terminal questionnaire ratings (See Attachment II) and 
+comments. Questionnaire items, when applicable, are 
+referenced following the feature. 
+
+
+A. Configuration 
+1. Local Peripheral Support 
+
+
+a. Mandatory 
+
+
+° The ability to interconnect to a local* 
+low to medium quality printer* and to a 
+local* high quality printer* (II.A.10 and 
+II.A.11). 
+
+
+° The ability to overlap local* printing 
+with normal operation of the terminal 
+(II.A.12). 
+
+
+° The ability to add a local* removable data 
+storage (e€.g., cassette tape drive(s) or 
+diskette drive(s)) capability of at least 
+90K bytes on-line (II.A.8). 
+
+
+b. Desirable 
+° The ability to add a local*, removable data 
+storage capability of at least 1 million 
+bytes on-line (II.A.8). 
+2% Local Capability/Compatibility 
+
+
+a. Mandatory 
+
+
+° Local character editing* (II.A.4 and II.A.5). 
+
+
+° Validation of the data locally*, prior to 
+transmission to the mainframe(s) (II.A.6). 
+
+
+° The ability to add a capability for local 
+text editing* (II.A.4). 
+
+
+Compatible with the Agency's general office 
+environment. 
+
+
+* See Glossary 
+
+
+-2- 
+
+
+TINCT Aeerrrns 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+: : ee aed 
+We eed cekaded abd 
+
+
+3. Size 
+
+
+a. Mandatory 
+
+
+° 
+
+
+Not a floor model. 
+
+
+° 
+
+
+No larger than a Delta Data 5000 series 
+terminal*. 
+
+
+4. Programmability 
+
+
+a. Mandatory 
+
+
+° Terminal is supported by firmware architec- 
+
+
+ture which is customer modifiable. 
+b. Desirable 
+
+
+° Ability for firmware image to be changed 
+from host computer. 
+
+
+°0 Ability for users to program on terminal, 
+locally (e.g., using BASIC on terminal, 
+independent of host computer). 
+
+
+5. Remote Locations 
+
+
+a. Desirable 
+
+
+° The ability for the terminal to be used at 
+domestic remote locations (outside the 
+Washington, D.C. area) and overseas sites, 
+subject to local power supply and security 
+requirements (II.A.2 and II.A.3). 
+
+
+B. Display Features and Character Sets 
+1. Display Area and Format 
+
+
+a. Mandatory 
+
+
+° 24 lines in an 80 column screen format (II.B.4). 
+
+
+° Usable display area** of at least 45 square 
+inches (II.B.10). 
+
+
+* A requirement for a terminal with size smaller than 
+the Delta Data 5000 series terminals eliminates 
+vendors who otherwise may be able to accommodate 
+mandatory requirements. 
+
+
+** See Glossary 
+
+
+PE ccs 
+pares oe re 
+
+
+Lie ae acd 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+b. Desirable 
+
+
+° At least 27 lines in an 80 column screen 
+format (II.B.4)*. 
+
+
+° 132 column screen format**. 
+
+
+° Usable display area*** of at least 90 
+square inches (II.B.10). 
+
+
+° At least 4000 characters per screen full***. 
+2. Other Display Features 
+
+
+a. Mandatory 
+
+
+° Glare-free screen. 
+
+
+Screen that is free of perceptible flicker. 
+
+
+Adjustable over-all screen intensity using 
+a control(s) that is easily operator 
+accessible (II.B.8). 
+
+
+Nondestructive cursor which is easily 
+locatable by the user. 
+
+
+Addressable/readable cursor. 
+
+
+° The ability to retain at least 16 
+tabulation*** positions (II.B.14). 
+
+
+° Backtabbing (II.B.13). 
+
+
+Buffering to allow storage of 3 full screens 
+of charagter data and a paging*** function 
+to disp this data (II.A.15). 
+
+
+° Scrolling (Rolling) ***. 
+
+
+At least three modes of selective high- 
+lighting. Examples of highlighting are: 
+reverse video***, blinking, underlining 
+
+
+* A requirement for 27 display lines on the terminal 
+screen (as in ODP's Delta Data) reduces the number 
+of potential vendors to one or two. The most common 
+number of display lines is 24. 
+
+** A requirement of 132 characters per display line 
+eliminates virtually all potential vendors. 
+*** See Glossary. 
+
+
+-4- 
+
+
+. ict hae 
+
+
+pre: ar ee ena me 
+Eppa BS ai 
+
+
+Akg Rabat gS te 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+beeen Ce 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+and two brightness levels (II.B.2 and 
+II.B.8 and II.B.9). 
+
+
+° Split display screen* (II.B.1). 
+
+
+° Format, system available and insert 
+mode indicators. 
+
+
+b. Desirable 
+° Multi-color display capability (II.B.3). 
+
+
+° The ability to make bar charts and simple 
+line graphs (I1I.A.7). 
+
+
+° Buffering to allow storage of more than 
+three screens full* of character data and 
+a paging* function to display this data 
+(II.A.15). 
+
+
+At least four programmable status indi- 
+cators. 
+
+
+3. Character Sets 
+a. Mandatory 
+
+
+° At a minimum the full ASCII upper and lower 
+case 96 character set (II.B.5). 
+
+
+° Ability to support an APL character set and 
+a two character overstrike feature on 
+terminal (I1I.B.6). 
+b. Desirable 
+
+
+° User programmable character set. 
+
+
+° Ability to accommodate additional character 
+sets (e.g., foreign language character sets). 
+
+
+C. Terminal Controls and User Entry Devices 
+1. Light Pen 
+a. Mandatory 
+
+
+° The ability to attach a light pen (used for 
+field selection and attention getting) to 
+selected terminals (II.C.1). 
+
+
+* See Glossary. 
+
+
+Pk ome oe 
+eye he Se , ' 
+; ae. 
+
+hee 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved Nee Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+2. Keyboard 
+a. Mandatory 
+° N-key roll over*. 
+
+
+° At least 12 programmable function keys 
+(II.c.5). 
+
+
+° A switch within easy user reach that 
+converts the terminal from upper/lower 
+case to upper case only and vice versa 
+(II.c.3). 
+
+
+° The ability to easily repeat characters 
+(II.c.4). 
+
+
+° Detachable keyboard (II.C.2). 
+b. Desirable 
+
+
+° pifferent pressures for selected keyboard 
+keys. 
+
+
+° Numeric keypad with decimal point. 
+° Acoustic feedback from keyboard. 
+3. Terminal Controls and Alarms 
+a. Mandatory 
+° Programmable audible alarm. 
+° ON/OFF switch. 
+
+
+° The ability to add a physical lock 
+mechanism on terminal (II.C.6). 
+
+
+D. Transmission Parameters 
+1. Transmission Speed 
+a. Mandatory 
+° Transmission speed switch selectable up 
+
+
+to and including 4,800 baud (II.D.1). 
+
+
+* See Glossary. 
+
+
+-6- 
+
+
+see my 
+Looe ae: ’ 
+nee fiAGive oe 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+I 
+PTL TL eda aneere me | 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+b. Desirable 
+° Transmission speed switch selectable up 
+to and including 9600 baud (I1.D.1). 
+
+
+2. Transmission Technique 
+
+
+a. Mandatory 
+° A terminal configuration supporting the 
+synchronous transmission technique. 
+
+
+o A terminal configuration supporting the 
+asynchronous transmission technique. 
+
+
+b. Desirable 
+
+° A configuration supporting both the 
+synchronous and asynchronous transmission 
+technique on the same terminal. 
+
+
+3. Error Control 
+
+
+a. Mandatory 
+
+° At least longitudinal redundancy checking 
+and character parity checking at each 
+terminal. 
+
+
+E. Emanations Control 
+1. TEMPEST Testing 
+a. Mandatory 
+
+
+o A version of the terminal is required such 
+that the display, associated user data entry 
+devices and connecting cables comply with 
+the Compromising Emanations Laboratory Test 
+Standard Electromagnetics, NACSEM 5100, 
+National Security Agency. Specific TEMPEST 
+test requirements will be stated in request 
+for proposal (RFP) that will be used in 
+procurement of these terminals. 
+
+
+-7J- 
+
+
+romeo cay a aaa 
+ome os 
+Maite 2b SRIE RE tam 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+III. KEY REQUIREMENTS 
+A. Terminal Emulation and Mainframe Accessibility 
+
+
+1. Emulation*. It shall be the intent of the 
+RFP to provide terminals sufficiently 
+compatible with the existing environments 
+such that they may be used in place of 
+existing terminals with minimal impact on 
+the user. 
+
+
+a. Mandatory 
+
+
+° The ability to implement emulation* 
+of most** of the features the Delta 
+Data 5260 (ODP configuration). 
+
+
+The ability to implement emulation* 
+of most** of the features of Delta 
+Data 5000 (NPIC configuration). 
+
+
+The ability to implement emulation* 
+of most** of the features of the 
+IBM 3270. 
+
+° The ability to implement standard 
+TTY protocol*. 
+
+
+b. Desirable 
+
+
+° The ability to implement emulation* 
+of most** of the features of the 
+Beehive Superbee. 
+
+
+2. Mainframe Accessibility 
+a. Mandatory 
+
+
+° The ability to access one, two, or 
+more of the following mainframes 
+from individual selected terminals 
+(accessing more than one mainframe 
+is contingent upon a review of 
+security and communications 
+considerations) : 
+
+
+* See Glossary. 
+
+** For example, a feature which may not practically be 
+emulated is: 27 lines in an 80 column screen format, 
+as on the Delta Data 5260. 
+
+
+-8- 
+
+
+Ramone te 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+re 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+° The ODP mainframes. 
+° The NPIC mainframe. 
+° The DDO mainframe. 
+
+
+° The COMIREX Automated Management 
+System (CAMS) mainframe. 
+
+
+The CAMS terminal requirements 
+will be finalized in the future. 
+Preliminary requirements are 
+addressed either as mandatories 
+or desirables in this document. 
+
+
+° The SAFE mainframe. 
+
+
+The SAFE terminal requirements 
+will be finalized in the future. 
+In the context of this document, 
+the requirements stated in 
+Section VII of the 1 March 1977, 
+SAFE Functional Requirements 
+(See Attachment III) shall be 
+treated as desirables. Where 
+conflicting requirements exist, 
+this document, not the SAFE 
+Functional Requirements, shall 
+supercede. 
+
+
+° Other mainframes. 
+
+
+Terminals shall be attachable to 
+other mainframes. Communications 
+shall be in TTY mode*. Examples 
+are terminals attached to the 
+COINS and DIAOLS systems. Not 
+included is the interface of the 
+Electronic Text Editing and 
+Composing (ETEC) system with 
+
+ODP mainframe which is currently 
+under study by ODP. 
+
+
+* See Glossary. 
+
+
+-9— 
+
+
+nn bie de agnaeae 
+ue eee 
+
+
+ras te kee 
+
+
+eae 7) eld aoa 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+wae. fe 
+
+
+IV. TERMINAL TECHNOLOGY CONSIDERED 
+A. Vendor Presentations 
+
+
+Thirty four terminal vendors were invited to 
+provide information/presentations on their soft 
+copy terminal lines. This includes plasma panel 
+as well as CRT terminals. Twenty three vendors 
+responded and twenty gave presentations to the 
+Terminal Requirements Working Group on their 
+terminal line's features. 
+
+
+B. CRT vs Non-CRT Soft Copy Displays 
+
+
+Even though non-CRT soft copy displays, 
+including plasma panels, LED's and liquid crystal 
+displays, are gaining in popularity, CRT displays 
+dominate the alphanumeric display industry, and 
+are expected to do so for several years. Because 
+of the prohibitive cost of displaying large 
+quantities of data (e.g., 2000 characters) on non- 
+CRT displays, such devices are still a long way 
+from replacing the CRT. 
+
+
+C. Some Conclusions 
+
+
+CRT terminals or terminal lines do exist which 
+can be configured with relatively little development 
+to satisfy at least the responses of the mandatory 
+items in Sections II and III of this document. This 
+document does not presume that a single terminal 
+best satisfies all of the requirements in this 
+document. For example, two or more terminals within 
+a vendor's terminal line may best satisfy the 
+requirements. 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+I 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+We da lad cai a 4 wn 
+
+
+V. GLOSSARY OF TERMS 
+
+
+Addressable Readable Cursor - A cursor which the 
+computer can locate and move. 
+
+
+Emulation - The imitation of the features of one 
+terminal by another, perhaps considerably different, 
+terminal. 
+
+
+High Quality Printer - A printer with the approxi- 
+mate print quality of a standard electric office 
+typewriter. 
+
+
+Local - Independent of mainframe(s). 
+
+
+Local Character Editing - Manipulation of 
+characters by means of functions such as character 
+insert and character delete. 
+
+
+Local Text Editing - Manipulation of words, 
+sentences and paragraphs. 
+
+
+Low to Medium Quality Printer - A printer with 
+
+
+the approximate print quality of a 10 line per 
+minute nonimpact printer. 
+
+
+N-Key Roll Over - The sending of keyboard key 
+signals in the order that the keys were depressed 
+rather than in the order that they were released. 
+
+
+Paging - The storage of two or more pages, 
+screens full of data, and a function to shift 
+through and display this data. 
+
+
+Reverse Video - Negative image of character 
+or data (e.g., white or black instead of black on 
+white or vice versa). 
+
+
+Screen Full - A character in every position 
+of the usable screen area. 
+
+
+Scrolling (Rolling) - Moving all displayed 
+
+
+lines of data up or down by one line as a new line 
+is added and an existing one removed. 
+
+
+Split Display Screen - Splitting the display 
+screen into two or more parts with all of the 
+capabilities that apply to the screen in non-split 
+mode applying to each of the parts separately. 
+
+
+-1ll- 
+
+
+ee 
+
+
+te eee 
+r Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+asad 
+
+
+| Declassified in Part - Sanitized Copy Approved fo 
+
+
+Declassified in Part - Sanitized Copy ApPIayed for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Merrie ee wa 
+bei os sad 
+
+
+TTY Protocol - Transmission of ten bit ASCII 
+communications code using one start and one stop 
+bit. 
+
+
+Tabulation - The capability to set tab stops 
+differently for each line of the display. 
+
+
+Usable Screen Area - The part of the display 
+screen on which character data may be displayed. 
+
+
+-12- 
+
+
+Dene Deke adda. 
+Sd FANE EM AE ES alee PC 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| | 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| LNAWHOVLLV 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| (7. ram, 
+Declassified in Part - Sanitized Copy Approved f for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+eet Gee 
+
+
+ATTACHMENT T 
+
+
+Name 
+Component 
+
+
+Extension 
+TERMINAL QUESTIONNAIRE 
+
+
+TeAs What CRT terminals does your component now 
+use? 
+
+
+Please separate Terminal Types according to 
+services (e.g., APL, ATS, BASIC, BATCHMON/ASP, 
+CAMEXEC, CAMS, CDS, COINS, DIAOLS, EDIT/SEDIT, 
+ETEC, GIMS, NDS, NIPS, RAMIS, SAFE (INTERIM), 
+STAR, SCRIPT, UMLS). To assist you, we have 
+included a list of your component's terminals 
+which (according to our records) are attached 
+to ODP hardware. Please correct any error or 
+deficiencies in this list. 
+
+
+Be sure to list below all CRT terminals, 
+not just those attached to ODP hardware. 
+
+
+Terminal Number of 
+Types Terminals Services 
+
+
+mae 
+
+
+Declassified in Part - Sanitized Copy Meeeoied for Roleese 2012/08/27 - CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy ADPIOVES for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+Bs 4 a 
+
+#) a ans : 
+
+wea euhbaelkd by 
+
+
+B. Which features, if any, of the above terminals 
+do you find inadequate? 
+
+
+Cc. Assuming that existing CRT terminals such as 
+the Delta Data, Superbee and IBM 3270 will remain 
+in use through at least FY 82; please provide a 
+"working" number (if any) of additional alpha- 
+numeric soft copy terminals that your component 
+will require in each of FY 78, FY 79, FY 80, FY 
+81, FY 82 and FY 83. 
+
+
+FY 78 
+
+
+FY 79 
+
+
+FY 80 
+
+
+FY 81 
+
+
+FY 83 
+
+
+Declassified in Part - Sanitized Copy eeciad for Relodee 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy AEDIONe? a paca 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+II. 
+
+
+colds LER Tere ay foe, 
+
+
+In the left-most column please rate each 
+item: 
+
+
+-l1 Not required. 
+Q Not rated (Utility for my component's 
+applications is unknown). 
+1 Desirable (Evaluation based on cost). 
+2 Mandatory requirement. 
+
+
+In the second column for any item rated 1 or 
+2 please provide an estimated percentage of the 
+terminals indicated in Section I. C. which your 
+component requires (or desires) to have this 
+feature. 
+
+
+Also for item(s) rated 1 or 2, please describe, 
+when possible, your application(s) of the item(s). 
+You may use the space below item(s) or a separate 
+sheet of paper. 
+
+
+Some items which are obvious requirements 
+(e.g., non-glare terminal screen) have been 
+omitted. 
+
+
+Any items that you feel should be added may 
+be listed (and rated) at the end of any of the 
+sections (A, B, C or D) below. 
+
+
+A. Configuration 
+
+
+Rating Percentage 
+
+
+1 The ability to switch 
+terminals between 
+services (Refer to 
+Section I. A.) If 
+rating is 1 or 2, 
+associate services with 
+application(s). 
+
+
+INOLA Dol EL: 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+PHRSeed Baka RH me 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+eT LIV UEe ben od 
+
+
+Rating Percentage 
+
+
+2 The ability to be used at 
+domestic remote sites. If 
+rated 1 or 2, indicate 
+whether terminal size and 
+environment are consider- 
+ations? 
+
+
+3 The ability to be used at 
+overseas sites. If rated 
+1 or 2, indicate whether 
+size and environment are 
+considerations? 
+
+
+4 Word processing (e.g., 
+SCRIPT, ATS). 
+
+
+5 Local text editing. 
+
+
+6 Local validation of data. 
+
+
+HAY LOG! 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release ee i RDP95-00972R000100170013-9 
+Layee sage ay ud 
+
+
+Rating Percentage 
+
+
+7 The ability to make bar 
+charts and simple line 
+graphs. 
+
+8 Local (e.g., cassette, 
+
+
+floppy disk) storage 
+
+capability. If rated 
+
+l or 2, please indicate 
+
+the amount of storage 
+
+you require (desire). 
+bytes. 
+
+
+9 Small size at the expense 
+of other features. 
+
+
+10 Interconnect to and support 
+a high quality printer. 
+
+
+il Interconnect to and support 
+a low to medium quality 
+non-impact printer. 
+
+
+Mabe sb bat bald Ga ed i 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27. CIA. RDP95-00972R000100170013-9 
+
+
+ARS AA lm 0 rere ee 
+
+
+Declassified in Part - Sanitized Copy PRON for poet 20282 CIA-RDP95-00972R000100170013-9 
+SeIL Feasts goss 
+
+
+Rating Percentage 
+
+
+12 The ability to overlap local 
+printing with normal operation 
+of terminal. 
+
+
+13 The ability to backtab --- 
+move the cursor to a previous 
+tab or format field. 
+
+
+14 The ability to retain 
+tabulation position(s). 
+If rated 1 or 2, 
+tabulation position(s) 
+are required (desired). 
+
+
+15 Buffering to allow storage 
+of at least one completely 
+full screen of character 
+data and a paging function 
+to display this data. If 
+rated 1 or 2, please 
+indicate, here, the number 
+of full screens of 
+character data you require 
+(desire). 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved f 
+i 
+
+
+Beease 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+B. Screen, Display Formats and Character Sets 
+
+
+Rating Percentage 
+
+
+1 Split display --- the 
+division of the screen 
+into two or more areas. 
+
+
+2 The ability to display 
+reversed video --- light 
+characters on dark back- 
+ground. 
+
+
+3 Multi-color display 
+capability. 
+
+
+4 The ability to display 
+at least 12 lines in an 
+80 column format. If 
+rated 1 or 2, please 
+indicate number of lines 
+(either 12, 24, 27 or 
+more than 27) you require 
+(desire). 
+
+
+egies 
+
+
+POT MASS Hiss 
+ue i 
+Ou + a 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+ay 4k. Moo ib 
+
+
+Rating Percentage 
+
+
+Full ASCII upper and lower 
+
+
+: case character set (i.e., 
+not ASCII upper case only) 
+
+6 APL 
+
+7 Special character set(s) 
+(e.g., foreign language 
+character set(s)). 
+
+8 Variable intensity 
+character display. 
+
+9 Blinking 
+
+
+J NPL ASS! [ebe if 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+EG LAgell ILL 
+
+
+Rating Percentage 
+
+
+10 A display area of at 
+least 6 inches by 9 
+inches. If rated 1 or 
+2, please indicate 
+display area dimensions 
+(e.g., Delta Data 5260 
+has dimensions of 6 
+inches by 11 inches and 
+the IBM 3270 has a 14 
+inch diagonal dimension) 
+required (desired). 
+
+
+HUA 
+
+
+Declassified in Part - Sanitized Copy ea for Release 2012/ 08/27: CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release. 2012/08/27 “CIA-RDP95-00972R000100170013-9 
+
+
+Rundi old HL 
+
+
+C. Keyboard, Other Terminal User Entry Devices, 
+
+
+and Terminal Controls 
+
+
+Rating Percentage 
+
+
+1 i(<i‘<—~S Setsti‘(ititsti‘i;s:s~S~*éS~ GSR C[l@eT.... 
+Do a Detachable keyboard. 
+3 A switch within easy 
+
+
+user reach that converts 
+the terminal from upper/ 
+lower case (assuming of 
+course that the terminal 
+has both) to upper case 
+only and vice versa. 
+
+
+AP ce OS The ability to easily 
+repeat characters. 
+
+
+By ween Programmable function 
+keys. If rated 1 or 2, 
+keys are 
+
+
+required (or desired). 
+
+
+-10- 
+
+
+ead ASCE 
+
+
+Ae 
+
+
+Declassified in Part - Sanitized Copy Approve for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+URULASOIFIEL 
+
+
+6 Physical key lock mechanism 
+at terminal. 
+
+
+UNCLASSIFIED 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+Declassified in Part - Sanitized Copy cua for he ease 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+es aad ash if 
+
+
+D. Display Speed 
+Rating Percentage 
+
+
+1 The ability to get full 
+screen display in less 
+than 15 seconds. If 
+rated 1 or 2, please 
+indicate number of 
+seconds (either 10 to 
+15 seconds, 6 to 10 
+seconds, 3 to 5 seconds, 
+
+1 to 2 seconds or less 
+
+than one second) required 
+(desired). 
+
+The Delta Data 5260 (ODP 
+version) requires, for 
+example, 6 to 10 seconds 
+
+to get full screen display 
+at a 2400 baud transmission 
+rate. 
+
+
+| 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+ll LNAWHOVLLV 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Sey 
+oreo 
+
+
+ov) 
+
+
+UNCIA 
+HIGHEST RATING PER QUESTIONNAIRE ITEM 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+N AANA Ae NANNTAANNTON COnAaAY 
+
+
+°o ANHHOO! SdH nOCHOAN moHOO 
+! 1 1 I 1 ’ ' 
+N NHANtde CON FORNTAAN 2enoo 
+1 
+“ NANTON |] SONNHOCONNHO HOncOo 
+1 1 1 ' 
+a ANNAN 1 ONNANNANNAO HONOO 
+1 
+eq AONHOO) Od AnAnAHOOO HOHoOO 
+4 i t i} i) ' ' 
+n AANA I SAAN AAA NO Honoo 
+' 1 1 
+r) NANNAN I cananananannno HHACHO 
+1 
+° HHANOCHA |! ONARAARNAHNO HOnHoo 
+1 l ' 1 
+q SANNA I SONNHOHANNS Honor 
+1 t 1 
+°o ANAHOn SANKAR ANA OR aonoOo 
+H t ' 1 1 t 
+qd AONdHeA SCHONDHANARA aaAooo 
+1 I t ! 
+N NNN FAN I ONNANNANNN aad oOO 
+1 1 ( 
+nN NANNNA I HANNNANNANNS OANA 
+a dadAdade SHOOK AHAAOR AOHOO un 
+1 ! 1 1 ’ ' f 
+Yn 
+° HONHOA CAHOCHOHRAHOSO HAOHOO Zz 
+1 i ! l 1 o 
+° HHANTKOO! NONKHAAAAAN HOoao0o n 
+1 i} 1 1 8 
+rs) HANNHNI NANNNANNNA A HANNON ig 
+HoH 
+Hog 
+N NANNAG I HAONONOHANG dHnHoo zy 
+’ ' t vp Zz 
+£0 
+oo 
+“ NONTKAN I ANNOAAA ANA AAHNCO Eu 
+' ' ' Ea n 
+1c] 
+© D 
+qi AANAANI AAHOAANNAS daooo 4 a 
+1 ' 1 
+ae 
+r) NANNHAN ANNOAANANNG ANNON Zz 
+J i} H 
+nN NAAAAN NANNNAANNHAN dadan re) 
+1 ' H 
+
+
+N ASCnHdAdA! SCH HAHOdnHHAA HAOHoO 
+1 pra i Cr on ' ' 
+i) AONHONS SCHHOHANDHA HAOHAOO 
+! ' ' 
+al NOdtdAHAN] ONCHHARANNA H1oond 
+I 
+N HANA ANH OHNNANGA AOHoOSO 
+l i) ' 4 
+N ANNA I ANNOANANANG HOOoOd 
+i} 1 
+N ANHAAN I HONodtANNNA onooo 
+f ’ 
+N AOHnHOO! AACR HOnHAN HHAAHOO 
+1 4 tt tt Pre rus 
+Nn HHANOOd |! ANAAHOOKHAN ANHOO 
+t ' tue ' 1 ' 
+i.) ANNNANNAN 1 HANANNANTAAN DANN 
+i 
+[24 Wi 
+BR | 
+oO oO 
+Ga fy io 
+: g 5S 8E E 
+_— Ww fo) fa HH = 
+4 Aj) anvua ae H nn Oo 
+4 SB OHHBOAN eR Ay tel a oO av 
+O[| &£ NH NMAAHDMA HH HHOUHUMNNHNEO H C00 
+A ers B OhAOOOSO a eooco0oo0000u g OHH () 
+
+
+ny qoute wd 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+thik 
+
+
+A B Cc 
+12 3 4 5 6 7 8 9 10 i1 12 13 #14 «#215 1 2 3.4 § 6© 7. 8 9 10 1 2 3 4 ~=5 
+=“. 0 @-1 2 2 2-1. D 2 2 0 2 0 2 Q0-1-1 2 1 0-1 2 2 2 -1-1 2 2 0 
+2 2 ho 2 22 be deet 2 2 1 2 2 2 -1 1-1 2 2 0-1 1-1 2 Q 2 :l; 2 -2 
+(a mee ae | a a ae OR 0 2 0 1: 1 1 -1-1-1 1 0 0-1 2-1 1 1-1 0-1 1 
+22h = 0 2 2 1 2 TF 1 2 1 2 2 2 O-l-l 1 2-L-1 2 2 2 -1-1 1 21 «0 
+2 2 0 2 2 2 1 0 0 2 2 L 2 2 2 1031 2 2 1-1 2 2 2 doe fe oe 2 
+212 212 21 0 21 0-1 2 2 1 0 2 2 0 0 1 2 21 21 00 21 2 102 0 0 
+2 2-1 2 2 2 2-1-1 2 2 2 2 2 2 -1 7-1-1 2 2-1 -1-1 21 2 rel e122 2-1 
+2 Det od 8 2b Bel Hb 2 2 2 1 2 -1-1-1 2 1-1 -1-1-21 2 013112 
+
+
+NOTE: 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+UNE ED 
+
+
+HIGHEST RATING PER QUESTIONNAIRE ITEM 
+
+
+If more than one rating for any one item was provided, 
+the highest of the ratings is provided here. 
+
+
+Not Rated 
+
+Mandatory Requirement 
+Desirable 
+
+Not Rated (Utility Unknown) 
+Not Required 
+
+
+TERMINAL QUESTIONNAIRE RESPONSES 
+
+
+UNCL RSS 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+ro 
+
+
+MN ENNN ONN 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+UNGLASS is 
+
+
+HIGHEST RATING PER QUESTIONNAIRE ITEM 
+
+
+_ 
+idl 
+
+
+A B 
+12 3 4 5 6 7 8 9 10 #112 =#12 ~#13 +14 ~«215 1 2 3 
+ODP/PROCESSING 
+William E.* ae AS 42> Tp 24 1: 2b Sh 2 2 1 1 2 2 1 1 0 
+David M.* 2-1-1 2 2 2 2-1-1 1 2 0 2 2 2 0-1 -1 
+ODP/SPECIAL 
+PROJECT STAFF 
+Dennis M.* 2 2-1 2 21 01-1 0 2 1 1 1 1 2 -l-1-1 
+ODP /MANAGEMENT 
+STAFF 
+Jay R.* 28 0: .0. S25 22") De EE ot) 0 2 1 2 2 2 0-1 1 
+ODP/APPLICATIONS 
+Division A 2 002 21212 2 «0-1 1 1 1 1 2 1 0 0 0 
+Division B 2 2 02 2131 2 «41-21 af 2 1 2 2 2 0021 
+Division C Doe ie DS Se oe Oe eT 1 - 1 2 - 2 - - 1 
+Division D 2 2-1 32132122«21«+0 1 1 J: 1 1 2 1-11 
+Training 2 2-1 2 212 2 «21 «01 1 2 1 1 1 1 -1-1-1 
+Dale G.* 2-1-1 2 1 121éd1~-i1 1 2 it 1 2 2 101 
+Dennis H.* 2 002 -+- 2 121 «0 1 1 2 2 2 2 o 1 0 
+
+
+NOTE: If more than one rating for any one item was 
+provided, the highest of the ratings, is provided here. 
+
+
+Not Rated 
+
+Mandatory Requirement 
+
+Desirable 
+
+Not Rated (Utility Unknown) 
+
+Not Required 
+
+Member of Terminal Requirements Working Group 
+
+
+*#ROrRN! 
+huoenu tl 
+
+
+TERMINAL QUESTIONNAIRE RESPONSES 
+
+
+NN 
+
+
+NNNNMNMNNY 
+
+
+NNNNHHH 
+
+
+ONNNIFSO 
+
+
+c 
+7 8 9 #10 Me 2 a3 8 
+0 1-l 0 11 2 2 
+sd: 25 2 2 1-1 2 2 
+-1-1-1 2: Sd ay 5s <2 
+-l1 2 1 2 -1-1 2 1 
+o21it 2 1 0 21 2 
+1.2 2 2 1-1 2 2 
+- lil 2 ae ae 
+fh, ok 2 a ie ee a 
+=I. .:2° dk 1 Weed 1 
+1 ks «2 2 1 1 2 2 
+041i 1 1 0 1 2 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+RN 
+
+
+PRHORRPNP 
+
+
+COORPNEHN 
+
+
+NNrMNNNN 
+
+
+Declassified in Part - Sanitized Copy Approved it Release ee Ogee CIA-RDP95- 00972R000100170013- 9 
+wate oe 
+
+
+DDO 
+(ALL) 
+DDS &T 
+
+
+O/DDS&T 
+FBIS 
+
+
+DDI 
+
+
+CIA OSP CTR 
+OIA 
+
+OCR 
+
+OER 
+
+OGCR 
+
+ORPA 
+
+OST 
+
+OSR 
+
+
+OWI 
+COMIREX 
+
+
+- = No Number Provided 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+ADDITIONAL TERMINALS REQUIRED FOR FY'78 to FY'83 
+
+
+FY FY FY FY FY FY 
+
+
+78 
+
+
+29 
+
+
+uw 
+PNolwosbw 
+
+
+79 
+
+
+DWUN HAWN WwW 
+
+
+nN 
+[o>] 
+
+
+80 
+
+
+tTwloorwl 
+
+
+AW PNA UID W 
+
+
+tw 
+
+
+81 
+
+
+UW mR WUE N 
+
+
+wo 
+
+
+82 83 
+38 38 
+7 10 
+50 50 
+0 0 
+4 4 
+3 3 
+1 Ll 
+5 5 
+1 1 
+0 0 
+4 4 
+3 3 
+4 4 
+
+
+Iw 
+bw 
+
+
+("WORKING" NUMBERS) 
+
+
+pcr 
+
+
+OGC 
+
+Ic Staff 
+
+IG Staff 
+
+RES 
+O/COMPTROLLER 
+
+
+DDA 
+
+
+TERMINAL QUESTIONNAIRE RESPONSES 
+
+
+UNCLA 
+
+
+Car: = 
+Pod ie 
+
+
+FY FY FY FY FY FY 
+
+
+78 
+
+
+ONF IN 
+
+
+nN 
+
+
+WwW 
+PP 1LONWHE & 
+
+
+79 
+
+
+ONrF Ib 
+
+
+80 
+
+
+ONF TN 
+
+
+81 
+
+
+OrolnN 
+
+
+82 
+
+
+Oro! N 
+
+
+83 
+
+
+Oro! nN 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+UilULNuuil ILU 
+
+
+ADDITIONAL TERMINALS REQUIRED (FY'78 to FY'83) 
+
+
+FY FY FY FY FY FY 
+78 719 80 81 82 83 
+ODP /PROCESSING 
+William E.* - - - - - - 
+David M.* 6 5 5 5 5 5 
+ODP/SPECIAL PROJECTS STAFF 
+Dennis M.* 1 2 2 1 0 1 
+ODP /MANAGEMENT STAFF 
+Jay R.* = 1 = = = = 
+ODP /APPLICATIONS 
+Division A 5 2 2 2 2 2 
+Division B - - - - = 7 
+Division C = - = - - = 
+Division D - 7 = = - = 
+Training 3 0 0 0 0 0 
+Dale G.* = = = = = = 
+Dennis H.* 7 a = = - - 
+
+
+No Number Provided 
+Member of Terminal Requirements Working Group 
+
+
+TERMINAL QUESTIONNAIRE RESPONSES 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+ll! LNSWHOVLLY 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| | 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+NLS hed ROR 
+
+
+‘| ATTACHMENT III 
+
+
+Project SAFE Workstation (Terminal) Requirements 
+| (Excerpt from: SAFE Functional Requirements, Dated 
+1 March 1977) 
+
+
+7.1 INTRODUCTION 
+
+
+User workstations will consist of up to seven modular 
+components. Two or more modular components may be 
+combined to satisfy the needs of a given user. This 
+approach will facilitate cost/functional trade-off 
+analysis, cost-effectiveness, and reliability and 
+Maintenance of each workstation. The modules avail- 
+able for a workstation include the following: 
+
+(1) interactive display module, (2) hardcopy image- 
+display module*, (3) receive-only, medium-quality 
+printer module, (4) receive-only, high quality printer 
+module*, (5) user keyboard module, (6) secure telephone’, 
+and (7) writing area, storage area for listings and 
+reference aids*. 
+
+
+Controls and indicators, technical requirements, and 
+
+8 functional requirements are documented for each module. 
+Functional requirements do not mean that a particular 
+function must be directly supported by the module under 
+discussion; rather, the requirements simply address a 
+means for a user to cause a given action to take place. 
+Whether that action is implemented in a particular 
+workstation component, the workstation as a composite, 
+a computer, or some other facility, is not relevant to 
+these requirements. Physical requirements for a work- 
+station are documented in paragraph 7.7; interface 
+requirements are documented in paragraph 7.8. 
+
+
+Sk 7.2 INTERACTIVE DISPLAY MODULE 
+
+An interactive display module will be used for communi- 
+cating with the system and viewing the display of digital 
+data from the SAFE data base. 
+
+7.2.1 CONTROLS AND INDICATORS 
+
+Controls and indicators provided with the interactive 
+
+
+display module will include but may not be limited to: 
+
+
+* Not applicable to the Agency Standard Soft Copy 
+Computer Terminal Requirements. 
+
+
+ead - 1l- 
+INP) Aesirirn 
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Gis doe CGV WHEE Sind 
+
+
+(1) ON/OFF switch, (2) FOCUS control, (3) BRIGHTNESS 
+control, (4) CLEAR-SCREEN switch, (5) CLEAR-MEMORY 
+switch (if the module includes a buffer memory), 
+
+(6) POWER-ON indicator, (7) Transmit light to indi- 
+cate when the workstation is transmitting data to 
+the system, (8) ALERT-ALARM indicator which will be 
+activated by a remote computer, (9) ALERT-ALARM 
+reset switch, (10) MODE-OF-OPERATION switch, and 
+(11) GENERAL RESET switch. 
+
+
+7.2.2 TECHNICAL REQUIREMENTS 
+
+
+The following describes the requirements that will be 
+met by each interactive display module: 
+
+
+(a) Phosphor Color - Characteristics will be chosen 
+to maximize user's visual comfort. 
+
+
+(b) Highlighting - At least three modes of selective 
+highlighting will be provided, one of which will 
+be character or field blinking. Other examples 
+of highlighting are reverse video, underlining, 
+and programmable brightness levels. 
+
+
+(c) Read/Write Rates - The workstation will perform 
+at read/write rates of approximately 1,000 
+characters per second. 
+
+
+(ad) Screen Size - The minimum diagonal screen 
+Measurement will be 12 inches, and the screen 
+will display a minimum of 2,080 characters 
+simultaneously, without discernible flicker, 
+arranged in a minimum of 26 rows of 80 
+characters each. 
+
+
+(e) Character Set - A 96-character set, uppercase 
+and lowercase, will be displayable. Further, 
+some interactive display modules will be 
+equipped with support for A Programming 
+Language (APL), and will require the capability 
+for user-dynamic selection of the APL or 
+other character sets. 
+
+
+(f) Field Selection - Support will be provided to 
+facilitate a user's dynamic selection of any 
+character(s) or screen position(s), by devices 
+such as a light pen or mouse. 
+
+
+(g) Function Keys - A set of programmable function 
+keys will be provided to support various technical 
+or functional requirements and user functions 
+required by individual users or user groups. 
+
+
+UNCLESe: sien 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+(h) 
+
+
+Te2e3 
+
+
+ROP Lis 
+
+
+Alert-Alarm Indicator - Support will be provided to 
+enable remote activation of the Alert Alarm indicator 
+whether the interactive display module is powered on 
+or powered off. 
+
+
+FUNCTIONAL REQUIREMENTS 
+
+
+The following describes the functions that will operate on 
+each device: 
+
+
+(a) 
+
+
+(b) 
+
+
+(c) 
+
+
+(d) 
+
+
+(e) 
+
+
+(f) 
+
+
+Operational Modes - Support will be provided to 
+operate the interactive display module in either the 
+overstrike or insert modes, as selected by the 
+operator. Overstrike causes the character typed in 
+at the cursor location to replace the existing 
+character in that position, and advances the cursor 
+one position to the right. Insert causes the 
+character typed to be placed at the cursor location 
+and, to make room, moves characters to the right 
+
+of and below the cursor. During insert operations 
+fullword wraparound is effected such that as 
+characters are pushed right by inserted characters, 
+and the maximum positions of the line are filled, only 
+full words are moved to the next line. 
+
+
+Delete Character - Support will be provided such that 
+depression of the appropriate key will result in the 
+deletion of the character at the cursor location and 
+cause the text to the right of and below that location 
+to shift back and up to fill the gap, following the 
+rules of fullword wraparound defined in (a) above. 
+
+
+Delete Word - Delete word will operate the same as 
+delete character except that an entire word is 
+deleted. 
+
+
+Delete Line - Delete line will operate the same as 
+delete character except that an entire line is deleted. 
+
+
+Move Block - Support will be provided such than an 
+arbitrary block of text displayed on the screen may be 
+defined and moved to another designated location on 
+the screen. 
+
+
+Scroll - Support will be provided to facilitate 
+scrolling lines up or down, one line at a time. If 
+the scroll key (either up or down) is depressed for 
+more than one-half second, the scroll function will 
+be repeated until the key is released. 
+
+
+-3- 
+
+
+SRee oh a id 
+ie ar fae. . 4 a} 
+histo ” 
+
+
+, Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Cocas 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+; tere 3 
+| 
+i 
+
+
+(g) Split-Screen - Support will be provided to allow a 
+display to be split into two parts under user control. 
+All of the capabilities that apply to the display in 
+non-split mode will apply to each of the parts 
+separately. 
+
+
+7.3 HARDCOPY IMAGE-DISPLAY MODULE* 
+
+
+7.3.1 GENERAL 
+
+
+Remote viewing of hardcopy documents requires a high 
+resolution, display system. Hardcopy images will be re- 
+quested through the interactive display and keyboard modules. 
+The requested data will be displayed on the hardcopy image- 
+display module. 
+
+
+7.3.2 TECHNICAL/FUNCTIONAL REQUIREMENTS 
+The technical and functional requirements for the hardcopy 
+
+
+Image-Display Module will be specified in the ADSTAR Require- 
+ments Document or Systems Specification document. 
+
+
+7.4 RECEIVE-ONLY, MEDIUM-QUALITY PRINTER MODULE 
+
+
+7.4.1 GENERAL 
+
+
+A remote, quiet, medium-speed, medium-quality, receive-only 
+printer will be furnished to produce local hardcopy (from 
+either of the display modules) at the user's command. 
+
+
+7.4.2 CONTROLS AND INDICATORS 
+
+
+Controls and indicators that will be provided with the 
+receive-only, medium-quality printer module will include but 
+not be limited to: (1) ON/OFF switch, (2) paper-jam indicator, 
+(3) START/STOP-PRINTING switch, and (4) RESET switch. 
+
+
+7.4.3 TECHNICAL REQUIREMENTS 
+The following characteristics are required: 
+
+
+(a) Speed - The printer will print at a maximum of 120 
+lines-per-minute. 
+
+
+*Not applicable to Agency Standard Soft Copy Computer 
+Terminal Requirements. 
+
+
+-4- 
+IHes! a Garry 
+dor ty. y “ spiet 
+1 Declassified in Part - Sanitized Copy pene for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+1 | 
+PERE 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 3012/08/27 - CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+(b) Character Set - The printer will print a 96-character 
+set (plus the special characters required in paragraph 
+4.3.6, Print), uppercase and lowercase, or images from 
+the hardcopy image module. 
+
+
+7.5 RECEIVE-ONLY, HIGH-QUALITY PRINTER MODULE* 
+
+
+7.5.1 GENERAL 
+
+A relatively slow, high-quality, hardcopy printer is required 
+to produce text suitable for reproduction and publication. 
+7.5.2 CONTROLS AND INDICATORS 
+
+a Controls and indicators provided will include but not be 
+
+
+limited to: (1) paper-jam indicator, (2) ON/OFF switch, 
+(3) START/STOP-PRINTING switch, and (4) RESET switch. 
+
+
+7.5.3 TECHNICAL REQUIREMENTS 
+The following characteristics are required: 
+
+
+(a) Speed - The printer will print at a minimum of 30 
+characters-per-second. 
+
+
+(b) Quality - The print quality will be such that it is 
+suitable for camera-ready copy at least equal to text 
+typed on an IBM Selectric typewriter. 
+
+
+(c) Character Set - The printer will print a 96-character 
+set (plus the special characters called for in para- 
+graph 4.3.6, Print), uppercase and lowercase. 
+
+
+7.6 USER KEYBOARD MODULE 
+
+
+7.6.1 GENERAL 
+
+
+The user keyboard will be provided with each user workstation, 
+to provide input of user requests and data to the computer 
+system. Flexibility is required in attaching and interfacing 
+this module to the other modular components. 
+
+
+*Not applicable to Agency Standard Soft Copy Computer 
+Terminal Requirements, 
+
+
+1 Declassified in Part - Sanitized Copy Approved aes 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+| 
+
+
+Declassified in Part - Sanitized Copy Approved for ea 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+VNU. It 
+
+
+7.6.2 CONTROLS AND INDICATORS 
+
+
+In addition to the interactive display module controls and 
+indicators, keyboard controls and indicators for each key- 
+board will include but not be limited to: (1) a modular 
+configuration-selection switch capable of specifying the 
+configuration of the workstation, (2) LOCAL/REMOTE indicator 
+(controlling all modules), (3) TRANSMIT/RECEIVE indicator, 
+and (4) character set switch for APL and/or a 96-character 
+set when needed. 
+
+
+7.6.3 TECHNICAL REQUIREMENTS 
+
+
+Requirements that will be met by each keyboard module are 
+the following: 
+
+
+(a) Function Keys - There will be support for a minimum 
+of ten programmable function keys. 
+
+
+(b) Compatability - Each keyboard will be compatible with 
+the technical requirements of the other modules of 
+a user workstation. 
+
+
+7.6.4 FUNCTIONAL REQUIREMENTS 
+
+
+A user keyboard will be equipped to accommodate the functions 
+of each of the other workstation modules. 
+
+
+7.7 PHYSICAL REQUIREMENTS 
+The following characteristics are required: 
+
+
+(a) Environmental - The workstation will be compatible with 
+the Agency's general office environment, defined herein 
+as an enclosed or non-enclosed 100-square-foot area. 
+
+The workstation will tolerate temperate ranges, humidity, 
+and pollutants, such as smoke and dust, found in an 
+office area. 
+
+
+(b) Size - A workstation will not exceed more than 10- 
+square-feet of floor or desk space. The shorter side 
+will fall in the range of 1.5 to 2.5 feet. 
+
+
+(c) Weight - To facilitate maintenance, each modular 
+component will be manually portable. 
+
+
+-6~ 
+WMALfsrticn 
+1 Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
+Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+
++ Te ee 
+Woon. es do 
+
+
+(d) Power - Because the workstations will be installed in 
+ordinary office space, the capacity to dissipate heat 
+may be quite limited. Therefore, it is essential to 
+reduce power dissipated by the workstation to a 
+minimum. The goal is not to exceed 250 watts. 
+
+
+7.8 INTERFACE REQUIREMENTS 
+
+
+Each module will be compatible with and capable of success- 
+fully interfacing with the other devices of the workstation. 
+
+
+HMC ACES 
+, Declassified in Part - Sanitized Copy Approved for Release 2012/08/27 : CIA-RDP95-00972R000100170013-9 
+
+

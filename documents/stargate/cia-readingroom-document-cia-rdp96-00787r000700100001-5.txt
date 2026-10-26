@@ -1,0 +1,3000 @@
+. Approved\For cieese sodden? : CIA-RDP96-00787R000700100001-5 
+Pisems Romie Sa ss BON ” Bot ete : Dany ’ ” 
+
+
+yl ene } 
+SLL 
+1 October 1973 
+Proposal for Research LIA TBE 
+SRI No. ISH 73-146 7 ORD faa 41S -73 
+
+
+PERCEPTUAL AUGMENTATION TECHNIQUES 
+
+
+Part One--Technical Proposal 
+
+
+Prepared by: 
+
+
+Harold E. Puthoff 
+Senior Research Engineer 
+
+
+Russell Targ 
+Senior Research Physicist 
+
+
+Approved: 
+
+
+Pens) % 
+Earle D. Jones, ae — 
+
+
+Electronics and Bioengineering Laboratory 
+
+
+Vine 
+
+
+Bonnar Cox, Executive Director 
+
+
+Information Science and Engineering Division ' 
+Copy No. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 we 
+
+
+* 
+
+
+: Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+CONTENTS 
+LIST OF ILLUSTRATIONS. .....,, mA Ble tel wey Oe. Udi eo EE ale Ye) Cr iii 
+BRST OE NBME hie Ve Ais a hye Ane ee ee da og te og hae, iv 
+Be PED RODUCTVON cst sete rad a Mi nes carrie Ss ok oe ye Stka le. of ahve ee 1 
+II BACKGROUND. .......s.e ee arse) te Ae ie ca oe eR de ON 3 
+A. Exploratory Research in Remote Viewing ....., oo. 3 
+Le Global Targets--Training MOU ie, ani. Bs ce SY, 7 3 
+
+2. Demonstration-of—Ability Tests: Double-Blind 
+Client-Supplied Coordinates ......, an Bg oy 6 
+B. EEG Experiments. ...... eB ips dee ies aha sel, ay aw com Sm IY 18 
+Cc. Remote Perception of Graphic Material. ....., eo 8 6 23 
+III PROPOSED PROGRAM. ». ee. ee ee 40 
+A. ODT COELV Gy ee ole, og Ee vg ae oe a Sa SS 40 
+B. Technical Approach ....., PS ER a ea ee! Bs 40 
+Cu Statement of Work. ......, te ea a a eee 41 
+D. Reporting Schedule ......., ce Se Tn a eta 42 
+IV QUALIFICATIONS OF STANFORD RESEARCH INSTITUTE ......,., 43 
+
+li 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+19 
+
+
+20 
+
+
+ILLUSTRATIONS 
+
+
+training Results: (Swann). 4. 6 6 4 4 «aos ee 44. 
+Map No. of West Virginia Site (Swann) ........, 
+Map No. of West Virginia Site (Detail--Swann) .. 
+
+Map of Unale Site (Price) soe 6 oS Se «we aS oe eR 
+Map No. of Kerguelen Island Site (Detail--Swann). 
+
+Map No. of Kerguelen Island Site (Swann). ....4.. 
+Map No. of Kerguelen Island Site (Price). ....., 
+
+
+Occipital EEG Frequency Spectra, O to 25 Hz, of 
+
+
+Jean Mayo, Receiver <4) ¥ 4.6 Gio @ XA wk es oo 
+
+
+Occipital EEG Frequency Spectra, 0 to 25 Iz, of 
+Hella Hammid, Receiver. ........086 5. wee oe 
+
+
+Shielded Room Used for: EEG Measurements ......0084, 
+
+
+Target 1 (Firecracker) and Geller's Responses ..... 
+
+
+Target 
+Target 
+Target 
+Taveot 
+Target 
+Target 
+Target 
+
+
+Target 
+
+
+2 
+
+
+3 
+
+
+8 
+
+
+9 
+
+
+(Grapes) and Geller's Response ....... . 
+(Devil) and Geller's Responses ...... j 
+(Solar susie and Geller's Response ...,. 
+(Camel) and Geller's Response. ..... 
+(Golden Gate Bridge) and Geller's Response -, 
+(Seagull Flying) and Geller's Response 
+
+(Kite on CRT Display) and Geller's Response. 
+
+
+(Church, Stored in Memory of Text-Editing 
+
+
+Computer) and Geller's Response ...... ae es tae 
+
+
+Target 10 (Arrow Through Heart, Stored in Computer 
+
+
+Graphics Program) and Geller's Responses. ...... 
+
+
+iid 
+
+
+| ‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+21 
+
+
+22 
+
+
+37 
+
+
+39 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+4 
+
+
+3 Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+TABLE 
+
+
+Results of Global Targets Training--Run 10, . 2. 1. 2. «© wa. 5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+4 
+
+
+| ; Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+I INTRODUCTION 
+
+
+Stanford Research Institute proposes to undertake a One~year research 
+program to investigate, and develop techniques to enhance, human percep- 
+sae * 
+tual abilities. 
+
+
+The perceptual abilities that we have been investigating for the 
+past year are sometimes considered paranormal phenomena. However, our 
+recent work leads us to consider them as, to a greater or lesser extent, 
+latent in all people. The phenomena we have investigated most exten- 
+sively pertain to the ability of certain individuals to view with great 
+clarity distant scenes not presented to any known perceptual sense. In 
+addition, we have performed more modest experiments with unselected sub- 
+jects who have been found to exhibit direct physiological (EEG) evidence 
+of perception of remote happenings. Our accumulated data make it appear 
+that both gifted and ordinary persons can be assisted in developing 
+remote perceptual abilities up to a level dictated by their individual 
+potentialities, The purpose of the proposed research is to investigate 
+the physical and psychological variables underlying these phenomena so 
+that we may gain a greater understanding of this ability and a more com-' 
+plete grasp of its limits and applicability. ‘ 
+
+
+Section If of this proposal provides background material, detailing 
+the evidence pertaining to remote viewing and other nonregular percep- 
+tual abilities. In this section we describe: 
+
+
+¢ Experiments with two gifted individuals who took part in 
+double-blind experiments to perceive scenes at intercon- 
+tinental distances. 
+
+
+¢ Brain wave experiments in which ordinary (not specially 
+selected) subjects were asked to perceive whether or not 
+a remote light was flashing--the EEG data from several of: 
+_ these subjects indicates objectively that they did perceive 
+the presence of the light, even if only at a noncognitive 
+level of their consciousness. 
+
+
+*K 
+This proposal has been prepared at the request of the client. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved, Far, Release, 2001/03/07, : CIA-RDP96-00787R000700100001-5 
+
+
+mote perception experiments with 
+Mr. Uri Geller, in which he, while located in an elec- 
+trically shielded room, was able to reproduce target 
+pictures drawn for the occasion at various SRI locations. 
+
+
+Section III describes the proposed program and presents a detailed 
+work statement, along with the major program milestones. 
+
+Section IV outlines the experience, facilities, and personnel of 
+Stanford Research Institute, and its Electronics and Bioengineering 
+Laboratory that are available to contribute to the successful completion 
+of this work. 
+
+
+A separate Part Two of this proposal covers contractual matters 
+and costs. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+v 
+
+
+“Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+IT BACKGROUND 
+
+
+A. Exploratory Research in Remote Viewing 
+ee te Owl ng 
+As a result of experimentation carried out in an eight-month program 
+to investigate the abilities of a gifted subject, Ingo Swann, Swann ex- 
+
+
+pressed the opinion that the insights obtained had strengthened an ability 
+
+
+that has been researched before he joined the SRI program; namely, the 
+ability to view remote locations. ‘To test Swann's assertion, SRI re- 
+searchers set up a series of experimental protocols on a gradient scale 
+of increasing difficulty. 
+
+
+The first step toward the proof that such an ability might exist 
+in principle was completed in our laboratory in a series of experiments 
+with another subject in which target pictures were successfully received 
+where the subject was separated from the target material either by an 
+electrically isolated shielded room or by the isolation provided by 
+East-coast/West-coast distances. These data are presented in Part C of 
+this section. 
+
+
+l. Global Targets--Training Mode 
+raining Mode 
+
+
+‘For the first experiment, considered to be a training mode, 
+100 targets on the earth's surface (ten per day for ten days) were chosen 
+at random, often by different experimenters. For each ten-trial session, 
+the experiment would begin with the subject (Swann) being given a target 
+location by latitude and longitude only, for which he had to provide an 
+immediate response of what he saw. Following his response, some brief 
+indication was given as to whether any correspondence existed between 
+his description and the target location. The next coordinate was then 
+given until all ten coordinates were exhausted. A run of ten coordinates 
+was always completed in less than 30 minutes. 
+
+
+The results obtained during the training mode are summarized 
+in Figure l, where a least~squares fit to the data is shown by the solid 
+lines. Details for the final run (Run 10) are shown in Table 1. 
+
+
+The second coordinate in Run 10 (Table 1) affords a surprising 
+example of precision that sometimes occurred. The experimenter chose 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+ai cape ere eines 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+10 
+
+8 
+
+-HITS/RUN 6 
+out of 
+
+10 trials/run 4 
+
+; 2 
+
+0 
+
+8 
+
+LESSER 6 
+CORRESPONDENCES/ 
+
+RUN out of a 
+
+10 trials/run 2 | 
+
+0 
+
+6 
+
+MISSES/RUN 4 
+out of 
+
+10 trials/run 2 
+
+0 
+
+
+RUN NUMBER 
+
+
+SA-2613-1 
+
+
+FIGURE 1 TRAINING RESULTS (SWANN) 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 | 
+
+
+Aooraved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 | 
+Table 1 
+
+
+RESULTS OF GLOBAL TARGETS TRAINING-~RUN 10 
+
+
+y 5 *K 
+Target Response Evaluation 
+
+
+45°N 150° 
+(ocean) 
+
+
+Ocean, beautiful blue-green waves, sun 
+shining, ship toward north 
+
+
+2°S 34°F 
+(eastern shore, Lake 
+Victoria, Africa) 
+
+
+Sense of speeding over water, Landing 
+on land. Lake to west, high elevation 
+
+
+55°N 150°E 
+(Sea of Okhotsk) 
+
+
+Not many trees, patches of snow, marsh? 
+
+
+Volcano to southwest. I think I'm over 
+ocean. 
+
+
+64°N 19°W 
+
+(20 miles ENE of 
+Mt. Hekla voleano, 
+Iceland) 
+
+
+55°N 130°E 
+(Soviet Union) 
+
+
+Wind blowing there, night, telephone 
+wires, Land, flat place with fields; 
+Cold. 
+
+
+60°N 90°W 
+(Hudson Bay) 
+
+
+Open water, stands of pine to north. 
+
+
+60°N 91°E 
+(Soviet Union) 
+
+
+City, snow on ground, city to north- 
+east, factory to south. 
+
+
+30°S 0° 
+
+
+Ocean, Atlantic, deep blue water. 
+(ocean) : 
+
+
+42°N 105° 
+(Gobi) 
+
+
+Mountains 
+
+
+28°S 137°E 
+(Lake Eyre, Australia) 
+
+
+Islands, Land mass to east, west. 
+An open sea, night. 
+
+
+* 
+H-~iit; good description of area in near vicinity of target. 
+N--Neutral; some possibility of correspondence, 
+
+M--Miss; clear lack of correspondence, 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+, 
+
+
+F elease 2001/03/07 : ERDF 26 Core RopOr ee {00001 
+Approved. For R rom a world map to represent the middle of Lake Victoria, 
+Africa. However, Swann insisted that the coordinate, when given, turned 
+on a picture of land to the right of a large lake. Subsequent checking 
+with a detailed map of the region indicated that his perception had 
+been correct. 
+We must, of course, point out that the results of such a train- 
+ing mode can be taken as indicative only, since even under the carefully 
+controlled experimental conditions in force, ° 
+
+
+* An individual could--in Pprinciple~-obtain good 
+results on the basis of eidetic memory. 
+
+
+* Given the hypothesis of extraordinary functioning 
+an individual could--in principle~-obtain the data 
+subliminally from an experimenter who knows the 
+target location. 
+
+
+Therefore, the rapid global targets training mode was followed 
+up with a series of global targets supplied by Stanford Research Institute 
+personnel on a double-blind basis in which detail was obtained on build- 
+ings, roads, bridges, and the like. The results were sufficiently ac- 
+curate to lead us to Propose the client-controlled demonstration-of- 
+ability tests described in the following Paragraphs. The final evaluation 
+rests on the analysis of the double-blind targets used in the concluding 
+demonstration-of-~ability tests. 
+
+
+2, ‘Demonstration-of-Ability Tests: Double-Blind 
+Client-Supplied Coordinates 
+ap ted toordinates 
+
+
+In order to subject the remote viewing phenomena to a rigorous 
+test under control of the client, a request for coordinates was trans~ 
+mitted to the client. In response, SRI personnel received the first set 
+of coordinates, hereafter referred to as the West Virginia Site. 
+
+
+a. West Virginia Site (Swann) 
+a ite (Swann) 
+
+
+Date: 29 May 1973, 1634-1640, Menlo Park, California 
+Protocol: Coordinates 38°93! 45-48'N, 79°25' oo"y 
+given by Dr. H. E, Puthoff to subject I. Swann to 
+initiate experiment. No maps were permitted and the 
+subject was asked to give an immediate response. The 
+session was recorded on video tape. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved ForReleave'2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+This seems to be some sort of mounds or rolling hills. There 
+is a city to the north (I can see the taller buildings and 
+some smog). This seems to be a strange place, somewhat like 
+
+
+the lawns that one would find around a military base, but I 
+get the impression that there are either some old bunkers 
+around, or maybe this is a covered reservoir. There must be 
+a flagpole, some highways to the west, possibly a river over 
+to the far east, to the south more city. i 
+
+
+The map of Figure 2 was drawn. 
+
+
+On the following morning, Swann submitted a written re- 
+port of a second reading, dated 30 May 1973, 0735-0758, Mountain View, 
+California. 
+
+
+Cliffs to the east, fence to the north. There's a circular i 
+building (a tower?), buildings to the south. Is this a former 
+Nike base or something like that? This is about as far as I 
+could go without feedback, and perhaps guidance as to what was 
+wanted. There is something strange about this area, but since 
+I don't know particularly what to look for within the scope of 
+the cloudy ability, it is extremely difficult to make decisions 
+on what is there and what‘is not. Imagination seems to get in 
+the way. (For example, I seem to get the impression of some- 
+thing underground, but I'm not sure.) However, it is apparent 
+that on first sighting the general location was correctly 
+spotted. i 
+
+
+The map of Figure 3 was drawn. 
+
+
+b. West Virginia Site (Price) 
+
+
+As a back-up test, the coordinates were given to a second 
+subject (Price) who appears to possess similar ability in casual testing. 
+The task was presented to the second subject independently of the first, 
+both to prevent collaboration and to prevent any sense of competition. 
+
+
+Date: 1 June 1973, 1700, Menlo Park, California 
+Protocol: Coordinates 38°23' 45-48"N, 79°25' OO'W 
+given by Dr. H. E. Puthoff to subject Price by 
+telephone to initiate experiment. 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+‘ Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+N 
+/N 
+
+
+toe" 
+
+
+Sine catt Camp: 
+
+
+MAP NO. 1 OF WEST VIRGINIA SITE (SWANN) 
+
+
+FIGURE 2 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 — 
+
+
+- Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+. IS 
+[aees | \ 
+
+
+“ee ne Foner \ 
+mee a 
+2 
+\S 
+2) 
+oe 
+Q CHOLES IO“ 
+\ 
+0 Some | 
+So} 
+nn pny 
+Pay d WAN 
+Sy 
+Se, ee eee ee eer eee yee 
+
+
+FIGURE 3. MAP NO. 2 OF WEST VIRGINIA SITE (DETAIL—-SWANN) 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+eR I I EE OR LE ETE I NE I TE A A EITM LYE EEE ETE A LE (ROE TS NEIL SE 
+
+
+Approved ForRelease 2901/93/07 5. CIA-ROR96-00787R000700100001-5 
+(dated 2 June 1973, 1250-1350, Lake Tahoe, California) was receiv 
+the mail. 
+
+
+red in 
+
+
+Looked at general area from altitude of about 1500' above 
+highest terrain. On my left forward quadrant is a peak in a 
+chain of mountains, elevation approximately 4996' above sca 
+level. Slopes are greyish slate covered with variety of broad 
+leaf trees, vines, shrubbery, and undergrowth.- I am facing 
+about 3°-5° west of north. Looking down the mountain to the 
+right (east) side is a roadway, freeway country style--curves 
+around base of mountain from S.W.--swings north for a few miles, 
+then heads E.N.E. to a fairly large city about 30-40 miles dis- 
+tant. This area was a battleground in civil war--low rolling 
+hills, creeks, few lakes or reservoirs, There is a smaller 
+town a little S.E. about 15-20 miles distant with small settle- 
+ments, village type, very rural, scattered around. Looking 
+across the peak, 2500~-3000' mountains stretch out for a hundred 
+or so miles. Area is essentially wooded. Some of the westerly 
+slopes are eroded and gully washed--looks like strip mining, 
+coal mainly. 
+
+
+, 
+
+
+Weather at this time is cloudy, rainy. Temperature at my alti- 
+tude about 54°--high cumulo nimbus clouds to about 29, 000- 
+30,000'. Clear area, but turbulent, between that level and 
+some cirro stratus at 46,000'. Air mass in that strip moving 
+W.N.W. to S.E. 
+
+
+1318 - Perceived that peak area has large underground storage 
+areas. Road comes up back side of mountains (west slopes), 
+fairly well concealed, looks deliberately so. It's cut under 
+trees where possible--would be very hard to detect flying over 
+area. Looks like former missile site--bases for launchers still 
+there, but area now houses record storage area, microfilm, file 
+cabinets; as you go into underground area through aluminum 
+rolled up doors, first areas filled with records, etc. Rooms 
+about 100' long, 40' wide, 20' ceilings with concrete supporting 
+pilasters, flare-shaped. Temperature cool--fluorescent lighted. 
+Personnel, Army Sth Corps Engineers. M/Sgt. Long on desk plac- 
+ard on grey steel desk~~file cabinets security locked--combina- 
+tion locks, steel rods through eye bolts. Beyond these rooms, 
+heading east, are several bays with computers, communication 
+equipment, large maps, display type, overlays. Personnel, Army 
+Signal Corps. Elevators. 
+
+
+10 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+» Approved For Release 2001/03/07 : CIA- -RDP96-00787R000700100001-5 
+
+
+over general areca from orieine location again-- 
+
+
+sete ES Aer ena en 
+
+
+valleys quite hazy, lightning about 30 miles north along moun- 
+tain ridge. Temperature drop about G"5 it’s about 48°. Looking i 
+for other significances: see warm air mass moving in from S.W. 
+colliding with cool air mass about 100 miles E.S.E. from my 
+viewpoint. Air is very turbulent--tornado type; birds in my 
+
+area seeking heavy cover. There is a fairly large river that I 
+can see about 15-20 miles north and slightly west; runs N.E.; 
+then curves in wide valley running S.W. to N.E.;. river then runs 
+S.E. Area to east, low rolling hills. Quite a few Civil War 
+monuments. A marble colonnade type: "In this area was fought 
+the battle of Lynchburg where many brave men of the Union and 
+Confederate Armys (sic) fell. We dedicate this area to all peace 
+loving people of the future--Daughters G.A.R." 
+
+
+On a later date Price was asked to return to the West 
+Virginia site with the goal of obtaining codeword information, if pos- 
+sible. In response, Price supplied the following information: 
+
+
+Top of desk had papers labeled: 
+Flytrap 
+Minerva 
+File cabinet on north wall labeled: 
+Operation Pool --- (2nd word unreadable) 
+Folders inside cabinet labeled: 
+Cueball 
+14 Ball 
+4 Ball 
+8 Ball 
+Rackup 
+Name of site vaguely seems like Hayfork or Haystack. Personnel: 
+Col. R. J. Hamilton 
+Maj. Gen. George R. Nash 
+Major John C. Calhoun?? 
+
+
+Cc. Urals Site (Price) 
+After obtaining a reading on the West Virginia site, Price 
+volunteered that he scanned the other side of the globe for a Bloc equiv- 
+
+
+alent, and found one in the Urals at 65°00'57'N, 59°59'S9"E, described 
+as follows . 
+
+
+Elevation, 6200'. Scrubby brush, tundra type ground hummocks, 
+rocky outcroppings, mountains with fairly steep slopes. Facing 
+
+
+ll 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+‘ Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+north, about 60 miles ground slopes to marshland. Mountain 
+chain runs off to right about 35° east of north, Facing south, 
+mountains run fairly north and south. Facing west, mountains 
+drop down to foothills for 60 miles or so; some rivers running 
+roughly north. Facing east, mountains are rather abrupt, 
+dropping to rolling hills and to flat land. Area site under-~ 
+ground, reinforced concrete, doorways of steel of the roll-up 
+type. Unusually high ratio of women to men, at least at night. 
+I see some helipads, concrete. Light rail tracks run from pads 
+to another set of rails that parallel the doors into the mountain 
+(see Figure 4). ‘Thirty miles north (5° west of north) of the 
+site is a radar installation with one large (165') dish and two 
+small fast-track dishes. 
+
+
+The above reports were submitted to the client for evalua- 
+tion. A second set of coordinates was requested and obtained, hereafter 
+referred to as the Kerguelen Island Site. 
+
+
+Helipads 
+
+
+N 
+
+
+Rails 
+
+
+MMM 
+
+
+MCUNTAIN FACE 
+
+
+FIGURE 4 MAP OF URALS SITE (PRICE) 
+
+
+12 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+* 
+
+
+| ' Approved For Release 2001/03/07 ; CIA-RDP96-00787R000700100001-5 
+
+
+Lee (Swann 
+
+
+Date: 21 July 1973, 1708-1730, Menlo Park, California 
+Protocol: Coordinates 49°20'S, 70°14'E given by Dr. 
+
+H. E. Puthoff to subject I. Swann to initiate experi- 
+ment. No maps were permitted and the subject was asked 
+to give an immediate response. The session was recorded 
+on video tape. 
+
+
+Swann response: 
+
+
+My initial response is that it's an island, maybe a mountain 
+sticking up through a cloud cover. (Experimenter checks, gives 
+positive feedback.) Terrain seems rocky. Must be some sort of 
+small plants growing there. Cloud bank to the west. Very cold. 
+I see some buildings rather mathematically laid out. One of 
+them is orange. There is something like a radar antenna, a 
+round disc. (Subject draws map during report.) Two white cy- 
+lindrical tanks, quite large. To the northwest a small airstrip. 
+Wind is blowing. Must be two or three trucks in front of build- 
+ing. Behind, is that an outhouse? There's not much there, 
+That's all, I think, for now. 
+
+
+Swann submits map, Figure 5. 
+
+
+On the following day, 1152-1215, the identical protocol 
+was followed for a second reading. Again, no maps were permitted, 
+During this reading, Swann described following the coastline of the 
+island, drawing segments on 8-1/2" y 11" pieces of paper as he went, 
+resulting in Figure 6 when the pieces were assembled. 
+
+
+It's not completely dark there, sort of orangish light. If 
+
+{ look to the west, hills: to the north flatlands and, I think, 
+airstrip and ocean in the distance; to the east, rolling bumpy 
+grasslands with bumps; to the south is -- I can't see anything 
+to the south. I move north to the coastline and follow it 
+around. That's point A (begins to draw map). Point B, rocks 
+sticking up out of the ocean, breakers on them. Point C, little 
+cluster of buildings with wharf, boats. Point D, jutty of land 
+sticking out. Point F* is sand basin, river coming through, 
+
+
+aca gmnemeeeieaereeeeerner ee 
+
+
+* 
+Lettering out of order. 
+
+
+13 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+- Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+(NNVMS—TIVL3G) SLIS GNVISI N373NDY3y 4O L ‘ON dV 
+
+
+S AYNDIS 
+
+
+TIVLAd ‘TI NOILLOSS 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+. gee 
+‘Approved For Rele 
+
+
+1103/07 : CIA-RDP96-00787R000700100001-5 
+
+
+MAP NO. 2 OF KERGUELEN ISLAND SITE (SWANN) 
+
+
+FIGURE 6 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+| , Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+lots of birds. Point E, brush of small trees. This is fun 
+(laughs), first time I've ever done this. (Following E) almost 
+a straight coastline, cuts in rocks, beach. Then curves back. 
+I see to northwest a mountain rising, snow on top. Area G is 
+irregular. Point H is a high cliff, Point I is a promontory. 
+Point J has big breakers, K is a bay, L is area I drew yester- 
+day (circles area, draws airstrip and buildings for orientation 
+to previous map). That will do for today. May be a lighthouse 
+(on tip?). I lacked courage going around Point G. 
+
+
+e. Kerguelen Island Site (Price) 
+ES 
+
+
+Date: 20 July 1973, 1400, Menlo Park, California 
+Protocol: Coordinates 49°20'S, 70°14'E given by Dr. 
+H. E. Puthoff to subject Price by telephone to initiate 
+
+
+experiment, 
+Price Response: 
+
+
+On the morning of 21 July 1973 Price's written response 
+(dated 20 July 1973, 2055-2232, Santa Clara, California) was received 
+(hand carried). 
+
+
+Picked 15,000' altitude. Looking south, 4° east of south, see 
+
+a site located on a cliff about 200' high above the ocean. In- 
+stallation is a cluster of buildings and radar tracking station 
+(see Figure 7), Radar is a segment concave type rather than 
+circular dish type. Building #41 is the largest, L-shaped, front 
+facing NW, two stories plus basement. Buildings #2 and #3 about 
+75'-100' east of main building, also two stories plus basement. 
+Building #2 has recreation and dining facilities, building #3 
+contains living quarters. Building #4 is a shop and maintenance 
+area. Buildings are all interconnected on the ground floor. 
+
+
+I see a dock area at the base of the cliff, and 1/4 to 1/2 mile 
+from the buildings is an airstrip. 
+
+
+The installation has four functions: 
+
+
+1) Tracking (space) 
+
+2) Meteorological station 
+
+3) Monitoring equipment for radiation readings 
+4) Radio relay station. 
+
+
+IT see a couple of other radar installations covered by geodesic 
+domes. There are two small tracking radars interlinked with 
+main radar. 
+
+
+16 
+
+
+’ ae re 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+= 
+
+
+wertnige 
+June» 
+
+
+FIGURE 7 MAP NO. 3 OF KERGUELEN ISLAND SITE (PRICE) 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+I had the impression that the Pe¥sonne] (military and Civilian) 
+were French, but since 7 could understand what was being said 
+IT assume personnel are American, 
+
+
+f. Analysis Of Results Mouble-Bling 
+Client Coordinates) . 
+am icinates) 
+
+
+The results obtained With the double~bling Client coordi-~ 
+nates have been evaluated Separately by the Client, (See attached 
+supplement,) 
+
+
+As an additional Control with regard to the experimental 
+
+Protocol, srt Personnel have not been informed before, during, Or after. 
+ward of any details of the target series Parameters, including the hit- 
+miss Profile, However, SRI Personnel have been informed that in each 
+experiment there have been at least some Categories of information in 
+which the data exceed 4ny possible bounds of coincidental correlation, 
+and exceed any possible bounds of acquisition by known means, Jt has 
+also been reported that some of the data Possibly constitute "noise 
+in the Signal, but it has Usually been difficult to negate totally any 
+information given by the subjects, 
+
+
+Therefore, we conclude from this Portion of the study 
+that: 
+
+
+* A channel exists whereby information about a 
+remote location can be Obtained in the Manner 
+described, 
+
+
+° As with all biological Systems the information 
+Channel appears to be imperfect, containing some 
+noise along with the Signal, 
+
+
+° While a signal-to-noise ratio cannot 48S yet be 
+determined by SRI Personnel with regard to Client- 
+controlled targets, a semiquantitative Signal-to— 
+noise ratio might be determined with additional 
+experimental effort, 
+
+
+B, EEG Experiments 
+ene s 
+
+
+One Premise underlying our investigation is that Paranormal fune- 
+tioning is distributed throughout the Population in much the same Manner 
+as every other ability, and indeed in much the same Way as intelligence 
+
+
+18 
+
+
+-5 
+- 7R000700100001 
+ed For Release 2001/03/07 : CIA-RDP96-0078 
+
+Approv 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+is distributed. We further conjecture that it is partially the “world 
+
+
+view of the times in which we live that prevents paranormal ability 
+from.surfacing to a greater extent. 
+
+
+i 
+
+
+Our EEG program was initiated in an effort to determine whether 
+objective physiological measures of paranormal functioning exist and 
+to relieve the subject from the burden of having to demonstrate voli- 
+tionally any sort of paranormal functioning. We inform our subjects 
+that a light is to be flashed from time to time in a distant room, and 
+if they perceive that light it may be evident from changes in their EEG 
+output. This experiment tests the hypothesis that perception may take 
+place and be measurable at noncognitive levels of consciousness, even 
+though not easily expressed verbally. 
+
+
+In our work with four female volunteer subjects, we have found 
+evidence in three of their EEG spectra that they are influenced by the 
+remote stimulus. Thus it appears from this exploratory work that we 
+have a repeatable perception experiment that yields significant results 
+even with unselected subjects. 
+
+
+The experimental protocol for the experiment is as follows: A 
+subject is seated in a shielded EEG monitoring room in the Life Sciences 
+Building of SRI. A friend of the subject is seated in a remote room 
+with the stimulus generator, in this case a strobe light. The EEG out- 
+put is recorded from the vertexes and occiputs (regions of the brain) 
+simultaneously from both participants. On each trial, a tone burst 
+precedes by one second a ten-second train of flashes presented to one 
+of the subjects designated as the "sender." ‘The subject who does not 
+see the flashes is designated the "receiver;"' this subject also hears the 
+warning signal. This signal evokes a contingent negative variation (CNV) 
+in each of the subjects as they anticipate the occurrence of the flashes. 
+Thirty-six such trials are given, each consisting of 12 null trials, 
+i.e., O flashes/second, 12 6-lHz flashes, and 12 16-Ilz flashes intermixed 
+in a random order. Each of the 36 trials consists of a ten-second EEG 
+epoch. The EEG data are recorded on magnetic tape and digitized. The 
+12 data blocks associated with the 0, 6, and 16 Hz trials are averaged. 
+
+A spectral analysis is then performed on the average. 
+
+
+This analysis has given two types of results. In two subjects we 
+have evidence of actual modulation of the EEG output at the flash fre- 
+quency. The other (more consistent) observation is that the dominant 
+alpha production of the resting subjects is pulled to higher frequencies 
+during the G- and 16-Hz trials as compared with the O flashes/second 
+trials. 
+
+
+19 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+In summary, the receiver subject knows when a trial period is 
+beginning but does not know whether the light will be flashed nor what 
+the flash frequency will be. However, from the accumulated EEG data, 
+we tentatively conclude that there is evidence strongly suggesting that 
+human subjects can directly--even though noncognitively--perceive remote 
+stimuli not presented to any known perceptual sense, and the perception 
+event can be recorded by an objective process. 
+
+
+Figure 8 shows the averaged EEG for a subject attempting to perceive 
+the remote stimulus. In this case the twelve averaged trials are for the 
+6- and 16-Hz light. The spectrum indicates a significant (p = 0.05) in- 
+crease in the 16-Hz component during the 16-Hz period. 
+
+
+Figure 9(a) shows an overlay of the three averaged spectra for a 
+different subject. Figure 9(b) shows the difference spectrum where the 
+O trials data are electrically subtracted from the G-Hz data. This 
+difference curve shows a clear frequency shift in the dominant component 
+of the subject's alpha (9-11 Hz) production. Of our four subjects, this 
+subject had by far the most monochromatic EEG spectrum. Again the fre- 
+quency shift obtained from comparing the stimulus versus nonstimulus 
+trials was significant at the p = 0.05 level for the 6~Hz case and at 
+the p = 0.005 level for the 16-liz case. 
+
+
+A second important use of the EEG technique is to allow a deter- 
+mination to be made of what confidence level to place on what a subject 
+reports that he is perceiving during the course of his remote viewing 
+experience. 
+
+
+Subjects taking part in these EEG experiments are asked to indicate 
+their conscious feelings, on a trial-by-trial basis, as to which stimulus 
+is being generated. They make their guess known to the experimenter via 
+one-way telegraphic communication. An.analysis of these guesses has 
+shown a ‘correlation between the correct calls and certain characteristic 
+changes in EEG output. These changes vary from subject to subject but 
+appear to be constant for any one subject. Naving observed this apparent 
+correlation in exploratory work, it is important to continue this study 
+further to determine its constancy. 
+
+
+In experiments with Swann, the correlation took the form of a de- 
+crease in monochromaticity of his alpha production when his verbal re- 
+sponses to a stimulus condition were correct. (In this experiment Swann 
+was asked to determine whether a remote helium-neon laser was on or off.) 
+In the course of this experiment there was thus an apparent correlation 
+between the accuracy of his perception and his EEG production, even 
+though his overall task performance in this particular experiment did 
+not differ significantly from chance expectation, 
+
+
+20 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+. Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+$ (0 i5 
+
+
+(a) SENDER STIMULATED WITH 6-Hz FLASHES 
+
+
+io iS 
+
+
+{ob} SENDER STIMULATED WITH 16-Hz FLASHES 
+
+
+Zo 
+
+
+FIGURE 8 OCCIPITAL EEG ER 
+EQUENCY spe 
+RECEIVER CTRA, 0 TO 25 Hz, OF JEAN MAYO, 
+
+
+24 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+5 Hz 19 Wz 13 Hz 20 Hz 
+(a) THREE CASES—0-, 6-, AND 16-Hz FLASHES (12-TRIAL AVERAGE) 
+
+
+. ° ‘ 
+5 liz 14 Hz : 2) Kz 
+
+
+1D Nz 
+(b) DIFFERENCE SPECTRA—6-Hz MINUS 0-Hz 
+
+
+FIGURE 9 OCCIPITAL EEG FREQUENCY SPECTRA, 0 TO 25 Hz, OF HELLA HAMMID, 
+- RECEIVER 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Reprovede For. Release 2001/03/07 ; CIA- RDP96-00787R900700100001 -5 
+
+
+Ne American Society for Psychical 
+Research, Dr. Karlis Osis has reported that when Swann attempted to 
+reproduce pictorially the contents of a: hidden container, his EEG out- 
+put would consistently shift from lower to higher frequencies. Swann 
+was highly successful (eight out of eight) in this series of perception 
+experiments. 
+
+
+It therefore appears that monitoring of the EEG may prove to be a 
+good indicator as to the measure of confidence that should be placed 
+in a subject's report about his perception of a remote scene. 
+
+
+Cs Remote Perception of Graphic Material 
+ee VS APN LE MACeY Lad 
+
+
+The objective of this group of experimental sessions was to inves-~ 
+tigate the apparent paranormal perception ability of gifted subject Uri 
+Geller under carefully controlled conditions with the goal of under- 
+standing the physical and psychological variables underlying such ability. 
+
+
+On each day of an eight-day experimental period, picture drawing 
+experiments were carried out. In these experiments, Geller was separated 
+from the target material either by an electrically isolated, shielded 
+room or by the isolation provided by having the targets drawn on the 
+East Coast. As a result of Geller's success in this experimental period, 
+we consider that he has demonstrated his paranormal perceptual ability 
+in a convincing and unambiguous manner. 
+
+
+Saturday, 4 August--Two drawing experiments were conducted this 
+day. In both of these, Geller was closeted in an opaque, acoustically 
+and electrically shielded room. This room is the double-walled shielded 
+room used for EEG research in the Life Sciences Division of SRI. It is 
+locked by means of an inner and outer door, each of which is secured 
+with a refrigerator- -type locking mechanism, as shown in Figure 10. 
+
+
+The two drawings used in this experiment were selected by randomly 
+Opening a large college dictionary and selecting the first word that 
+could reasonably be drawn. The first word obtained in this manner was 
+"fuse' and the object drawn was firecracker [Figure V1 (ay). AYE target 
+selection and picture drawing was done with Geller already in the shielded 
+room. Geller was notified via intercom when the target picture was drawn 
+and taped to the wall outside his enclosure. He was continuously moni- 
+tored by a one-way audio circuit. 
+
+
+23 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+eel teed eee eT CLOT TTS COE SOOO SS ODES TOO NTCRDOTS LORDS DD TLIO IE PE NOR ONIN SPOS ODEN TN BENT DEY NOSSO DTU ET UNE TE CONTI SEN DTU ED MINOT CNE ES Ok OTTVE TS IVR TONIC BMA as PE WA ESSE an Co SR OCIA VC] OT EOE 
+
+
+tao 
+¢ * 
+H 
+
+bias ve Sea amnn Seed Oe 
+
+
+* a nr reentry terrane py. beeey 
+
+
+OP AO Ak eis Se rene ane denon athe ot ge Sui 
+
+
+ietineke ; 
+ALN inh tienen CANO ema ner ai 
+debse ahaa 
+teehee G1 “ana bens ee oes, ya 
+Press y 
+phe va 
+> 
+a 
+’ = a8 
+gs ij 
+5 I: 
+
+
+. He eee 
+
+
+A 
+ay 
+AN A re at abate on, 
+
+
+24 
+
+
+sen er 
+i ay 
+
+
+SOR ane ee ee Derren tere Oy 
+t 
+SHIELDED ROOM USED FOR EEG EXPERIMENTS 
+
+
+& 
+
+
+teenth tei 
+FIGURE 10 
+
+
+re mite ne 
+
+
+ae LE re ie cea : Heme’? owe bee 
+
+
+cee eae ee ETE LS 
+meg sue 
+Bie ee pee ee Oa é rr 27 2 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Aas, 
+7\~ 
+
+
+Cm) on ff” 
+oe 
+[> || 
+
+
+(c) RESPONSE 2 
+
+
+FIGURE 11. TARGET 1 (FIRECRACKER) AND GELLER'S RESPONSES 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release, 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+ate response was at he saw a cylinder with 
+noise coming out of it." His drawing representing his response to the 
+target was a drum, along with a number of other cy Lindrical~-looking 
+objects [Figures 11(b) and 1l(c)]. 
+
+
+The second word selected was ‘bunch, and the target was a bunch 
+of grapes. Geller's immediate response was that he saw “drops of water 
+coming out of the picture." He then talked about "purple circles.” 
+Finally, he said that he was quite sure that he had the picture. Ilis 
+drawing was indeed a bunch of grapes. Both the target picture and Geller's 
+
+
+rendition had 24 grapes in the bunch (Figure 12). 
+
+
+In this work the target picture is never discussed by the experi- 
+menters after the picture is drawn or brought near the shielded room. 
+The intercom operates only from the inside of the room to the outside, 
+except when the push-to-talk switch is depressed on the outside of the 
+room. In our detailed examination of the shielded room and the protocol 
+used in these experiments no sensory leakage has been found, nor has 
+any defect in the protocol been brought to our attention. 
+
+
+Sunday, o August~-Geller is locked in the shielded room with one 
+experimenter outside as a monitor while the target is drawn in the other 
+experimenter's office about a half mile away. The target selected from 
+the dictionary was an outline drawing of a man, which evolved through 
+the drawing process into a devil with a trident [Figure 13(a)]. To 
+start the experiment, Puthoff, who was with Geller, called Targ, who. 
+was with the drawing. Geller spent almost a half-hour working on the 
+drawing before "passing," as he felt unable to get the drawing. We in- 
+clude his efforts nonetheless for the insight into the process that they 
+provide. 
+
+
+His drawings [Figures 13(b)-13(d)] were as follows: 
+
+
+* ''Moses' Tablets, i.e., Ten Commandments. 
+
+
+* Apple with a worm coming out of it, a snake was in the 
+same picture, and the Tablets symbolism of the first 
+drawing. 
+
+
+* Composite picture with the Ten Commandments on top of 
+the world and the trident on the outside, along with a 
+neatly drawn leaf. 
+
+
+One is led to speculate that the Biblical representation in these three 
+drawings is perhaps. associational material triggered by the target. The 
+inability on Geller's part to draw the devil may be culturally induced. 
+
+
+26 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 | 
+
+
+(b) RESPONSE 
+
+
+TARGET 2 (GRAPES) AND GELLER’S RESPONSE 
+
+
+(a) TARGET 
+FIGURE 12 
+
+
+27 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+a 
+
+
+_ Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+- 
+rT) 
+7) 
+2 
+o) 
+By 
+WW 
+cH 
+_ 2 
+a © 
+a. 
+n 
+uw 
+jew 
+“ 
+c 
+uw 
+t 
+dt 
+uw 
+oO 
+a 
+2 
+< 
+2 
+> 
+i 
+S 
+ro?) 
+kK 
+lw 
+O 
+c 
+< 
+kK 
+” 
+2S Ww 
+= ne 4 
+~S Br ie : 
+S¢ co 
+SN go © 
+; Hy 3 7 Ta 
+i ice 
+al : 
+Se (4 = 
+a “ F a 
+
+
+Ss 
+
+
+28 
+
+
+DEVIL 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+(d) RESPONSE 3 
+
+
+San maemane 
+
+
+TARGET 3 (DEVIL) AND GELLER’S RESPONSES (Concluded) 
+
+
+FIGURE 13 
+
+
+(c) RESPONSE 2 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+aporetea For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+With regard to the target picture, Geller did draw the trident 
+from the target picture, but he did not draw the man who was holding it. 
+From this it seems clear that Geller does not simply copy lines from 
+the target picture, but rather he apparently performs some mental pro= 
+cessing before drawing them. 
+
+
+The second target picture was drawn by an experimenter while he 
+was inside the shielded room with Geller outside the room with another 
+experimenter. In this case the target [Figure 14(a)] was a representa- 
+tion of the solar system. His immediate verbal reaction before drawing 
+was one of "space." Geller's drawn response to the target while outside 
+the room [Figure 14(b) } coincides well with the tareet drawing. The 
+block in the center of Geller's picture, according to his statement, 
+was his afterthought suggested by the movie 2001 and was drawn as an 
+addition just before comparing target with response, 
+
+
+Monday, 6G August--The experiment to be done this day was a pure 
+clairvoyance task. A picture was drawn by a scientist outside the usual 
+experimental group. The picture was locked in the shielded room before © 
+Geller's arrival at SRI. Geller was then led by the experimenters to 
+the shielded room, and asked to draw the picture inside the room. He 
+drew a number of pictures, all of which he rejected as not being appli- 
+cable. He said that he got no clear impression and passed. The target 
+was a rabbit, and nothing Geller drew in any way resembled a rabbit. 
+
+It should be added that the picture was drawn by a scientist of whom 
+Geller is not fond, and Geller asked at the outset if this was the case. 
+The experimenters said that this was not the case, since they did not 
+
+know. who had drawn the picture. Geller felt vindicated to some extent 
+when he found out that his initial guess as to the artist had been correct. 
+
+
+Tuesday, 7 August--This day two target pictures were attempted with 
+Geller in the shielded room. He was connected to an EEG apparatus to 
+allow measurement of his brain waves at the time that he was attempting 
+to perceive a hidden Picture. The two target pictures were a tree and 
+an envelope. He experienced difficulty, did not make a drawing that 
+corresponded to either drawing, and passed. Also, he found it very 
+difficult to hold adequately still to make good EEG records. The same 
+skeptical experimenter who drew the rabbit was the EEG operator on this 
+second unsuccessful day. 
+
+
+30 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+-CfAX-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/0 
+
+
+Te SOR 2S 
+
+
+Se Sy of es 
+
+
+a \ 
+
+
+fh uP? Ferd 
+
+
+(b} RESPONSE 
+
+
+FIGURE 14 TARGET 4 (SOLAR SYSTEM) AND GELLER’S RESPONSE 
+
+
+31 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+“Approved FonRelease:2001/03/07;: ClA-RDF96:00787 RO00700100001-5 
+of this day's work. In the first, the experimenters closed the outer 
+door of the laboratory in which the shielded room is located (in addi- 
+tion to the inner double doors) and worked in an adjoining room. The 
+target picture in this case was a camel. Geller felt unsure and passed, 
+but his first choice drawing was a horse (see Figure 15). 
+
+
+The experimenters then returned to the room outside the shielded 
+room and drew the second picture, which was the Golden. Gate Bridge 
+[Figure 16(a)]. Geller inside the shielded room drew some curved lines 
+with some squares underneath [Figure 16(b)]. We said that he didn't 
+know what the picture was and passed. 
+
+
+The third picture was a flying seagull. Geller said almost imme~ 
+diately that he saw a flying swan over a hill. We drew several birds 
+and said that he was sure that his drawing was correct, which it was 
+(Figure 17). 
+
+
+Experiments were conducted in the shielded room for six days; good 
+results were obtained on four of the days when there was no openly 
+skeptical observer present. 
+
+
+Thursday, 9 August--The experiments were moved to SRI's Engineering 
+Building in order to make use of the computer facilities available. 
+After Geller was secured in a shielded room about 150 feet down the hall 
+and around a corner from the computer room and placed under continuous 
+monitoring, a picture of a kite was drawn on the face of the TV screen 
+driven by the computer's graphics program. Shortly after Geller was 
+notified that the picture had been drawn, he had the computer room called 
+to determine if the target picture was a geometric picture or an object. 
+By talking to an intermediary, who was ignorant of the target picture, 
+we told him that it was an object. Geller's first drawing in this case 
+was a square with the diagonals drawn in. He then also drew some trian- 
+gular airplanes and passed. His first drawing was a good representation 
+of the actual target picture (Figure 18). 
+
+
+Friday. 10 August--Two pictures were drawn and stored in the com- 
+puter memory so that no visible evidence was available in the computer 
+yoom after the picture was drawn. 
+
+
+The first picture was a church. The picture was drawn and stored 
+
+
+in the memory of the computer. Geller's responses are shown in the 
+attached collection of drawings (Figure 19). It appears that both of: 
+
+
+32 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R00Q700100001-5 
+
+
+{a) TARGET 
+
+
+‘4 < J 
+\ 7 
+
+
+peed 
+.{b) RESPONSE 
+
+
+FIGURE 15 TARGET 5 (CAMEL) AND GELLER’S RESPONSE 
+
+
+33 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+ee 
+
+
+(a} TARGET 
+
+
+(b} RESPONSE 
+
+
+FIGURE 16 TARGET 6 (GOLDEN GATE BRIDGE) AND GELLER’S RESPONSE 
+
+
+34 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+(b) RESPONSE 
+
+
+TARGET 7 (SEAGULL FLYING) AND GELLER’S RESPONSE 
+
+
+(a) TARGET 
+FIGURE 17 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PRS renee tee ee eaney ym NE bree 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+lie St toa eeencaes Fate meet ceed mierda tae eee ee 
+
+
+Ria iat ee a (eter oka oleae te _ EIT TY PTE TY eT TY TI TT Be 9 EIT OTE RON Ne ee OI RIES ttn 
+
+
+{b} RESPONSE 
+
+
+FIGURE 18 TARGET 8 (KITE ON CRT DISPLAY) AND GELLER'S RESPONSE 
+
+
+36 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+coe ce oe ce Oo 
+
+
+207090 
+
+
+core ass oceococeIdoococacoe 
+
+
+{b} RESPONSE 1 
+
+
+(c) RESPONSE 2 
+
+
+FIGURE 19 TARGET 9 (CHURCH STO 
+» STORED IN MEMORY OF TEXT-EDITING COMP 
+AND GELLER’S RESPONSES ; sei 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Fe tn etnies 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PAGE(S) 3%- yo _ 
+
+
+MISSING 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+. ‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+C. 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(S) 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Statement of Work 
+
+
+By working with gifted subjects and SRI-generated target 
+materials, SRI will measure the accuracy of remote view- 
+ing as a function of such variables as length of viewing 
+time, target distance, and target complexity. Based on 
+the data accumulated, SRI will attempt to define the 
+characteristics of the information channel jin terms of 
+bit rate, resolution, and other Parameters of interest. 
+In order to determine the limits of the remote viewing 
+ability, both pictorial and geographic target material 
+will be used. 
+
+
+In order to discriminate against the possibility of an 
+unknown experimenter/subject leakage channel, for some 
+experiments the client will provide geographical targets 
+unknown to the experimenters to ensure that the subject 
+uses only a remote viewing channel in his determination 
+of the nature of the target. 
+
+
+Following a lead provided by work at ‘another laboratory 
+
+in which a subject could identify pictorial material even 
+
+if the picture was only “mentally projected” onto a card 
+
+in a sealed envelope, SRI will study the use of pictorial 
+target material with a decreasing density scale from clearly 
+visible to invisible in order to measure the accuracy of 
+perception as a function of target density. 
+
+
+The EEG portion of the program will be directed toward 
+
+the determination of physiological correlates of accurate 
+remote viewing. Based on previous work, SRI will inves- 
+tigate in detail the possibility that the frequency shift 
+in the alpha peak can be used as a measure to gauge the 
+reliability of perception of a remote stimulus. This and 
+other measures that may become available during the course 
+of study will be made available as feedback to the subject 
+to determine whether such information can be used to en- 
+hance discrimination between correct viewing of a remote 
+scene and false information. 
+
+
+SRI will continue and expand our study with subjects whose 
+EEG patterns show direct frequency correlations with the 
+flicker frequency of a remote stimulus. We will determine 
+whether such a (generally unconscious) perception channel 
+has sufficient reliability to serve as a possible communi- 
+cation channel. If continuing positive results accrue, 
+
+we will determine the effects of shielding and distance on 
+‘the efficiency of this channel, 
+
+
+41 
+
+
+TE nn LE ON ACCRN O  oRe eng— oee me eave ee on 
+
+
+CN PR RRP te OR eee pee eee epee ens 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+(G) The effects of the introduction of persons at the 
+remotely viewed target locations will be investigated 
+to determine possible enhancement or degradation of 
+
+
+signal-to-noise ratio. 
+
+
+(7) In view of the exploratory nature of the program, 
+15 percent of the effort will be set aside to explore, 
+with the client's cognizance, avenues of research other 
+than those listed and that may surface during the course 
+of the program. 
+
+
+SRI proposes to provide approximately 28 man-months of professional 
+effort with appropriate support toward accomplishment of the foregoing. 
+
+
+D. Reporting Schedule 
+
+
+Brief monthly progress letters will be delivered the tenth day of 
+each contract month, following the previous month's activity. 
+
+
+A final technical report will be delivered 13 months after the 
+commencement date of the contract. 
+
+
+Throughout this program the investigators plan to remain in close 
+telephonic communication with the client. 
+
+
+42 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 — [ 
+
+
+: 000700100001-5 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R 
+‘Ap 
+
+
+Iv QUALIFICATIONS OF STANFORD RESEARCH INSTITUTE 
+
+
+Stanford Research Institute is an independent, nonprofit Organiza- 
+Cion performing a broad Spectrum of research under contract to business, 
+industry, and government, The Institute, Which was formerly affiliated 
+with Stanford University, was founded in 1946. Its Operations include 
+the physical and life sciences, industrial and development economics, 
+management Systems, engineering Systems, electronics and radio sciences, 
+information sclence, urban and social Systems, and various combinations 
+of disciplines within these fields, 
+
+
+Stanford Research Institute has no endowment; Payments by Clients 
+under research contracts and 8rants anount. to 4pproximately $70 million 
+annually and are used to cover all Operating costs, Such revenue also 
+helps the Institute maintain the excellence of its research Capabilities, 
+
+
+SRI's facilities include more than one million square feet of office 
+and laboratory Space and incorporate the most advanced sctentific equip- 
+ment, including unique instrumentation developed by the Staff. The bulk , 
+of these facilities and most of the Tesearch staff are located at the 
+Institute's headquarters in Menlo Park, California, Regional office 
+locations include Washington, D.C.» New York City; Chicago; Houston; 
+
+
+Of SRI's total starr of 2600, approximately one~half are in profes-~ 
+Sional and technical categories, Some 400 members of the Professional 
+staff have Ph.D. or equivalent degrees; 600 others have their Master's 
+degree, 
+
+
+The Project leader and other research Personnel who would be active 
+in the Proposed work are members of the Electronics and Bioengineering 
+Laboratory, This group currently Occupies 40,000 square feet of labora-~ 
+tory space, divided into Many separate laboratory rooms, technicians! 
+work areas, a machine shop, and a computer room housing a LINC-8 and 
+related terminals and equipment, In addition, a well-equipped computa-~ 
+tion center is Available, . 
+
+
+The Electronics and Bioengineering Laboratory employs aq number of 
+
+
+technicians and engineering assistants and has available electronics 
+Material and test equipment Useful in the development and testing of 
+
+
+- 000700100001-5 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R 
+p 
+
+
+NS tears 
+
+
+i 
+
+
+4 
+
+
+_. Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+the teaching machines. Especially suited to the work described in the 
+proposal are a number of shielded rooms with various instrumentation 
+available. 
+
+
+Finally, a backup team of psychologists and statisticians can he 
+¥> ] 
+brought into the project cn an internal counsulting basis. 
+
+
+The proposed research will be conducted by SRI staff members within 
+the Electronics and Bioengineering Laboratory under the management of 
+its director, Mr. Earle Jones. The principal investigator will be Dr. 
+Harold Puthoff. Mr. Russell Targ, of the Electronics and Bioenginecring 
+Laboratory and Dr. Charles Rebert, a neuro-physiologist in SRI's Life 
+Sciences Division will be co-investigators. Professor Gerold Feinberg 
+of Columbia University and Professor Charles Tart of the University of 
+California may be called upon to act as consultants throughout this 
+program. : 
+
+
+In addition to the scientific personnel directly engaged in the 
+research aspects of this investigation, Stanford Research Institute 
+has established an internal technical advisory board. This board con- 
+sists of several directors of SRI's operating divisions, together with 
+our legal counsel, all under the chairmanship of the senior vice president 
+for research. It is the function of this advisory board not only to make 
+recommendations and approve or disapprove every new direction taken by 
+the Institute in this research area but to monitor related ongoing projects 
+as well. 
+
+
+44 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+SE eR ER IE EO I ET I PIE ATS RAL OE TREE SAA tO AON A AAS ON I ARES AEM, A, PS REISS 4 
+
+
+ET TET RT 
+
+
+-Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+EARLE D. JONES, DIRECTOR 
+ELECTRONICS AND BIOENGINEERING LABORATORY 
+INFORMATION SCIENCE AND ENGINEERING DIVISION 
+
+
+Spectalized professtonal competence 
+
+
+* Analysis and design of electronic-optical systems; design of television 
+systems; facsimile systems, including bandwidth compression; electro- 
+static printing 
+
+
+Representative research assignments at SRI (sinee.1956) 
+
+
+Character generator for high-speed electrostatic printer 
+
+* Delay line scanning techniques 
+
+‘ High-density photographic recording of television information 
+
+* Bandwidth reduction study for satellite cloud photographs 
+
+* Design of bandwidth reduction system for facsimile 
+
+* Development of communication line equalization system using automatic 
+transversal filters ; 
+
+* Color facsimile systems with electrostatic printing — 
+Design of a new frequency synthesizer 
+
+
+Other professtonal experience 
+
+
+* Student engineer, Boeing Company; microwave airborne radar 
+* Designer, Square D. Company; electrical equipment design 
+
+
+Academte baekground 
+
+
+* B.S. in electrical engineering (1956), Georgia Institute of Technology; 
+M.S. in electrical engineering (1958), Stanford University 
+
+
+Publteattons and patents 
+
+
+* "A Versatile Character Generator with Digital Input," 1959 IRE WESCON 
+Conv. Rec. 
+
+* "Character Generator for Digital Computers," Electrontes (February 
+1960) , 
+
+* Six patents in electronic circuitry, character generators, frequency 
+synthesizers, and electrostatic printing systems 
+
+
+Professtonal assoctations and honors 
+
+
+* Institute of Electrical and Electronics Engineers 
+
+* Optical Society of America 
+
+* Society for Motion Picture and Television Engineers 
+* Eta Kappa Nu 
+
+* Phi Kappa Phi 
+
+* Tau Beta Pi 
+
+* Phi Eta Sigma 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+-Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+i 
+a0 BIOENGINEERING LABORATORY 
+D ENGINEERING DIVISIO} 
+
+
+ammo 
+
+
+er research and development; quantum electronics; electron 
+$; biofeedback and biomeasurement research 
+
+
+and medical research 
+
+
+* Development of high-power tunable infrared laser source (50-250 microns) 
+for materials research 
+
+
+* Assessment of potential of fiber optics and lasers for use in optical 
+computers 
+
+
+* Development of biofeedback monitors (GSR) for use in educational com- 
+puters and other man-machine links 
+
+
+Research and development in biofield measurements 
+
+
+Otrer professional expertence 
+
+
+* Research associate, Hansen Laboratories of Physics and lecturer, 
+Department cf Electrical Engineering, Stanford University (1967-71); 
+teaching, textbook author, and research supervisor of Ph.D. candidates 
+| in the area of lasers and nonlinear optics 
+* Consultant on application of ‘lasers to industrial and medical problems 
+and research assistant, Stanford University (1963-67) 
+* Lt., USNR (1960-63); in-house research and contract monitoring on DoD 
+(NSA) contracts concerned with the development of ultra high-speed 
+(GHz) computers =. : 
+Research engineer, Sperry Electronic Tube Division and Sperry Fellow, 
+University of Florida (1958-60); design and testing of electron beam 
+Focusing systems for use in microwave tubes 
+
+
+1 
+
+
+Acacemte background 
+* B.E.LE. (1958) and M.S.E&. (1960), University of Florida; Ph.D. in 
+electrical engineering (1967), Stanford University 
+
+
+Pubiteations and patents 
+
+
+“s 
+
+
+* Coauthor of textbook, Fundamentals of Quantum Electrontes, Wiley, 
+2 reference book contributions; 23 Papers in professional journals; 
+14 national Symposium papers; numerous technical reports 
+* 2 patents 
+rotesstonal assoctattons and honors 
+
+
+Institute of Electrical and Electronics Engineers ; Sigma Tau; Phi 
+Kappa Phi; Phi Eta Sigma; Sigma Xi 
+
+
+46 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 | 
+
+
+_ Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PUBLICATIONS OF HAROLD E, PUTHOFF 
+
+
+W. W. Peterson and H. E, Puthoff, "A Theoretical Study of lon Plasma Oscilla- 
+tions," IRE Elect. Devices, Vol, ED~6, p. 372 (1959), 
+
+
+H. E, Puthoff, "Crossed-Field Focusing of a Hollow Cylindrical Lisetvon Beam," 
+M.S, Thesis, EN She Pe of Florida, Gainesville, Florida (January 1960), 
+
+
+A. D. Sutherland et al., "On the Use of Periodic Electrostatic Focusing tin 
+Klystrons," presented ae Int. Congress on Microwave Tubes, Munich, West Germany 
+(June 1960), Also presented at 18th Conf. on Electron Tube Research, Seattle, 
+
+
+Washington (June 1960), 
+
+
+H. E. Puthoff, "Design of a Crossed-Field Electron Gun, presented at 18th Conf, 
+on Electron Tube Research, Seattle, Washington (June 1960), 
+
+
+H, E, Puthoff, ' "Scaling Matrix for the Analog Computer," NSA Tech, Jour., Vol. 
+ete Ye OME 
+7 (1962). 
+
+
+J. T. Tippett and H, E, Puthoff, "The Status of Optical Logic Elements for 
+Nanosecond Computer Systems," Proc, Pacific Computer Conf,, Pasadena, Cali- 
+fornia (March 1963). Also published in NSA Tech, Jour., Vol. 8 (1963), 
+
+
+H. E, Puthoff, R. H, Pantell, and B. G, Huth, "Tunability of the Raman Laser," 
+J. Appl, Phys., Vol. 37, p. 860 (1966). 
+
+
+R. H, Pantell et al., "Mode Coupling in an External Raman Resonator," Appl, Phys,: 
+letters, Vol. S$, p. 104 (1966), 
+
+
+B. G. Huth et al., "Characteristics of the Stimulated Raman Effect in an external 
+Resonator," Proc, Sixth Int, Conf, on Microwave and Optical Generation and 
+
+EE eneration and 
+Amplification, Cambridge, England (September 1966), 
+
+
+» "Q Quantitative Study of the Stimulated Raman Effect Using an Off- 
+Axis Resonator," IEEE J, Quant, Flect., Vol, QE-2, p, 763 (1966), 
+ant. Elect 
+
+
+R. Pantell et al,, ' ‘Theoretical and Experimental Values for Evo; Three, and Four 
+Photon Absorptions," J. Chem, Phys., Vol. 46, p. 3507 (1967), 
+
+
+H. E, Puthoff et al,, "“Near-Forward Raman Scattering in LiNbO, ," J. Appl. Phys., 
+Vol. 39, p, 2144 (1968), , 
+
+
+H. E, Puthoff, "The Stimulated Raman Effect and Its Application as a Tunable 
+Laser," Ph.D. Thesis, Stanford University, Stanford, California (June 1967). 
+
+
+R. H. Pantell, G, Soncini, and H, E, Puthoff, "Stimulated Photon-Electron 
+Scattering," IFEE J. Quant. Elect.,, Vol, QE-4, p, 903 (1968), 
+a tant. Elect 
+
+
+J. Gelbwachs et al., "A Tunable Stimulated Raman Oscillator, “ Appl. Phys, 
+Letters, Vol, 14, a 258 (1969), 
+
+
+47 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+J. M, Yarborough et al., "Efficient Tunable Optical Emission from NiNbOg without 
+a Resonator," Appl. Phys, Letters, Vol, 15, p. 102 (1969). 
+
+
+S, S, Sussman et al,, "A New Source of Tunable Optical ond Infrared Radiation,’ 
+Proc, Polytechnic Institute of Brooklyn International Symposium of Submillimeter 
+Waves, New York, New York (March 1960), 
+
+
+B. C, Johnson et al., "Power and Linewidth of Tunable Stimulated Far IR Emission 
+in LiNbO3," Appl. Phys. Letters, Vol, 18, p. 181 (1970). 
+
+
+iE, Anzallag et al., "Stimulated Raman and Polariton Scattering in L110, ," 
+J. Appl. Phys., Vol. 43, p. 3251 (1971). : 
+
+
+D. L. Hecht et al., “Dye Lasers With Ultrafast Transverse Flow," IEEE J. Quant, 
+Elect., Vol. QE~8, p. 15 (1972). 
+
+
+H. Puthoff and R. H. Pantell, Fundamentals of Quantum Electronics (John 
+Wiley & Sons, Inc., New York, New York, 1969), Published in Russian by 
+Mir Publishing House, Moscow, 1972, 
+
+
+48 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+ne rec ce nn a PR OE PT I TF MEET RY ET eA NE OR OT IE OA I ATT TE RN kT EE TT AE EO I Tenn = mae SS ee 
+
+
+7 
+
+
+7 i) 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+E, RESEARCH ANALYST 
+TENCE LABORATORY 
+TENCE AND ENGINEERING DIVISION 
+
+
+Ssecialized professtonal competence 
+
+
+* Author of mathematics textbooks; curricula developer and author of 
+computer-assisted instruction courses 7 
+
+
+, 
+
+
+Representative research assignments at SRI 
+
+
+* Survey and analysis of instructional technology for ARPA 
+Development of curricula for Educational Laboratory at SRI 
+* Organized a continuing regional seminar on computer-assisted instruction 
+
+
+Other professtonal experience 
+
+
+* Mathematics teacher for secondary school students, elementary school 
+students, and teachers 
+
+* Participated in development of elementary school mathematics, text- 
+book series Sets and Numbers 
+
+* Writer-in-chief for computer-assisted instruction project to teach 
+mathematics at Brentwood (elementary) School 
+
+* Project leader, curriculum author of project to teach computer pro- 
+gramming to ghetto high school students via computer-assisted instruction 
+
+* Research associate, Institute for Mathematical Studies in the Social 
+Science, Stanford University (1963-71) 
+
+
+Aeademte background 
+
+
+* B.A. in mathematics (1962), Middlebury College; M.A.T. in secondary 
+mathematics education (1963), Harvard University 
+
+
+Publications 
+* Coauthor, junior-high school textbook series Sets, Nwnbers, and 
+Systems; "CAI for Elementary Computer Programming: SIMPER, LOGO, and 
+
+
+BASIC," Technical Report, Stanford University; coauthor of several 
+SRI reports ; 
+
+
+49 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PESERT, PROJECT SUPERVISOR 
+
+
+YSICLOGY PROGRAM 
+
+
+wo ot 
+
+
+TTT Setreraee nruteta: 
+birn oCLENCES DaVisSioiy 
+
+
+Spectatized professional eompetence 
+
+
+* Physlological psychology, especially the relationships between electro- 
+physiology and behavior; DC potentials; single and multiple units; 
+animal behavior; electrical and chemical brain stimulation; experi- 
+Mental design and statistics 
+
+
+Representative research assignments at SRI (stnee 1968) 
+
+
+* Development of human EEG laboratory 
+
+* Development of mosquito olfaction laboratory 
+
+> Studies on DC potentials in humans , monkeys, and cats 
+* Spreading depression in the brain 
+
+* Olfactory-trigeminal interactions 
+
+* DC and multiple unit responses 
+
+* Electrophysiology of paranormal perception 
+
+
+ther professtonal expertence 
+* Research assistant, Division of EEG and Neurophysiology, Deovartment 
+of Psychiatry, The “University of Iowa 
+* Instructor, University of California Extension; courses included 
+
+
+Introductory Psychology; The Electrical Activity of the Brain; Man 
+and His Brain: A Survey 
+
+
+Academte baekground 
+
+
+* A.B. (1961) and M.A. (1964) in psychology, San Diego State College; 
+Ph.D. in physiological psychology (1968), the University of Iowa 
+
+
+Publications 
+* Author of 22 scientific publications 
+Professtonal assoetations 
+
+
+* American EEG Society 
+* Neuroscience Society 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+_ Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PUBLICATIONS OF CHARLES REBERT 
+
+
+D. AY Tvwin, J. oR. Knott, D. W. McAdam, and C. S. Rebert, “Motivational Determinants of 
+
+the ‘Contingent Negative Variation,” Electroenceph. Clin. Neurophysiol., Vol. 21, pp.538-543 
+(1966), 
+
+D. W. McAdam, D. A. Irwin, C. S. Rebert, and J, R. Knott, "“Conative Control of the Con- 
+tingent Negative Variation,” Electroenceph. Clin. Neurophysiol, Vol. 21, pp. 154-155 (1966). 
+
+
+C. S. Rebert, D. W. McAdam, J. R. Knott, and D. A. Irwin, “Slow Potential Change in Human 
+Brain Related to Level of Motivation,” J. Comp. Physiol. Psychol., Vol. 63, pp. 20-23 
+(1967). 
+
+
+D. W. McAdam, J. R. Knott, and C. S. Rebert, "Cortical Slow Potential Changes in Man 
+Related to Interstimulus Interval and to Pre-Trial Prediction of Interstimulus Interval," 
+Psychophysiology, Yol. 5, pp. 349-358 (1969). 
+
+
+J. Kaplan and C. S. Rebert, "The Effect of Pressurized Air in Establishing Discriminative 
+Response Suppression in Stump-Tailed Macaques," Behavior Research Methods and Instrumenta- 
+tion, Vol. 6, pp. 262-263 (1959). 
+
+
+C. 8. Rebert, "D.C. and Multiple Unit Recording in Lateral Geniculate Body of the Cat," 
+Proc. American Psychological Association Convention, Vol. 77, pp. 215-216 (1969). 
+
+
+Cc. S. Rebert and D. A. Irwin, “Slow Potential Changes in Cat Brain During Appetitive and 
+Aversive Classical Conditioning of Jaw Movement," Electroenceph. Clin. Neurophysiol., 
+Vol. 27, pp. 152-161 (1969). d ' 
+
+
+D. A. Irvin and C. 8. Rebert, "Slow Potential Changes in Cat Brain During Classical 
+Appetitive Conditioning of Jaw Movement Using Two Levels of Reward," Electroenceph. Clin. 
+Neurophysiol., Vol. 28 pp. 119-126 (1970). : 
+
+
+C. S. Rebert, “Spreading Depression in Squirrel Monkey Lissencephalic Cortex," Physiol. 
+and Behav., Vol. 5, pp. 239-241 (1970). 
+
+
+C. S. Rebert, and J. R. Knott, "The Vertex Non-Specific Evoked Potential and Latency of 
+Contingent Negative Variation,’ Electroenceph. Clin. Neurophysiol., Vol. 28, pp. 561-565 
+
+
+(1970). 
+
+
+HW. Stone and C. S. Rebert, “Observations on Olfactory and Trigeminal Interactions,” Brain 
+Research, Vol. 21, pp. 138-142 (1970). 
+
+
+Cc. S. Rebert, "The Effect of Reaction Time Feedback on Reaction Time and Contingent Negative 
+Variation,” Psychophysiology, Vol. 9, pp. 234-339 (1972). 
+
+
+Cc. S. Rebert, “Cortical and Subcortical Slow Potentials in the Monkey's Brain During a 
+Preparatory Interval,” Electroenceph. Clin. Neurophysiol., Vol. 33, pp. 389-102 (1972). 
+
+
+FE. D, Davis and C. S. Rebert, “Elements of Olfactory Receptor Coding in the Yellow Fever 
+Mosquito,’ J. Econ. Entomol., Vol. 65 pp. 1058-1061 (1972), 
+
+
+G. T. Steinmetz and C. S. Rebert, “Post-Reinforcement Changes of Steady Potentials in 
+Premotor Cortex of Monkeys," Physiol, Behav., Vol. 9, pp. 769-772 (1973). 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+C. S. Rebert and kK. G, Sperry, “subjective and Response-Related Determinants of CNV 
+Amplitude,” Psychophysiology, Vol. 10, pp, 139-144 (19738), 
+
+
+C. S. Rebert, “A Technique for Simultaneous Measurement of DC and Multiple Unit Responses," 
+Electroenceph. Clin. Neurophystol., Vol. 34, pp. 324-326 (1973). 
+
+
+C. S. Rebert and D. A, Irwin, “Simple Electrode Configuration for Chronic or Acute Record- 
+ing of DC Potentials from Subcortical Nuclei of the Brain,” Electroenceph. Clin, Neurophysiol., 
+Vol. 34, pp. 440-442 (1973). 
+
+
+C. S. Rebert, "Some Flements of a Genoral Cerebral System Related to CNV Genesis,” in 
+
+W. C. McCallum and J. R. Knott (eds.), Event Related Slow Potentials of the Brain: Their 
+: q 2 af . > r) 
+
+Relation to Behavior, Amsterdam: Elsevier (1973, in press). 
+
+
+C. S&S. Rebert and J. J. Tecce, “A Summary of CNV and Reaction Time, in W. C,. McCallum and 
+J. R. Knott (eds.), Event Related Slow Potentials of the Brain: Their Relation to Behavior, 
+Amsterdam: Elsevier (1973, in press), 
+
+
+C. S. Rebert, “Further Analysis of CNV and Reaction Time," Electroenceph, Clin, Neurophysiol., 
+Abstract (1973, in press). 
+
+
+C. S, Rebert, “Slow Potential Correlates of Neuronal Population Responses in the Cat's 
+Lateral Geniculate Nucleus," Electroenceph. Clin. Neurophysiol., Vol, 35, pp. 511-515 (1973). 
+OPES LOL 
+
+
+C. S. Rebert, “Slow Potential Changes in the Monkey's Brain During Reaction Time Foreperiod," 
+in W. C. McCallum and J. R. Knott (eds.) Third Congress on Event Related Slow Potentials 
+(1974, in press). 
+
+
+C. S. Rebert, G. T. Pryor, and J. Schaelfor, “Slow Cortical Potential Consequence of 
+Electroconvulsive Shock in Rats," Physiol. Behav. (1974, in press). 
+
+
+C. S. Rebert, R. Berry, and J. Merlo, "DC Potential Consequences of Induced Muscle Tension: 
+Effects on Contingent Negative Variation," in W. C. McCallum and J. R. Knott (eds.) Third 
+Congress on Event Related Slow Potentials (1974, in press). 
+ee ee now Motentials 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+; 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+C. 8. Rebert and K. G, Sperry, “Subjective and Response-Related Determinants of CNV 
+Amplitude,” Psychophysiology, Vol. 10, pp. 139-144 (1973), 
+
+
+C. 8. Rebert, “A Technique for Simultaneous Measurement of DC and Multiple Unit Responses," 
+Eleetroenceph. Clin. Neurophysiol., Vol. 34, pp. 324-3296 (1973). 
+ws curophysiol. 
+
+
+C. S. Rebert and D, A. Irwin, "Simple Electrode Configuration for Chronic or Acute Record-= 
+
+
+{ng of PC Potentials from Subcortical Nuclei of the Brain," Electroenceph, Clin, Neurophysiol., 
+a) . 
+
+
+Vol. 34, pp. 440-142 (1973). 
+
+
+Cy Ss Rebert, "Some Elements of a General Cerebral System Related to CNV Genesis," in 
+We. C. McCallum and J. R. Knott (eds.), Event Related Slow Potentials of the Brain: Their 
+
+
+Relation to Behavior, Amsterdam: Elsevier ( 973, in press). 
+ee ONAN IOL 
+
+
+C. S. Rebert and J. J, Tecce, “A Sunmary of {NV and Reaction Time, in W. C, McCallum and 
+J. R. Knott (eds.), Event Related Slow Potenki 
+Amsterdam: Elsevier (1973, in press), 
+
+
+als of the Brain: Their Relation to Behavior, 
+
+
+C. S. Rebert, “Further Analysis of CNV and Réaction Time,” Electroenceph. Clin. Neurophysiol., 
+; I ES TOE 
+Abstract (1973, in press). 
+
+euronal Population Responses in the Cat's 
+
+lin. Neurophysiol., Vol. 35, pp. 511-515 (1973), 
+
+
+C. S. Rebert, "Slow Potential Correlates of 
+
+
+Lateral Geniculate Nucleus," Electroenceph. 
+
+
+c. 8S, Rebert, "Slow Potential Changes in the Monkey's Brain During Reaction Time Foreperiod," 
+in W. C. McCallum and J. R. Knott (eds.) Thin Congress on Event Related Slow Potentials 
+(1974, in press). 
+
+
+C. S. Rebert, G. T. Pryor, and J. Schaeffor, 
+Electroconvulsive Shock in Rats," Physiol. Be 
+
+
+"Slow Cortical Potential Consequence of 
+hav. (1974, in press), 
+
+
+C. S. Rebert, R, Berry, and J. Merlo, "DC Pot ntial Consequences of Induced Muscle Tension: 
+Effects on Contingent Negative Variation," inlw. c, McCallum and J. R. Knott eds.) Third 
+Congress on Event Related Slow Potentials (19 4, in press). 
+
+
+To ere teen oe ae mene 
+
+
+‘Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+RUSSELL TARG, SENIOR RESEARCH PHYSICKEST 
+ELECTRONICS AND BIOENGINEERING LABOR TORY 
+INFORMATION SCIENCE AND ENGINEERING DIVISION 
+
+
+Spectaltzed professional competence 
+
+
+Development of new gas lasers; FM laser and supermode lasen techniques; 
+laser noise reduction; optical modulation and demodulation; experi- 
+ments in new gaseous laser media; microwave diagnostic techniques; 
+microwave generation from plasmas 
+
+
+Professtonal expertence 
+
+
+* Sylvania Corporation (1962-72), investigation of techniques for 
+development of new gas lasers, making use of his research with com- 
+Pact, self-contained multi-kilowatt CO2 lasers 
+
+* Technical Research Group (1959-62); experiments in new gaseous lasep 
+media 
+
+* Polytechnic Institute of Brooklyn; assisted in the establishment of 
+the Electron Beam Laboratory 
+
+* Sperry Gyroscope Company, Electron Tube Division (1956-59); experi- 
+mental work in microwave generation from plasmas; early work in the 
+technology of ultrahigh-vacuum and ion-pump design 
+
+
+Academte background 
+
+
+* B.S. in physics (1954), Queens College, New York; graduate work in 
+Physics (1954-56), Columbia University, New York 
+
+
+Publteattons and tnventions 
+* Author of "Optical Heterodyne Detection of Microwave-Modulated EBleht.," 
+Proce. IEEE (1964); coauthor of numerous articles on lasers and plasma 
+oscillations 
+* Invention of the tunable plasma oscillator at microwave frequencies 
+Professional assoctattons and honors 
+* IEEE; American Physical Society; The Optical Society of America 
+
+
+* Awarded the position of research associate with the Polytechnic Insti- 
+tute of Brooklyn 
+
+
+53 
+
+
+1-5 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R00070010000 
+
+
+. Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+PUBLICATIONS OF RUSSELL TARG 
+
+
+R. Targ and L, Pp, Levine, "Backward-Wave Oscillations in a System Composed of an 
+
+Electron Beam and a Hydrogen Gas Plasma," J, of Appl. Phys., Vol, 32, No, 4, 
+Es S'S 
+
+Pp. 731-737 (April 1961), 
+
+
+M, Ettenberg and R. Targ, "Observations of Plasma and Cyclotron Oscillations," 
+Proc, of the Symposium on Electronic Waveguides, Polytechnic Institute of 
+Brooklyn, New York (April 8-10, 1958), 
+
+
+P, Rabinowitz, 8, Jacobs, R, Targ, and G, Gould, “Honodyne Detection of Phase~ 
+Modulated Light," Proc, IRE, Vol. 50, No, 11 (November 1962), 
+poled hae 
+
+
+G. Grosof and R, Targ, "Enhancement in Mercury-Krypton and Xenon-Krypton Gaseous 
+Discharges," Appl. Optics, Vol, 2, No. 3, pp. 299~302 (March 1963), 
+Pill ladle lh cdc 
+
+
+R. Targ, “Optical He terodyne Detection of Microwave-Modulated Light," Proc, IEEE 
+eee 
+(Correspondence), pp. 303-304 (March 1964), 
+
+
+R, Targ, D. E, Caddes, and B.. J, McMurtry, "The Traveling-Wave Phototube, Part 
+II: Experimental Analysis," IEEE Trans. on Electron Devices, Vol, ED-11, pp, 
+161-170 (April 1964), 
+
+
+5S. E, Harris and R, Targ, "FM Oscillation of the He-Ne Laser," App. Phys, 
+SBP. Enys 
+Letters, Vol. 5, No. 10, pp. 202-204 (15 November 1964), 
+
+
+R, Targ, G. A, Massey, and S, E, Harris, "Laser Frequency Translation by Means 
+
+of Electro-Optic Coupling Control," Proc. IEEE (correspondence), Vol. 52, No, 
+pole alee 
+
+10, pp. 1247-1248 (October 1964), 
+
+
+R. Targ and W. D, Bush, "Automatic Frequency Control of a Laser Local Oscillator 
+
+for the Heterodyne Detection of Microwave~Modulated Light," Appl, Optics, Vol, 
+SERS Yptics 
+
+4. No. ll, pp. 523-1527 (December 1965). 
+
+
+G. A, Massey, M. K, Oshman, and R, Targ, "Generation of Single~Frequency Light 
+Using the FM Laser," Appl, Phys, Letters, Vol, 6, No, 1, pp. 10-11 (January 
+
+, ate betters 
+1965), 
+
+
+L., M, Osterink and R, Targ, "Sing le~Frequency Light from an Argon FM Laser," 
+Appl. Phys. Letters, Vol, 10, No, 4, pp. 115-117 (February 1967), 
+tls. Letters 
+
+
+ee ss 
+R. Targ-and J. M. French, "Stabilization of a He-Ne Laser," Proc, IEEE, Vol. 55, 
+
+
+No. 7, pp. 1185-1192 (July 1967), 
+
+
+L. M. Osterink and R. Targ, "Single-Frequency Light Using the Super-Mode Tech- 
+nique with an Argon FM Laser," Proc. of the Symposium on Modern Optics, Poly- 
+technic Institute of Brooklyn, New York (March 22-24, 1967), 
+
+
+R. Targ and L. M, Osterink, "Frequency Stabilization and Quieting of the FM 
+Laser," 1967 WESCON Convention Record, San Francisco, California, 
+
+
+R. Targ and J. M, Yarborough, "“Mode-Locked Quieting of the He-Ne and Argon 
+Lasers," Appl. Phys, Letters, Vol, 12, No, 1, pp. 3-4 (1 January 1968), 
+athe Se etters 
+
+
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+.» Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001-5 
+
+
+D. E, Caddes, L. M, Osterink, and R, Targ, "Mode-Locking of the COg Laser," 
+
+
+Appl, 
+
+
+Phys, Letters, Vol, 12, No, 3, pp. 74-76 (1 February 1968), 
+
+
+R, Targ, J. M. Yarborough, and J. M, French, "Frequency Stabilization and Noise 
+Suppression in the Argon FM Laser," IEEE J. of Quant, Elect.; Vol. QE~4, pp. 
+
+: a Ce 
+644-643 (October 1968), 
+
+
+Ww. B, 
+Appl. 
+
+
+Tiffany, R. Targ, and J. D, Foster, "Kilowatt CO, Gas-Transport Laser," 
+Phys. Letters, Vol, 15, No. 3 (1969), 
+
+
+Ww. By Tiffany, and R, Targ, "The Gas-Transport Laser--A New Class of High-Power 
+Electro-Optic Devices," Laser Focus, pp, 48-50 (September 1969), 
+aot. Focus 
+
+
+R. Targ and W. B, Tiffany, “Gain and Saturation in Transvezrse Flowing COg=No~lle 
+Mixtures,” Appl, Phys, Letters, Vol, 15, No. 9 (1 November 1969), . 
+meet SYS. Letters 
+
+
+S. E, 
+Appl, 
+
+
+Schwarz, T. A, deTemple, and R, Targ, "High Pressure Pulsed Xenon Laser," 
+Phys. Letters, Vol. 17, No. 7 (1 October 1970), 
+
+
+J. D, Taynai, R, Targ, and W, B, Tiffany, “An Investigation of Tellurium for 
+
+Frequency Doubling with COg Lasers," IEEE J. of Quant, Elect,, Vol. QE-7 
+we tect 
+
+(8 August 1971), 
+
+
+R. Targ and M, Wy Sasnett, "High Repetition Rate Xenon Laser with Transverse 
+Excitation," IEEE J, of Quant, Elect., Vol, QE-8, pp, 166-169 (February 1972), 
+ett eect 
+
+
+R. Targ and M, W, Sasnett, 'Xenon=Helium Laser at High Pressure and High Repeti-~ : 
+tion Rate," Appl. Phys, letters, Vol. 19, No. 12 (15 December 1971), 
+oer ys. letters 
+
+
+R, Targ, "Pulsed Nitrogen Laser at High Repetition Rate," IEEE J, of Quant, 
+aaa OF ant 
+Elect., Vol, QE~8, pp. 726-728 (August 1972), 
+
+
+R. Targ and D, Hurt, "Learning Clairvoyance and Precognition with an Extrasensory 
+Perception Teaching Machine," Parapsychology Review, pp. 9-11 (July 1972), 
+aa re a . 
+
+
+55 
+
+
+-5 
+Approved For Release 2001/03/07 : CIA-RDP96-00787R000700100001 
+
+
+TE OO oN er: SETI ET erry meee teeters peer en, a 
+
+
+Se PRE Errante repacoai Sepas 
+
+

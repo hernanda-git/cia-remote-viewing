@@ -1,0 +1,1556 @@
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+This technique provides an additional benefit for the 
+transmission of messages. With judicial assignment of the attributes 
+in terms of 1's and 0's, it is possible to transform a given target 
+into one of the specially coded words shown at the top of Table 4-- 
+for example, an indoor swimming pool would be rendered as the code 
+
+
+25 to construct 
+
+
+word 10101. These code words are carefully chosen 
+an error-correcting block code of a type commonly used for signal 
+
+
+transmission over noisy information channels, 
+
+
+Table 4 
+
+
+A 5~-BIT DECODING MATRIX 
+(Two Information Bits, Three Parity Check Bits) 
+
+
+00000 01110 10101 11011 
+00001 01111 10100 11010 
+00010 01100 J“ 10111 11001 
+; Single Error 
+iil] Correction 
+10011 
+O1011 
+
+
+i ney Double Error 
+\ | 10010 \ Correction 
+
+
+be i201 
+BOrL 
+an 
+
+
+sensing protocol, an outbound team of experimenters chooses the message 
+whose attributes match one of the four shown at the top of Table 4 and 
+proceeds to a target location corresponding to that binary word. The 
+subject and his monitor then conduct a standard remote viewing experi- 
+ment. (The subject is encouraged to respond freely, and is discouraged 
+from guessing with regard to the attribute list.) Once the response 
+period is completed, a judge must form a single binary word from the 
+subject's response, as described above. The judge then must find his 
+"response'' word somewhere in the decoding matrix shown in Table 4 and 
+choose as his "message received" the word that tops the column in which 
+the response word appears. By inspection of Table 4, one finds that 
+the decoding matrix will correct for all single errors in attribute 
+
+
+labeling, and will correct for some double errors. 
+
+
+Approved For Release 2000/08/07 : ¢#A-RDP96-00787R000500070004-8 
+
+
+| . Appeoyed For Release 2000/08/07 : CIA-RDP9 bf ri popasop070004 8 32740 
+
+40% s P. euns(ind) * 73728 
+2048 fis oa (B) cP 7S amu (04k) £. , FYROB 
+eee o Pes anna (34,05) © OF 792 
+
+0064 | 
+
+,00032 10 ogee SE 
+
+
+to) 
+° 
+wo 
+
+
+oO 
+* 
+oo 
+
+
+oO 
+° 
+NN 
+
+
+fas =(8) = 32768 | 
+
+
+/ 
+:. PROBABILITY OF RECEIVING A CORRECT MESSAGE 
+=) 
+a 
+
+
+0.5 | 
+No Error Correcting 
+; by 
+~ 0.4 cae 
+a -e-- Error Correcting 286 aa) 
+a) j : By Rac 
+0.3 JO V6 
+‘9 - ©- Majority Vote of 3 Error Q 
+As : Taos 
+Corrected Messages a oa 
+0.1 
+
+
+0.50 0.60 0.70 0,80 0.90 1,00 
+Ps: PROBABILITY OF CORRECTLY PERCEIVING 
+A SINGLE BIT 
+
+
+FIGURE 1 USE OF A 5-BIT ERROR=CORRECTING CODE TO INCREASE 
+PROBABILITY OF CORRECT MESSAGE RECEPTION 
+
+
+14 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Figure 1 shows the enhanced probability of receiving a 
+message correctly over that expected if no error correction is used. 
+The message reliability can be further enhanced by use of a majority 
+vote of three such error-correcting experiments. The probability 
+enhancement for this case is also shown in Figure 1. Pilot work has 
+indicated that for the attributes shown in Table 3, the probability 
+of a correctly received message approaches 95%. Another benefit of the 
+procedure incorporating the additional majority vote feature is that 
+in the absence of obtaining a majority vote (that is, in the absence 
+of obtaining 5-bit responses which, at least two times out of three, 
+lands in one of the four message columns of Table 4), one is certain 
+
+
+that no message was received. 
+
+
+Experiments will be carried out to evaluate the proposed 
+judging procedure, If successful, such a procedure will provide 
+‘information on subject reliabilities with respect to various categories 
+
+
+of response, and will thus be useful in assessing channel reliability. 
+
+
+b, Role of Feedback in Remote Viewing 
+
+
+In past programs we have conducted two series of experi- 
+ments with experienced remote viewing subjects to determine the effects 
+of withholding feedback. Both of these series failed to give a single 
+successful outcome in the no-feedback condition. This result offers 
+strong evidence that feedback is an essential element for successful 
+remote viewing, whether the reasons be psychological or physical. The 
+next appropriate series of experiments with these normally successful 
+subjects is to intermix, on a random schedule, feedback and no-feedback 
+trials, to eliminate any effect of psychological expectation that a 
+subject might have with regard to a given trial being carried out 
+without feedback, If we again find no success in trials without feed- 
+back, while the subjects continue to demonstrate successful remote 
+viewing in those experiments with feedback, this would indicate that there 
+was some substantive, perhaps physical, basis for the effect of feed- 
+
+
+back on the experiments, 
+
+
+13 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Cc. Role of Consciousness (Computer-Controlled Experiments) 
+
+
+If it should turn out that the subjects under the 
+conditions of the previous experiment exhibit success in remote viewing 
+independently of the feedback condition, we would then carry out a 
+further experimental series to define more precisely the role played by 
+feedback, In this case a subject would be asked to describe pictorial 
+material presented by a distant slide projector. (We carried out such 
+
+
+experiments in a pilot study and found them successful. ) 
+
+
+The purpose of this new set of trials is to determine 
+whether a subject can accurately describe material that is unknown, 
+and remains unknown, to any person, To accomplish this result it is 
+necessary to arrange for computer scoring of the trials. Each of 32 
+target slides will be dichotomized into five pairs of describable 
+attributes such as indoors/outdoors, wet/dry, etc. These attributes 
+constitute a five-bit binary code where each bit corresponds to the 
+presence or absence of each of the target attributes. (The complete 
+technique is described in the previous section on coding.) Such target 
+description encoding allows automatic computer scoring of the subject's 
+
+
+response to proceed as follows. 
+
+
+After the subject finishes his description of the target 
+in the remote viewing experiment, an experimenter, who is blind to the 
+target selected, would have the task of evaluating the description 
+in terms of the five dichotomies, which would then be entered into a 
+microcomputer by toggle switches, The computer would then compare and 
+score his judgment of target attributes against the correct ones, 
+registered on the slide by an appropriate light/dark bar code read by 
+photodiodes. The total number of matches would be recorded automatically. 
+After six such trials, the experimenters would read out the total number 
+of correct matches, A perfect score would consist of 6 experiments 
+times 5 bits, or 30 hits. A score of 20 hits would be the minimum to 
+show statistical significance, and, if achieved, would constitute 
+evidence for remote viewing in the absence of any conscious access to 
+the target/response pair key, In the event that this experiment is 
+
+
+successful, it would provide definitive and crucial evidence that 
+
+
+15 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+models of psychoenergetic processes based on precognitive feedback 
+channels alone, such as those proposed by 0. Costa de Beauregard,?® 
+
+
+are not correct. 
+
+
+An additional variation to be included is the presence 
+or absence of an experimenter viewing the slides to determine whether 
+knowledge of the target by some person enhances the remote viewing 
+
+
+process, 
+
+
+The outcome of experiments of this type is important 
+with regard to assessing the reliability of information obtained under 
+conditions in which feedback is minimal. As a side benefit, the protocol 
+as outlined can yield information as to resolution (depending on size of 
+slide projection) and enhancement factors associated with the presence or 
+absence of individuals knowledgeable of the target. Finally, the data 
+obtained provide for evaluation of the feasibility of using slide targets 
+as a medium for a practical communication system. If the use of slide 
+targets is successful, a standard demonstration experiment would be 
+developed so that the communications system could be observed by outside 
+
+
+evaluation teams. 
+
+
+d. Tracking of Targets in Motion 
+
+
+It has been pointed out by several sources that some 
+operators of fire-control radar displays can continue to make correct 
+judgements even when their scope is "white" with chaff and jamming. The 
+conjecture is that they either obtain subliminal information that the 
+untrained observer cannot see, or that there is a paranormal component 
+
+
+to their perception. 
+
+
+An attractive way to investigate this phenomenon with 
+regard to the paranormal hypothesis would be to generate a CRT display 
+showing clouds with a superimposed grid, An invisible target airplane 
+can be programmed to circumnavigate the display in a randomly-determined 
+manner, The task of the operator would be to activate a light-pen gun 
+over the square where he senses the plane to be, at which time the plane's 
+location is made visible for a short feedback interval. This computer- 
+
+
+controlled game would test, record, and provide immediate feedback to the 
+
+
+16 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+user, If tracking of this nature is a learnable skill, the protocol of 
+feedback and immediate reinforcement should allow learning to take 
+
+
+place, 
+
+
+e. Measurement of Accuracy as a Function of Repetition Rate 
+
+
+The rate at which trials in an ESP experiment are con- 
+ducted appears to strongly affect the success of the experiment. In our 
+experience, the success of subjects increases in direct proportion to 
+the time between experiments. From data including card guessing, remote 
+viewing, and picture drawing experiments, the common finding suggests 
+that if the targets are presented too rapidly in time, a temporal 
+contamination of neighboring stimuli occurs, In the annals of psychical 
+research this has been called displacement. A typical example is afforded 
+by repetitious slide experiments in which a subject gives an excellent 
+description of a remote slide that has not yet been illuminated, or a 
+description of one which has been illuminated but not yet shown to the 
+subject, thereby missing the real-time target. A corollary is that 
+displacement phenomena must be inhibited for successful real-time 
+
+
+psychoenergetic functioning to occur. 
+
+
+Tart has a theoretical explanation for this effect, which 
+he draws from conventional physiology.?” He calls this phenomenon 
+
+
+"Trans-Temporal Inhibition," and offers the following explanation: 
+
+
+Trans-Temporal Inhibition 
+
+
+"What I am postulating, then, is an active inhibition 
+of the precognitively and post-cognitively gained information 
+about immediate future and immediate past, in order to enhance 
+the detectability of ESP information about real-time events. 
+Since this inhibition extends over time, I have named this 
+
+
+phenomenon trans-temporal inhibition. 
+
+
+Except for the unusual features of extending over time 
+rather than space, trans-temporal inhibition is analogous to 
+a widely used information processing strategy in the nervous 
+system called lateral inhibition. This is a general 
+phenomenon of a highly stimulated receptor sending out 
+inhibitory impulses to receptor endings laterally/spatially 
+adjacent to it, thus suppressing their initially weaker 
+output, unless they are also strongly stimulated by an 
+appropriate stimulus. It amounts to an edge detection 
+
+
+17 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+process, To illustrate: If you press on your skin with a 
+
+sharply pointed object, not only is the touch receptor 
+
+immediately under the point strongly stimulated, but, 
+
+because of the mechanical deformation of the skin, receptors 
+
+laterally adjacent to the point are also stimulated, although 
+
+less intensely. The neural impulses resulting at the first 
+
+stage of detection, then, would be most intense immediately 
+
+under the stimulated point, but fairly intense on each side of 
+
+it, gradually tapering off, producing a neural signal pattern 
+
+suggesting a blunt, rounded stimulating object, rather than a 
+
+point. The most stimulated receptor under the point, however, 
+
+sends out inhibitory impulses suppressing the weaker (less 
+
+frequent) impulses from the laterally adjacent receptors, and 
+
+so recovering a pattern indicating point stimulation further 
+
+on in the nervous system. The phenomenon of trans-temporal 
+
+inhibition, then, suggests that a generally useful information 
+
+processing procedure is also operative for ESP." 
+
+In order to investigate this conjecture, the results of 
+
+experimentation under way for other purposes would be analyzed for the 
+
+
+displacement phenomenon as a function of inter-experiment temporal spacing. 
+
+
+2. Analysis 
+
+
+In our remote viewing experiments, the final output is typically 
+a tape recording and a written transcript, in which the subject relates 
+his perceptions and experiences with respect to the remote site that he 
+is attempting to describe, It is becoming apparent to us, as experimenters, 
+that some portions of a subject's output are more reliable than others. 
+For example, when a subject describes something at the site as being very 
+surprising to him, it can usually be found at the site, When the subject 
+assigns a name to the site, or a specific function, it is usually 
+incorrect. Similarly, when motion is perceived at the site, this 
+perception is usually correct. In some instances, a change in the tone 
+of voice of the subject is an indicator that the material being described 
+
+
+is more (or less) likely to be correct. 
+
+
+In addition, certain descriptive aspects of remote sites are 
+usually described correctly, such as whether they are indoors or out- 
+doors, whether the light is bright or dim, or whether the outbound 
+experimenters at the site are active or passive. These dichotomies have 
+already been codified in preliminary attempts to quantify remote viewing 
+
+
+for the purpose of sending messages, 
+
+
+18 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+A systematic analysis of transcripts and tapes could greatly 
+increase the accuracy of information obtainable from this type of 
+experiment, and therefore extensive transcript analysis could profitably 
+be carried out on the data base generated to date. This could include 
+
+
+such speculative procedures as voice stress analysis of the tapes. 
+
+
+3. Mechanisms 
+a. Theoretical Studies 
+
+
+To date, three basic physical models have been proposed 
+to describe paranormal functioning on the basis of present theory or 
+reasonable extensions of same, These are the ELF (extremely low fre- 
+quency) electromagnetic hypothesis, the quantum correlation hypothesis, 
+
+
+and the extradimensional hypothesis. 
+
+
+As discussed in Section I, the ELF hypothesis suggests 
+that psychoenergetic processes are carried by electromagnetic waves in 
+the frequency region below 1 kHz.°° Experimental support for this 
+hypothesis is claimed on the basis of lower-then-inverse-square attenua- 
+tion, low bit rates, and ineffectiveness of ordinary electromagnetic 
+shielding; factors (among others) apparently common to both ELF and 
+psychoenergetic processes, The quantum correlation hypothesis stems from 
+the recognition that a theory of reality compatible with quantum theory 
+cannot require spatially separated events to be independent,*®" 2° but 
+must permit interconnectedness of distant events in a manner that is 
+
+
+21,22 The extradimensional hypothesis 
+
+
+contrary to ordinary experience, 
+is based on the ideas of Targ, Puthoff, and May (SRI), G, Feinberg 
+(Columbia University), and E, Rauscher (University of California Lawrence 
+Berkeley Laboratory) pertaining to the use of extra spatial and temporal 
+dimensions to provide a space-time metric especially suitable for 
+
+
+describing psychoenergetic processes, ** 
+
+
+In the theoretical studies suggested below, we would 
+provide a series of predictions around which experiments can be designed, 
+and thus provide for the necessary differentiation among competing models 
+for psychoenergetic mechanisms. Such work would be pursued by both SRI 
+personnel and by consultant theoretical physicists; it will be collated 
+by SRI. 
+
+
+19 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Using the data base generated in past remote viewing 
+experiments, SRI proposes to look for correlations between success/failure 
+and time of day, geomagnetic storm activity, sun spot activity, and other 
+naturally occurring phenomena. In particular, we would use standard 
+statistical procedures to study correlation of remote sensing results 
+with factors such as east-west asymmetry, geomagnetic disturbance 
+indices, and diurnal variations, which are known to affect ELF and 
+
+
+other propagation, 
+
+
+b, ELF Experiments 
+
+
+The objective of these experiments is to determine the 
+extent to which the demonstrated remote viewing ability of an experienced 
+subject is degraded by placing him in electrically shielded environments 
+such as mu-metal chambers or submersibles, (Arrangements have been made 
+with appropriate organizations to obtain the use of a deep sea submersible 
+for this experiment.) It is anticipated that at least six experiments 
+would be carried out in each environment of interest. These remote 
+viewing experiments would be judged and evaluated statistically in 
+
+
+accordance with the previously established procedures described earlier. 
+
+
+If a subject is able to perform remote viewing from such 
+environments, we would conclude that electromagnetic radiation plays a 
+negligible role in the process, If he is unable to produce statistically 
+significant results under the shielded conditions, this would tend to 
+support the ELF hypothesis, We would, however, have to check for the 
+possible effects of psychological inhibition caused by the unusual 
+settings. This would be accomplished by covertly degrading the shielding 
+of the shielded room, or by attaching a wire to the submersible. If an 
+otherwise successful subject were still unable to remote view, we could 
+conclude that psychological factors rather than shielding degraded his 
+performance, If, on the other hand, his ability were restored by 
+the covert reduction of shielding, we would conclude that electromagnetic 
+
+
+effects were involved. 
+
+
+The use of shielding with different characteristics allows 
+
+
+differential testing of such factors as frequency dependence of the 
+
+
+20 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+phenomenon, Therefore, we would carry out remote viewing experiments 
+using electromagnetic and magnetic shielding, such as thick-walled or 
+mu-metal chambers (NASA Ames, Stanford University Physics Dept.) or the 
+shielded room at the MIT Magnet Laboratory, as well as submersibles, 
+for the purpose of obtaining further information pertaining to the ELF 
+hypothesis, the hypothesis favored in the USSR for all psychoenergetic 
+
+
+phenomena. 
+
+
+If it appears from the above work that ELF plays a part in 
+remote viewing, we would then conduct a similar series of controlled and 
+judged experiments with the subject in a high-intensity EM environment 
+such as an electrical substation whose 60-Hz generator would act as a 
+
+
+potential jamming noise source. 
+
+
+We also propose to use a portable ELF generator that would 
+be taken to six remote target areas that are otherwise relatively free of 
+ELF. At these sites, it would be determined in a random manner, blind to 
+the subject, whether the generator is to be turned on or off. We would 
+then make a statistical comparison of the remote viewing results. Thus, 
+we would use ELF sources (i.e., signal generators) as targets in remote 
+sensing, and use ELF sources for jamming the remote viewing environment, 
+
+
+in controlled double-blind experiments. 
+
+
+c. Subject-Induced Equipment Perturbation Effects 
+
+
+The study of human/machine interactions as a psychoenergetic 
+process has posed great difficulties for serious investigators. Among 
+these difficulties are the combined facts that the reported effects tend 
+to be small, and that the local environment has rarely been monitored for 
+causes other than the proposed psychoenergetic ones, In addition, one 
+finds that the strongest effects are reported as occurring with the most 
+controversial and/or suspect subjects. Out of this collection of 
+questionable experimentation (and often poor reporting) emerge, however, 
+a few provocative experimental results that suggest that further careful 
+examination may be worthwhile and possibly rewarding. Such studies would 
+provide valuable data for assessing whether the area of subject-induced 
+
+
+equipment perturbations constitutes a useful area in inquiry. 
+
+
+21 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+(1) Strain Gauge Experiments 
+
+
+As a result of technical contacts with Prof. John 
+Hasted, Birkbeck College, University of London, during an Iceland 
+Conference on Physics and Parapsychology, we have developed an interest 
+
+
+in attempting to confirm his claim®*»*5 
+
+
+that he has observed inelastic 
+and elastic deformations of metal bars by some kind of remote human 
+interaction, During these experiments the subjects are reported to 
+
+
+cause effects without any physical contact with the metal. 
+
+
+In an effort to replicate Prof. Hasted's results, we 
+have constructed an electrically shielded enclosure having more than 
+135 dB RF attenuation from 10 kHz to 10 MHz and plexiglass sides (to 
+shield against air currents), Within this enclosure is the experimental 
+system of resistive strain gauges attached to a thin metal bar. These 
+are wired as a temperature-compensating bridge and connected to battery- 
+operated amplifiers and recording instruments. At present we can detect 
+changes in the length of the bar on the order of 500 angstroms and 
+applied transverse forces of approximately 100 mg. To date, we have 
+been successful in isolating and correcting several sources of artifact, 
+and have obtained hours of artifact-free baseline operation. All of the 
+data will be magnetically recorded for later computer analysis, and a 
+simple stripchart record will provide immediate feedback to the subject 
+of any changes in the bar. We are encouraged with the progress of 
+artifact isolation, and we propose to begin to task subjects to attempt 
+
+
+to perturb the isolated metal bar. 
+
+
+Should experimentation reveal genuine subject- 
+induced perturbations, we propose to determine whether such effects can 
+
+
+be used as a message-transmission device (remote telegraph). 
+
+
+(2) Random Number Generator Experiments 
+
+
+Another class of experiments that have been extensively 
+reported are those that involve alleged human/machine interaction with 
+electronic random-number generators, In these experiments, digital 
+electronic noise derived either from a thermal noise source or from the 
+
+
+decay of a radioactive material is monitored while a subject is 
+
+
+Approved For Release 2000/08/077"CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+attempting to alter the statistical properties of the noise distribution. 
+The usual protocol involves providing visual and audio feedback signals, 
+proportional to various statistical parameters, to a subject who is asked 
+in a biofeedback scenario to concentrate upon the feedback signals and to 
+alter them in a prescribed way. To date, there have been 54 such experi- 
+ments reported in the literature,*° of which 35 report statistically 
+Significant effects, while one of these studies show similar departures 
+
+
+from randomness during control runs without intended influence, 
+
+
+We are presently in the design stage of a micro- 
+processor-based random-number generator, A block diagram of the system 
+is shown in Figure 2. We plan to use three fundamentally different 
+sources of random events to derive the digital electronic noise signal. 
+The first of these is a diode designed by R. H. Haitz,®” that is com- 
+pletely understood from both the quantum mechanical and solid state 
+construction point of view. A second fundamentally different source of 
+random events is to be derived from the decay of a single-transition 
+beta emitter. Lastly, the entire system can be checked against a 
+pseudorandom shift register, that constitutes a third source of random 
+events. This latter has the property that a long string of bits appears 
+random, yet once the shift register is reinitialized it produces the 
+
+
+identical random sequence once again, 
+
+
+The instrument is under control of a microprocessor 
+that records data on magnetic tape for later analysis, and controls a 
+printing I/O statistical calculator that provides immediate results for 
+feedback, Once the instrument is complete, it will be exhaustively 
+
+
+tested for possible artifacts resulting from environmental conditions. 
+
+
+We propose to use this instrument first to attempt 
+to confirm the existence of the claimed phenomenon, and, if it is con- 
+firmed, to investigate theoretical implications with regard to various 
+modes of human/machine interaction. Assuming that an effect can be 
+stabilized, this microprocessor-based System can easily be reprogrammed 
+to utilize coding techniques (described earlier) to construct a "remote" 
+
+
+telegraph communication system, 
+
+
+23 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 . 
+
+
+HP 97S 
+PRINTING 1/0 
+CALCULATOR 
+
+
+RCA 1802 
+ig cca 
+
+
+Rl = "HAITZ" NOISE DIODE 
+R2 = ELECTRON EMITTER - RADIO } ACTIVE SOURCE 
+R3 = PSEUDO{RANDOM SHIFT REGISTER 
+
+
+FIGURE 2) RANDOM-NUMBER GENERATOR — BLOCK DIAGRAM 
+
+
+24 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+(3) Magnetometer Experiments 
+
+
+One of the first intentionally induced physical 
+perturbation effects observed by SRI personnel was the apparent pertur- 
+bation of a superconductor-shielded Josephson effect magnetometer by 
+two subjects who performed successfully in remote viewing experiments. *”® 
+We propose to carry out further experimentation with a sensitive 
+Josephson junction cryomagnetometer, a commercial instrument manu- 
+factured by Superconducting Technology, Inc., Mountain, View, California 
+(Model A201 magnetometer, employing an A401 SQUID sensor, A301 RF 
+
+
+amplifier, and removable superconducting shield). 
+
+
+Experimentation with such instrumentation requires 
+
+
+the following steps: 
+
+
+(1) Obtain calibration data in control runs to establish 
+baseline performance of the magnetometer in the absence 
+of any subject, 
+
+
+(2) Repeat above with various subjects present, but passive, 
+to establish background of perturbation effects in the 
+presence of subjects not engaging in volitional efforts 
+to perturb magnetometer system, 
+
+
+(3) Carry out controlled experimental runs based on effort/ 
+non-effort periods being determined by random number 
+generator to provide statistical control. Make multiple 
+recordings to investigate "recorder only" effects, and 
+conduct automated statistical analysis (FFT, spike train 
+analysis, etc.) of the magnetometer output to determine 
+the signature of subject-produced effects. 
+
+
+(4) If perturbation effects are observed, interposition 
+of distance and shielding in a systematic way to 
+determine dependence of these factors. 
+
+In addition to the possible use of sensitive 
+instrumentation as targets for active perturbation efforts in, for 
+example, a communication link, such study offers the potential for 
+determining the use of such instrumentation as passive detectors 
+
+
+of remote viewing phenomena ("intrusion detection"). 
+
+
+25 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Cc. Psychophysiological Correlates 
+
+
+1. Physiological Measures for Psi-Conducive States 
+
+
+In recent years, behavioristically oriented scientists have 
+suggested that in addition to obtaining overt responses such as 
+verbalizations or key presses from a subject, it should be possible to 
+obtain objective evidence of psi activity by direct measurement of some 
+physiological parameter of a subject, Kamiya, Lindsley, Pribram, 
+Silverman, Walter, and others who came together to discuss physiological 
+methods to detect ESP functioning, have suggested that a whole range of 
+electroencephalogram (EEG) responses such as evoked potentials (EPs), 
+spontaneous EEG, and the contingent negative variation (CNV) might be 
+sensitive indicators of the detection of remote stimuli not mediated by 
+
+
+usual sensory processes.” 
+
+
+An early experiment of this type is that of Douglas Dean at the 
+Newark College of Engineering. In his search for physiological correlates 
+of information transfer, he used the plethysmograph, which measures 
+changes in the blood volume in a finger and is a sensitive indicator of 
+autonomic nervous system functioning.°° A plethysmographic measurement 
+was made on the finger of a subject during telepathy experiments. In 
+these tests a sender looked at randomly selected target cards consisting 
+of names known to the subject, together with names unknown to him 
+(selected at random from a telephone book). The names of the known people 
+were contributed by the subject and were to be of emotional significance 
+to him. Dean found significant changes in the chart recording of finger 
+blood volume when the remote sender was looking at those names known to 
+
+
+the subject as compared with those names randomly chosen. 
+
+
+Three other experiments using the physiological approach have 
+now been published. The first work by Tart,°+ a later work by Lloyd,** 
+and most recently the work by the authors of this document®* all follow 
+a similar pattern. Basically, a subject is closeted in an electrically 
+shielded room while his EEG is recorded. Meanwhile, in another laboratory, 
+a second person is stimulated from time to time, and the time of that 
+stimulus is marked on the magnetic tape recording of the subject's EEG, 
+
+
+The subject does not know when the remote stimulus periods are, as 
+
+
+Approved For Release 2000/08/07 2@IA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+compared with the nonstimulus periods. Evidence for systematic changes 
+
+
+in EEG correlated with the remote stimuli are then sought. 
+
+
+All of these physiological measures might be used as a potential 
+signaling channel for information transfer, but a more important 
+application of this output would be as feedback to the subject, so that 
+he could learn to recognize his own optimal state of mind for success 
+
+
+in a psychoenergetic task, 
+
+
+2. Environmental Factors 
+
+
+a. Altered States of Consciousness: Special Environments 
+
+
+For the entire history of parapsychological research 
+there has been keen interest in optimizing the physical and psychological 
+conditions for a subject during an experiment. In the early part of this 
+century, there was much interest in the use of hypnosis as a means of 
+relaxing the subject, and suggesting to him that he would be successful 
+in the task before him. This approach, although attractive to many 
+investigators, never yielded convincing results indicating that subjects 
+did better through the use of hypnosis then they might have done with 
+
+
+ordinary relaxation, 
+
+
+In the last two decades there had been an interest in the 
+use of various pharmacological agents with a view toward whether they 
+would induce psi-conducive states. No evidence of enhancement emerged 
+from these studies either. Some subjects could produce statistically 
+significant results both in pharmacologically-altered and in normal 
+states, and so there was no evidence that the altered state had anything 
+
+
+to do with their success, 
+
+
+More recently there has been a great deal of interest in 
+the so-called ganzfeld protocol, in which a subject is provided with 
+presumably neutral sensory inputs. These are usually in the form of white 
+noise through earphones, and uniform illumination filtered through ping-pong 
+ball halves covering the eyes. The researchers at the Maimonides Hospital 
+Parapsychology Laboratory have obtained consistent success with this kind 
+of protocol over a period of several years. Thus, unlike the use of 
+hypnosis and pharmacological agents, some evidence that this form of 
+of environment control can be conducive to psychoenergetic functioning for 
+
+
+some subjects, 
+
+
+Approved For Release 2000/08/072? CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Therefore, it is desirable to conduct experiments with 
+trained, high-scoring subjects to examine the effects of other factors 
+which might provide psychological conditions conducive to high-quality 
+psychoenergetic functioning (e.g., sensory isolation, free-fall 
+
+
+conditions in space, etc.). 
+
+
+b, Examine the Part Played by the Experimenter 
+
+
+From the work of Prof, Robert Rosenthal at Harvard it is 
+clear that there is a strong difference in the outcome of some 
+psychology experiments, depending on who conducts the experiment. This 
+so-called experimenter effect has been the subject of investigation for 
+the past 15 years in an attempt to find means to objectify some of the 
+principal findings of conventional perceptual and behavioral psychology. 
+We are not suggesting that this experimenter effect in psychology is 
+due to paranormal influences, but rather that some of the inability to 
+replicate ESP experiments of one. laboratory, when the experiments are 
+transferred to another laboratory, might be due to subtle experimenter 
+effects of the type known to occur in psychology and behavior experi- 
+
+
+ments in general. 
+
+
+We consider it important to find out if the success or 
+failure of parapsychology experiments relate to the experimenter effect 
+through interpersonal interaction, subliminal cueing, or some as-yet 
+
+
+uncataloged factor, 
+
+
+36 Educational Procedures 
+a. Screening 
+
+
+Conversations with East Bloc researchers, and recent 
+information from Soviet researcher I.M. Kogan indicate that the USSR 
+has established a significant nationwide testing program to identify 
+psychically gifted young people. It is now generally agreed that 
+psychic functioning is an innate or latent ability, somewhat similar to 
+musical talent, That is, all people have it to some degree, but there 
+
+
+is a wide range of abi,ities from the psychically tone deaf, to the 
+
+
+28 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+virtuoso performer. It would be the goal of a screening program to 
+locate and recruit the most psychically talented individuals available, 
+both to obtain a measure of the range of abilities that exists, and also 
+to make use of these abilities to further increase our understanding 
+
+
+of the phenomenon. 
+
+
+(1) Explore Training Techniques with Children, 
+the Blind, and Other Special Subjects 
+
+
+Although there is strong laboratory evidence for 
+psychoenergetic functioning in a great number of individuals, psychic 
+functioning is not yet widely accepted and utilized in the society at 
+large. One conjecture for the reason that there is not more day-to-day 
+evidence of this ability is that it is a forbidden activity, largely 
+suppressed in our society. It is further conjectured that psychic 
+functioning may be easier to elicit from children, who have not yet 
+"unlearned" the use of this otherwise natural ability. Therefore, we 
+would anticipate that part of any program effort would be directed 
+
+
+toward work with children in order to test this hypothesis, 
+
+
+Similarly, if the hypothesis of societal inhibition 
+against the use of psychic functioning is correct, a group of adults 
+likely to have overcome it to some degree would be the blind, since it 
+would be greatly advantageous to them to have additional means of gaining 
+information about their environment, We have carried out a remote sensing 
+experiment with one blind individual and found him to be an excellent 
+
+
+subject, 
+
+
+In addition, work with the blind may provide an 
+opportunity to observe underlying parameters of paranormal perception 
+at a more primary level, since individuals lacking sight may be less 
+conditioned by the visual learning modalities characteristic of our 
+
+
+society. 
+
+
+We consider that investigation with both children 
+and blind subjects would constitute a valuable addition to any continuing 
+
+
+effort to screen the population for high-performance subjects. 
+
+
+29 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+(2) Distance Experiments with Identical Twins 
+
+
+Identical twins have become an enigma to modern 
+psychoenergetic research, Although there is copious anecdotal material 
+verifying the existence of a paranormal rapport between distantly 
+separated twins, this alleged linkage has resisted laboratory 
+
+
+confirmation. 
+
+
+Identical twins often express the opinion that they 
+have a sensitivity to the feelings, dangers and traumas experienced by 
+each other, and many such instances have been well documented in the 
+parapsychological literature. However, it is interesting that these 
+same twins tend to perform at chance levels when tested with standard 
+ESP testing materials, such as cards and pictures. In our opinion 
+meaningful use can be made of the unique psychological and physiological 
+relationship existing between twins, by having them participate in 
+experiments of the remote viewing type in which there is a high yield of 
+success generally. If an exceptionally high degree of success with twins 
+taking part in remote viewing experiments was forthcoming, perhaps new 
+measures of the limits of resolution could be obtained from such an 
+
+
+effort. 
+
+
+It appears that the lack of accuracy in the remote 
+viewing protocol comes not so much from the lack of perception by the 
+receiver, but rather from his or her ability to render the preconscious 
+images without distortion, It is possible that twins share a common 
+fund of such images and image-processing mechanisms, and therefore could 
+provide increased resolution and analytic content, as compared with 
+
+
+relative strangers who typically make up the remote viewing duo. 
+
+
+b. Training 
+
+
+(1) Training in Perceptual Tasks Paralleling 
+Ordinary Perception 
+We have in our laboratory carried out a series of 
+communication experiments involving the transmission, from one laboratory 
+to another, of simple shapes (e.g., T, 0, A), which also were of 
+different colors for each shape. These tests were initiated in an 
+
+
+effort to assess reports of Soviet work in this area, which include 
+
+
+Approved For Release 2000/08/07 #CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+the transmission of decimal numbers via a psychoenergetic channel, 
+with a claimed yield of 105 out of 135 decimal digits 0-9 (p ~ 10777) ,34 
+
+
+The communications series was designed to determine 
+whether a gradient series of perception tasks that mimic the known 
+development of ordinary perception would be useful in the development of 
+paranormal perception. The decision to follow such a protocol was 
+derived from data indicating that the laws of paranormal perception are 
+congruent with, rather than skew to, the laws that govern ordinary 
+perception, especially under conditions of subliminal presentation. 
+
+The particular question examined was whether a specific perceptual 
+orientation process known to hold in ordinary perception of color, 
+
+would hold in the case of paranormal perception as well. The perceptual 
+process of interest was the well-documented scale of increasing 
+sensitivity to color tones. Cross-cultural studies of 98 separate 
+linguistic stocks indicate that perception of color tones in the 
+environment begins with discrimination first of black and white (dull/ 
+bright); then red is identified as a color; then yellow followed by 
+green or green followed by yellow; then blue; brown; and finally purple, 
+
+
+pink, orange, and grey,°© 
+
+
+With the hypothesis that a similar gradient is 
+followed in the development of paranormal perception, subjects were 
+asked to differentiate among simple remote color card targets first on 
+the basis of the dichotomy dull/bright, then with regard to shape, and 
+only finally with regard to color. Specifically, subjects were 
+encouraged to reject premature mental discrimination processes based on 
+color recognition, which, by the hypothesis under test, we would assume 
+to be imaginative overlay from the already highly developed ordinary 
+
+
+perceptual modes, 
+
+
+Numerous data were gathered with subjects who 
+were experienced remote viewers. Analysis of the data, which shows 
+learning on both cases, provides initial support for the hypothesis 
+that progress in paranormal perception can be made on the basis of 
+
+
+training drills designed from what is known about ordinary perception. 
+
+
+31 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+The purpose of this kind of training is the development 
+of excellent and reliable paranormal perception of analytic and other 
+
+
+alphanumeric types of target material. 
+
+
+Two extensions of this work are proposed: (1) Novice, 
+as opposed to experienced, subjects will be tested on the protocol 
+established above to determine whether they also show improvement in 
+remote perception skills; and (2) additional protocols based on factors 
+known to be important in ordinary perception will be designed and 
+
+
+evaluated by further testing with experienced subjects. 
+
+
+(2) Training in Abstract Targeting, Including 
+Geographical Coordinates 
+
+
+To date, two subjects have unmistakably demonstrated 
+their ability to describe distant locations, given only the map 
+coordinates (latitude and longitude) of a target site, Other subjects 
+
+
+have attempted similar tasks with mixed results, 
+
+
+One notable difference between the two groups is 
+that the successful group ran through practice training procedures 
+involving ~100 sites taken from an ordinary atlas. Therefore, it is 
+proposed that a similar procedure be applied with new subjects to 
+evaluate whether such a procedure might result in the development of a 
+training protocol of general use. Should improvement be forthcoming on 
+this basis, novice subjects would also be tested and evaluated utilizing 
+
+
+the same protocols. 
+
+
+Additional variations on the theme of abstract 
+targeting would include targeting on the basis of pictures or 
+
+
+maps of the target site (with and without key elements missing). 
+
+
+The goal of these efforts is to evaluate potential 
+‘training protocols of wide applicability. Should such a program be 
+successful, it would eliminate our dependence on a select group of 
+naturally gifted individuals, a group that is inadequate in number for 
+large-scale exploration of the field's potentialities. 
+
+
+32 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+IV PRIORITIES AND RECOMMENDATIONS 
+
+
+Based on our own past six years of research, and the decades of 
+investigation by other scientists, we conclude that present evidence 
+strongly indicates the existence of some sort of paranormal or psycho- 
+energetic perceptual channel, By paranormal perception we mean the 
+response of an individual to a stimulus presented to no known sense, 
+
+
+or presented to a known sense by a currently unknown modality. 
+
+
+he two underlying goals that must be attained for the eventual 
+utilization of this phenomenon are reliability and understanding, and 
+the recognition that it is necessary to have both in order to have 
+
+
+either, 
+
+
+We recommend that the principal objective of any new research 
+activity in this area should be the development of the most reliable 
+possible communication link, either between two individuals or between 
+a person and an object, such as a thought-controlled switch. Only 
+through achieving a system reliability of perhaps upwards of 80% can 
+the physical and psychological factors controlling paranormal perception 
+
+
+be determined, 
+
+
+To accomplish these objectives, we suggest that the highest- 
+priority tasks to be carried out are those that involve optimizing the 
+experimental protocols, and the training of subjects to reach excellence 
+of performance. In addition, screening procedures must be established 
+to enlarge the populations from which subjects are drawn, to allow us 
+to find additional gifted individuals for participation in the experi- 
+
+
+mental program. 
+
+
+Finally, we recommend that SRI, as a major contractor in this 
+area, serve a dual function: (1) carry out the major portions of the, 
+contracted R&D efforts; and (2) host inter-agency and inter-contractor 
+conferences, For day-to-day update, a teletype terminal would be 
+placed at contractor and sponsor locations so that teleconferencing by 
+computer can take place on a continual basis. Such computer tele- 
+
+
+conferencing provides the benefits of a message center that can be 
+
+
+33 
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+accessed at any time, in addition to multi-party teleconferencing, 
+Teleconferencing programs of the type used in the DARPA net or Planet 
+system can be supplied by SRI. 
+
+
+For more formal inter-contractor conferences, SRI would follow 
+procedures similar to those used on the ARPA-sponsored SECEDE and 
+TEALWING programs, and the ABMDA~sponsored HAPREX program, wherein 
+SRI hosts meetings of scientists brought together to advise DoD 
+
+
+personnel on technological advances of potential strategic significance, 
+
+
+34 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+10, 
+
+
+ll. 
+
+
+12, 
+
+
+REFERENCES 
+
+
+H. Puthoff and R. Targ, "A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical Perspective and 
+Recent Research," Proc. IEEE, Vol. 64, No. 3, pp. 329-354 
+(March 1976). 
+
+
+H. E, Puthoff and R. Targ, "Direct Perception of Remote Geo- 
+graphical Locations," Proc. IEEE Electro/77 Special Session on 
+
+
+the State of the Art in Psychic Research, New York, N.Y. (April 
+
+
+19-21, 1977). 
+
+
+R. Targ, H. E. Puthoff and E. C. May, "State of the Art in Remote 
+Viewing Studies at SRI," Proc. 1977 IEEE International Conf. on 
+Cybernetics and Society (Technical Session on Research in Psycho- 
+
+
+energetics), Washington, D.C. (September 20, 1977). 
+
+
+L. F. Maire III and Major J. D. LaMothe, MSC, "Soviet and Czecho- 
+slovakian Parapsychology Research,'' DIA Document No. DST-1810S- 
+387-75 (September 1975). 
+
+
+L. L. Vasiliev, "Experimental Studies of Mental Suggestion," 
+JPRS Document No, 59163, NTIS, Springfield, Virginia (31 May 1973). 
+
+
+I. M. Kogan, "Is Telepathy Possible?," Radio Eng., Vol. 21, p. 75 
+(January 1966). 
+
+
+I. M. Kogan, "Telepathy, Hypotheses and Observations," Radio Eng., 
+Vol. 22, p. 141 (January 1967). 
+
+
+I. M. Kogan, “Information Theory Analysis of Telepathic Communication 
+Experiments," Radio Eng., Vol. 23, p. 122 (March 1968). 
+
+
+I. M. Kogan, "The Information Theory Aspect of Telepathy," RAND 
+Publication P-4145, Santa Monica, California (July 1969). 
+
+
+E. C. Wortz et al., "Novel Biophysical Information Transfer 
+Mechanisms (NBIT),'' Document No, EW-76-010, Final Report on 
+Contract No. XG-4208 (54-20)75S, Airesearch Manufacturing Company 
+of California, a division of Garrett Corporation (January 14, 1976). 
+
+
+E. C, Wortz et al., "An Investigation of Soviet Psychical Research," 
+
+
+Proc. IEEE Electro/77 Special Session on the State of the Art in 
+Psychic Research, New York, N.Y. (April 19-21, 1977). 
+
+
+W. P. Zinchenko, A. N. Leontiev, B. M. Lomov, and A. R. Luria, 
+
+
+"Parapsychology: Fiction or Reality?," Question of Philosophy, 
+Vol. 9, pp. 128-136 (1973). 
+
+
+35 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+13. Reference available upon request, 
+14, Reference available upon request, 
+
+
+15. D. Slepian, "A Class of Binary Signaling Alphabets," The Bell System 
+Technical Journal, Vol. 35, No. 1, p. 203 (January 1956), 
+
+
+16. 0. Costa de Beauregard, "The Einstein Paradox," 1977 Proceedings of 
+the International Conference on Cybernetics and Society, p. 508, 
+IEEE Systems, Man, and Cybernetics Society, Washington, D.C. 
+
+
+17, C. Tart, "Improving Real-Time ESP By Suppressing the Future: 
+Trans-Temporal Inhibition," Proc. IEEE Electro/77 Professional 
+Program Special Session: The State of the Art in Psychic Research, 
+New York (April 1977). 
+
+
+18. D. Bohm and B. Hiley, "On the Intuitive Understanding of Non- 
+Locality as Implied by Quantum Theory," Foundations of Physics, 
+Vol. 5, pp. 93-109 (1975). 
+
+
+19, J. 5. Bell, "On the Problem of Hidden Variables in Quantum Theory," 
+Rev. Mod. Phys., Vol. 38, No. 3, p. 447 (July 1966). 
+
+
+20. H. Stapp, "Are Superluminal Connections Necessary?,' Report 
+LBL-5559, Lawrence-Berkeley Laboratory, University of California, 
+Berkeley (November 1976), 
+
+
+21. A. Einstein, B. Podolsky, and N. Rosen, "Can Quantum-Mechanical 
+Description of Physical Reality be Considered Complete?," Phys. 
+Rev., Vol. 47, p. 777 (May 15, 1935). 
+
+
+22. R. H. Dicke and J. P. Wittke, Introduction to Quantum Mechanics, 
+Chap. 7 (Addison-Wesley, New York, N.Y., 1960). 
+
+
+23. 4H. E. Puthoff and R. Targ, "Direct Perception of Remote 
+Geographical Locations," Proc. IEEE Electro/77 Professional Program 
+(April 1977). 
+
+
+24. J. B. Hasted, "An Experimental Study of the Validity of Metal- 
+Bending Phenomena," Jour. of the Soc. for Psychical Research, 
+Vol. 48, No. 770 (December 1976). 
+
+
+25. J. B. Hasted, "Physical Aspects of Paranormal Metal Bending," 
+Jour. of the Soc. for Psychical Research, Vol. 49, No. 773 (September 
+1977). 
+
+26. C. Honorton, “Replicability, Experimenter Influences, and Para- 
+psychology,'' paper presented to 1978 Annual Meeting of AAAS, 
+Washington, D.C., 1978. 
+
+
+27. R. He Haitz, "Controlled Noise Generation with Avalanche Diodes," 
+IEEE Trans. on Electron Devices, p. 198 (April 1965). 
+
+
+36 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
+28. 4H. E, Puthoff and R. Targ, "Physics, Entropy, and Psychokinesis," 
+Proc. 23rd Annual International Conference, Quantum Physics and 
+Parapsychology, Geneva, Switzerland, August 1974, L. Oteri, ed. 
+(Parapsychology Foundation, New York, N.Y., 1975). 
+
+
+29. Roberto Cavanna, ed., Proceedings of an International Conference 
+
+
+on Methodology in Psi Research (Parapsychology Foundation, New York, 
+New York, 1970). 
+
+
+30. E. Doulas Dean, "Plethysmograph Recordings as ESP Responses," 
+Int'l, J. Neuropsychiatry, Vol, 2 (September 1966). 
+
+
+31. C, Tart, "Physiological Correlates of Psi Cognition," Int. J. 
+Parapsychology, No. 4 (1963). 
+
+
+32. D. H. Lloyd, "Objective Events in the Brain Correlating with 
+Psychic Phenomena," New Horizons, Vol. 1, No. 2 (Summer 1973). 
+
+
+33. E. C. May, R. Targ, and H. E, Puthoff, "Possible EEG Correlates 
+to Remote Stimuli Under Conditions of Sensory Shielding," Proc. 
+
+
+of the IEEE Electro/77 Special Session on the State of the Art in 
+Psychic Research, New York, N.Y, (April 19-21, 1977). 
+
+34, V. Ye. Fidel'man et al., "Procedure and Results of an Experimental 
+Check of the Possibilities for Telepathic Communication," 
+FTD-ID(RS) -1336-77, 
+
+
+35. B. Berlin and P, Kay, Basic Color Terms (University of California 
+Press, Berkeley and Los Angeles, 1969), 
+
+
+37 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00787R000500070004-8 
+
+
