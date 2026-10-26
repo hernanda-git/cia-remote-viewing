@@ -14,7 +14,7 @@ needing to visit external links. This is a long-running task; resume across sess
 - [x] Committed and pushed to https://github.com/hernanda-git/cia-remote-viewing
 
 ## In progress / next (resumable)
-- [ ] Fetch full verbatim OCR text for each of the 1,809 STARGATE/remote-viewing documents into documents/stargate/
+- [ ] Fetch full verbatim OCR text for each of the 1,809 STARGATE/remote-viewing documents into documents/stargate/ (5 done, 1,804 remaining)
 - [ ] Fetch full verbatim OCR text for each of the 524 MKULTRA documents into documents/mkultra/
 - [ ] Fetch full text for NSA psychokinesis document
 - [ ] Fetch full text for GWU STARGATE doc 57
