@@ -228,6 +228,13 @@ Soviet parapsychology including Vasilyev's telepathy work.
 
 Soviet Vasilyev telepathy: early Soviet research on telepathy cited in Western assessments.
 
+## Related Declassified Collections
+
+- MKULTRA: https://archive.org/details/DOC_0000190090 (and CIA FOIA reading room MKULTRA search)
+- NSA psychokinesis/remote viewing: https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100010041-2.pdf
+- National Security Archive MKULTRA collection: https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly
+- GWU National Security Archive STARGATE doc 57: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf
+
 ## Modern Follow-Up Research
 
 Post-declassification academic work continues. Examples: Escola-Gascon et al. (2023), follow-up
@@ -9292,12 +9299,13 @@ Source: Internet Archive mirror of the CIA FOIA Electronic Reading Room (CREST).
 
 ## Methodology
 
-1. Queried the Internet Archive mirror of the CIA FOIA Electronic Reading Room (collection:
+1. Scope note: this index covers CREST items whose title or metadata mentions remote viewing or stargate (1,809 docs). Broader parapsychology, psychotronics, and MKULTRA records are referenced in the Related Programs section but not individually indexed.
+2. Queried the Internet Archive mirror of the CIA FOIA Electronic Reading Room (collection:
    ciareadingroom) for all items whose title or metadata mentions remote viewing or stargate.
-2. Deduplicated by archive identifier, yielding 1,809 unique documents.
-3. For each document, fetched its archive.org metadata record and extracted the released OCR text
+3. Deduplicated by archive identifier, yielding 1,809 unique documents.
+4. For each document, fetched its archive.org metadata record and extracted the released OCR text
    (truncated to about 160 characters) as a short description.
-4. Generated this index with direct links to both the archive.org mirror and the original CIA PDF.
+5. Generated this index with direct links to both the archive.org mirror and the original CIA PDF.
 
 Because the CIA reading-room site is periodically under maintenance, the Internet Archive mirror
 is the most reliable way to read these documents.
