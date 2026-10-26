@@ -44,15 +44,33 @@ def load_ids(collection):
     raise ValueError(collection)
 
 def fetch_text(ident):
-    # archive.org file base name = ident without 'cia-readingroom-document-' prefix? check both
     base = ident
     if base.startswith("cia-readingroom-document-"):
         base = base[len("cia-readingroom-document-"):]
     fname = base + "_djvu.txt"
     url = "https://archive.org/download/" + ident + "/" + fname
-    with urllib.request.urlopen(url, timeout=60) as r:
-        return r.read().decode("utf-8", errors="replace")
-
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    last_err = None
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=45) as r:
+                return r.read().decode("utf-8", errors="replace")
+        except Exception as e:
+            last_err = e
+            time.sleep(1.0 * (attempt + 1))
+    # Fallback to metadata description if direct text download fails
+    try:
+        meta_url = "https://archive.org/metadata/" + ident
+        req = urllib.request.Request(meta_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            d = json.loads(r.read().decode("utf-8", errors="replace"))
+        desc = d.get("metadata", {}).get("description", "")
+        if desc:
+            return "[Archive OCR Excerpt]\n" + desc
+    except Exception:
+        pass
+    raise last_err
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--collection", required=True, choices=["stargate", "mkultra"])
