@@ -1,0 +1,403 @@
+“ 
+
+
+PROCEEDINGS APPREMEG For Release 2000/08/07 : ei at al aleRa aaa 
+
+
+dissertation, ETS, Ing Telecomunicacion, Madrid, 1973, 
+
+[3] S. Yoshizawa, “Some properties of randomly connected networks 
+of neuron-like elements with refractory period,” Kybernerik, vol. 
+16, pp. 173-182, 1974, 
+
+
+‘} S. Amari, “A method of statistical neurodynamics,” Kybernetik, 
+
+
+vol. 14, pp. 201-215, 1973. 
+
+
+Comments on “A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical 
+Perspective and Recent Research” 
+
+
+LEON D. HARMON 
+
+
+There are many ways in which to comment upon the above paper.’ | 
+imagine that Procezpincs readers will provide a fine variety of feed- 
+back. My own reaction, however, is very simple, 8 
+
+if one takes the trouble to Categorize roughly the contents of this 
+ramble, the sequence looks like this: 
+
+
+Number of 
+: Topic Pagos 
+
+1) Introduction 1 
+2) Informal anecdotal assertions 1 
+3) Historical background ; 3g 
+4) Main study: Introduction, procedures, i 
+
+controls q 
+5) Results, gratuitous editorial comments, 
+
+anecdotal procedure citation 5} 
+6) Informal presentations and discussions 
+
+of further experiments 10 
+7) Analysis 13 
+8) Raw data transcript 1 
+9) Bibliography 1} 
+
+
+The centra) issue in a deeply controversial and highly suspect topic 
+such as telepathy, clairvoyance, time reversal, etc., is whether one is 
+prepared to accept as true what is offered in evidence. Notice that in 
+the rough categorization of the article’s contents, above, only three- 
+quarters of one page (p. 335) in a 26 Page paper is concerned with the 
+critical issue of rigorous experimental protocols and controls. And 
+much of that slim section is cursory and anecdotal. 
+
+We can keep our eyes on the ball by examining solely the relevant 
+three paragraphs on page 335 of the.Puthoff and Targ paper (par. 3, 
+4,5). All the rest—background, anecdotes, drawings, discussion, and 
+other (less formal) experiments, delightful as they may be—can be set 
+aside while we peer closely at what must ultimately supply reasonable 
+satisfaction regarding credibility. 
+
+The signal-to-noise ratio of this article improves markedly when 
+26 pages of meander are replaced by three paragraphs of explicit rela- 
+tively formal description of experimental procedure. 
+
+We are told the following. 
+
+
+1) The experiment was double blind. 
+
+2) The “transmission” experimenters were given “target” locations 
+and proceeded to the target while the “reception” experimenter 
+was kept ignorant of the target. 
+
+3) Experimenters were with the “transmitting” subject at all times 
+during the “transmission.” ‘ 
++) An experimenter was with the “receiving” 
+
+during data taking. 
+
+
+subject at all times 
+
+
+The entire business now hinges on the reader’s accepting on faith that 
+no information was transmitted conventionally at any time from, say, 
+the transmission experimenters to the receiving experimenter or to the 
+subject.. But no controls are cited; no safeguards are described; no 
+neutral watchdogs are mentioned. 
+
+
+manuscript received March 15, 1976. 
+
+
+The author is with the Department of Biomedical Engineering, Case 
+
+
+Western Reserve University, Cleveland, OH 44106. 
+'H. E. Puthoff and R. Targ, Proc. IEEE, vol. 64, pp. 329-354, Mar. 
+1976. 
+
+
+1259 
+
+
+Further, this was nof a true double-dlind experiment as claimed, 
+since at least one of the researchers had a prior! knowledge of the pre- 
+sumed occult data. We are asked to believe that no conceivable com- 
+munication channel existed between “transmitter” and “receiver” 
+other than by some exotic attenuationless seemingly magical informa- 
+tion propagation. 
+
+I feel certain that your readers can conceive of many possible alter- 
+native conventional channels. Both electronics engineers and magicians, . 
+for example, will be at no loss to suggest many. 
+
+It is comforting to know that the Editor and Reviewers of the 
+PROCEEDINGS recommended publication of this preposterous ma- 
+terial. At least they are open-minded—which is a good thing. But 
+then, too much open-mindedness is a hole in the head. 
+
+
+Reply 2» Y Harold E. Puthoff and Russell Targ? 
+
+
+We would like to comment on the points raised in Harmon's letter in 
+response to our article. 
+
+In his introductory remarks, Harmon makes a reference to “less for- 
+mal” experiments. It is important to state at the outset that there were 
+no such experiments. In every experimental series, from the Costa Rica 
+pilot study to the verification study with visiting government scientists, 
+and resolution study with technology targets, a rigid formal Protocol 
+was followed. This required that the experimenter with the subject 
+always be kept ignorant of the chosen target and that the analysis 
+(judging) of the experiment be done ina blind fashion by an individual 
+who did not know which Tesponse was associated with which target. 
+
+Harmon suggests that the reader of our Paper must accept on faith 
+that there was no conventional communication channe] from the target 
+site to the subject, since “no controls are cited, no safeguards are de- 
+scribed, no neutral watchdogs are mentioned.” In fact, if Harmon will 
+examine p. 335, he will find that the entire experiment had multiple 
+controls, safeguards, and watchdogs every step along the way. 
+
+With regard to control over target selection at the beginning of the 
+experiment: 
+
+
+Before the experimental series began, the Director of the In- 
+formation Science and Engineering Division, not otherwise 
+associated with the experiment, established the set of locations 
+as the target poo) which remained known only to him. The 
+target locations were printed on cards sealed in envelopes and 
+kept in the SRI Division office safe. They were available only 
+with the personal assistance of the Division Director who issued 
+a single random-number selected target card that constituted 
+the traveling orders for that experiment ..., The experimenter 
+remaining with the subject at SRI was kept ignorant of both the 
+particular target and the target pool so as to eliminate the 
+possibility of cueing, overt or subliminal . ar 
+
+
+When it came to the departure of the target team, an experimenter 
+plus one to three “watchdogs” assigned by SRI Management were 
+handed the travel orders, left SRI, got into an automobile, opened the 
+orders, and then proceeded to the site indicated. As stated in the 
+paper, “The target demarcation team, consisting of two to four SRI 
+experimenters, then proceeded by automobile directly to the target 
+without any communication with the subject or experimenter remain- 
+ing behind.” We find it remarkable for Harmon to read that the target 
+demarcation team consisted of two to four experimenters, and yet 
+argue that perhaps they were not Vigilant with regard to the possibility 
+that one of their members might try to communicate back to the sub- 
+ject. In addition, numerous of these experiments were observed by 
+visiting government scientists, outside consultants, SRI management, 
+etc. The roles of the two main experimenters were often reversed as to 
+who remained with the subject and who accompanied the outbound 
+team. The composition of the outbound team was changed, and many 
+times did not include either of the main experimenters. In short, as 
+stated on p. 335: : 
+
+
+At all times, we and others responsible for the overall program 
+took measures to prevent sensory leakage and subliminal cueing 
+and to prevent deception, whether intentional or unintentional. 
+To ensure evaluations independent of belief structures of both 
+experimenters and judges, all experiments were carried out under 
+
+
+a protocol ... in which target selection at the beginning of ex- 
+
+
+? Manuscript received April 9, 1976, ; 
+°H. E. Puthoff and R. Targ are with The Electronics and Bioengineer- 
+ing Laboratory, Stanford Research Institute, Menlo Park, CA 94025, 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001100010003-7 
+
+
+~ 
+
+
+12560 
+
+
+periments and blind judging of results at the end of experiments 
+were handled independently of the researchers engaged in carry- 
+ing out the experiments. 
+
+
+Harmon goes on to comment that “this was not a true double-blind 
+experiment as claimed, since at Ieast one of the researchers had @ Priori 
+knowledge of the Presumed occult data.” This is in error. Neither the 
+experimenter with the subject nor the judge who evaluated the data, 
+the two individuals in principle capable of affecting the outcome, had 
+any knowledge of the true correspondences, and thus the experiment 
+was double blind. The fact that experimenters sent to the target site 
+knew where they were is irrelevant, since they did not have any oppor- 
+tunity to interact with subjects or judges. 
+
+With regard to the mechanisms involved in remote viewing, Harmon 
+states, “We are asked to believe that no conceivable communication 
+channel existed between ‘transmitter’ and ‘receiver’ other than by some 
+exotic attenuationless seemingly magical information propagation.” 
+We wish to indicate to Harmon that the two mechanisms discussed by 
+the authors, extremely low frequency (ELF) electromagnetic propaga- 
+tion and quantum correlation, though they may seem exotic and mag- 
+ical to him, are well understood phenomena in the engineering and 
+scientific community, both theoretically and experimentally. 
+
+Finally, as we indicated in some detail on'pp. 340-343, the watchdog 
+aspect was carried to the extreme, by having visiting government scien- 
+tists who were interested in observing our experimental protocols be 
+subjects themselves in an effort to detect whether chicanery was in- 
+volved. In the process of trying to gccount for their own good results 
+on the basis of other than paranormal functioning, they expressed con- 
+cer that perhaps the experimenter might be cueing them subliminally. 
+This was countered by ¢liminating the inbound experimenter and hav- 
+ing the visitor remain alone in the lab throughout the dusation of the 
+experiment. They then conjectured that perhaps after the experiment 
+they were being taken to a place that sounded like their description, 
+even though that may not have been the place where the outbound 
+experimenters had gone. This was countered by having the outbound 
+experimenters make a tape while at the site and turning it over to the 
+subject-critic at the same time that he turned over his own tape de- 
+scribing the remote scene. 
+Thus, although Harmon Suggests that “both electronics engineers and 
+magicians” will be at no loss to Suggest many possible alternative con- 
+ventional channels, we find that, to the contrary, both electronics 
+engineers and professional magicians, who have consulted on this 
+project have in fact not found any viable alternative to fault the SRI 
+experiments. We therefore consider it important to continue data 
+collection and to encourage others to do likewise. 
+
+
+Further Comments* by Leon D. Harmon 
+
+
+I was delighted to see the nature of Puthoff and Targ’s response to 
+my letter. The only rebuttal needed is to invite the reader to examine 
+the article and both letters with care and then to judge whether or not 
+my criticisms were responded to. 
+
+A similar example of nonresponsive ‘obfuscation by these gentlemen 
+can be found on pages 6 and 8 of Scientific American for February 
+1976. 
+
+I tried on two separate occasions to get permission from them to visit 
+and see for myself, preferably with a neutral but hard-nosed observa- 
+tion team of my choice. The Tequests were met with point-blank re- 
+fual. Tch! . 
+
+
+Further Reply® oy Harold E. Puthoff and Russell Targ 
+
+
+We agree with Harmon that it is very desirable that interested readers 
+‘examine with care the article and letters to which he refers, and come 
+to their own conclusions with regard to the points he raises. 
+We understand Harmon’s desire to visit SRI to “see for himself” ex- 
+" periments in progress. As we are sure Harmon can appreciate, he is one 
+of more than fifty who have made similar requests in the past year. We 
+have therefore out of necessity limited such observation to contract 
+monitors and their consultants, potential sponsors, and researchers in- 
+_ Volved in serious attempts at replication of our work. 
+
+
+‘ 
+
+
+“Manuscript received April 15,1976. 
+* Manuscript received April 21, 1976, 
+
+
+In such fashion every criticism was met. . 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R0011009}0003-7 os OF THE IEEE, AUGUST 1976 
+
+
+If Harmon is genuinely interested in determining whether the expcri- 
+ment works as reported, we would suggest that he try the experiment 
+himself under his own conditions as many others have donc. Such inde- 
+pendent observations pre much to be preferred, if for no other reason 
+than on the issue that an experiment that is not replicable from lab {to 
+lab would be more of an art than a science. However, as we have in- 
+dicated in our response to Harmon's first letter, it is the robustness and 
+independence of environment or subject that characterizes this particu- 
+lar experiment. Therefore, although a demonstration at SRI would be 
+satisfying to Mr. Harmon and to those who know and trust him, we 
+think it would be a mistake for the field. That kind of experiment is 
+basically to provide testimony, but science goes forward on the basis of 
+independent experimentation and replication, not testimony. 
+
+
+Adaptive Monopulse Beamforming 
+LLOYD J. GRIFFITHS 
+
+
+Abstract—A new recelve-array adaptive beamformer configuration is 
+Presented. The array output signal consists of the difference between a 
+conventionally weighted beam and an adaptive beam that is constrained 
+to have a spatial null in the direction of interest. Adaptation then pro- 
+vides minimum total array output power. 
+
+
+Adaptive receiving arrays have been extensively discussed in the 
+literature [1]-[4] and have been shown to provide significant interfer- 
+ence rejection properties. In most of these systems, the arrival direc- 
+tion and/or temporal properties of the signal of interest are assumed to 
+be known a priori. If the specification of these properties is inaccurate, 
+the actual desired signal may be treated as interference by the adaptive 
+beamformer and thus may be rejected to some degree by the processor. 
+For this reason, practical adaptive beamformers are generally operated 
+in parallel with a conventionally formed array output which has fixed 
+prespecified mainlobe and sidelobe characteristics. Comparisons be- 
+tween the adapted and conventional outputs can then be conducted to 
+ensure that the desired signal-to-noise and interference tatio is indeed 
+being enhanced by the adaptive beamformer, : 
+
+The array processor suggested in this letter incorporates a conven- 
+tionally weighted beam as an integral part of the total beamforming 
+structure, as depicted in Fig. 1. In this figure, Z is used to denote the 
+X-dimensional vector of received array-element signals and G is a fixed 
+prefilter, which ensures that the system is steered in the direction of 
+interest. Thus G is either a set of bulk time delays (for broad-band sys- 
+tems) or a network of phase shifters {for narrow-band arrays), which 
+ensures that the desired signal portion of the K-dimensional vector X is 
+in phase at all components. Equivalently, for a digital beamformer, 
+
+
+X(k) = 5(K)1L + N(K) 2 (3) 
+
+
+where s(k) is the kth sample of the desired signal, 1 is a constant vector 
+of ones, and W(x) is the sampled vector of noise and interference terms. 
+
+The adapted beam output signal y, (k) is formed using a system of 
+tapped delay lines, one for each received component, as discussed in 
+(1]-[3]. For a system with ZL taps per delay line, y4(k) may be ex- 
+
+
+pressed as © 
+
+
+L-1 
+yak) = D> XT e- DW k) (2) 
+ind 
+
+
+where T denotes transpose and Wa yk) is the ith column of delay-line 
+coefficients employed at the kth sampling instant. A conventional out- 
+put yc(k) is formed using a vector of fixed coefficients Wc, which are 
+applied to the input data after a suitable delay, corresponding to the 
+midpoint of the delay lines in the adaptive processor. Thus 
+
+
+¥ck) = XT - 1) Wo (3) 
+
+
+where n = (L~- 1)/2 when Z is odd and n= L/2 or (L/2)- 1 when L is 
+even. . 
+
+
+Manuscript received January 19, 1976. ; 
+The author is with the Department of Electrical Engineering, Univer- 
+sity of Colorado, Boulder, C 80302. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001100010003-7 
+
+

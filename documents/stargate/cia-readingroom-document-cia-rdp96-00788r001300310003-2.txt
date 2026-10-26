@@ -1,0 +1,1679 @@
+Approved For Release 2000/08/0 Gi DPS: }.00788R001 300310003-2 
+
+
+April 1982 
+Final Report pri 
+
+
+Covering the Period October 1980 to October 1981 
+
+
+oY) 
+
+
+AUDIOLINGUISTIC CORRELATIONS WITH THE QUALITY _ 
+OF REMOTE VIEWING SESSIONS (U) 
+
+
+4 
+
+
+(QC 
+
+
+Th 
+
+
+roved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+—sA r 
+
+
+Approved For Re eas 
+
+
+LIST OF ILLUSTRATIONS .. . 
+LIST OF TABLES, .....- 
+I OBJECTIVE. ......- 
+
+
+II INTRODUCTION . ... + «© © © © e @ @ 
+A. Statement of Problem. .... . 
+B. Possible Solution a.) Wel tem te ae ele 
+
+
+(om Historical Perspective of Audio 
+
+
+III METHOD OF APPROACH . ..- + « + e « 
+A. Selection of Data Base. .... 
+B. Audiolinguistic Protocol. ... 
+
+
+Cc. Scoring the Utterances. . .. - 
+
+
+Analysis 
+
+
+dee Preprocessing the Utterances 
+2. Target-Independent Analysis. 
+
+
+3. Target-Dependent Analysis. 
+
+IV RESULTS. . . 2... 6 « © © © © © eo 
+V CONCLUSIONS, . . . « 2 «© © © © © @ 
+REFERENCES. . 2. 2 2 e¢ © # © # © © @ @ oe 
+
+
+APPENDICES 
+
+
+A VERBATIM TRANSCRIPT FOR COORDINATE D-3 (DOLL) 
+
+
+B SCORE SHEETS FOR THE "DOLL" TRIAL IN THE ‘COORDINATE 
+
+
+BOX EXPERIMENT" . . .. +. 2 « - 
+
+
+ii 
+
+
+Approved For Release 2000 fiat? 
+
+
+Techniques 
+
+
+ll 
+
+
+13 
+
+
+14 
+
+
+15 
+
+
+23 
+
+
+96-00788R001300310003-2 
+
+
+Approved For Release 2000/08/07 : 
+
+
+= 
+
+
+ILLUSTRATIONS 
+
+
+1 4 x 4 Array of Objects used in Box Coordinate Experiment . . 
+
+
+TABLES 
+
+
+1 Quality Rating for a Concept that has been Identified 
+at the Site. .... +2 « © © © © © © © © © © © © © © © 8 8 
+
+
+2 Visual Functional Centrality Rating Scale for Target 
+Sub-Element. . .. +» « «© «© © © © © © © © © © #& © © © © 8 2 8 
+
+
+3 Audiolinguistic Analysis Results . 2... 6 + «© + + © so « 
+B-1 Audiolinguistic Category: Present Time CPT) ah ei ie! ae 
+B-2 Audiolinguistic Category: Debriefing (DB) yee oe ae ewe 
+
+
+B-3 Audiolinguistic Category: Analysis CAN) a6 ee oa we we Oe 8 
+
+
+Llii 
+
+
+-RDP96-00788R001 30031 0003-2 
+
+
+10 
+
+
+10 
+12 
+24 
+25 
+
+
+27 
+
+
+Approved For Release 2000 /faadeataiaipiay96-00788R001300310003-2 
+
+
+2 
+
+
+; 
+: 
+T 
+
+
+eee Approved For Release 200 
+
+
+P96-00788R001 30031 0003-2 
+
+
+I. OBJECTIVE 
+
+
+The objective of this program was to determine the feasibility of 
+developing audio analysis techniques that can\ 
+separate correct from incorrect statements recorded during remote viewing 
+
+
+(RV) experiments. 
+
+
+1 
+
+
+Approved For Release 20( EE CP26-00788R001300310003-2 
+
+
+: : Approved For Release 2000/ 
+
+
+yo eereernenenioe 
+
+
+II INTRODUCTION 
+
+
+A. Statement of Problem 
+
+
+During a typical RV session, the subject produces a wealth of spoken 
+material, but only some of this material relates to the chosen target. 
+Unfortunately it is difficult to identify the target~related material 
+without a priori knowledge of which times the subject was engaged in 
+accurate RV. The question posed in this study was whether it is possible 
+to use audio analysis techniques to determine when a subject is accurately 
+
+
+describing the intended target. 
+
+
+B. Possible Solution 
+
+
+Careful listening to tapes of sessions with a single subject suggests 
+that some target-related material was uttered in a different tone of voice 
+than other material (e.g., conversation with the monitor). For this subject, 
+accurate remote viewing appears associated with certain changes in speech 
+behavior, including speaking more softly, more slowly, longer pauses, and 
+
+
+witn a dream-like quality. 
+
+
+In general, if a subject were to exhibit a particular see of speech 
+changes whenever target-related material was being produced, the analyst 
+could use these speech changes to separate the related from the unrelated 
+material without knowledge of the target. We explored the relationship 
+between changes in speech behavior and the accuracy of target descriptions 
+
+
+in this study. 
+
+
+-.,. Approved For Release 200 96-00788R001300310003-2 
+
+
+Approved For Release : A-RDP96-00788R001300310003-2 
+
+
+taal Cc. Historical Perspective of Audio Analysis Techniques 
+
+
+Earlier research has shown that changes in. speech behavior can reflect 
+
+
+= subtle physiological changes such as those resulting from stress or disease. 
+_ Two studies representing this research will be described to provide a 
+rs context for the present study of speech changes observed during RV sessions. 
+i These studies illustrate different approaches to speech analysis. 
+The first study was designed to examine how speech behavior may be 
+= influenced by task-induced stress.+ An arithmetic task requiring a verbal 
+response was repeatedly administered to each of ten male subjects. The 
+= “difficulty of the task was varied from trial to trial: on some occasions 
+the subject was obviously stressed, and on other eeseeians he was relatively 
+= relaxed. Contrasting responses containing the same test phrase were com- 
+pared by means of critical listening and instrumental analysis. 
+a 
+Listeners were able to discriminate between the responses representing 
+iam the stress and control conditions for many subjects. Level measurements 
+showed that three subjects spoke more softly and one subject spoke more 
+ws loudly under stress. Measurements of fundamental frequency provided 
+similar results: some subjects raised their vocal pitch, others lowered 
+wed their vocal pitch, and still others exhibited unique pitch contours when 
+the task became stressful. An extensive comparison of spectrograms 
+- demonstrated many other stress-related changes in the speech signal. 
+Temporal and spectral irregularities were observed in the acoustic pulses 
+bad that are generated in the larynx during speech production. Stress also 
+affected the precision with which particular speech sounds were articulated. 
+oad 
+The second study was concerned with speech changes that are related 
+On to cerebrovascular disorders.” ** The purpose of the study was to develop ! 
+a subjective method of speech analysis that could be used to identify | 
+_ persons who have suffered a minor stroke. Because stroke affects speech 
+-_ 3. 
+
+
+__ Approved For Release 20 iaiiiaalebbeP96-00788R001300310003-2 Pogue 
+
+
+Approved For Release 2 DP96-00788R001300310003-2 
+
+
+production in a complex manner, all speech samples that were analyzed were 
+
+
+first converted into spectrograms, Experiments were conducted to determine 
+
+
+whether certain speech attributes observed in the spectrograms could be 
+
+
+used to discriminate between a population of diagnosed stroke patients 
+
+
+and an age-matched population of normal speakers. Linear discriminant 
+aconee based on ratings of only six speech attributes correctly classified 
+
+
+89 percent of the stroke patients and 87 percent of the normal speakers . 
+
+
+Approved For Release 240m 
+
+
+>96-00788R001300310003-2 
+
+
+£ 
+
+
+Approved For Release 2000/08i@.0iA.20P96-00788R001300310003-2 
+
+
+III METHOD OF APPROACH 
+
+
+A. Selection of Data Base 
+
+
+To determine a useful set of audiolinguistic (A/L) criteria, it was 
+important in this pilot investigation to work with a RV data base that 
+met two conditions: 
+
+(1) The data base had been indepeiifently analyzed 
+
+by "blind" judging procedures. 
+
+
+(2) The RV targets had to be well-defined. 
+
+
+The first requirement defined the minimum assessment standard; namely, 
+
+any A/L technique had to perform at least as well as blind judging procedures. 
+The second requirement allowed for an unambiguous element-by-element 
+comparison between target information and RV-generated data. To meet 
+
+these requirements, an existing data base from earlier SRI experiments 
+
+
+was used, 
+
+
+In an early attempt to assess the nature of “abstract" targeting, 
+Subject 504 was the only participant in the "Coordinate Box Experiment." 
+The target material was a collection of 16 small dissimilar objects, 
+placed one each in a 4 x 4 matrix array. Each cell of this matrix was a 
+cube measuring approximately one foot on a side. Subject 504 was targeted 
+with only a row and column address and asked to describe the object at 
+that location, The experiment consisted of six trials. A complete 
+
+
+description of this experiment can be found elsewhere .* 
+
+
+The overall result derived from blind judging analysis was significant, 
+Two important features of this experiment were (1) the targets were 
+
+
+well defined (Figure 1) and (2) the target-transcript correspondences 
+
+
+5 
+
+
+Approved For Release 200 
+
+
+96-00788R001300310003-2 
+
+
+¢ 
+
+
+ee — ——————————_—_—_—_—_————————_!.e 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+UNCLASSIFIED 
+
+
+4 x 4 ARRAY OF OBJECTS USED IN BOX COORDINATE EXPERIMENT 
+
+
+4 x 4 ARRAY OF OBJECTS USED IN BOX COORDINATE EXPERIMENT 
+(U) 
+
+
+FIGURE 1 
+
+
+UNCLASSIFIED 
+
+
+6 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+“"“T see...," or "There is .... 
+
+
+Approved For Release 20 DP96-00788R001300310003-2 
+
+
+ranged from excellent to rather poor. These two features allowed for a 
+
+
+sensitive test of the A/L procedure described below. 
+
+
+B.  Audiolinguistic Protocol 
+
+
+Three out of the six trials from the Coordinate Box Experiment were 
+chosen for study. They represented the best correspondence (doll target), 
+an intermediate level of correspondence (book target), and a poor corre- 
+spondence (plant target). A verbatim transcript was produced from each 
+trial (a sample transcript, the one for the best-correspondence case, is 
+shown in Appendix A). First, the utterances were sequentially numbered 
+for ease of reference. Then, on a blind basis, each utterance was 
+labeled as belonging to one of four categories, defined on the basis 
+
+
+of A/L characteristics as listed below. 
+
+
+~s 
+The first category, Present Time (PT), is defined as that characterized 
+
+
+by a slow, dream-like utterance that is usually preceded by a pause. 
+
+
+Sentences tend to be in the present tense, and are typified by "TI feel ..., 
+
+
+The second category, debriefing (DB) is defined to be that charac- 
+terized by initial excitement and a higher vocal effort. There is 
+frequently an announcement of debriefing such as, "I just got a flash aaa 
+Debriefing may be characterized by present or past tense statements, 
+
+
+like "I feel ...," "I saw ...," or "There is (was) ...." Although this 
+
+
+is similar to PT, the voice quality is considerably different. 
+
+
+The third category, analysis (AN), is defined to be characterized by 
+statements that contain analogies and associations with respect to an 
+
+
+or “It reminds me of ... Utterances 
+
+
+object, e.g., “It looks like ..., 
+that contain generalizations with respect to an object (e.g., "It must be 
+
+
+some kind of a ...") are also considered to be analysis. 
+
+
+7 
+
+
+Approved For Release 27 tmmmmaemtains 8D P96-00788R001300310003-2 
+
+
+Approved For Release 2000/ge 196-00788R001300310003-2 
+
+
+Finally, the fourth Cacgang: conversation (CO), consists of 
+questions asked of the experimenter, answers in response to non-task 
+related questions by the experimenter, and general statements directed 
+to the experimenter. The voice quality in this category is matter-of- 
+
+
+fact and colloquial, 
+
+
+Cc, Scoring the Utterances 
+— ees. 
+
+
+The utterances were scored in two Separate ways: (1) by a target- 
+dependent scoring procedure and (2) by a target-independent method. Both . 
+
+
+techniques share a common preprocessing, which is described below. 
+
+
+1. Preprocessing the Utterances 
+— ee anCes: 
+
+
+The conversation category was first eliminated for all the 
+
+
+analysis done in this study. For each of the three remaining A/L categories, 
+PT, DB, and AN, each utterance was reduced to one or more concepts, A 
+concept is technically defined as a short phrase ‘that Yest represents the 
+idea incorporated in the utterance. The concepts are then edited to remove 
+any redundance with the category. A zero in the duplication column in 
+Appendix B indicates that a particular concept was ignored because it was 
+redundant. The resulting lists of concepts were then analyzed by a target-— 
+dependent procedure and by a target-independent method, The: following 
+analyses were conducted for each of the three responses chosen for this 
+
+
+study. 
+
+
+2. Target-Independent Analysis 
+ae EE Ana Lysis 
+
+
+In the target-independent analysis, a simple count of the 
+number of nonredundant concepts in each category is computed, It was 
+hypothesized that the percent of PT statements would correlate with the 
+
+
+blind judging results and thus could serve aS a predictor of RV quality. 
+
+
+P96-00788R001300310003-2 
+
+
+TW 
+
+
+_ Approved For Release 20€ 
+
+
+Approved For Release 2006 4P96-00788R001300310003-2 
+
+
+From these summations, the percent PT is calculated from 
+%PT = No.(PT) / [No.(PT) + No. (DB) ] (1) 
+
+
+where No.(PT) and No. (DB) are the number of PT and DB concepts, respectively, 
+It must be noted the %PT can be calculated without any knowledge of the 
+
+
+target. 
+
+
+3. Target-—Dependent Analysis 
+
+
+Following an idea first proposed by Targ et e120” a detailed 
+target-dependent analysis was devised. With a response conceptualized in 
+accordance with the above guidelines, the target-dependent analysis 
+
+
+proceeds in three steps: 
+
+
+(1) Binary determination--Each concept is assigned a one if 
+some element in the target appears to correspond to the 
+concept in question, The concept is assigned a zfro 
+otherwise. There is no implied evaluation at this point, 
+but if there is a correspondence, the identified element 
+must be explicitly noted. 
+
+
+(2) Quality evaluation--A quality evaluation is made for 
+each concept that has been assigned a one from Step (1) 
+above. The evaluation is made on a one-to-five-point 
+scale shown in Table 1. 
+
+
+(3) Centrality evaluation--Each concept that has been assigned 
+a one from Step (1) above is also evaluated with respect to 
+the centrality of the corresponding target element. 
+Centrality is expressed as a number between one and five 
+(Table 2). This numeric assignment is made according 
+to the element's importance to the target as a whole 
+and is based on target information only. 
+
+
+The scores from these three steps are then multiplied together to form a 
+composite score (maximum of 25) for each concept in each response. 
+
+
+Appendix B is a complete example of this procedure for one of the three 
+
+
+responses, i.e., for which the target was a small rag doll (Figure 1). 
+
+
+P96-00788R001300310003-2 
+
+
+of 
+
+
+_ Approved For Release 20 
+
+
+~. Approved For Release 200; : 96-00788R001300310003-2 
+
+
+Table 1 
+
+
+QUALITY RATING FOR A CONCEPT 
+THAT HAS BEEN IDENTIFIED AT THE SITE 
+(Specific Target Sub-element) 
+
+
+- Little correspondence, but possible 
+t 
+
+
+Some correct elements 
+
+
+aa Mixture of correct and incorrect, but more of the former 
+| Good correspondence, with unambiguous matchable elements 
+
+
+al Excellent correspondence, perhaps with correct analysis 
+I of the sub-element. 
+| 
+cE) 
+
+
+oa 
+= Table 2 
+VISUAL FUNCTIONAL CENTRALITY RATING SCALE 
+al FOR TARGET SUB-ELEMENT 
+iad : 
+Present, but a trivial or hardly noticeable feature 
+Minor feature, could be overlooked, not central 
+eal 
+Prominant, but not central 
+Strong, central, visual feature, can not be missed 
+ai 
+Immediately strikes the eye as central. Only one 
+element gets this rating. 
+=m 
+inl 
+- 
+10... 
+2s 
+
+
+pproved For Release 2000 mmm F6-00788R001300310009-2 
+
+
+RDP96-00788R001300310003-2 
+
+
+IV STATISTICAL RESULTS 
+
+
+Table 3 shows the results of A/L analysis as it was applied to three 
+of the six targets for the coordinate box experiment. The plant, the book, 
+and the doll were chosen for this initial study because the quality of 
+their corresponding transcripts, as described earlier, was poor, inter- 
+mediate and excellent, respectively. The results of the blind judging 
+for the actual experiment are shown in the last column in Table 3. The 
+Greek letter mu (1) in Table 3 is calculated from the overall concept 
+
+
+scores for each category from 
+ph = 4 concept scores/N 
+
+
+where N is the total number of concepts for the specific category. The 
+p, then, represents the average score out of a maximum possible 25 for 
+each cateogry. The %PT was calculated from Eq. (1), and F is the F ratio 
+derived from a one-way analysis of variance. For each target, a one-way 
+analysis of variance was computed under the null hypothesis assumption 
+
+
+that the scores for A/L category do not differ from one another, 
+
+
+The ZPT and the F-ratio represent the results for the target-independent 
+and target-dependent A/L analysis respectively: a correlation with blind 
+
+
+judging exists for both analyses. 
+
+
+: DP96-00788R001 300310003-2 
+
+
+£ 
+
+
+Approved For Release 2 
+
+
+“Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+gi apes 
+7 a 
+T j 
+{ 
+! 
+
+
+Table 3 
+
+
+AUDIOLINGUISTIC ANALYSIS RESULTS 
+
+
+Blind 
+Judging 
+n_|N pr | oF 
+target | pr | "pp | Pan pp | Nan I} ® (Relative Units) 
+
+
+Plant | 4.88 | 4.79] 2.36 8 28 ll 0.22] 1.47 
+Book | 2.50 | 4.45| 1.63 10 20 8 0.33] 1.53 
+Doll 7.37 | 8.33] 0.00 19 18 7 0.51] 4.38 
+
+
+12 
+
+
+_. Approved For Release 200 pRB AG IARPP26-00788R001300310003-2 
+
+
+i 
+
+
+__. Approved For Release 2000 
+
+
+Approved For Release 2000/@ P96-00788R001300310003-2 
+
+
+V CONCLUSIONS 
+
+
+This pilot investigation was conducted on the basis of a detailed 
+analysis of three trials from a single subject. Therefore, it is premature 
+to conclude with certainty to what degree the particular A/L analysis 
+technique used with this subject anche generalized. It is possible, 
+however, to conclude that the A/L technique is basically productive in 
+its approach. In particular the observed correlation of the target- 
+independent analysis with previous blind judging results is highly 
+
+
+encouraging. 
+
+
+As the A/L analysis technique evolves further, a single set of A/L 
+criteria is not expected to be applicable across subjects; rather, for 
+the operational setting, in all likelihood a subject-specific set of 
+
+
+criteria must be developed. 
+
+
+In summary, it should be emphasized that, (1) at a minimum, some 
+improvement in the RV product can be immediately realized by rejecting all 
+analytical (AN) statements; (2) beyond that, a full audio-linguistic 
+(A/L) analysis of utterances appears to further differentiate correct 
+
+
+from incorrect statements generated in RV sessions, 
+
+
+P96-00788R00130031 0003-2 
+
+
+a 
+
+
+45506 -00788R001300310003-2 
+
+
+REFERENCES 
+
+
+1. Hecker, M.H.L., Stevens, K. N., von Bismarck, G., and Williams, 
+C. E., "Manifestations of Task-Induced Stress in the Acoustic 
+Speech Signal," J. Acoust. Soc. Amer., Vol. 44, pp. 993-1001 (1968), 
+
+
+2. Hecker, M.H.L., and Kreul, E. J., "Research on Speech Changes Related 
+to Disease," Final Report, Projects 7742 and 8853, Stanford Research 
+Institute, Menlo Park, CA (April 1974). 
+
+
+T 3. Bell, D. W. and Poza, F., "Discrimination between Stroke Patients 
+and Normal Speakers on the Basis of Speech Attributes Observed in 
+
+- Spectrograms ," Final Report, Project 3954, Stanford Research 
+Institute, Menlo Park, CA (February 1976). 
+
+
+Targ, R., Puthoff, H. E., Humphrey, B. S., and Tart, C. T., “Inves- 
+
+tigations of Target Acquisition," Research in Parapsychology, 
+ee eS Bs ECE Y: 
+
+pp. 122-124 (1979). 
+
+
+5. Targ, R., May, E., Puthoff, H., and Hecker, M., Interim Technical 
+ina Report (Covering the period 20 July 1981 through 4 August 1981) 
+SRI Project 3279, SRI International, Menlo Park, CA (August 1981), 
+
+
+14 
+
+
+= : : Approved For Release 20 D 96-00788R001300310003-2 
+
+
+* 
+
+
+Approved For Release 2000/08/07 : CIA- RDP96- 00788R001300310003-2 
+
+
+UNCLASSIFIED 4 
+
+
+Appendix A 
+
+
+VERBATIM TRANSCRIPT FOR COORDINATE D-3 (DOLL) 
+
+
+15 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+Approved For Release INELA S OTR H0788R0°" 30031 0003-2 
+
+
+Appendix A 
+
+
+VERBATIM TRANSCRIPT FOR COORDINATE D-3 (DOLL) 
+
+
+Utterance 
+Number Utterance 
+Jy \ Well, I saw right away the butterfly again 
+M Butterfly? 
+2 0 In one of the experiments I drew what I thought was a bow- 
+tie, what's what is looked like; butterfly 
+M Uh-huh 
+43D It feels like material, velvety something; it's, it's a 
+plushy feeling of silk 
+M Uh-huh 
+JA} If you ask me, it's of an artificial flower-- 
+M Uh-huh 
+/5 & Dark ... colored 
+M Uh-huh 
+pi 6 Y Dark brown or dark [mole] or ... some dark color 
+M O.K. 
+7 a It feels like something layered 
+M Layered? 
+8 Y Yea 
+M Uh-huh 
+9 ie Regularly layered-- 
+10 Y [are you] sure that's D-3? 
+M D-3. Right. Coordinates are D-3 
+Jy y Something with a slightly cerrated edge-- 
+M Uh-huh. Are the cerrations associated with this, er, 
+velvety ... material? 
+9 12 t Yea ... yea 
+
+
+16 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+Approved For Release AP ACSI EE SOP2¢-00788R001300310003-2 
+
+
+CLA 
+
+
+Utterance : 
+; Number Utterance ; 
+; i 
+} M Uh-huh i 
+i 
+AZ? [The bat] 
+i 4 | 
+‘ via ? Bat, butterfly, artificial blossom-- 4 
+F Vis PB It's a [beast] (laughter) 
+M Ha, ha, ha 
+eA 16 ¥ It's almost as if it's a dome-shaped ... feeling, it's a 
+rounded ... feeling-- ; 
+M Uh-huh 
+g\ 17 9 Something that would fit into the palm of my hand | 
+M Uh-huh 4 
+vis ° [Like] a mushroom-- 
+M If you look right down on top of it, irito the box, what do | 
+you see? 4 
+9d 19 ¥ Yea, that, that's where I see this dome~shaped thing, that 
+would be, you know, this--(drawing) like an open umbrella f 
+from the top 1 
+i 
+M Uh-huh 
+A 20 we But I feél material sort of strongly, ah--velvety ... : 
+[it's a feely] sort of soft-- ; 
+v21 np Maybe not upholstered, but spongy ... texture, soft-- 4 
+M Uh-huh 
+42 Resilient ; i 
+23 9% It's like, like, like this blossom, or a, ah--this object +f 
+has a, you know, like the stem of an umbrella or something i) 
+like that, and it's standing ina ... sort of has its foot 4 
+or feet ina... in something light--it's like having, ah, 
+mid-calf booots on, the type-- 
+M Uh-huh 
+24 W Well, like a, like a high cup they are standing in-~ 
+M Uh-huh 
+
+
+17 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 .. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003 
+
+
+Utterance 
+Number 
+25 
+M 
+gl26e V 
+M 
+v27 9 
+M 
+© 28 ee 
+M 
+g29 % 
+30 © 
+M 
+yar ° 
+fas 
+M 
+33 U 
+9 34 iy 
+35 ¥ 
+M 
+36 
+37 
+M 
+
+
+ae 
+
+
+UNCLASSIFIED 
+
+
+Utterance 
+
+
+That cup seems to have striations around it, and it's light 
+colored, very very different colored from the ... from the 
+overall darkness, and velvety soft and matt, mattness of the 
+object—- 
+
+
+Uh-huh 
+
+
+It's a small and shiny and beady and ... er, could be, you 
+know, highly polyurethane wood or ... some kind of highly 
+polished ... container or bead-- 
+
+
+There are really two aspects; one is the-- 
+
+
+Yea, that, that's sort of the lower appendage of this ... 
+dome-shaped material ... object 
+
+
+Uh-huh. Does this lower appendage have a coloration to it? 
+
+
+Yea, it's, it's sort of very light wood color and very shiny, 
+very polished 
+
+
+Uh-huh 
+
+And it has horizontal black lines sort of ornamenting it 
+Ah--[I] can't get it together, though-- 
+
+{re] you look up from the bottom of the box, what do you see? 
+Well, like the spokes of an umbrella from underneath-— 
+
+
+It's, it's very much like that thing that I got ... 
+yesterday ... [ ] it's very funny-- 
+
+
+[If] you need more paper, I've got plenty-- 
+[No,] I have, I have-- 
+
+
+Ah--it definately looks like looking up into ... the spokes 
+of an umbrella 
+
+
+(drawing) and I remember drawing this yesterday 
+So this is the bottom view ... 
+
+That, that's the bottom view (drawing) 
+
+Or rather ... from the bottom ... view 
+
+
+Uh-huh, Right 
+
+
+18 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 ms 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003 
+
+
+UNCLASSIFIED 
+
+
+Utterance 
+Number Utterance 
+38 ° And, and this, this ... stem thing could be the handle of the 
+umbrella, you know, which ... 
+39 C I mean, I know that those boxes aren't big enough to 
+accommodate a whole umbrella, O.K.? 
+M Uh-huh 
+
+9 40 & But, but ... it just seems like ... this kind of a thing, you 
+
+know-- 
+M Uh-huh 
+Q 41 H And it has ... striations like this ... this is all light- 
+colored (drawing) 
+M Uh-huh 
+Q 42 v4 (drawing) like polished ... wood-- 
+M Uh-huh 
+
+) 43 a And dark stripes (drawing) 
+
+Y 44 . This umbrella isn't simple, I mean, it is essentially that 
+kind of structure from underneath, but from the top it's 
+many-layered-- 
+
+45 UA You've seen those artificial, eh, silk flowers? 
+M Yes, right 
+
+Y46 That's the closest thing that it would remind me of 
+M Uh-huh 
+
+a) 47 fi Dark ... satin, something 
+
+M Uh-huh 
+
+v48 ny I get purple, I get deep, deep ... purple--almost black 
+49 %  — Kind of an off-color; very, very difficult to describe-- 
+M Uh-huh 
+
+
+“bo |OV Between black and brown and purple, 0.K.? 
+M Uh-huh, How about a side view of it? 
+
+
+51 ¢ I was just thinking of the side view of it, it, you know, 
+[from] the side view it's this kind of thing (drawing) 
+
+
+19 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+Approved For sid NCPAS “Sip 9BP-007eeRO0I900310009-2 : 
+
+
+Ut terance 
+
+Number Utterance 
+
+y 52 r You know, like ... side of a flower witha ... 
+
+M So is that sort of the dome-type structure you're-- 
+v53 CS Yea, ah--it's, it's like a flower ... ah-- 
+M Uh-huh 
+
+“54 ay) Don't you know, these being the spokes of the umbrella, or 
+the, or the veins of the flower, or some, something that goes 
+like this (drawing) 
+
+M Uh-huh 
+Qa 55 0 Little [knob] here-- 
+8569 It's like the foot, you know-- 
+M What's like a foot? 
+57 Ah, this is the foot of the object 
+M Oh, I see, right 
+
+9 58 p Ah--It's definately an umbrella~shaped or mushroom-shaped ,.. 
+ah-- 
+
+Y59 Y Six-sided or more than that, eight-sided, possibly ... object 
+with the ribs-- 
+
+M Uh-huh 
+/60 fh That go up 
+bl fs And I would say, it it's a very light object ... in weight, 
+and ah--that it's, you know, it fills up in height two~- 
+thirds of the box 
+M Uh-huh 
+2 62 a But it's very light weight-- 
+M If you handled it, would it be, ah, rigid or floppy? 
+
+4 63 SY Well, it has both parts; it has a central rigid core ... 
+ah--but the petals are ,.. winged or ... ah--covering ... 
+with this satiny stuff is soft, pliable, and ... and floppy 
+
+M Uh-huh . 
+
+‘¥64 J Although it seems to be stretched 
+
+
+20 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2. 
+
+
+Approved For Releagg Rap0pH 0g 6441 #5%6-00788R001300310003-2 | 
+
+
+Utterance 
+
+
+Number 
+
+
+M 
+V65 YC 
+veg & 
+
+
+Utterance 
+
+
+Uh-huh 
+It, it's material that stretched-- 
+
+
+From the side, it looks like a black morning-glory on the 
+side, what? 
+
+
+Ah--uh-huh, O.K, 
+
+
+A [ j] lily, but a... a color lily with, with ribs not, 
+not bounded, ah-- 
+
+
+It does have sort of a structure in here (drawing) 
+She's drawing at the base of the ... dome-shaped object 
+
+
+I mean, it's ... it's a three-dimensional fan, if you know 
+what I mean 
+
+
+Uh-huh 
+
+[ ] what a three-dimensional fan would look like (laughter ). 
+It would have fan characteristics without being flat 
+
+Uh-huh, O.K, 
+
+
+Again, as sort of a last flash, I get a ... white, reflective 
+long triangle, which I can't fit in anywhere, but the 
+reflection just sort of glastened at me ... into ... this 
+shape 
+
+
+Uh-huh 
+
+
+And that is highly reflective ... ah--that was a reflection 
+I just suddenly saw 
+
+
+Uh-huh 
+
+Like something being turned, picking up light-- 
+Uh-huh 
+
+And in that shape 
+
+
+It feels like a very highly polished surface that caught the 
+light-- 
+
+
+She just drew the acute triangular shape. Here is additional 
+paper, if you need to draw anything else 
+
+
+21 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 _ 
+
+
+Approved For Relea NCPHS SFR TEB PS 00788R001 30031 0003-2 
+
+
+Utterance 
+Number Utterance 
+
+
+Yea, I'm, I'm trying to see if I see any other images ... ah-- 
+you can put the paper in there too, if you want-- 
+O.K, 
+
+
+Somehow there are some features that has this ... maybe the 
+outside of the umbrella is maybe a smaller version of 
+this ... (drawing) 
+
+
+Uh-huh 
+
+But it has that characteristic on [maybe ] the individual ... 
+Is this the cerrated aspect you ... 
+
+Yea, that’s the cerrated aspect of it-- 
+
+
+Uh-huh 
+
+
+Ah--It's like it has ... I don't know if it's beads at the 
+end or ... something like that ... funny 
+
+
+She's just drawn the cerration with beads at the end 
+It's kind of like knots of material or ... 
+
+
+It just a lot of layers on top of each other; this is not a 
+simple umbrella, it's like a ... fancy parasol of a ... of 
+a victorian lady, you know? 
+
+
+Uh-huh 
+Ah--that, that feeling 
+Uh-huh 
+
+
+It also looks like a ... like artificial flower from the 
+top 
+
+
+Uh-huh 
+Petals 
+
+
+O.K, 
+
+
+I think that's about all I'm seeing ... ah--can't get away 
+from that image 
+
+
+Alright. Shall I call Russ and see? 
+Yea, do 
+
+
+(end of tape) 
+22 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+Appendix B 
+
+
+SCORE SHEETS FOR THE "DOLL" TRIAL 
+IN THE "COORDINATE BOX EXPERIMENT" 
+
+
+23 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 __ 
+
+
+Approved For Release -NCEAS SED 300310003-2 
+
+
+Appendix B 
+
+
+SCORE SHEETS FOR THE "DOLL" TRIAL 
+IN THE "COORDINATE BOX EXPERIMENT” 
+
+
+Table B-1 
+
+
+AUDIOLINGUISTIC CATEGORY: PRESENT TIME (PT) 
+(Experiment #5, Coordinate D-3, Doll) 
+
+
+Dark colored 
+Dark colored 
+
+
+Round dome shape 
+
+
+Fits in palm 
+Soft material 
+High cup 
+
+
+Light colored background White 
+behind 
+red 
+stripes 
+
+Striated Red 
+stripes 
+
+
+Small high cup Boots 
+Shiny high cup 
+Beady high cup 
+
+
+Little knob 
+Like a foot 
+
+
+Multisided 
+With ribs that go up 
+
+
+Lightweight 
+2/3-height 
+
+
+Very lightweight 
+
+
+Rigid core 
+Soft, pliable covering 
+
+
+Stretched material 
+Stretched material 
+Ribbed structure 
+Beads at end 
+
+
+Knots of material at end 
+
+
+g.7\40 
+24 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2,_ 
+
+
+AUDIOLINGUISTIC CATEGORY: 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310 
+
+
+UNCLASSIFIED 
+
+
+Table B-2 
+
+
+003-2 
+
+
+DEBRIEFING (DB) 
+
+
+(Experiment #5, Coordinate D-3, Doll) 
+
+
+Total 
+Utterance Concept Duplication Quality | Centrality 
+
+
+Soft material 
+Something layered 
+Regularly layered 
+
+
+Slightly serrated edges 
+
+
+Utterance 3 and 11 are 
+related 
+
+
+Domed shape thing 
+
+
+Soft-spongy 
+Resilient 
+
+
+Stem with foot 
+
+
+Foot in high boots (cups) 
+
+
+Cup is lower part of soft 
+material 
+
+
+Light (wood) color 
+Shiny, very polished 
+
+
+Horizontal black 
+ornamental lines 
+
+
+Spokes of an umbrella 
+
+
+Spokes of an umbrella 
+
+
+Stem thing 
+Stem thing 
+
+
+Striations 
+
+
+Light colored 
+Polished wood 
+Dark stripes 
+Many layered 
+Dark satin 
+Dark purple 
+Dark colored 
+
+
+Soft material (top) 
+Feet on bottom 
+
+
+25 
+
+
+Apron and 
+dress 
+
+
+Apron and 
+dress 
+
+
+Top of 
+head 
+
+
+Object 
+
+
+Leg and 
+foot 
+Foot in 
+boots 
+
+
+Aspect of 
+dress 
+
+
+Stripes 
+on leg 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+Approved For Release ONCE 8/07: CIA-RDP96-00788R001300310003-2. 
+
+
+A 
+LASSIFIED 
+
+
+Table B-2 (concluded) 
+
+
+Spoke type image 
+Mushroom (dome) shape 
+
+
+Three-dimensional fan like 
+
+
+Reflective long triangle 
+Reflective long triangle 
+Reflective.long triangle 
+Reflective long triangle 
+Reflective long triangle 
+Serrated edges 
+
+Serrated edges 
+
+Serrated edges 
+Multilayered 
+
+
+Multilayered 
+
+
+¢) 
+0 
+0 
+0 
+ce) 
+0 
+0 
+0) 
+0) 
+0 
+
+
+Multilayered 
+
+
+26 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+7 Approved For Release 2000/08/07 : CIA-RDP96-00788R001300310003-2 
+
+
+a UNCLASSIFIED 
+
+
+Table B-3 
+
+
+AUDIOLINGUISTIC CATEGORY: ANALYSIS (AN) 
+
+
+(Experiment #5, Coordinate D-3, Doll) 
+
+
+Butterfly 
+Artificial flower 
+
+
+Bat (animal) 
+
+
+Bat 
+Butterfly 
+Artificial blossom 
+
+
+Beast 
+Mushroom 
+
+
+Plant 
+
+
+Artificial flower 
+
+
+Artificial flower 
+
+
+Artificial flower 
+
+
+Artificial flower 
+
+
+Artificial flower 
+
+
+Petals of artificial flower 
+
+
+27 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96- 00788R001300310003-2 
+
+

@@ -1,0 +1,3214 @@
+Approved For Release 2000/08/07 : CIA-RDP 96-00 £3 6ede160b330001-2 
+
+
+Final Report December 1982 
+
+
+RV RELIABILITY, ENHANCEMENT, AND 
+EVALUATION (U) 
+
+
+By: HAROLD £. PUTHOFF 
+
+
+Prepared for: 
+
+
+DEFENSE INTELLIGENCE AGENCY 
+WASHINGTON, D.C. 20301 
+
+
+SG1J Attention: te | 
+
+
+DT-5A 
+CONTRACT MDA908-82-C-0034 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+333 Ravenswood Avenue 
+
+Menlo Park, California 94025 U.S.A. 
+
+(415) 326-6200 
+
+Cable: SRI INTL MPK NOT RELEASABLE TO 
+TWX: 910-373-2046 FOREIGN NATIONALS 
+
+
+ved For Release 2000/08/07 : cia-RDP 96-007 Fafa eeo0$30001-2 
+
+
+Appls 
+
+
+pi elOlmehirie 
+
+
+a 
+
+
+For Release 2000/08/07 : aaa iiikd gl +h es 
+
+
+Final Report December 1982 
+Covering the Period October 1981 to September 1982 
+
+
+RV RELIABILITY, ENHANCEMENT, AND 
+EVALUATION (U) 
+
+
+By: HAROLD E, PUTHOFF 
+
+
+Prepared for: 
+
+
+DEFENSE INTELLIGENCE AGENCY Contract No: MDA908-82-C-0034 
+WASHINGTON, D.C. 20301 
+Attention: 
+
+DT-5A SG1J 
+
+
+SRI Project 4028-1 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+Approved by: 
+
+
+— 
+ROBERT S. LEONARD, Director Copy NO. wad. 
+Radio Physics Laboratory This document consists of 60 pages. 
+DAVID D. ELLIOTT, Vice President SRI/GF-0227 
+
+
+Research and Analysis Division 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 31 December 2002 
+NOT RELEASABLE TO 
+
+
+SECRET FOREIGN NATIONALS 
+
+
+333 Ravenswood Avenue * Menlo Park, California 94025 ° U.S.A. 
+(415) 326-6200 ° Cable: SRI INTL MPK * TWX: 910-373-2046 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+ii 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+nara 
+
+
+Approved For Release isis iy NCLASSIFIED OO” 
+
+
+IV 
+
+
+Vv 
+
+
+APPENDICES 
+
+
+OF ILLUSTRATIONS (U) .. 
+
+
+OF TABLES (U)...... 
+
+
+OBJECTIVE (U). ..... 
+
+
+INTRODUCTION (U) ... . 
+
+
+RV ENHANCEMENT TASK (U). 
+
+
+A. 
+B. 
+
+
+Cc, 
+
+
+Tasking (U) .... 
+
+
+CONTENTS 
+
+
+(U) 
+
+
+Six-Stage RV Enhancement Procedure (U). 
+
+
+FY 82 Progress (U). 
+
+
+OPERATIONAL RV TASKS (U) 
+
+
+A, 
+B. 
+Cc. 
+D. 
+EK 
+
+
+Operational RV Tasking (U). 
+
+
+RV Session Format (U) 
+
+
+. 
+
+
+. 
+
+
+Pre- and Post-Operational Task Calibration (U). . 
+
+
+FY 82 Operational RV Sites (U). 
+
+
+Evaluation of the Operational RV Task (U) 
+
+
+° 
+
+
+SUMMARY OF THE FY 82 RV ENHANCEMENT TASK (WU)... 
+
+
+A 
+
+
+B 
+
+
+TECHNOLOGICAL SITES USED IN STAGE IV RESEARCH 
+
+
+OPERATIONAL TASK SUMMARY SHEETS (U) 
+
+
+iii 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+vii 
+
+
+23 
+
+
+29 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+iv 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+a i fd SENT cea ieee ee Me ny 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+CLASSIFIE 
+
+
+ILLUSTRATIONS (U) 
+
+
+RV Enhancement Program (U) . ... 5 ee e © ee 
+
+
+no ee 
+
+
+Glen Canyon Dam (U). . 1. 2.0 6 ee we tee wes ecewe 
+Radio Telescope Array; Socorro, New Mexico (U) . . 
+
+
+Sahara Oilfields (U) .......6..6-6 2 «ee eee 
+
+
+Copper Mine; Silver City, New Mexico (U) ........ 
+Horizon National Wildlife Refuge; Wisconsin (U). 
+
+
+Monument Valley; Arizona/Utah (U). .......4.. 
+
+
+o fF NN OD a PP Ww 
+
+
+Macdill Air Force Base; Florida (U). .......2.%.6e 
+
+
+Vv 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Antenna Array; Lost Hills, California (U)......... 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+vi 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release ery NICERS SIRTET Oo 2 
+
+
+TABLES (U) 
+
+
+1 Stages in Remote Viewing (U) ........6e+268-. 
+2 Operational Remote Viewing Tasks (FY 82) (U) ... 
+
+
+A-1 Technological Sites Used in Stage IV Research (U). 
+
+
+vii 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+viii 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+See EE RAT NT: 
+
+
+Approved For Release 2000/08/07 : SEE RE Poet? 
+
+
+I OBJECTIVE (U) 
+
+
+o*K 
+(S) The objective of the Remote Viewing (RV) Reliability, Enhance- 
+ment, and Evaluation Task is to develop remote viewing techniques, both to 
+enhance the potential for US applications, and to provide data that may be 
+
+
+useful in assessing the threat potential of corresponding Soviet applications. 
+
+
+* 
+(U) RV (remote viewing) is the acquisition and description, by mental 
+means, of information blocked from ordinary perception by distance or 
+shielding, 
+
+
+1 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 20008 N CLASSTFIED” 300330001-2 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+2 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : “SECRET 
+
+
+II INTRODUCTION (U) 
+
+
+(S) SRI International is tasked with assessing the potential of RV 
+for intelligence applications. In this task, as defined for fiscal years 
+(FY) 1981 through 1983, special emphasis is placed on the possibility that 
+enhancement techniques can be developed that will significantly increase 
+
+
+levels of accuracy and reliability. 
+
+
+(S) The three-year effort focuses on (1) the development of techniques 
+to enhance the accuracy and reliability of RV, (2) the application of RV 
+to operational tasks, (3) the evaluation of such techniques and applica- 
+tions, and (4) the integration of RV intelligence into the overall intelli- 
+gence mix, The apportionment of these efforts over the three-year period 
+
+
+is shown in Figure 1. 
+
+
+(S) Investigation of the RV phenomenon at SRI International over the 
+past decade has ranged from basic research, where proof of the existence 
+of the phenomenon was at issue, to operational applications, in which the 
+existence of the phenomenon ae assumed, The present study emphasizes 
+applicability--proof of the phenomenon is not explicitly pursued here, 
+Some pragmatic measure of demonstration of existence is provided, however, 
+by assessment of the quality of results obtained in Operational tests 
+
+
+carried out under the double-blind conditions, 
+
+
+(S) In this report we discuss the effort for FY 1982, This effort 
+consisted of: 
+(1) Continued development of a six-stage RV training 
+procedure, hypothesized to lead to improved RV 
+performance. Special emphasis was placed on 
+
+
+developing tools that were useful in differentiating 
+and identifying technological facilities, 
+
+
+3 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+INTEGRATION OF RV INTELLIGENCE 
+
+
+EVALUATION 
+
+
+{$+ | 
+
+
+OPERATIONAL TASKING 
+
+
+DEVELOPMENT OF ENHANCEMENT TECHNIQUES 
+
+
+[J]_ fp] 
+
+
+1981 1982 1983 
+
+
+FISCAL YEAR 
+SECRET 
+
+
+FIGURE 1 (U) RV ENHANCEMENT PROGRAM 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+TENE I TT TS TS HN TSE EE EVE. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+(S) 
+
+
+(2) Training undertaken with five SRI-chosen volunteer 
+novice trainees as part of an in-house evaluation 
+program, 
+
+
+(3) Training undertaken with two Army INSCOM personnel 
+as part of a technology transfer/external evaluation 
+program. 
+
+
+(4) Generation of data by experienced remote viewers in 
+response to operational requirements, 
+
+
+* 
+(5) Development of a general RV evaluation protocol, 
+
+
+(6) Development of a computerized data~base management 
+system (LSI 11/23 stand-alone microcomputer). 
+
+
+* 
+E. C. May, "RV Evaluation Protocol (U)," Final Report, SRI Project 4028-5, 
+SRI International, Menlo Park, CA (December 1982), SECRET/NOFORN-GF. 
+
+
+5 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+6 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CLG BAAS pe yeer001 3003300012 
+
+
+III RV ENHANCEMENT TASK (U) 
+
+
+A. Tasking (U) 
+
+
+(S/NF) SRI International is tasked with working toward the develop- 
+ment of RV enhancement procedures that will accommodate future DoD needs, 
+Of particular interest is the development of procedures that can be trans- 
+mitted to others in a structured fashion (i.e., "training" procedures), 
+and that can be used in targeting on distant sites of military or intel- 
+
+
+ligence significance, 
+
+
+B. Six-Stage RV Enhancement Procedure (U) 
+
+
+(S/NF) At the beginning of the DIA/Army Joint Services Program 
+(FY 81), SRI, in conjunction with its sponsors, made a decision to 
+develop and codify the most promising RV enhancement procedure that had 
+emerged from earlier work--a six stage training procedure developed by 
+SRI consultant Mr. Ingo Swann. The procedure focuses on improving the 
+reliability of remote viewing by controlling those factors that tend to 
+introduce noise into the RV product, The basic components of this pro- 
+cedure consist of (1) repeated target-address (e.g., coordinate) presen- 
+tation, with quick-reaction response by the remote viewer (to minimize 
+imaginative eeeeiaye): (2) the use of a specially-designed, acoustic- 
+tiled, featureless homogeneously-colored viewing chamber (to minimize 
+environmental overlays), and (3) the adoption of a strictly-prescribed, 
+limited interviewer patter (to minimize interviewer overlay). A broad 
+
+
+overview of the procedure, which has been derived empirically on the 
+
+
+7 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+(Ss) 
+basis of a decade of investigation into the RV process, is presented in 
+
+
+* 
+the document footnoted below, 
+
+
+(U) At this stage of near completion of the development, the RV ’ 
+training procedure proceeds through a series of six stages of proficiency, 
+hypothesized to correspond to six stages of increased contact with the 
+target site. The stages are outlined in Table 1. Ina given remote 
+viewing session, an experienced remote viewer tends to recapitulate the 
+
+
+six stages in order, 
+
+
+Table 1 
+
+
+(U) STAGES IN REMOTE VIEWING (U) 
+
+
+Major gestalt Land surrounded by water, an 
+island 
+
+
+Sensory contact Cold sensation, wind-swept feeling 
+
+
+Dimension, motion, mobility Rising up, panoramic view, island 
+
+
+outline 
+Qualitative aspects Scientific research, live organisms 
+Significant analytical aspects BW preparation site 
+
+
+Specific quantitative aspects Name of island, personnel associated 
+with site 
+
+
+* 
+(U) H. E, Puthoff, "RV Reliability, Enhancement, and Evaluation (u) ," 
+Final Report, SRI Project 3279-1, SRI International, Menlo Park, CA 
+(February 1982), SECRET/NOFORN/GF, 
+
+
+8 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+Fa 
+
+
+Approved For Release 2000/08/07 : CS EER P F8r001300330001-2 
+
+
+C, FY 82 Progress (U) 
+
+
+(U) During FY 82, three major subtasks were pursued with regard to 
+continuing the development and technology transfer of the six-stage RV 
+
+
+enhancement procedure, 
+
+
+(U) The first subtask focused on developing procedures specifically 
+applicable to the differentiation and identification of technological 
+facilities (considered in our nomenclature a Stage IV process), With 
+Swann acting as the remote viewer, 75 technological sites (nuclear power 
+plants, dams, radar installations, missile launch facilities, and so forth) 
+were viewed with the goal of developing discrimination accuracy. A list 
+of the sites is provided in Appendix A, Examples of the level of detail 
+and discrimination attained in this research/training phase are shown in 
+Figures 2 through 5. Results of this quality are seen on a relatively 
+
+
+routine basis and, therefore, at a rate well exceeding chance correlation. 
+
+
+(U) The second subtask consisted of the orientation/application/testing 
+of the procedure with five novice remote viewers, all of whom are SRI staff 
+members or consultants without previous remote viewing experience. These 
+individuals have all completed Stage I training and are now progressing 
+through various levels of Stage II. The results to date continue to 
+support the hypothesis that the remote viewing technology can be transferred 
+
+
+to trainees on the basis of orientation, coaching, and practice, 
+
+
+(S) The third subtask was devoted to beginning transfer of the six- 
+stage procedure to two Army INSCOM personnel who were sent to SRI on three 
+separate occasions during FY 82. One of these viewers is at mid-Stage II, 
+on the basis of 53 RV site viewings; the second viewer has nearly completed 
+Stage II, on the basis of 77 RV site viewings. The level reached by the 
+latter viewer can be seen from his final four viewings before his return 
+
+
+to INSCOM headquarters (Figures 6 through 9), 
+
+
+9 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 20007 RIC LR SSTETER oe? 
+
+
+ge -F 3 
+S3ab 
+<<. 
+Be 7 2 i 7 
+n 
+z 
+ete 
+! 5 
+’ Ww 
+ec 
+> 
+ica 
+. a a 
+. 
+peers x Pao 
+See 
+
+
+CPYRGHT 
+
+
+SITE 
+
+
+(a) 
+
+
+UNCLASSIFIED 
+
+
+10 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+PR Ae RRA oR RAKE 1 BARB PER ha: RRR RSE be RE! Ae ERASE werd A eR MS ge eta de amssactos: 
+
+
+GLEN CANYON DAM, UTAH 
+
+
+(U) 
+
+
+FIGURE 2 
+
+
+Approved For Release key | NC ERS SIFT B00880001-2 
+
+
+as & 
+J | ys A ; 
+| 4 5 | N ‘ 
+BAS | 
+- ee SS 
+x mt - sp )s 
+" / 8 
+ae ‘ ; 8 y.v 
+SS YS J 
+Py” . 3 
+ie a 
+% 3 
+CPYRGHT | 
+
+
+11 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+(b) RV RESPONSE 
+
+
+(a) SITE 
+
+
+RADIO TELESCOPE ARRAY; SOCORRO, NEW MEXICO 
+
+
+(U) 
+
+
+FIGURE 3 
+
+
+SRR ala RRR ote Sen skate kee SR RINNE RES Aras oe oie. I a NR MO OTD REE RRR RE AREA UCT SPREE + SSRI Bln Rfised bon iden 
+
+
+Approved For Release “UNC fASSiFIED. 
+
+
+U 
+val 
+LMA - APM 
+q ‘- { ws 
+= +) 4 é 
+a) oe oe | us 
+¥ — 
+. : oe iS 2) 
+- oa | j 
+| \s fou 
+; ie : 
+O 
+F: 
+CPYRGHT — x 
+f{ 
+ip) 
+) 
+wt 
+Lil 
+em 
+~) 
+Q 
+Lt 
+F 
+” 
+e 
+rn 
+3 
+$ 
+oO 
+4 
+=) 
+
+
+12 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+(bp) RV RESPONSE 
+
+
+CPYRGHT 
+
+
+(a) SITE 
+
+
+UNCLASSIFIED 
+
+
+13 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+{U) ANTENNA ARRAY; LOST HILLS, CALIFORNIA 
+
+
+FIGURE 5 
+
+
+Approved For Release 2°" N CLASSIFIED nn” 
+
+
+RV RESPONSE 
+6) 
+
+
+( 
+E 
+
+
+CPYRGHT 
+
+
+SITE 
+
+
+{a) 
+
+
+UNCLASSIFED 
+
+
+14 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Bk ARSC Ree RAIN LS ARMAS RNS RSL APR ER ST a I NRA A AEN SAL RR RE A a cen TEA AI CERO RII PUNT RRR Ba 985: 
+
+
+Rabe Bar 
+
+
+Approved For Release 2000/0807 Ne BRS SY FTE 00880001 -2 
+
+
+NISNOOSIM ‘S9ONSAY JSITGTIM TWNOILVYN NOZIYOH (MN) = Z SYNDIA 
+
+
+JSNOdS3Y AY (49) 3LIS (8) 
+
+
+Sry hewy 
+
+
+G3IsdISSVISNN 
+
+
+? 
+
+
+aaa. jP® oh 
+
+
+CPYRGHT 
+
+
+5 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release UNCLASSIFIED 
+
+
+RV RESPONSE 
+
+
+b) 
+
+
+ZONA/UTAH 
+
+
+EY; ARIZ 
+
+
+CPYRGHT 
+
+
+SITE 
+
+
+(a) 
+
+
+UNCLASSIFIED 
+
+
+16 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Ne ee ee Raat eet Ts eee 
+
+
+hain eon + Sean 
+
+
+Approved For Release 2000/08 TNFR SS] FPP 00880001-2 
+
+
+Feet | 
+3 da 4 
+: 13 A 
+ep 
+
+
+17 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+RV RESPONSE 
+
+
+(b) 
+
+
+SITE 
+
+
+(a) 
+
+
+UNCLASSIFIED 
+
+
+MACDILL AIR FORCE BASE, FLORIDA 
+
+
+(U) 
+
+
+FIGURE 9 
+
+
+Approved For Release 2000/08/07 CECRET Oo 
+
+
+IV OPERATIONAL RV TASKS (U) 
+
+
+A. Operational RV Tasking (U) 
+
+
+(S) To meet program objectives, one of SRI's tasks is to investigate 
+US capabilities in applied RV, both to determine the potential for appli- 
+cation in US efforts, and to provide data that is useful in assessing the 
+threat potential of corresponding Sovict applications. In response to 
+this requirement, SRI has pursued application tasks that were of interest 
+to the intelligence community, and have responded to quick~reaction re- 
+
+
+quirements set by representatives monitoring the progress of the work, 
+
+
+B, RV Session Format (U) 
+
+
+(S) The format for carrying out these tasks during FY 82 is as 
+follows. A request for information concerning a target site is transmitted 
+by the client to the DIA representative [JE the Joint Service scl 
+Program COTR in residence at SRI. He then provides targeting information 
+(e.g., coordinates) to an SRI RV session monitor at the start of a session, 
+This monitor then works with a remote viewer to obtain data. In this 
+format, SRI personnel are kept blind to the source of the request, and to 
+the type of site or event of interest. In some cases, the COTR is present 
+
+
+during the RV session, or he may even conduct the session himself. 
+
+
+Cc. Pre-~_and Post-Operational Task Calibration (U) 
+
+
+(S) In an effort to determine whether a remote viewer is "on line” 
+before attempting an operational task, a presession calibration trial is 
+carried out on a site for which feedback materials (e.g., National 
+Geographic magazines, travel brochures) are available to the session 
+
+
+18 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+BURT Si. BS: SRSA 8 tie UMRAO RR RE Pea OF RR RRR ga enCTAnNNG um nanlun sea  reAe omcRR Bick wee eas AEST hac BORN RT ROH ARENT RAN lett teks Sep = 2 RR RB eB jer Rs an ee ot esate ese ewe ee 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+(S) 
+
+monitor, If the results indicate a useful level of RV functioning, the 
+operational task is engaged; if not, the task is aborted. In like 
+fashion, a postsession calibration trial is carried out to provide a 
+check on whether the viewer remained "on line" during the operational 
+
+
+task, 
+
+
+D. FY 82 Operational RV Sites (U) 
+
+
+(S) The tasks carried out during FY 82 are listed in Table 2, 
+Additional detailed data are provided in the operational Task Summary 
+Sheets provided in Appendix B. Complete documentation (transcripts, 
+evaluations, and so forth) can be made available through SAO channels 
+
+
+on a need-to-know basis. 
+
+
+E. Evaluation of the Operational RV Task (U) 
+aoe ee Pe rab tone ask 
+
+
+(U) Evaluation protocols were developed for use by analysts to 
+provide numerical estimates of various aspects of the RV product generated 
+in operational RV tasks. The returned protocols constitute the basis 
+for contractor evaluation, feedback to the remote viewer, and as an input 
+for the computerized data-base management (DBM). The evaluation protocols 
+submitted to the analysts for their completion are provided in Appendix D 
+
+
+* 
+of the below footnoted document, 
+
+
+(U) While awaiting the bulk of evaluation protocols, the contractor 
+has completed development of a computerized data-base management system 
+to handle this material. This system, programmed on a stand-alone LSI 
+
+
+11/23 system, provides a library/catalog function of data-base readout by 
+
+
+* 
+(U) H. E, Puthoff, "RV Reliability, Enhancement, and Evaluation (U)," 
+Final Report, SRI Project 3279-1, SRI International, Menlo Park, CA 
+(February 1982), SECRET/NOFORN/GF. 
+
+
+19 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SG1A 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : “SECRET 
+
+
+V SUMMARY OF THE FY 82 RV ENHANCEMENT TASK (U) 
+
+
+(S) Progress in the FY 82 RV Enhancement Task can be summarized as 
+
+
+follows: 
+
+
+e RV enhancement procedure further developed. 
+
+
+- Special emphasis on procedures applicable to 
+identification of technological facilities, 
+
+
+- 75 RV research/training practice trials with 
+I, Swann, 
+
+
+e Procedure transfer begun to five novice SRI staff 
+members and consultants. 
+
+
+- Orientation and practice through various levels 
+of Stage II. 
+
+
+* Procedure transfer begun to two novice Army INSCOM 
+personnel. 
+
+
+- One RVer mid-Stage II; 53 RV training trials. 
+
+
+- One RVer nearly complete on Stage II; 77 RV 
+training trials. 
+
+
+e Data obtained on Operational Sites J.S. #23 through 
+J.S. #34, 
+
+
+K 
+* RV evaluation protocols developed. 
+
+
+e Computerized RV data-base management system developed 
+to completion (LSI 11/23 stand-alone microcomputer), 
+
+
+* 
+(U) E. C, May, "RV Evaluation Protocol (U)," Final Report, SRI Project 
+4028-5, SRI International, Menlo Park, CA (December 1982), SECRET~NF-GF, 
+
+
+21 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+22 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+aL ac RE SE ET a SE ea NO cP EE 
+
+
+Approved For Release 2000/08/97 RRO ROR Rat gH BO 3P0990001-2 
+
+
+Appendix A 
+
+
+TECHNOLOGICAL SITES USED IN STAGE IV RESEARCH (U) 
+
+
+23 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+24 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+a ENR Rate Ge, Eta Le ons Face ee 
+
+
+Approved For Release se | NCLASSIFIED 
+Appendix A 
+Table A-1 
+
+
+(U) TECHNOLOGICAL SITES USED IN STAGE IV RESEARCH (U) 
+
+
+Date 
+(1982) Site 
+
+
+Socorro, Radar Site, NM 
+
+
+Indian Point Nuclear Plant, NY 
+
+
+Cape Kennedy, FL 
+
+
+Warm Springs Dam, CA 
+
+
+Chatanika Radar, AK 
+
+
+Russellville Nuclear Plant, AK 
+
+
+Coyote Dam, CA 
+
+
+Los Banos Radar Site, CA 
+
+
+Conn-Yankee Nuclear Plant, NY 
+
+
+Lost Hills Antenna Array, CA 
+
+
+Arecibo Dish, Puerto Rico 
+
+
+Panama Canal Locks 
+
+
+Stanford Radiotelescope, CA 
+
+
+Navaho Generating Station, AZ 
+
+
+Kariba Dam, Zimbabwe/Zambia 
+
+
+Air Force Academy, CO 
+
+
+DSN Antenna, Goldstone, CA 
+
+
+Glen Canyon Dam, UT 
+
+
+DSN Antenna, Spain 
+
+
+Algeria Oilfields 
+
+
+Hebgen Dam, MT 
+
+
+Oconee Nuclear Plan, SC 
+
+
+Kwajalein Radar, Marshall Islands 
+
+
+Cheops Pyramid 
+
+
+25 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+Table A-1 (continued) 
+
+
+Date 
+(1982) Site 
+
+
+Lindheimer Observatory, IL 
+
+
+Standard Oil Refinery, Richmond, CA 
+Gavin's Point Dam, NE 
+Edwards AFB, CA 
+Golden Gate Bridge, CA 
+Stanford Radiotelescope, CA 
+Dulles Airport, VA 
+DSN Antenna, Australia 
+Gallup National Gas Plant, NM 
+Vandenberg AFB, CA 
+Mount Isa, Australia 
+Eiffel Tower 
+Gateway Arch, St. Louis, MO 
+Houston Astrodome, TX 
+Barre Quarry, VT 
+Kitt Peak Observatory, AZ 
+
+
+Hampton Roads Bridge-Tunnel, VA 
+
+
+Smith-Institute Aerospace Museum, DC 
+George Washington Bridge, NY 
+Johnston Power Plant, WY 
+Bell Labs Antenna, Crawford Hill, NJ 
+Pittsburgh Civic Center, PA 
+Kariba Dan, Zimbabwe/Zambia 
+Indian Point Nuclear Plant, NY 
+
+
+Rondo II Radar, Palo Alto, CA 
+
+
+26 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Bennet Dam & Portage Mtn, Plant, Br. Columbia 
+
+
+Approved For Release gas b NCLASSIFIED 
+
+
+Table A-1 (concluded) 
+
+
+Date 
+(1982) Site 
+
+
+Verrazano-Narrows Bridge, NY 
+
+
+Belden Dam, CA 
+
+
+Space Needle, Seattle, WA 
+
+
+Steel Plant, Aliquippa, PA 
+
+
+O'Hare International Airport, IL 
+
+
+MacArthur Bridge, St. Louis, MO 
+
+
+Rock Creek Dam, CA 
+
+
+Moses Power Plant, Niagra Falls, NY 
+
+
+U.N. Building, New York, NY 
+
+
+Rondo I Radar, Palo Alto, CA 
+
+
+Cresta Dam, CA 
+
+
+San Jacinto Monument, TX 
+
+
+Pahlavi Dam, Iran 
+
+
+Pulp Plant, Newfoundland 
+
+
+Chesapeake Bay Bridge, MD 
+
+
+Decker Mine, MT 
+
+
+MIT Haystack Antenna, MA 
+
+
+Glen Canyon Dam, UT 
+
+
+Erie Mining Co,, Hoyt Lakes, MN 
+
+
+Pit 6, Shasta County Dam, CA 
+
+
+Terrebonne Bay Oil Wells, LA 
+
+
+Puunene Mill, Maui 
+
+
+Pit 7, Shasta County Dam, CA 
+
+
+American Museum of Natural History, NY 
+
+
+Erie Mining Co., Hoyt Lakes, MN 
+
+
+27 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+28 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SE a a a aT a ET TC TE TT I IE ER A TINE 
+
+
+Approved For Release Pore ay NCLASSIFIED. 
+
+
+Appendix B 
+
+
+OPERATIONAL TASK SUMMARY SHEETS (U) 
+
+
+29 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+UNCLASSIFIED 
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+30 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+SNe eae ae EE a I a EET a I TS I TENS. 
+
+
+Approved For Release 2000/08/07 CECRET OO 
+
+
+SRI/GF-0007 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 26 October 2001 
+
+
+Date 26 October 1981; 0830 
+a a ee 
+
+
+Series DIA 
+Session No, 1 . 
+es Be rss 
+
+
+Target No, J.S. #23 
+
+
+eel Miacaseaumn seen, 
+SG1A 
+
+
+Remote Viewer #009 
+
+
+SG1J 
+Interviewer en fe = aacl 
+
+
+- Beacon(s) Abstract ("Target") 
+
+
+SG1J 
+
+
+Comments: 1, Session conducted by DIA coTR, 
+
+
+2. Remote viewer and interviewer blind as to target location and 
+activity of interest; interviewer knowledgeable only of broad 
+technologies of concern, 
+
+
+3. Viewer gives only general description of building layout. 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 31 
+
+
+333 Ravenswood Ave. ® Menlo Park, CA 94025 ¢ (415) 326-6200 ¢ TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SGIA 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0008 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 27 October 2001 
+
+
+Date 27 October 1981; 0835 
+
+
+Series DIA 
+ee eeeeeseSeeOOS—C*“ 
+Session No, 1 
+eee 
+
+
+Target No, J.S. #24 
+
+
+eet 
+
+
+Remote Viewer #009 
+
+
+oo eeeeeseseSFSFSsesF 
+Interviewer ne SG1J 
+
+
+Beacon(s) Abstract ("Target") 
+
+
+Comments: 1, Session conducted by DIA corr SGtJ 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and activity of interest, 
+
+
+3. Viewer described construction, a building, planned for 
+laboratories and associated with missiles. 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 32 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 ¢ TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+Approved For Release seated? FORE Te corsssotstossoners 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0009 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 29 October 2001 
+
+
+Date 29 October 1981; 0900 
+
+
+Series DIA 
+Sa nt 
+
+
+Session No, 1 
+A eee tS 
+
+
+Target No, JS. #25 
+
+
+2a 
+
+
+Remote Viewer #009 
+
+
+Interviewer in! eed 
+
+
+Beacon(s) Abstract ("Target") 
+
+
+Comments: 1, Session conducted by DIA COTR, P| 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and activity of interest, 
+
+
+SG1J 
+
+
+3. Viewer described a facility dedicated to a single purpose, 
+technological, high use of cooling water. 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 33 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 ® (415) 326-6200 © TWX: 910-373-1246 e TELEX: 334463 ® Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0228 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 7 December 2001 
+
+
+Date 7 December 1981; 1012 
+
+
+Series DIA 
+
+
+a ne ee 
+
+
+Session No, 
+
+
+Target No, J.S, #26 
+
+Target SAO 
+eee 
+
+Remote Viewer #009 
+
+
+eee 
+
+
+Interviewer SG1J 
+
+
+Beacon(s) Phrase "Target" 
+
+
+Comments : Session carried out by DIA COTR, 
+
+
+H, E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 34 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 © TWX: 910-373-1246 # TELEX: 334463 e Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : ‘CECREL 
+
+
+eS 
+
+
+fffiitNVAN 
+
+
+international 
+Na Je 
+
+
+SRI/GF-0229 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 
+
+
+Date 10 December 1981, 1010 (Scan 1); 1050 (Scan 2) 
+
+Series ee 
+Session No, 
+
+Target No, J.S8, #27 
+
+
+Target SAO 
+
+
+Remote Viewer #009 
+Fr 
+
+
+Interviewer SG1J 
+
+
+Beacon(s) Phrase "Target" 
+
+
+Comments: Session carried out by DIA COTR. 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 35 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 ¢ (415) 326-6200 © TWX: 910-373-1246 e TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+ZI 
+“f/f T\\N 
+
+
+SRI/GF-0230 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 13 December 2001 
+
+
+Date 13 December 1981; 0917 
+
+
+Series DIA 
+—— 
+Session No, 1 
+_ ees 
+
+
+Target No, J.S. #28 
+
+
+eee 
+
+
+Target Unknown locations: 12/10/81, 1000; 12/11/81, 1000, afternoon, evening; 
+12/17/81 (Future RV), morning, noon, dusk, evening, 
+
+
+Remote Viewer #009 
+Interviewer #026 
+
+Oo eeeeeeeeeSFSséSsSé 
+Beacon(s) Abstract (Target date A, B. C: Time 1, 2, 3, 4) 
+
+
+Comments: 41, List of target dates, times, given to interviewer at session 
+start by DIA COTR in residence at SRI; locations corresponding 
+to those dates and times requested. No further description 
+of task given, 
+
+
+2, Remote viewer and interviewer blind as to target significance 
+and activity of interest, 
+
+
+3. Mid-session calibration experiments with Nat'l Geographic target 
+material (Stuttgart, Arkansas; Gibralter) yielded good results, 
+indicating remote viewer generally "on-line." 
+
+
+4, In addition to descriptions of locations, viewer described an 
+individual (and a group) who seemed to be associated with the 
+locations of interest, 
+
+
+BL.« 
+
+
+H. E. Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+SRI international 36 
+
+
+333 Ravenswood Ave. © Menlo Park, CA 94025 ® 1415) 326-6200 e TWX: 910-373-1246 © TELEX: 334463 e Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+: 330001-2 
+Approved For Release 2000/08/07 : SECRET Oe 
+
+
+SRI/GF-0021 
+
+
+CLASSIFIED BY: DIA-DT 
+REVIEW ON: 14 December 2001 
+
+
+Date 14 December 1981, 1230 (Session 1); 1405 (Session 2); 1523 (Session 3) 
+nnn sh  Gession 2); | 
+
+
+Series DIA 
+
+
+eee 
+Session No, 1,2, 3 
+tee 
+
+
+Target No, J.S, #29 
+
+
+eee 
+
+
+Remote Viewer #002 
+
+
+a ee 
+
+
+SG1J 
+Interviewer H. Puthoff, 
+
+
+Beacon(s) CRV (Coordinate Remote Viewing) 
+SG1J 
+
+
+Comments: j, Sessions carried out at DIA HQ, with DIA representative 
+SG1J in attendance, Coordinates and dates of interest 
+
+
+2, Remote viewer blind as to target location and activity of interest, 
+
+
+3. On-line check calibration trials utilizing Nat'l Geographic 
+target materials yielded good results, indicating remote viewer 
+generally "on-line" for remote viewing. 
+
+
+4, Remote viewer described a terrorist training camp; activity-- 
+lobbing of shells carrying explosive materials in some kind 
+of mockup situation, 
+
+
+Bt. € 2 
+
+
+H. E. Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+SRI international 37 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 © TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SG1J 
+
+
+SGi1J 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0022 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 14 December 2001 
+
+
+Date 14 December 1981, 1650 
+Series DIA 
+i 
+1 
+
+
+Session No, 
+—eeeeeeeeeeseseseseseOS 
+Target No, J.S. #30 
+eee 
+
+
+Target Ilitch Ramirex-Sanchez (Carlos) 
+
+
+Remote Viewer #002 
+
+
+a 
+Interviewer H. Puthoff eee Sac 
+Beacon(s) Hidden picture in envelope 
+SGi1J 
+
+
+Comments: 1, Sessions carried out at DIA HQ, with DIA representative 2 = 
+in attendance, Target of interest determined by 
+
+
+2. Remote viewer blind as to identify of target person and his 
+activities of interest, 
+
+
+3. Pre- and post-op calibration trials with Nat'l Geographic 
+materials (Sierra Madre and Tel Aviv, respectively) yielded 
+good results, indicating remote viewer generally "on-line" 
+for remote viewing. 
+
+
+4, Remote viewer profiled subject of interest, 
+
+
+AL« 2 
+
+
+H. E. Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+SRI international 38 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (4151 326-6200 e TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SRI/GF-0023 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 15 December 2001 
+
+
+Date 15 December 1981, 0857 
+
+
+Series DIA 
+a Sn = 
+
+
+Session No, 1 
+Pa ee ee en eee 
+
+
+Target No, J.S, #31 
+Sa LL ee ee TE a aD 
+
+
+Target 38°53'53"N, 77°02'10"W (White House), 17 December 1981 Evening (Xmas tree 
+ee eer ee. 
+lighting ceremony) 
+
+
+Remote Viewer #002 
+rf ee a ae 
+
+
+Interviewer H. Puthoff, J. Vorona SG1J 
+
+
+Beacon(s) SG1J 
+a ee 
+
+
+Comments: Session carried out at DIA HQ, with DIA representatives 
+SG1J MI anc 5. vorona present. Coordinates and date of interest 
+
+
+SG1J brought to session by TT 21: J. Vorona, 
+
+
+Remote viewer blind as to target location and activity of interest. 
+
+
+On-line-check calibration trials utilizing Nat'l Geographic target 
+materials (listed below)* yielded good results, indicating remote 
+viewer generally "on-line" for remote viewing. 
+
+
+Remote viewer described a social event at White House, with people 
+awaiting some event. Nothing of note (precognitively) is to happen. 
+
+
+* 
+Pre-ops: Waikiki, Corrientes, Mt. Everest, Turku Archipelago, 
+
+
+University of Spain, Central Park, NYC, Midcheck: Bodrum, 
+
+
+Post=op: Cape Cod, 
+ALS fp? 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 39 
+
+
+333 Ravenswood Ave. @ Menlo Park, CA 94025 ¢ (415) 326-6200 © TWX: 910-373-1246 ¢ TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0024 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 18 December 2001 
+
+
+Date 18 December 1981, 1445 
+Series DIA 
+eee 
+Session No, 1 
+eeeeeeSeSeseeeeeSFsae 
+Target No, J.8. #32 
+ee eeeeeeeeSeSeSeeOONOOOSCSséS 
+
+
+Target Brig. General James L, Dozier, location of 
+Remote Viewer #009 
+
+Interviewer H, Puthoff 
+
+Beacon(s) Dozier 
+
+Comments: 
+
+
+ae 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 40 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 * TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CECREL es 
+
+
+SRI/GF~0231 
+
+
+CLASSIFIED BY: DT+1A 
+REVIEW ON: 17 January 2002 
+
+
+Date 17 January 1982 
+
+
+Series DIA 
+a 
+
+
+Session No, 4 
+se 
+
+
+Target No, JS, #32 
+Target Brig. James L, Dozier, location of 
+Remote Viewer #009 (Group) 
+
+
+Interviewer none 
+
+
+A fete peentennpenynenienyenre 
+
+
+Beacon(s) Dozier SG1J 
+
+
+Comments: 1, On 17 January 1982, RVer turned over to H. Puthoff and i 
+a compilation of inputs from RVers labeled Apple, Baker, Charlie, 
+Delta, Theta, Lambda, Epsilon, and Pi. The dates of individual 
+remote viewings spanned the dates 15 December 1981 - 12 January 
+1982. 
+
+
+2. Compilation carried vo 18 January 1982, SG1J 
+
+
+* 
+DIA (DT-1A) P.O.C, 
+
+
+H, E, Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 41 
+
+
+333 Ravenswood Ave. ® Menlo Park, CA 94025 © 1415) 326-6200 ¢ TWX: 910-373-1246 © TELEX: 334463 e Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0020 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 7 January 2002 
+
+
+7 January 1982, 0700 
+
+
+Date 
+a 
+Series DIA 
+a nee 
+Session No, 1, 2 
+_—__ eee 
+
+
+Target No, J.8. #33 
+
+
+me 
+
+
+Remote Viewer #002 (Participant "A"), #622 (Participant "B") 
+ee Participant Bo 
+
+
+Interviewer none 
+—_—-——-__-__— ee 
+
+
+SG1A Beacon(s) [eo | 
+
+
+Comments: 1, Remote viewers #002 and #622 were asked to describe, 
+possible determine the locat 
+
+
+and if 
+
+
+SG1A 
+SG1A 2. and 
+SCIA were sent to #002 by J. Vorona (DT-1A); also SG1J 
+hand delivered to Puthoff by (DT=1A) on 
+15 December 1981, 
+3, The remote viewers’ renderings were turned over to H, Puthoff 
+at SRI, who then telexed it to (DIA-1A) on 
+11 January 1982, SG1J 
+A« 2 
+H. E,. Puthoff, Ph.D., Radi hysics Laboratory 
+SRI international 42 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 ® (415) 326-6200 e TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : SECRET oO 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 1 March 2002 
+
+
+Date 1 March 1982; 0853 (Scan 1) 
+
+
+Series DIA 
+ee 
+Session No, 
+_— eee 
+
+
+Target No, J.8, #34 
+
+
+a) es 
+Remote Viewer #002 
+Interviewer H. Puthoff 
+Beacon(s) CRV 
+
+
+SG1J 
+Comments: 1. Coordinates given to Puthoff vi (DIA) this date. 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest. 
+
+
+3. Calibration trials with known target materials indicated 
+remote viewer "on-line,"* 
+
+
+con ate ineemeeeneeeneeenemeneene eee 
+
+
+* 
+Presession calibrations: Gavin's Point Dam, Edwards Air Force Base. 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 43 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © '415) 326-6200 * TWX: 910-373-1246 ¢ TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SGIA 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 1 March 2002 
+
+
+Date 1 March 1982, 1058 (Scan 2) 
+
+
+Series DIA 
+ee 
+Session No, 
+—_—_ eee 
+
+
+Target No, J.5. #34 
+A, 
+Remote Viewer #002 
+ees 
+
+
+Interviewer H. Puthoff 
+
+
+Beacon(s) CRV 
+eee 
+
+
+Comments: 1. Continuation of scans begun this date, 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3. Calibration trials with known target materials indicated 
+remote viewer "on-line,'"* 
+
+
+Serene 
+
+
+* 
+Presession, Golden Gate Bridge, San Francisco, CA; postsession, 
+
+
+Stanford Radiotelescope, 
+
+
+Ae 
+
+
+H, E. Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+SRI international 44 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 (415; 326-6200 © TWX: 910-373-1246 e TELEX: 334463 e Facsimile: (415) 326-5512 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : SECREL 
+
+
+SRI/GF-0211 ~~ « 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 2 March 2002 
+
+
+Date 2 March 1982, 0944 (Scan 3) 
+i ee ee 
+Series DIA 
+
+
+Session No, 
+a a ee er eee 
+
+
+Target No, J.S. #34 
+a es 
+
+
+SG1A Target ae 
+
+
+Remote Viewer #002 
+a eee Sa ee 
+
+
+Interviewer H, Puthoff 
+a ee ee 
+
+
+Beacon(s) CRV 
+pr 
+
+
+Comments: 1, Continuation of scans begun 1 March 1982, 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest. 
+
+
+3. Calibration trials with known target materials indicated 
+remote viewer "on-line,'* 
+
+
+* 
+Presession, Dulles Intern'l Airport, dish antenna in Australia, 
+
+
+Gallup, NM Natural Gas Co, Postsession, Vandenburg Air Force Base. 
+
+
+AL€ PR 
+
+
+H, E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+45 
+
+
+SRI international 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 @ (415) 326-6200 © TWX: 910-373-1246 © TELEX: 334463 ¢ Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SGIA 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT=5A 
+REVIEW ON: 24 March 2002 
+
+
+Date 24 March 1982, 0940 (Scan 4) 
+
+
+Series DIA 
+_ eee 
+Session No, 
+_—_— eee 
+
+
+Target No, J.S. #34 
+
+
+a ee 
+
+
+Remote Viewer #002 
+
+
+Interviewer 
+_ eee 
+
+
+Beacon(s) CRV 
+
+
+Comments: 1. Continuation of scans begun 1 March 1982, 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3. Calibration trials with known target material indicated 
+remote viewer "on-line,"* 
+
+
+TE ST 
+
+
+* 
+Presession: Pittsburgh Civic Center; Kariba Dam, Zimbabwe. 
+Postsession: Indian Point Nuclear Plant. 
+
+
+AL< PR 
+
+
+H. E, Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+SRI international 46 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 © TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : SECRET oe 
+
+
+at A, Wao 
+
+
+f/f it\* 
+
+
+international 
+
+
+WALA DLL 
+A 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT=5A 
+REVIEW ON: 5 May 2002 
+
+
+5 May 1982, 0950 (Scan 5) 
+a ee ee 
+
+
+Series DIA 
+a a ee, 
+
+
+Date 
+
+
+Session No, 
+ee eee ee re ee a SO ee ee 
+
+
+Target No, J.8. #34 
+pe 
+
+
+Remote Viewer #002 
+a a 
+
+
+Interviewer H. Puthoff 
+i a re a ee et 
+
+
+Beacon(s) CRV 
+ee 
+
+
+Comments: 1, Continuation of scans begun on 1 March 1982, 
+
+
+2, Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3, Calibration trials with known target material indicated 
+remote viewer "on-line,"™ 
+
+
+* 
+Presession: Steel Plant, Aliquippa, PA. Postsession: 
+
+
+O'Hare International Airport, 
+
+
+A LE 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international a7 
+
+
+333 Ravenswood Ave. # Menlo Park, CA 94025 © (415) 326-6200 e TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 6 May 2002 
+
+
+Date 6 May 1982, 0933 (Scan 6) 
+
+
+Series 
+_ eee 
+Session No, 
+ees 
+
+
+Target No, JS, #34 
+
+
+eee 
+
+
+SG1A Target an: 
+
+
+Remote Viewer #002 - 
+a 
+Interviewer H. Puthoff 
+
+
+Beacon(s) CRV 
+eee 
+
+
+Comments: 1, Continuation of scans begun on 1 March 1982, 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3. Calibration trials with known target materials indicated 
+
+
+remote viewer "on-line,'* 
+re 
+* 
+Presession: MacArthur Bridge, St. Louis. Postsession: Rock 
+Creek Dam, 
+A« 
+H, E. Puthoff, Ph.D., Radi hysics Laboratory 
+. 48 
+SRI international 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 « TWX: 910-373-1246 © TELEX: 334463 © Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+eee 
+
+
+Approved For Release 2000/08/07 : HERE R Ep 7881001300330001-2 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 7 May 2002 
+
+
+Date 7 May 1982, 0931 (Scan 7) 
+Series DIA 
+a ae ee ee 
+
+
+Session No, 
+
+
+Target No, JS, #34 
+
+
+Remote Viewer #002 
+Interviewer H,. Puthoff 
+Beacon(s) CRV 
+
+
+$e i eenerereneenr—ree 
+
+
+Comments: 1. Continuation of scans begun 1 March 1982. 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3. Calibration trials with known target materials indicated 
+remote viewer "on-line,"* 
+
+
+oK 
+Presession: Moses Power Plant, Niagra Falls; U.N. Bldg., NYC. 
+
+
+Postsession: Rondo I Radar Dish, Palo Alto, CA. 
+
+
+AL 2 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 49 
+
+
+333 Ravenswood Ave. ® Menlo Park, CA 94025 e (415) 326-6200 e TWX: 910-373-1246 ¢ TELEX: 334463 ¢ Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 11 May 2002 
+
+
+Date 11 May 1982, 0905 (Scan 8) 
+Series DIA 
+
+
+Session No, 
+
+
+eee 
+Target No, J.5. #34 
+
+
+ae 
+
+
+Remote. Viewer #002 
+a OU a a 
+
+
+H,. Puthoff 
+—— eee 
+
+
+Beacon(s) CRV 
+a he 
+
+
+Interviewer 
+
+
+Comments: 1, Continuation of scans begun 1 March 1982, 
+
+
+2, Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3, Calibration trials with known target materials indicated 
+remote viewer "on-line," 
+
+
+* 
+Presession: Pahlavi Dam, Iran. Postsession: Pulp Plant, 
+Newfoundland, 
+
+
+Abe 2 
+
+
+H. E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 50 
+
+
+333 Ravenswood Ave. ® Menlo Park, CA 94025 @ (415) 326-6200 e TWX: 910-373-1246 ¢ TELEX: 334463 ¢ Facsimile: (415) 326-5612 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Le ee a RE ee ee EN I eT a Ta a 
+
+
+Approved For Release 2000/08/07 : CECREL OU 
+
+
+SRI/GF-0211 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 18 May 2002 
+
+
+Date 18 May 1982, 0849 (Scan 9) 
+se 
+
+
+DIA 
+a a ee 
+
+
+Series 
+
+
+Session No, 
+et 
+
+
+Target No, JS. #34 
+es a i es ee 
+#002 
+
+
+Remote Viewer 
+Interviewer H, Puthoff 
+
+
+Beacon (s) CRV 
+
+
+Comments: 1. Continuation of scans begun 1 March 1982, 
+
+
+2. Remote viewer and interviewer blind as to target 
+location and target activity of interest, 
+
+
+3. Calibration trials with known target materials 
+indicated remote viewer "on-line." 
+
+
+Presession: Pit 6, Shasta County Dam, CA. Postsession: 
+Terrebonne Bay Oil Wells. 
+
+
+AL R 
+
+
+H, E. Puthoff, Ph.D., Radi hysics Laboratory 
+
+
+SRI international 51 
+
+
+333 Ravenswood Ave. ® Menlo Park, CA 94025 © (415) 326-6200 « TWX: 910-373-1246 © TELEX: 334463 ¢ Facsimile: (415) 326-5512 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+SECRET 
+
+
+SRI/GF-0211 _ ; 
+
+
+CLASSIFIED BY: DT-5A 
+REVIEW ON: 19 May 2002 
+
+
+Date 19 May 1982, 0901 (Scan 10) 
+
+
+Series DIA 
+ees 
+Session No, 
+eee 
+Target No, JS, #34 
+eee 
+
+
+Remote Viewer #002 < 
+—eeeeeeeeeeseseseseNSséSé<é<aO 
+Interviewer H. Puthoff 
+
+
+Beacon(s) CRY 
+eee 
+
+
+Comments: 1, Continuation of scans begun 1 March 1982. 
+
+
+2. Remote viewer and interviewer blind as to target location 
+and target activity of interest, 
+
+
+3. Calibration trials with known target materials indicated 
+remote viewer "on~line,"* 
+
+
+TE 
+
+
+Kk 
+Presession: Puunene Mill, Maui; Pit 7, Shasta County Dam, CA, 
+
+
+Postsession: American Museum of Natural History, NYC; 
+Erie Mining Co, 
+
+
+3.< PR 
+
+
+H, E. Puthoff, Ph.D., Radi 
+
+
+hysics Laboratory 
+
+
+52 
+
+
+SRI international 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, CA 94025 © (415) 326-6200 © TWX: 910-373-1246 ¢ TELEX: 334463 Facsimile: (415) 326-5512 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+
+i ee nee 
+
+
+Approved For Release 2000/08/07 : “"“SECREY 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+NOT RELEASABLE TO 
+FOREIGN NATIONALS 
+
+
+SECRET 
+
+
+‘Approved For Release 2000/08/07 : CIA-RDP96-00788r001300330001-2 
+
+

@@ -1,0 +1,4205 @@
+rns | 
+
+
+Nags cna. 
+
+
+Approved For Release 2000/08/07 : CIA-RIGRERENEEER001300210001-5 
+
+
+Final Report 30 September 1980 
+
+
+ELECTRONIC SYSTEM PERTURBATION 
+TECHNIQUES (U) 
+
+
+By: EDWIN C. MAY BEVERLY S. HUMPHREY G. SCOTT HUBBARD 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME. RESTRICT 
+DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+333 Ravenswood Avenue 
+
+Menlo Park, California 94025 U.S.A. 
+(415) 326-6200 
+
+CABLE: SRI INTL MNP 
+international TWX: 910-373-1246 
+
+
+NOT RELEASABLE TO 
+. ? 
+aproved For Release 2000/08/07 : CIA-RDP96- 8 001300210001-8 
+
+
+at A Mo 
+
+
+“7 i TANNNS 
+
+
+C—Apprdved For Release 2000/08/07 : C 
+
+
+Final Report 
+
+
+TECHNIQUES (U) 
+
+
+SRI Project 8585 
+
+
+Approved by: 
+
+
+ROBERT S. LEONARD, Director 
+Radio Physics Laboratory 
+
+
+DAVID D. ELLIOTT, Executive Director 
+Systems Research and Analysis Division 
+
+
+CLASSIFIED BY: Msg. HODA (DAMI-ISH) 
+dated 7 July 1978 
+REVIEW ON: 7 July 1998 
+
+
+SP Internattione 
+
+
+788R001300210001-5 
+
+
+30 September 1980 
+
+
+Covering the Period 6 June 1979 to 2 August 1980 
+
+
+ELECTRONIC SYSTEM PERTURBATION 
+
+
+By: EDWIN C. MAY BEVERLY S. HUMPHREY G. SCOTT HUBBARD 
+
+
+(Consultant) 
+
+
+SPECIAL ACCESS PROGRAM FOR 
+GRILL FLAME. RESTRICT 
+DISSEMINATION TO ONLY 
+
+INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+Copy No. av 
+
+
+This document consists of 68 pages. 
+
+
+GF-0O BY St o=Ht09 
+
+
+NOT RELEASABLE TO 
+
+
+Spe FOREIGN NATIONALS 
+
+
+o2 £12 
+“7 TSA S\™ 
+
+
+international 
+
+
+ALLL 
+
+
+333 Ravenswood Avenue * Menlo Park, California - U.S.A. 
+(415) 326-6200 - CABLE: SRI INTL MNP - TWX: 910-373-1246 
+
+
+Sved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release (INCLASSI , -00788R001300210001-5 
+UN FIED 
+
+
+CONTENTS (U) 
+
+
+LIST OF ILLUSTRATIONS (U) . . . 6 2 «© se eo 
+LIST OF TABLES (U). .... 6» ; oe ee ee 
+I OBJECTIVE (U). . 2. 2 6 6 ee eo ee eh es 
+II EXECUTIVE SUMMARY (U). . . - «+ «© +» ee @ « 
+III INTRODUCTION (U) ... 1. 2 2+ 2 2 © © we os 
+
+
+IV RANDOM NUMBER GENERATOR SYSTEM (U) . « s . 
+A. Hardware (U). .. «+ «se « «es «© » 
+
+
+1. Random Sources (U) . .. . + « « 
+2. Analysis and Control (U) .... 
+3. Display (U). .. «26 «e+ © © «@ 
+
+
+B. System Testing (U). . 6. «2. 2+ ee «+ 
+
+
+° 
+
+
+Cc. System Isolation and Interference Protection (U). 
+
+
+D. System Certification Testing Results (U). 
+
+
+V EXPERIMENT PROTOCOL (U). . 2. « © » «© «© © « 
+
+
+P Definitions (U) .....e«-+«-«+«e- 
+
+
+é Data-Acquisition Session Description (U). 
+
+
+“i Controls (U). . 1... © «© © © © @© © 
+
+
+A 
+B 
+Cc 
+dD. Test Requirements (U) ...-+ «+ «- 
+E, Records (U) .. + « «© «© + © © © we © ® 
+F. Trial Invalidation Requirements (U) 
+
+G 
+
+
+é General Considerations (U). ..... 
+
+
+VI RESULTS (U). . 2. «© 6+ «© © © © © © wo we ow 
+A. Pilot Phase (U) ... + « «© +» « © # « 
+B. Global Control Runs (U) ....+s.- 
+
+
+Cc. Formal Phase (U). . .. +2 + «© «© © © « 
+
+
+iii 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+28 
+
+
+30 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+UNCLASSIFIED 
+VIL DISCUSSION (WU): &.s60 bee we oe we 6 a we Se eG ee 33 
+Appendix--CHRONOLOGICAL LITERATURE SURVEY CU a hk BAe we Oe Bes al 
+REFERENCES (U). 2 2 1 1 ee ee ew ew we we ee tw tw we 57 
+
+
+iv 
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+a IEE—————— 
+
+
+Approved For Release 2000/08/07 : Sea 
+
+
+ILLUSTRATIONS (U) 
+
+
+1 Block Diagram of Computer-Based RNG System CU). de es 
+
+2 Pulse Processing Sequence (U). ». . « + « «+ © # # © « 
+
+3 Example of a 2-Tailed Sequential Sampling Plot (U)... 
+
+4 Possible Applications for the Remote Perturbation 
+Phenomenon (S) . .. 6 «© « © © © © © © © © © © © © eH eH 
+
+TABLES (U) 
+
+1 RNG Survey Summary (U) . . 2 6 6 ee ee eh ee ee ee et 
+
+2 Timing Intervals (U) . 2. 2 6 6 © 6 ee ee eh ee ees 
+
+3 Pilot Phase Results (U). 2. 1. 1 es e+ se © © © ee ow 
+
+4 Global Control Runs (U). .. 2. 6 © © © © © © © © we eo ow 
+
+
+5 Formal Phase Results (U) . 2... + «© © © © © © @ # we 
+
+
+A-1 RNG Study Survey (U) ....-+ «+ » 
+
+
+Vv 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+5 
+
+
+11 
+13 
+
+
+16 
+
+
+38 
+
+
+Approved For Release 2000/02 Geet P96-00788R001300210001-5 
+
+
+I OBJECTIVE (U) 
+
+
+(S) The objective of this program is to determine the degree to which 
+selected personnel are able to interact, by mental means alone, with sensi- 
+
+
+tive electronic equipment, and to ascertain how this phenomenon might be 
+
+
+utilized for Army-designated applications. 
+
+
+1 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/0 BNE AUERDEI6-00788R001300210001-5 
+
+
+II EXECUTIVE SUMMARY (U) 
+
+
+(U) In this report, we consider the possible production by individuals 
+of physical effects, such as the perturbation of sensitive electronic 
+equipment that appears to be well shielded against, or otherwise inacces- 
+sible to, human influence, The precedent for considering whether sensitive 
+electronic equipment can be influenced as a result of a remote perturbation 
+(RP) phenomenon has been established in the open literature in 48 published 
+papeva tee These reports describe 214 separate experiments, 74 of which 
+
+
+show statistical evidence for an anomalous perturbation--a factor of nearly 
+
+
+seven times chance expectation. 
+
+
+(U) A representative experiment of this type involves three basic 
+
+
+elements: 
+
+
+(1) A source of "true" random electronic output. 
+(2) A statistical analysis technique. 
+(3) An individual who attempts to cause, by mental 
+means alone, a change in the random source's 
+output. 
+(U) Although the data base cited above appears to be quite impressive, 
+a close examination of these studies reveals that they all can be con- 
+sidered incomplete in one or more significant details. For example, 44% 
+of the references report no control tests of any type, and the majority 
+of the studies afford insufficient details about the experimental apparatus 
+
+
+to permit assessment of possible environmental influences. 
+
+
+(S) We believe that the serious implications of RP for science in 
+
+
+general and for military applications in particular necessitated the 
+
+
+Hee en enamel 
+
+
+(U) References are listed at the end of this report. 
+
+
+3 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/02/07. CIA.BDP96-00788R001300210001-5 
+
+
+(S) 
+design and execution of a random number generator (RNG) experiment, 
+which attended to these important factors. A one-year, two-phase program 
+
+
+was initiated to accomplish this objective. 
+
+
+(U) During Phase I a computer-based binary RNG system was constructed 
+from two isolated sources (noise diode and radioactive 6-decay source), 
+an LSI-11 microcomputer, and a video graphics display unit. Pulses from 
+a given random source were used to construct binary sequences, Sequential 
+analysis, a particularly sensitive method of determining whether a given 
+sequence is "random," was applied to this binary output. Finally the 
+results were stored for further analysis and displayed on the video 
+
+
+graphics system, 
+
+
+(U) The results of Phase I are described in detail in May and : 
+Hubbard” , but are summarized briefly here. Both sources were investigated 
+for their sensitivity to changes in physical environment, and those 
+parameters that were found to influence them were either controlled by 
+cut-off circuitry or monitored, The sources were shielded, electrically 
+isolated, and coupled to the computer by optical transmission links. Both 
+the sequential analysis program and the sources were modeled by Monte Carlo 
+techniques and found to be well within expected limitations. The entire 
+RNG system was tested by a series of standard fixed-length statistical 
+tests and found to meet all standard criteria for randomness. In addition, 
+the system was checked using the variable-length sequential analysis 
+procedure, The binary sequences also satisfied the criteria set by that 
+
+
+technique for randomness, 
+
+
+(U) The requirements and protocol for Phase II are detailed in 
+May et a1.5* During this phase we screened 17 volunteers and selected 
+seven of them to participate in the formal portion of the experiment. re 
+We set an a priori criterion that required significant runs from two of 
+
+
+the seven subjects to label the entire effort a success. It was also - 
+
+
+4 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+re 
+
+
+Approved For Release PPR ER a SO PETE BT oe 19002100018 
+
+
+(U) 
+predetermined that over a period of three months each subject would 
+
+
+complete 100 trials. 
+
+
+(U) A trial is defined as a variable-length sequence terminated by 
+the a priori criteria set by sequential analysis. Only two results are 
+possible from a single sequential analysis trial: the binary sequence 
+is distorted (i.e., the probability of finding a one in a given bit 
+position is either greater than 0,52 or less than 0.48), or the sequence 
+is within chance expectation, These two decisions are made to within a 
+confidence level of 95 percent. For a single subject to contribute a 
+significant result to the overall series, he had to produce 16 or more 
+
+
+distorted trials out of his set of 100, 
+
+
+(U) Two types of control trials were taken during the formal portion 
+of Phase II: (1) global trials that usually were generated in sets of 100 
+each at random times throughout the investigation, and (2) local trials 
+that were taken immediately prior to each subject's period of effort. 
+Both types of controls were generated without personnel in the experimental 
+area, The global trials served as a time-independent check on the parent 
+distribution from which the samples were drawn. The local control trials 
+tested the momentary statistical fluctuations immediately before the formal 
+
+
+session, 
+
+
+(U) The results from the study met the preestablished, formal 
+criteria for success: 
+e Two out of the seven subjects produced significant 
+runs. (The possibility that chance fluctuations 
+
+
+alone could produce this result is p = 0,029, where 
+p is the probability.) 
+
+
+® Neither type of control run exhibited significant 
+overall deviations from chance expectation. 
+
+
+5 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release BREE x SS TENE Bao 88 R00 1300210001-5 
+
+
+III INTRODUCTION (U) 
+
+
+(U) Occasionally reports appear of anomalous failures of electronic 
+equipment that seem to be caused by the proximity of certain individuals. 
+Of special interest is a class of phenomena involving perturbation of 
+sensitive equipment isolated from human subjects by distance or shielding. 
+In certain of these instances the generation of such effects appears to 
+
+
+be under volitional control of the subjects involved. 
+
+
+(U) Included among the above are experiments in which a subject 
+attempts to perturb the output of an electronic RNG drived by electronic 
+noise or radioactive decay. This kind of RP experiment has an investigative 
+appeal because it involves no subjective interpretation, i.e., the results 
+
+
+may be expressed in terms of well-understood statistical theory. 
+
+
+(U) The first such experiment of this type was published in 1970 by 
+Helmut Schmidt .* As of December 1979, there have been 47 other papers*~*® 
+published, mostly in the literature on parapsychology. Almost all of these 
+
+
+experiments have two points in common: 
+
+
+¢ A truely random input device. 
+
+® An individual with motivation and intent to have the 
+
+statistics of the random input device differ from chance 
+expectation during designated periods. 
+
+(U) A representative experiment might proceed as follows. A random 
+input device, such as the noise associated with a solid state diode, is 
+used to create a random binary sequence. The accumulated number of ones 
+in the sequence is indicated to the subject by lights connected to the 
+noise source. In a successful experiment the subject is able to enforce 
+an excess number of ones. As in the case of biofeedback research, effects 
+
+
+have been demonstrated even when little is known about the mechanism, 
+
+
+7 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+(U) We have examined the body of literature spanning the ten years 
+from 1970 to 1979. In this survey, we have only considered the random 
+generator experiments published in the three major U.S. parapsychological 
+journals: The Journal of the American Society for Psychical Research, 
+Journal of Parapsychology, and Research in Parapsychology, This survey, 
+which represents the vast majority of the published RNG studies, is 
+detailed in the Appendix and summarized in Table l. Forty-eight papers 
+reported a total of 214 individual experiments, 74 of which claimed 
+statistically significant results” The chance likelihood of such an 
+
+
+-41 
+outcome is approximately 2 X 10 . 
+
+
+(U) This impressive statistic must, however, be evaluated with 
+respect to experimental equipment and protocols, All the studies surveyed 
+could be considered incomplete in at least one of the following four areas: 
+
+(1) No control tests were reported in more than 44 percent 
+
+of the references, Of those that did, most did not 
+
+
+check for temporal stability of the random sources 
+during the course of the experiment, 
+
+
+(2) There were insufficient details about the physics and 
+constructed parameters of the experimental apparatus 
+to assess the possibility of environmental influences. 
+
+
+(3) The raw data was not saved for later and independent 
+analysis in virtually any of the experiments. 
+
+
+(4) None of the experiments reported controlled and 
+limited access to the experimental apparatus, 
+(S) We believe that the serious implications of RP for military 
+applications and for science necessitated the design and execution of an 
+RNG experiment that was more complete with respect to the four points 
+
+
+enumerated above, 
+
+
+~———_ (U) ~~ A two-phase program was initiated to accomplish the objective 
+stated at the outset. Phase I aimed to develop a reliable computer-based, 
+* 
+(U) p = 0.05 for any individual experiment, 
+8 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+rr I EE—— 
+
+
+Approved For Release 2000/08/07 _: SOIIED 
+
+
+UNCLA 
+
+
+Table 1 
+
+
+(U) RNG SURVEY SUMMARY 
+
+
+Number of 
+Numbers of Number of Significant Experiments 
+References Experiments (p = 0,05) 
+
+
+(U) 
+
+noise-driven RNG system and to certify that the binary bit streams produced 
+by the generator met a number of statistical criteria for randomness, This 
+report recapitulates the detailed Phase-I discussion contained in May and 
+Hubbard*® and summarizes the experimental Hogi ay car Lone that address the 
+
+
+| 
+above mentioned four areas. 
+
+
+(U) During Phase II, seventeen personnel were screened to select 
+the seven individuals who participated in the formal portion of this Phase. 
+
+
+The testing procedure and the results are described in detail below. 
+
+
+9 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release UNCLASSINIED 300210001-5 
+
+
+IV RANDOM NUMBER GENERATOR SYSTEM (U) 
+
+
+(U) To annises the objective of this program, we developed a computer- 
+based random number generator. Special efforts were made in two specific 
+areas: First, extensive testing of the true random sources was carried 
+out to study their response to environmental factors. Second, a variety 
+of statistical tests were applied to the complete system to ensure that 
+
+
+the output was truly random under experimental conditions, 
+
+
+A, Hardware (U) 
+
+
+(U) Figure 1 shows the overall hardware configuration, which consisted 
+of three basic elements: (1) an isolated source of random electronic 
+signals, (2) an analysis and control section, and (3) 5 graphics display 
+unit. Following the techniques of learning theory, we used the graphics 
+
+
+display unit to provide visual feedback of information about the current 
+
+
+RANDOM 
+
+
+PLA 
+BOVECE? ANALYSIS + CONTROL oe 
+
+
+COLOR 
+GRAPHICS 
+
+
+16-BIT 
+LSI-11 
+COMPUTER 
+
+
+GRAPHICS 
+TABLET 
+
+
+UNCLASSIFIED 
+
+
+FIGURE 1 (U) BLOCK DIAGRAM OF COMPUTER-BASED RNG SYSTEM 
+
+
+11 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release NECA & yp BF fy 00788R001300210001-5 
+
+
+(U) 
+status of the binary sampling. We hypothesized that in this fashion the 
+
+
+subject might learn to influence the sequence more readily. 
+
+
+1, Random Sources (U) 
+
+
+(U) The random source elements consisted of a commercially 
+available noise diode and a radioactive source with an appropriate radia- 
+
+
+tion detector. 
+
+
+(U) A Texas Instruments MD-20 planar silicon noise diode was 
+chosen for its large noise output (5600 pV//Hz) and its well-described 
+
+
+functional characteristics 5° 95? 
+
+
+147 147 , 
+(U) Promethium ( Pm) was selected as a radioactive source 
+because it is nearly a 100-percent 6 emitter with essentially no competing 
+decay modes. Detection of the electron continuum was accomplished using 
+
+
+a well-understood and reliable ORTEC silicon surface~barrier detector. 
+
+
+(U) Figure 2 shows the process by which a random number was 
+generated from the noise diode source. Random-amplitude 1-MHz sawtooth 
+voltage pulses from the diode, Figure 2(a), were filtered by a bandpass 
+filter, Figure 2(b). At each positive-going zero crossing of the filtered 
+signal a TTL pulse was generated, giving a random digital signal, 
+
+Figure 2(c), Finally, a divide-by-two circuit changed state at the rising 
+edge of each TTL pulse, yielding a binary bit stream, Figure 2(d) with 
+probability of being in the logical one state of one-half, This bit 
+stream was sampled and shifted into an 8-bit shift register at a 1-kHz 
+ular, so that a random 8-bit number might be selected at intervals greater 
+than 8 ms. A completely analogous process occurred with the 6-decay 
+source, The major distinction was that electrons of random energy arrived 
+at a detector where they were converted into electrical signals of random 
+
+
+voltage. A low-level discriminator generated a logic pulse whenever the 
+
+
+12 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+em a LN ire Pe aA acta is atc, Shae acta Tame ae 
+
+
+AONANDAS ONISSADOYd 3SINd (Nn) Zz aHNDIS 
+
+
+QAlsISSVTONN 
+
+
+13 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2Q9Q 70/7 ACG'SA PAYS I99788R001300210001-5 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release NCTA CUTER eR 300210001-5 
+
+
+(U) 
+voltage rose above a threshold corresponding to electron energy of 25 keV. 
+From this point the signal processing was the same as described above for 
+
+
+Figure 2(c). 
+
+
+2, Analysis and Control (U) 
+
+
+(U) The analysis and control portion of the system consisted 
+of an LSI-11 microcomputer. The LSI-11 was programmed to sample one of the 
+noise sources at a specified rate to obtain its random bits. A sequence 
+of such samples was tested by the LSI-11 for an excess or lack of ones on 
+
+
+a continuous basis, using a sequential analysis statistical technique .°7,5° 
+
+
+(U) Sequential analysis is an efficient technique for determi ning 
+whether the output of a binary random generator contains a distribution 
+of zeroes and ones as expected, or is distorted. The principal advantage 
+of this technique as compared with other methods is that, on the average, 
+fewer bits per final decision are required (roughly 50 percent ease for 
+
+
+an equivalent degree of statistical reliability. 
+
+
+(U) Before we are able to detect whether the random output of 
+a binary generator has been distorted, we mist a priori define criteria 
+as to how much distortion we require, and what statistical risks we are 
+willing to accept for making an incorrect decision. To meet these criteria, 
+sequential analysis demands the specification of four parameters to de- 
+termine to which binomial distribution a particular data sequence belongs. 
+The four parameters are: (1) Po? the fraction of ones expected in an 
+undistorted distribution; (2) Py» a threshold for the fraction of ones 
+assigned to define distorted distributions; (3) a, the assigned Bccoprebic 
+probability for concluding that the random source is perturbed CP, dis- 
+tributor or greater) when it is not (Type I error); (4) and 8, the 
+
+
+assigned acceptable probability for concluding that the random source is 
+
+
+14 
+
+
+UNCLASSIFIED 
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+aera er a aS EDS 
+
+
+Approved For Release VELA SS FPP 00788R001300210001-5 
+
+
+(U) 
+
+unperturbed ®, distribution) when it is (Type II error). With the 
+parameters thus specified, the sequential sampling procedure provides a 
+decision graph as shown in Figure 3. In this figure, the y axis displays 
+the accumulated number of excess ones (number of ones less expected number 
+of ones) as a function of sample number (x axis). Using Figure 3, a 
+decision can be made after the nth sample by applying the following 
+
+
+algorithm: 
+
+
+(1) Sample the binary sequence. 
+(2) Sum the excess number of ones to date. 
+
+
+(3) If the excess sum of ones lies above Line A but not 
+in Region 1, or below Line B but not in Region 2, 
+do Step 1. 
+
+
+(4) If the sum lies in Region 1, stop the sampling and 
+conclude that the binary sequence is derived from a 
+distorted distribution with fraction of ones greater 
+than Pi: 
+
+
+(5) If the sum lies in Region 2, stop the sampling and 
+conclude that the sequence belongs to a distorted 
+distribution with fraction of ones less than 1 - P.: 
+
+
+(6) If the sum attempts to cross both Line A and Line B, 
+stop the sampling and conclude that the sequence 
+belongs to the undistorted distribution, Po: 
+
+
+The detailed analysis and mathematical. formulations of sequential analysis 
+
+
+can be found in May and Hubbard .*® 
+
+
+(U) For the experiment described in this report, Po? Py? a, 
+
+
+and § were fixed at 0.50, 0.52, 0.05, and 0.05, respectively. 
+
+
+3. Display (U) 
+
+
+(U) The computer-driven graphics display system consisted of 
+two independent 19-in. color video monitors, a Grinnell display controller, 
+
+
+and a Summagraphics 20-by-20-in. graphics tablet. Using these components, 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release ONCLASSIFIED eR 300210001-5 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release PRY CREA SEE P EB 007 28R Om 300210001-5 
+
+
+(U) 
+data from sequential sampling statistics, pulse height analysis, or any 
+
+
+other output could be displayed. 
+
+
+B. System Testing (U) 
+
+
+(U) Noise diodes for use in this system were extensively tested for 
+response to changes in temperature (-40 to +40 C), leakage current (40 pA 
+to 200 pA)., and other environmental factors such as a 6000-gauss de 
+magnetic field and low-intensity radioactive sources Css O06: tT pm) 
+We found that over the range examined for each factor the spectral noise 
+density was flat within +1 dB for the bandpass of the filter (1 kHz to 
+200 kHz). Furthermore, “he filtered noise followed a Gaussian distribution 
+under all conditions tested as long as the leakage current was 80 to 120 pA, 
+We confirmed the manufacturer's specification for the dependency of the 
+
+
+noise power-spectrum on temperature, This change was insignificant for 
+
+
+variations of +5 C near room temperature. 
+
+
+(U) The random emission of electrons from the 8 decay of Saige is 
+independent of known external influences. The sensitive element, the 
+surface barrier detector, was tested for changes in leakage current as a 
+function of temperature. At the maximum temperature tested (~40 C) the 
+noise contribution was caused by the increased current leakage and was 
+
+
+eliminated completely with an appropriate low-level discriminator. 
+
+
+(U) We assumed that the TTL logic circuitry of the major system 
+elements (LSI-11, Grinnell controller, and the like) would continue to 
+operate as specified by the vendor, so that extensive environmental testing 
+of these componente was not done. Any possible failures of these components 
+would have been observed in the extensive control investigations described 
+
+
+be Low. 
+
+
+17 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+UNCLASSIFIED 
+
+
+Cc, System Isolation and Interference Protection (U) 
+ee ee eel ion 
+
+
+(U) To prevent spurious signals from known external influences 
+being incorporated into the random source output, numerous precautions 7 
+were taken, Each random source was encased in a sealed 0.125-in. thick 
+soft iron box with radio frequency shielding to provide protection against 
+mechanical, magnetic, or rf intrusion, Batteries supplied the electrical 
+power to eliminate ac-line transients and 60-Hz noise. All data output 
+to the LSI-11 occurred via optical transmission links to ensure complete 
+electrical isolation, In addition, the noise diode was monitored con- 
+
+
+tinuously with a precision of +0.2 C to determine any temperature changes. 
+
+
+(U) Fail-safe circuits were included in both random sources so that 
+the units would shut off automatically and require manual reset under the 
+following circumstances: 
+* The battery supply dropped below a critical point ‘ 
+(12 V). 
+
+
+e The electron detector leakage current rose above an 
+acceptable level (2,0 pA). 
+
+
+* The diode current deviated from a narrowly defined 
+current window. 
+
+
+D, System Certification Testing Results (U) 
+oe Ee CEES Results: 
+
+
+(U) A variety of fixed-length statistical tests were applied to 
+500,000 sample control runs of random numbers generated by the system 
+described above, In sddi tion, approximately 3 xX 10° samples from each 
+source were subjected to sequential analysis. No unexpected deviations 
+from chance expectation were observed in any of these control tests, 
+indicating that the system performed in accordance with design. Complete 
+details of the hardware, computer software, testing procedures, and 
+
+
+numerical results can be found in May and Hubbard .7° 
+
+
+18 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+ee ———— 
+
+
+Approved For Release 2000/DR a eeReerD PI6-00788R001300210001-5 
+
+
+V EXPERIMENT PROTOCOL (U) 
+
+
+(S) A complete experiment protocol was prepared and submitted to the 
+
+
+client organization in advance of the formal data-acquisition portion of 
+
+
+Phase II, 
+
+
+A. Definitions (U) 
+
+
+(U) 
+
+
+Much of that protocol is repeated here. 
+
+
+We began the discussion of the Phase II Formal Test Protocol by 
+
+
+introducing a set of definitions: 
+
+
+TARGET BIT 
+
+
+SAMPLE 
+
+
+TRIAL 
+
+
+RUN 
+
+
+CONTROL TRIAL 
+
+
+SEQUENTIAL 
+ANALYSIS 
+
+
+CHANCE 
+DISTRIBUTION 
+
+
+DISTORTED 
+DISTRIBUTIONS 
+
+
+The determined single bit from one of the random 
+sources to be used in the analysis. 
+
+
+The acquisition of eight binary bits from the 
+RNG of which the fifth bit is defined as the 
+target bit. (The additional bits are to provide 
+a local temporal history of the bit stream in 
+which the target bit is imbedded.) 
+
+
+A number of samples comprising a sequence that 
+meet a set of statistical conditions that 
+terminate the sequence. 
+
+
+100 trials 
+
+
+A trial carried out automatically by the computer 
+under the same conditions as the data acquisition 
+session, but with no one present in the session 
+area. 
+
+
+The statistical procedure that provides a decision 
+algorithm for terminating the trial. 
+
+
+A binomial distribution of binary digits (0, 1) 
+with a mean probability of 0.05 for observing a 
+one as the target bit. 
+
+
+Binomial distributions with means greater than or 
+equal to 0,52, or less than or equal to 0.48 
+(a two-tailed test). 
+
+
+19 
+
+
+Store 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release IRV CECA SO ET EB 007 88R001300210001-5 
+
+
+(U) Table 2 shows the timing intervals for a sample, trial, and 
+
+
+run, It is important to note, that no bits in the binary sequence were 
+
+
+lost for a single trial, and that data for each trial was a continuous 
+
+
+record of bits collected in 8=—bit samples, 
+
+
+Thus, the average trial length 
+
+
+consisting of 3300 samples was approximately 25 s. All bits from the 
+
+
+source that were generated between trials were lost. 
+
+
+Table 2 
+
+
+(U) TIMING INTERVALS 
+
+
+Timing Interval 
+
+
+“8 months 
+
+
+B, Data-Acquisition Session Description (U) 
+ee PE LON 
+(U) <A data-acquisition session was divided into three sections: 
+(1) Presession 
+(2) Session 
+(3) Postsession, 
+(U) 
+
+
+During the presession before the subject's arrival, the hardware 
+
+
+was checked for proper functioning, and the set of variables characterizing 
+
+
+the session (e.g., time of day, noise source) were entered into the system 
+
+
+program, 
+
+
+The variables chosen were those specifically determined for that 
+
+
+participant during the pilot period. In addition, no less than five control 
+
+
+trials were executed with no one present in the session area. These con- 
+
+
+trol trials were collected under the Same environmental conditions as the 
+
+
+20 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+ee ————— 
+
+
+Approved For Release BPR CYA SHTR PETS 00788R001300210001-5 
+
+
+(U) 
+
+session trials, except for the absence of putative human intervention. 
+
+Once the control session was initiated, an automatic trial sequencer cycled 
+through a sequence of trials, spaced apart by random time intervals 
+T,O<7T< 2058s, This random spacing insured that the control trials 
+
+
+simulated human interaction with the system as closely as possible, 
+
+
+(U) To begin a session, the subject and one monitor entered the 
+session room, The subject took his place in front of the viewing monitor 
+and controlled the start time of the individual trials by means of a start 
+button on a cursor associated with the graphics tablet. This constituted 
+the only form of physical interaction of the subject with the apparatus. 
+The subject's task was to cause mentally either an excess number of ones 
+or an excess number of zeroes in the binary sequence. The session lasted 
+no longer than 30 min. During the session the subject received visual 
+feedback for all trials, and auditory feedback (a bell) for trials that 
+
+
+sequential analysis indicated belonged to one of the distorted distributions, 
+
+
+(U) The postsession consisted of a debriefing in which the subject 
+discussed his experience, At the conclusion of the debriefing, there was 
+an additional period during which no less than five more trials were con- 
+ducted with no one present in the session area. Such postsession trials 
+(not to be confused with control trials) were conducted specifically to 
+investigate the claim that there might be a linger effect associated with 
+putative RP interaction. This linger effect might be compared to the well- 
+understood physics concept of relaxation time. Postsession trials were 
+
+
+recorded separately for later analysis. 
+
+
+(U) To allow for a possible linger effect, a minimum of one-hour 
+
+
+separation between subjects was generally enforced. 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release CO NCECASS PP EB ro 28R 300210001-5 
+
+
+Cc, Controls (U) 
+
+
+(U) Aside from the presession control trials, a total of 1000 addi- 
+tional control trials were taken in sets of 100 or more for each of the . 
+seven participants, These trials were collected at random times on a 24- 
+hour basis to establish the empirical sampling distribution throughout | 
+
+
+the formal testing period. 
+
+
+D. Test Requirements (U) 
+ee ee 
+
+
+(U) The test requirements for a single trial were determined com- 
+pletely by the formulation of the sequential analysis theory. In that 
+analysis a set of decision boundaries completely determines (within the 
+bounds of the Type I and Type II errors specified) from which of the 
+distributions (chance or distorted) a given sequence belongs. Details 
+of this analysis are given in May and Hubbard ,*° For a single trial to 
+be successful, the sequence had to belong to a distorted distribution 
+
+_ corresponding either to a mean 20.52 or < 0.48, with a single-tailed 
+confidence factor of 95 percent, The overall chance likelihood for making 
+a decision in favor of a two-tailed distorted distribution on any given 
+
+
+trial was 0.1. 
+
+
+(U) Each subject was required to contribute 100 valid Eades Of 
+these 100 trials, the number of sequences designated by the sequential 
+analysis as being distorted were tallied by the computer. The probability 
+of obtaining 16 successful events in 100 trials is less than 0,039 (fifteen 
+is greater than p = 0.05), The subject therefore had to produce 16 or 
+more successful formal trials out of a total of 100 to have completed a 
+Significant run, As during the pilot period, the subject could choose to 
+
+
+exercise a pass option before any given trial, in which case it was labeled 
+——— 
+
+
+* 
+(U) See Part F below for definition of valid/invalid trials. 
+
+
+22 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Ee 
+
+
+Approved For Release CCA SOE EB 2800 18002 1000-5 
+
+
+(U) 
+as such in the computer record. Regardless of the outcome, a pass did not 
+
+
+contribute to the formal series of 100 trials. 
+
+
+(U) For the entire study to have significance, two or more of the 
+seven subjects chosen for the formal study were required to complete 
+significant runs, The probability of obtaining two significant runs out 
+of seven attempts by chance is less than 0.028, The probability of a 
+
+
+single significant run is = 0,039. 
+
+
+E, Records (U) 
+
+
+(U) Two types of data recording were utilized during the formal test 
+
+
+period: 
+
+
+(1) Recording of summary statistical information. 
+
+
+(2) Bit-by-bit recording of raw data. 
+
+
+For all trials (passes, presession and postsession controls, and the 
+1000 additional control trials for each participant), a summary statistic 
+
+
+was recorded on a single floppy disk. This data included the following: 
+
+
+e Date 
+
+e Time of day (to nearest second) 
+
+e Temperature of diode (if used) 
+
+e Source 
+
+e Pass indicator 
+
+e Accumulated number of trials 
+
+e Accumulated number of successful trials 
+e Number of samples in the given trial 
+
+* Number of ones in that trial 
+
+
+® Sequential analysis decision. 
+
+
+23 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 : CIA- 
+
+
+GNCLASSIF 
+
+
+DP96-00788R001300210001-5 
+
+
+mi 
+0 
+
+
+(U) For all trials except the extra 1000 control trials, raw data . 
+
+
+was recorded on a second floppy disk. These included: 
+
+
+* All the data for each trial from the summary disk 
+(redundancy check), 
+
+
+« All parameters of the sequential analysis used to 
+analyze the trial in question. 
+
+
+* Two bytes of data for each sample, one byte for the 
+random 8-bits acquired for that sample and one byte 
+of count-rate information for secondary analysis 
+(i.e., B-decay rate or the number of voltage zero 
+crossings from the noise diode), 
+
+
+* Target bit position, 
+
+
+F, Trial Invalidation Requirements (U) 
+ee Ne emenvus: 
+
+
+(U) The two random sources were equipped with appropriate hardware 
+failsafe circuitry. Nonetheless, to account for possible hardware/software ’ 
+failures, we designated, in advance, the following certain conditions 
+under which data would be rejected as invalid, i.e., not counted as part 
+
+
+of the formal series: 
+
+
+* If the battery power supply dropped below a preset level, 
+or various other hardware parameters exceeded their 
+prespecified operating ranges, the source output was 
+inhibited. The system program detected this state and 
+by software forced a "pass" condition for that trial, 
+
+The trial just prior to system "shut down" was labeled 
+"invalid" regardless of its particular statistic. 
+
+
+e As a further cross-check against possible source hardware 
+difficulty, a trial was labeled "invalid" if the raw data 
+contained five contiguous samples of identical data bytes. 
+The probability of this occurring by chance alone is less 
+than one part in 102 | Because there was no prior evidence 
+that such large-scale effects occur in RNG systems, we 
+concluded that such a sequence of data bytes would most 
+likely have resulted from momentary hardware failure, 
+
+
+24 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+ee  ——————— 
+
+
+Approved For Release 2000/0R/RERIRSRDP96-00788R001300210001-5 
+
+
+G. General Considerations (U) . 
+
+
+(S) At no time did the subject have access to the generating hardware, 
+nor was he left unattended in the session area, As a closed, classified 
+
+
+area, it is secured by combination and 4-state cipher lock, 
+
+
+(S) The guidelines set forth in May et al®* with regard to human 
+
+
+experimentation were in effect during the course of the experiment. 
+
+
+25 
+
+
+SECREF 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release CP RV CEPA: SS BPE 00788R001 300210001-5 
+
+
+VI RESULTS (U) 
+
+
+A. Pilot Phase (U) 
+
+
+(U) Seventeen SRI International employees were chosen to take part 
+in the pilot phase of this program. They were selected purely upon their 
+own expressed interest in participating in such a progran, rather than on 
+any previous RP experience. During this phase, although the sample rate 
+was fixed at 125 s each subject was allowed to select his favorite time 
+of day, his preferred experimenter, the source which seemed to "work" best 
+
+
+for him, and the number of trials he would do at a single sitting. 
+
+
+(U) Two general experimental parameters emerged from the pilot phase. 
+First, it became rapidly apparent to the experimenters that an arbitrary 
+limit of five trials/session seemed optimal. If the subject continued 
+much beyond this limit, he became bored with the task and began to initiate 
+
+
+each successive trial in a "mechanical" or rote fashion. 
+
+
+(U) Secondly, we felt that more interesting feedback displays might 
+only serve to divert the subject's attention from the RP task; therefore, 
+we decided not to design alternatives to the display of the sequential 
+sampling decision lines, Neither of these two viewpoints were based on 
+sufficient data to be statistically significant, but the pilot success rate 
+of a number of subjects indicated that these conditions should be included 
+
+
+in the formal portion of Phase II. 
+
+
+(U) Because the participants contributed varying numbers of trials, 
+our selection criteria for the formal phase included not only the scoring 
+rate, but also the subject's interest and availability for a three-month 
+period. Table 3 shows the pilot results for each of the seven subjects 
+
+
+who were finally chosen for the formal experiment, and an asterisk indicates 
+
+
+27 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release UNeCLA COED ee 
+
+
+Table 3 
+
+
+(U) PILOT PHASE RESULTS 
+
+
++ 
+subject 
+
+
+‘ 
+(U) Independently significant, 
+
+
+t 
+(U) Probability of a single success of 0.1. 
+
+
+(U) 
+
+those who were scoring at a significant rate. The combined score for all 
+subjects using the diode source approaches Significance (49 successes for 
+388 trials, p = 0.054); the total for the f-decay source is significant 
+
+
+-3 
+(27 successes for 159 trials, p $ 4.4 x 10°), 
+
+
+B,. Global Control Runs (U) 
+
+
+(U) Global control runs were long sessions of trials generated without 
+intentional influence on the apparatus in the absence of all personnel 
+from the experimental environment. The sessions, which consisted of 
+multiples of 100 trials each, were taken at all times of the day throughout 
+the course of the formal experiment and were designed to monitor the long- + 
+
+
+term statistical behavior of the random sources. Such long runs average 
+
+
+28 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+eS Sas SSS 
+
+
+Approved For Release PRUE A SSB PE 007 88R001300210001 5 
+
+
+(U) 
+over small local deviations and give an accurate measure of the ideal 
+
+
+distribution from which the samples are taken (binomial in this case). 
+
+
+(U) The protocol required 1000 trials for each subject. The results 
+of these controls are shown in Table 4 and were analyzed in runs of 100 
+
+
+trials. 
+
+
+(U) The general expression for the expected number of successful runs 
+
+
+is: 
+
+
+where Np is the number of runs and P,, is the probability of a single 
+
+
+successful run, 
+
+
+(U) The probability of obtaining five or fewer successful trials 
+is S 0.024 (six is not significant). Thus, for this case N, = 70, 
+P., = 0,024 and My = 1.7. The asterisks in Table 4 indicate those runs 
+with significantly too few successes: The chance probability of this 
+
+
+occurring is p = 0.027. 
+
+
+(U) Similarly, the probability of obtaining 16 or more successful 
+trials is < 0,040 (15 is not significant). Therefore Ne = 70, p = 0.040, 
+and N, = 2.8, The daggers in Table 4 indicate those runs with 16 or more 
+successful trials: the expected number is three and two were observed 
+
+
+(not significant). 
+
+
+(U) In the overall, two-tailed case five runs are expected to show 
+some significant deviation, and seven were observed. This result is not 
+significant and confirms that the long-term parent distribution was 
+
+
+binomial. 
+
+
+29 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Table 4 
+
+
+(U) GLOBAL CONTROL RUNS 
+
+
+* 
+(U) Significantly too few successes. 
+
+
+(U) Significantly too many successes. 
+
+
+Cc. Formal Phase (U) 
+
+
+(U) Each of the seven subjects chosen for the formal phase contributed 
+100 trials over a 3-month period. Table 5 shows the results of the formal 
+
+
+experiment as well as for the local controls and post-session trials, 
+
+
+(U) None of the local control sets before each session were signifi- 
+cant for any of the subjects. This indicates that the sources were pro- 
+ducing bit streams consistent with the binomial distribution immediately 
+
+
+prior to the subject's period of effort, 
+
+
+30 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+ren 
+
+
+Approved For Release F0Q( ORK SSH ERPPF-00788R001 300210001-5 
+
+
+Table 5 
+
+
+(U) FORMAL PHASE RESULTS 
+
+
+Formal Post- 
+Subject Controls Experiment session 
+* 
+
+
+8/100 
+
+
+5/100 
+
+
+10/105 9/100 
+
+
+12/105 
+
+
+10/105 
+
+
+7/85 7/75 
+
+
+8/105 8/105 
+
+
+9/95 9/105 
+
+
+9/80 
+
+
+5/80 
+
+
+* 
+(U) Independently significant, 
+
+
+(U) A significantly small number of successes was obtained in one 
+postsession run for Subject 085, The remaining postsession runs were 
+
+
+within chance expectation. 
+
+
+(U) Subjects 085, 146, 346, and 531 used the radioactive source, 
+Subjects 130, 758, and 827 preferred the noise diode. The formal phase 
+results (Table 5) show that Subjects 531 and 758 produced 17 and 16 
+successes out of 100 trials, respectively. The odds that chance deviations 
+alone produced this result are greater than 47:1 for 17 successes and 
+greater than 25:1 for 16 (p < 0,021 and * 0.039, respectively). 
+
+(U) The formal requirement, as stated in May et a was: 
+
+"for the entire study to be significant, two or more of the 
+
+seven participants chosen for the formal study must contribute 
+
+
+significant 100 trial sets (i.e., sets of 16 or more successful 
+trials).">* 
+
+
+31 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release ONCE : CIA-RDP96-00788R001300210001-5 
+A 
+
+
+IFIED 
+
+
+This requirement has been satisfied. The probability that two or more 
+
+
+subjects would produce significant results by chance fluctuations alone 
+is = 0,029, 
+
+
+32 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Se SSS SSS SSS nSSSsssssnssses> 
+
+
+Approved For Release or eee ora ansec 
+
+
+VII DISCUSSION (U) 
+
+
+(U) The first part of the objective of this program was to determine 
+the degree to which certain selected personnel are able to interact, by 
+mental means alone, with sensitive electronic equipment. To assess the 
+statistical results quoted above properly, we must comment further on the 
+survey results discussed in Section III. One criticism that is levied 
+frequently against such research is the suggestion that the experimenters 
+might only report the good results and ignore the unsuccessful results. 
+
+Let us suppose, for example, that for every successful experiment reported 
+there were ten other experiments that were both unreported and unsuccessful. 
+If, then, we interpret the survey results in accordance with this hypothesis, 
+the odds are greater than 2500:1 against the chance that the expanded data 
+base would have so many successful experiments. If we consider the com- 
+plexity and time constraints of the various experiments, it seems unlikely 
+
+
+that selective reporting can account for the survey results. 
+
+
+(S) The results might possibly be accounted for by subtle, yet quite 
+ordinary influences, As mentioned in Section II, we noticed four major 
+areas in which the survey was incomplete, which prevented us from properly 
+assessing these influences. The possibility of such influence was one of 
+the principle reasons for repeating the experiment. In our experiment we 
+attended to the insufficiencies as follows: 
+
+¢ As reported in May and Hubbard*” we performed detailed 
+
+analyses of the physics associated with the random 
+sources and determined their particular sensitivities 
+to environmental parameters. We noted that the diode 
+was mildly sensitive to temperature, and it was 
+monitored throughout the experiment. (There were no 
+
+
+significant correlations of small temperature fluc- 
+tuations with statistical successes). A quantum 
+
+
+33 
+
+
+oo 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 20001 ET ee BOP 96-00788R001300210001-5 
+
+
+(Ss) 
+
+
+mechanical model of the diode was developed and found 
+to match direct measurement to within 1 percent error, 
+This model enabled us, by Monte Carlo methods, to ~ 
+simulate temperature fluctuations and assess their 
+influence upon the statistical output. We found that 
+temperature changes of +20.0 C did not effect the 
+statistical, single bit probability of the binary 
+sequence, which was the expected effect of the 200-kHz 
+bandpass filtering of the diode output. Likewise, 
+large temperature changes in the radioactive source 
+would have added electronic noise to the electron 
+signal, but would not have affected the single bit 
+probability. Considering the isolation precautions 
+and the extensive random source testing described in 
+May and Hubbard, ® we concluded that the sources were 
+stable against usual and in some cases (magnetic 
+fields, for example), large environmental changes, 
+
+
+* We monitored the output from the sources with global 
+and local control trials throughout the course of the 
+3~month experiment. Because no long=- or short-term . 
+statistical changes were observed, we concluded that 
+both sources were stable with time, 
+
+
+* We saved a complete record of the sample~by-sample 
+raw data for both the formal experiment effort as well 
+as for the local control trials. These data were 
+archived with the client organization. 
+
+
+« We conducted the entire experiment in a classified 
+
+vault: at no time did the subjects have unsupervised 
+access to the room, 
+
+(U) The experiment described in this report is more complete with the 
+addition of parameters described above. We have enumerated the individual 
+results for local control, formal, and postsession runs in the previous 
+section, Although the combined results for each of these three categories 
+cannot be reported formally in terms of the protocol ,°* they merit some 
+
+
+discussion, nonetheless. 
+
+
+(U) The combined result for the local control runs (63 successes for | 
+
+
+675 trials) is not significant, whereas the total across all subjects for 
+
+
+34 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release EPREE TA SS TET BR 220 19002 10001-5 
+
+
+(U) 
+
+the formal experiment is, Five of the seven subjects produced runs above 
+chance expectation (ten successes), which contributed to the overall formal 
+score of 87 successes out of 700 trials (p = 0,021). The odds that such 
+
+a deviation would occur by chance alone are greater than 47:1. Note that 
+none of the formal trials were invalidated under the guidelines of the 
+
+
+protocol, 
+
+
+(U) The overall total for the postsession runs is significantly too 
+low (53 successes for 670 trials, p = 0.028), In the protocol we noted 
+that the postsession trials were used as a check on the claim of a linger 
+effect: it has been noted in past experiments that after a Significant 
+deviation was observed during a subject's effort period, postsession trials 
+taken just after his effort tended to deviate Significantly as well. 
+Usually, these trials would "decay" back to the expected value in a short 
+period of time. We see no evidence of such a correlation in our data, 
+but we note here the significantly low overall result for the sake of 
+
+
+completeness, 
+
+
+~ (U) We conclude that we have observed an anomalous and, as yet, 
+unexplained effect upon an electronic system, which cannot be accounted 
+for easily by simple engineering considerations because 
+* The magnitude of our results is commensurate with 
+previous reported studies, 
+* Precautions and controls Significantly exceeded any 
+former experiments, 
+“ (U) If we assume, then, that we have verified our initial hypothesis 
+that an anomalous RP phenomenon exists, we must then examine the possible 
+
+
+mechanisms for this effect. 
+
+
+(U) The first such potential mechanism, and that which is frequently 
+
+
+-wentioned in the data base, is some form of remote perturbation--that is, 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+UNCLASSIFIED 
+
+
+(U) 
+a physical change in a system that occurs without a subject's physical 
+intervention. In this model, a subject through his volutional control * 
+literally "forces" a random source to change its behavior. Although this 
+kind of RP interaction has been reported variously by 5000 years of human 
+culture, it has appeared to be at odds with currently accepted ideas of 
+physics. However, in a recent paper, Y. Aharonov and M. Verdi describe 
+that under specific conditions, 
+
+"| if one checks by continuous observation if a given 
+
+quantum system evolves from some initial state, to some 
+
+other final state, along a specific trajectory in Hilbert 
+
+space, the result is always positive, whether or not the 
+
+system would have done so on its own accord. Pe. 
+Aharonov's and Verdi's reference to "continuous observation” is a critical 
+point in the paper. They note that to enforce a change of state by con- 
+tinuous observation, the time between successive measurements is many 
+orders of magnitude smaller than is presently possible for real measuring 
+devices, Furthermore, it is a long way from a highly speculative con- 
+sideration about the nature of a quantum system to a physical explanation 
+for a given experiment, We are not claiming that remote perturbation is 
+the correct or only mechanism for what we have observed in this experiment, 
+put rather that it may have some merit in terms of developing theories in 
+
+
+physics. 
+
+
+(U) A second possible mechanism, which was mentioned in Schmidt? 
+entails some form of psychoenergetic data selection (PDS). In this mode 
+of operation, the subject scans the unperturbed binary sequence ahead in 
+time and selects the proper time. to initiate the trial. This strategy 
+enables him to take advantage of an unperturbed, yet significantly 
+deviant subsequence and achieve a success for that trial. At first 
+
+
+thought, this idea also seems inconsistent with current thinking in 
+
+
+36 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+emma ne see 
+
+
+Approved For Release HN CrA SER yor esR0u1s00219001-5 
+
+
+(U) 
+physics because it involves obtaining information about a future state of 
+a random system with virtually an infinite number of possible future 
+
+
+states available. 
+
+
+(U) Many physicists have speculated upon the time-reversed information 
+flow for quantum systems, but the most detailed discussion has been 
+presented by O. Costa de Beauregard’ © 55” , He shows, by using strict 
+covariant formalism, that advanced probability waves can carry information 
+from some future state of a system backward in time to the present. 
+
+
+De Beauregard concludes: 
+
+
+-». What would the phenomenology of advanced waves, decreasing 
+probability, blind statistical retrodiction, and information as 
+organizing power, look like? Exactly to what parapsychologists 
+call precognition and/or psychokinesis, Logically these 
+phenomena should show up, no less than thermodynamical pro- 
+gressing fluctuations--which indeed they are,"©” * 
+
+Within the physics community the concept of gaining information from 
+
+future events may not be inconsistent with current ideas of quantum physics. 
+
+Even if such physics speculations of de Beauregard should prove to be true, 
+
+there are many unanswered questions: how does the subject "receive" such 
+
+information and in what manner does this information reach the subject's 
+conscious awareness? We must emphasize here that de Beauregard's hypothesis 
+should not be regarded as proof of mechanism, but only as interesting 
+
+
+speculation. 
+
+
+(U) In our experiment, it was premature to attempt to determine what 
+mechanism was involved, The first part of the objective simply entailed 
+the verification of the existence of the phenomenon under nearly ideal 
+
+
+conditions, Since this objective was met, future work in the area should 
+
+
+(U) The emphasis is de Beauregard's. 
+
+
+37 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+. 
+
+
+Approved For Release 2000/08/07: -RDP96-00788R001300210001-5 
+
+
+(U) 
+
+
+focus attention in differentiating between these two possible mechanisms 
+and in searching for others, 
+
+Ld og) The second part of the program objective was to determine how ~ 
+the RP phenomenon might be utilized for Army-designated applications. A 
+particular application potential depends on the type of RP mechanism, 
+and the degree to which Army personnel can be trained to use that mechanism, 
+Figure 4 shows a number of possible application areas that might be con- 
+
+
+sidered under each of the two main hypotheses described above. 
+
+
+RNG EFFECT 
+
+
+PSYCHOENERGETIC 
+DATA SELECTION 
+
+
+REMOTE 
+PERTURBATION 
+
+
+OTHER SYSTEMS 
+Cs 
+
+
+WEAPONS 
+FIRE 
+CONTROL 
+
+
+WAR GAMES 
+(MONTE CARLO 
+SIMULATION) 
+
+
+RV 
+UIDANCE 
+pope INTRUSION 
+DETECTION 
+
+
+SECRET 
+FIGURE 4 (S) RP APPLICATION POTENTIAL 
+
+
+38 
+
+
+SECREF 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/0807 RlfseP 96 -00788R001300210001-5 
+
+
+(S) If the phenomenon is mediated by PDS then any situation that 
+entails human-initiated events in random or pseudo-random environments 
+
+
+can be considered. We have shown two such possibilities in Figure 4. 
+
+
+~ (S) In those situations that involve weapons fire control, an 
+individual is responsible for either the actual firing of the weapon, — 
+for the initialization of an automatic fire-control sequence, Trained 
+personnel could significantly increase the kill probability of the par- 
+ticular weapons system by "psychoenergetically selecting” the optimum 
+time to initiate the fire sequence. A PDS ability would be particularly 
+
+
+valuable for antiaircraft personnel in a combat situation. 
+
+
+(S) Because PDS does not veqdire some form of physical interaction, 
+it is possible to consider pseudo-random environments, as well. Thus, 
+as shown in Figure 4, any Monte Carlo simulation situation such as war 
+games, must be considered as susceptible to PDS. For example, in assessing 
+strategies by war game techniques, pseudorandom algorithms are consulted 
+to assess weapons performance. If PDS is the mechanism that predominates 
+in RP interactions, it is possible that an operator might bias the re- 
+sults toward a favored strategy by PDS, leading to a misassessment of its 
+
+
+effectiveness. 
+
+
+(S) If the phenomenon is mediated by genuine remote perturbation 
+interactions, and systems other than electrical random number generators 
+can be influenced, a different category of applications must be considered. 
+
+
+Two such applications are indicated in Figure 4. 
+
+
+(S) First, there are subcomponents to guidance systems that might 
+be particularly sensitive to RP. For example, the electromechanical 
+restoring circuitry contains elements that have appeared to be influenced 
+by RP in quasi-laboratory experiments, If these results were confirmed 
+in controlled laboratory studies, even weak RP, judicially applied, could 
+
+
+alter a trajectory to a very significant degree. 
+
+
+39 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release eee eee enuercoure 
+
+
+(S) Finally in Figure 4, we consider a remote viewing (RV) intrusion 
+
+
+8,59 
+25° has 
+
+
+detection system. Evidence in the parapsychology literature” 
+indicated that RV phenomena are accompanied by associative RP effects, 
+
+In those experiments, assumed sensitive "detectors" (e.g, a strain gauge? ® ) 
+appear to change concomitantly with RV efforts, In the experiment 
+
+described in this report, it was the subjective assessment of the three 
+best-scoring subjects, that at least part of the effect they were observing, 
+was caused by their ability to focus their attention on the actual generating 
+hardware, Thus, we can conceive of a multifaceted intrusion "detector" 
+consisting of a variety of electronic components. Some or all of those 
+components would have demonstrated susceptibility to RP in laboratory 
+situations. Considering the current ability of our own remote viewers 
+
+to penetrate secure facilities, we feel that it is important to develop 
+
+
+such a detector system. 
+
+
+40 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+ei as rt tere rn TTT 
+
+
+Approved For Release HACLA SCrRIED eee 
+
+
+Appendix (U) 
+
+
+CHRONOLOGICAL LITERATURE SURVEY (U) 
+
+
+41 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 : UE TEY -00788R001300210001-5 
+
+
+UNCLASSIE 
+
+
+Appendix (U) 
+
+
+CHRONOLOGICAL LITERATURE SURVEY (U) 
+
+
+(U) This Appendix chronologically displays a collection of the random 
+number generator (RNG) experiments published during the past ten years 
+in the three major U.S. parapsychological. journals: Research in Para- 
+
+
+psychology, The Journal of Parapsychology, and The Journal of the American 
+Society for Psychical Research. 
+
+
+(U) In most cases a single reference contains several "separate ex- 
+
+
+t 
+
+
+periments." We have defined any major change in experimental protocol 
+or variable (e.g., a change of experimenter, type of feedback, etc.) as 
+a separate experiment, A numerical p value is listed in the "Statistics" 
+column for each experiment that is significant at the p $ 0.05 level; an 
+
+
+"n.s." indicates "not significant” for all others. 
+
+
+(U) If an experiment (or group of experiments) was published in more 
+than one journal, only one reference--typically the most comprehensive-~is 
+
+
+cited in the survey. 
+
+
+43 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release UAE PA SOTA E fy 28RO 300210001-5 
+
+
+‘oUOTe UOTLeTASp soueYyo Aq patandvs0 yooFFO poArasqo 94) 4eYy1 ATL Tqeqoud 944 uey} SsseT 10 04 Tenby” 
+
+
+°s*u 
+
+
+,yUBOTFTUSTS 
+‘seu 
+
+
+g-OL X OL°T 
+z-0T X 00°T 
+
+
+°s*u 
+
+
+g-Ol X 00°T 
+
+
+“seu 
+g-OI X 00°2 
+
+
+g-OT X 00°T 
+
+
+z-OT X 00°T 
+g-0T X 09'T 
+
+
+4 
+
+
+‘ 
+
+
+Tensta 
+
+
+:yoeqpesy poouryuy 
+94814090 
+
+
+pue £107 Tpne 
+
+
+-U0d 04 j}OU peYyse szoofqng °*q 
+381BIZUDDUOD 01 payse szyoofqng *e 
+yoeqpeey Ato. Tpny 
+
+
+uot. Tuso00e1d/sTsouTyoyos sq 
+UOT} Tus00 81g 
+
+
+UOT} Tpuoo paertreyerduon 
+UOT}LTpuoO. patzayerzg 
+
+
+SUT} 22 TPoUION 
+BUTE TPON 
+
+
+qUSUTIEdxSe YoRorTyooD 
+quouTtaredxe 729 
+
+
+ATAUNS AGALS ONY 
+
+
+Baizsueg 
+
+
+SOUTYyOeN 
+
+quoTesyiIq ATT euse4zur pue 
+SUOTITpuog LUeTeATNbY ATTBO 
+-Ts0ToyoASd YT sysey Tsd 
+
+
+se yueg 
+ap TWYyos 
+
+
+,SU0T4 Tpuog perzeyoeiduoy pue 
+
+
+pelieyeazg Tepug sutz00og yd 
+espelqng Sut} e, Tpouuoy 
+SNSI9A SUTLELTpoy 
+sutaeduog juowtredxy Hd V 
+
+
+se.ued 
+SB1eN 
+
+
+2tacud nba 
+OTUOLPOSTA FIM 4S90L Md V 
+
+
++P Fuyos 
+
+
+pspefang SB 
+3pPTuTyos 
+
+
+() 
+
+
+T-V STdeL 
+
+
+I xtpuoddy 
+
+
+jsuTUOTZIPUCD Yd | ZLET 
+
+
+s[TeuTUy YZTM squoutsedxy yd | OLGT 
+
+
+‘44 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release PREC'PTA S'S FPFE LP 07 88R001300210001-5 
+
+
+Md 
+
+
+UOT TUs00981g 
+‘TT JUouUTzedxy °T 
+
+
+p-OT X 00°S 
+z-OL X 00°T 
+
+
+sequeg °T 
+yPTuyos “HH 
+
+
+SOUTYORN WWOSTETTTG 
+
+
+sdnoazy ATT eusLaeUL YATIM s7sezZ Tsd 
+
+
+(peAtasqo syooTpe euTTOep 
+Suor1zs) ATUO suoTsses SUTUZON 
+
+
+g-OL X 00°S 
+Z yUuouTedxy *IT 
+
+
+SUOTSSeS WOOUTEL Ty 
+
+
+sUuOTSSSS BUTULON 
+LT yUuoUTZedxy °T 
+
+
+-queudtnbg DTUOLIO OTH 
+uo UOTIOY Wd FO UoTeMAITFUOD 
+
+
+g-0T X 00°S 
+
+
+UOTL EXT OY 
+uoTsudl 
+qo0fqns e[Suts Butsn uotzeottdsey “LII 
+
+
+p-OT X 00°S 
+g-OT X 00°S 
+
+
+UOTYEXSLOL/SATLOY 
+UOT} EXBLOL/SATSS EG 
+UOTSUS4/SATLOV 
+uoTsue}/eAtsseg 
+
+(3d dnozs8 you) syzoefqns 
+[enptATtput Butsn uotyeotTdey 
+
+
+‘s*u UOTTEXVLOI/2ATIOV 
+UO F7 BXVLOL/aATSSeq 
+UOTSU9}/9ATLOY 
+uofsue4, 
+
+
+SoTOSNU/UOTZVIZUSOUOD SATSSeq “J 
+
+
+°s°u 
+
+
+“s°u {MOTTEXETOY snsieq UOoTS 
+-U9L eTOSnW TOF suotysessng 
+
+
+SUTHeM YLTA eouvUZOFIEd Yd | ZL6T | 
+
+
+eTepsyred “M 
+Woz10U0H “9 
+
+
+g-OT X 00° 
+
+
+(penutzuoo) T-V¥ eTdeL 
+
+
+45 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 
+
+
+CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release Fay yor’ Ny SS REE BF 00788R001 300210001-5 
+
+
+[oi}U0D pep.ojeserzg 
+4S0] pep100e71e8ig 
+aUT. WSeseIg 
+
+
+g-OT X 00°T 
+e-OT X 00°T 
+
+
+,2de2 oTzeydstuey 4707, 
+,2d81 oTseydstmey 44 3TH,, 
+
+
+dutags outag 
+qyoofqns oo 
+sqzoefqns [Teazeaag 
+
+
+Teo Tysnoov/4sSey 
+TensTA/ seq 
+[Bo TZSNosB/MOTS 
+TensTA/MoTs 
+
+
+(peutquos 
+sqzoefqns oM4) B0aN0Ss 9STON 
+auTYyoeu wo. yNq-«inoy 
+
+
+Yd 
+UOTITUSOOSIg 
+goefqns e[3uts :¢g YoMTTEedxy 
+
+
+» phusmeo eT ds ta OUTL 
+znoyyTM pues YLT sJOeTTT Md 
+
+
+4pTuyog snatosuooqng FO UOT eATAaSqGO 
+
+
+9 UTUOTZoUNT 
+oOTzeydsTUsH-1YUSTY sns13A 
+
+,o TreydsTWayq-45eT,, JO uot eo 
+-OAQT 3uTaing Jo.e1euen requny 
+wWopuRYy [ROTUeYOONOTLOSTY ues 
+
+
+MoIpuy uo soouUeNT FUL oOTyouTYoyoAsg 
+
+
+aq Lester 
+
+
+4p Tuy euTL wopuey uo 49eTTa Yd 
+
+
+prioveteuey Jequny wopuey 
+
+
+ypPTuyosS poods-U3STH 8 UTM s4sel Wd 
+
+
+TueueyzUuey 
+AUTO “a 
+
+
+9 pLorHuOD ALTCYUNTOA 
+preMoL sytozza s,zoofqng y 
+
+
+somisraeas [saan ——SCSC~—‘iSCSC Cd 
+
+
+(penutjuos) [-V STqdeL 
+
+
+46 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release EPRICE TA S'S REPEL 07 88R001300210001-5 
+
+
+* pet Teq-au9 
+
+
++ 
+
+
+s/l ‘Pp ONY a plovereueD 
+s/OT ‘*€ ONY zaquny wopuey peedg-y3ty 
+S/OOT :% ONY uozysnorg poeyuT{—-reynduog Teaon & 4ZTH 
+S/O00T ‘T DNY TET TIN quoutzedxy yq ATeUTUTTOIg V 
+
+
+g Wueas osu 
+
+
+g-Ol X OTT Id1sd Aew °o UjTM JUSUTIEdxyY yd oTweudg y 
+
+
+uw07,.10OU0 
+
+
+,peeapeed TenstA 
+UTe MOT Ae °O pue AroUTpny 4TH YseL 
+pg-OT X 00°6 ure UsTH wo .10UCH Yd @ UT [O1QUOD TeUOCTATTIOA 
+
+
+yp-OT X 00'S popzo0.e.1edg gpeeapesd peoetdstq out 
+4-01 X 00°S OUT} JUeSeTg ‘pezvedey y2zTM JuSUTIedxy Yd |GLET 
+
+
+,PATZOVUT,, TOZVIOUeS eTduUTs 
+
+I0O.eI9UeS xoTdu0D 
+
+g-OT X LS°e ioj,er1eues etduts 
+yoee sTetsz2 o¢g/szoefqns AQuaMy, 
+
+
+"s°u ,PATPOVUT,, JOYerTeues oeTduts 
+°s°u Io e7eues xeTduog 
+g-OT X PLO zoz,e18ues eTdutg 
+yous sTetzz OOT/szoelqns uwsy 
+
+
+,PATJOBRUT,, JoZeLeues eTduTg 
+1oze19ues xeTdmog gy Sto er98U9D 
+g-OT X It’s 10 ,e13ues eTduts IequnN wWopuBsy ZUsTeTFTGC OM] 
+
+
+youe seta 00z/szoefqns aaty ypTuyos *H uo uoTJOy Hd jo uostazedmop {PL6T 
+
+
+somsres [__—sawomiog ma Cd 
+
+
+(penut}u0o) T-y eTqaeL 
+
+
+CIA-RDP96-00788R001300210001-5 
+
+
+AZ 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release ARP aK ScIFIEL 300210001-5 
+
+
+fz-OT X OS°s 
+
+
+SOT}STIEIS 
+
+
+z-0l X OFS 
+
+
+wTe-YSTH 
+
+
+yoeqpesy uot.e4Tpewyzsod 
+
+
+eydTe-e494} epts ino 
+
+
+eydT e-e aL 
+
+
+yoeqpeey yNoYyIIM UOT1e1TPAW 
+
+
+yoeqpeey uol7e7 Tpomedg 
+
+
+WTe-MO'T 
+uUte-3 Ty 
+u04710uU0H 
+
+
+UOT}LTpuosd [TRuoTAUSe{U TU 
+
+
+UOT Ipuos [eRUOTIUALUT 
+
+
+Yad snotosuooun 
+Yd snotosuoo 
+
+
+z-OT X 00'T 
+g-0l X 00°S 
+"s°u Md snotosuooun 
+
+
+“stu Yd snotosuoo 
+
+
+TOTTI 
+
+
+Io USM Tredxyq 
+19 Ud TLIodxy 
+I9 UU TrIodxy 
+
+
+aokng *y 
+TOTAL, 
+uzresneyuez 
+
+
+19 U9 Lrodxy pzoyueys 
+
+
+TeotzA Teuy 
+
+
+apou [vot IAT eusUON 
+Toytuow sateu/ASoTotsdhud on 
+
+
+TeotzATeuy 
+
+
+opou TVoT AT eUBUON 
+
+
+STITT EM 
+
+
+I0}TUOWU poouUs T19dxq 
+/peiozytuou ASoTotsséyd 
+
+
+(ss ‘d ‘pz6T ‘dIu es) 
+
+
+MoIpuy 
+q} Tug 
+pnesg 
+
+
+(penutzu09) T-y eTqeL 
+
+
+*peTTey-aug 
+
+
+qelOT+84TPOW TezUepuss 
+Uta, JO foJONITASsUT Ue YT 
+Apnig 4OLTTd VY ‘:s0ueuIoyazag 
+oTyOUTYOyOASA wo Yyouqpess, 
+pue UOT Je VTpey! FO SOOT 
+
+
+ggud Teuotjuezutun 
+SNnsi9eA [TBVUOTUSIUT Fo 4seL Vy 
+
+
+pgosuodsey Tequsun.t4sul 
+
+
+PeLeIpayW-tsq se stsaeutyoyoAsd 
+
+
+og bu FSs900dd 
+
+UOTTVUIOJUI JO saepow, 
+
+yO TIATSUBUON,, SNSTEA OTY 
+-f{euy,, JO uoTzeooAG SuTang 
+SIOLB1IBUSy ToqUNy wWopury 
+
+uo SeouUeNn[T JUL OTZeuTYoyoAsS_ 
+
+
++ 
+
+
+SL6T 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+(ATsnosueyi mts pesn sony) 
+DNY AOTS 
+ONY 4SBa 
+yoeqpeey enzz ‘tq dnouy 
+ONY MOTS 
+ONY 7884 
+yoeqpeey astTey :y dnowzy 
+II quoemtszedxy 
+
+
+(Aja eredes pesn sony) 
+ONY AOTS 
+ONG 3884 
+yorqpees oni. iq dno7zy 
+ONY OTS 
+DNY 482A 
+yoeqpeesy estey sy dnowsy nom °L°A‘'N 
+I JUouTredxy usuretg “qd 
+
+
+UTe=—MO'T 
+
+WTe-Y3stH 
+
+yoeqpesy uorze,Tpeuysod 
+
+(AZo0Totsfsyd ou) 
+
+“s°u yoeqpeey Noy ATA uoOT7e] Tp 
+
+
+¢-OT X 00°s WTe-MOT 
+“s°u wTe-USsty uozToucH °O 
+
+
+yoeqpeey uot e Tpouledd *T 3} 0UUTM "Y 
+
+
+Approved For Release PARTE PA SIS TELE Bo 22 ROO 19002 10001-5 
+
+
+(penutzuod) [-V eTqeL 
+
+
+eq} TIOBTY YOVqpeeq ONY 
+qUeTeFFId ULTA S4seL Yd UT 
+SaeTeoy fo soUeMIOFIeg ey] 
+
+
+edefy Fo saou0T4T40eIg 
+U2TM Ssi[nsey +: souvusoysag 
+oT,ZeuTHYOyoOASG wo Yyouqpesc, 
+
+
+49 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release RPP qK SSA EFF fh-00788R001 300210001-5 
+
+
+peptosaizeisg 
+out} JUSSeIg 
+T zeyueutrodxy 
+
+
+‘s°u sonqtea gX Pet91LV 
+
+
+“s°Uu uotssezddns/e790g 
+‘s*°u uotsseazddns/eydty 
+g-OT X S6°T qu oUlsoUeyUa / Be 190g 
+g-OT X €6°T jUoMSOUeYyUE/ eyd Ty 
+
+
+\, JIOFFe-Jo-sseapoy,, 
+ST@TI4 41949 
+
+
+te-Ol X O9°T qgoofqns aud 
+
+
+(AT 97 etedas pesn sony) 
+g~OT X OT" DNY AOTS 
+g-OT X OTE ONY FSI 
+yoeqpeesy ond. iq dnowy 
+“s°u DNY MOTS 
+“s°u ONY 3SBq 
+yoeqpeesy estezx :y dnouy 
+III yuseutsedxy 
+
+
+uo yysnoig 
+TeTT IN 
+
+
+AdIB]I, “9 
+apTtuyos 
+
+
+uo.ysnor1g 
+
+
+somey [a 
+
+
+(ponutyuo0o) T-y eTqeL 
+
+
+“*peTtez-9u0 
+
+
+og tP FuuOSs 
+FO WSTpeIeg LUsMSBOUeTUT 
+TSd 94} FO UOTIeSTYseAUr uy 
+
+
+Ia {uot aroedx 
+ae 2 T Hf 
+
+
+B JO 4SeL Wd 149A09 V 
+
+
+ge0ouBltofied Yd 
+pue ssaeMuTerg usaeM eg 
+
+
+dTysuotyeley Be TOF yourvsg 
+
+
+eet Sod 
+JIOFTA-JO-o9svalosy 41aeA0g 
+B UTA JUeMtredxy Yd V 
+
+
+gg° STON OTUOTIOETH 
+uo pestg 107,e1eUey TEquNN 
+wopuey Arvutg Be uo yoo 
+-qng e[sutg e Aq sqy00TH Wd 
+
+
+TSqd [n]Jsseoong 
+
+
+50 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release ZRF RPE YASS RET B07 88R001800210001-5 
+
+
+g-OT X 00°S 
+*“s°u 
+
+
+7oeVqpseyuou/ ool qng 
+
+yo BQpees/ oof qng 
+
+3p Beqpoay 
+
+Teta4-AQ-Tet14 reqyucuTredxy 
+
+
+(sqUSUTIedxs yuetayyIp 9[ se 
+peysodar) sjie38re4 pop.zrosazead 
+SUTSN sie {ueNTrTedxe u39084xTg 
+
+
+,Shotosuooun,, [eo] 
+S SNOTOSUOD,, Te1O], 
+
+
+STeT4, | ITMOTSFTA,, 
+SsTetszy Asey,, 
+Pept0da7101g 
+
+€ JuoUTsedxy 
+
+
+z-0OT X 00°S 
+
+
+g-OT X 00°S 
+g-Ol X 00'S 
+
+
+Ppep.100a.181g 
+oT? {UesdIg 
+Z yuoutsrodxy 
+
+
+$g-OT X OO°T 
+fg-0T X 00°T 
+
+
+Peps0da107g 
+OUT} WoseIg 
+T qUueutsedxy 
+
+
+Pepst0o a1981g 
+OUT. JUeSaIg 
+@ «za ,UuSUTTedxyg 
+
+
+“II 
+
+
+pnesg 
+pnesrg 
+
+
+UOST TM 
+¥ FOTO 
+TeTT TA 
+
+uo Yysnoug 
+
+
++PTuyos 
+ALI, 
+
+
++PTUyoS °H 
+
+
+(penutyuos) [-y eTqeL 
+
+
+*peTte}-sug 
+
+
++ 
+
+
+pou oduouTsedxg 
+
+pue sieazuNTOA 03 yoRqg 
+
+-peeq PeyTMTT JO suotyztpuog 
+Zepun JI0Ye1eueD WUSeAT wopuey 
+B uodn sz0eFFT OTZeUTYOUDASG 
+
+
+eg usuoduog poeseg~-Tsd 
+S}J pue joossyY r3eyUoMTIedxg 
+ey4}7 JO UOTISSTASOAUT Yd VY 
+
+
+ago} OStBL 
+pepsoo0a7971g ITM s1seL yd 
+snhoTosuooqng pue snotosuo9 
+
+
+peed OsreL 
+Peps109ssx79eIg UO 4O9TTY Yd 
+
+
+sorsrieas [Satomi Yn ore er] 
+
+
+51 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release PEP RS 4 4 ci oi? hedebataieatal 300210001-5 
+
+
+g-OT x o9°s quesoid syuetd 
+“s*u quesqe szuetd 
+eaoge III se oweg 
+
+
+g-OT X OL'T quesead syzuetd 
+*s°u quesqe squetd 
+4USTIT JUSDSeTOTF 
+
+Jo uot Tppe/sseuysep UT YZMOADH 
+
+
+queseid sqyueid 
+quesqe sj}UuetTd 
+peareq.s-3ystT squetd 
+
+
+quesoud sqzuetd 
+quesqe squetd 
+ssouyszep ut YzMoAy 
+
+
+anoy seT9d 
+euo ABTed 
+qoe4atd 
+
+
+8/T = 
+
+
+z-OT X 00°F Z/T = 
+
+
+$z-Ol xX 00°S yoeqpeojzuou/ oe qng 
+yYoeqpeey [eqoTs/104UuSeU Tr90dxy 
+
+
+IBOK 
+SL Cc CT rc oe ES 
+
+
+(penutzu0o) T-Vy eTqeL 
+
+
+uoS TIA} 
+syneq 
+
+
+uBu.resune 
+UCUTSSUNLE 
+
+
+* peTteq-eu0 
+
+
+yet era 12 quouTredxg 
+ou} pues ONY ue UO Yd UCTd 
+
+
+oe 1SBL 
+
+Md @ UT youeqpee” eTdtiTOW 
+BUTUTBDNOD UOTZOTpeId 
+
+S,Tepom ypTMYyos ayy FO 4S9L V 
+
+
+gpStS°L Ad Jo.ereuey Iequnn 
+wopuey PpeTLoru0g reynduop 
+
+
++ 
+
+
+52 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release FNC PA S'S FRPP FP0788R001 300210001-5 
+
+
+P2409 edsuT-10U/Tenp TA Tpur 
+peqyoodsuT/T[ enp TAtpul 
+
+pe ,oedsut—you/dnory 
+peyoedsut/dnory 
+
+Z yUouTsedxy 
+
+
+yTnsez 
+peutquiod 3su04 MOT pepszocoazesd 
+puke 904 YSTy peprossreag 
+
+IT queutredxy 
+
+
+e-0T X 00°T 
+
+
+*s'u yoeqposyuoN 
+g-OT X 00°S suo} MOT 
+II USuTsedxy 
+
+
+‘su yoeqpoa FUON 
+g-OT X OST ouo0} MOT 
+"s°u 3u01 YsSTH 
+
+I qUuouUtredxyg 
+
+
+pe-OT X 00°S eTqtpneuyt *g 
+“s°u SoTqatpny “Vy 
+Yoeqpsey .e_Zueutszedxe 
+
+0} Joedser Y1TM ONY UO yOeTIA 
+
+
+(as) 
+(z-0T X O°T) qoofqns Butyooezye 190quewTsodxq) 
+
+
+“II 
+
+
+“I 
+
+
++pTWYyoS °H 
+
+
+euTITESeH °D 
+
+
+pnesg "M 
+
+
+TOUINY 
+
+
+(penut4uoo) [-y eTqeL 
+
+
+OF 
+
+
+*peTTey-su0 
+
+
+} 
+
+
+SJOSIVL pepszrooss.1eag 
+
+
+U2TM Yd UT 4sel omoH-oyeL, y 
+
+
+ge F FAFIOV Ode UTM ps eto 
+-Ossy uoTye1ed9 10 1¥e18uen 
+Tequny wopuey oTU0T10eTR 
+
+
+ee SOTOTSAUd Ss ,wosieg 
+qeyzouy uodp souen, yur 
+oOTZoUTYoyDAS &@ TOF Yyowqpee, 
+
+
+a1 eTpouM] 
+
+
+: JOVBqQpsesjyortqoT {Ty 
+
+
+53 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release ARPRqERTS § FE RP T96-00788R001300210001-5 
+
+
+* pet reqy-eu0 
+
+
++ 
+
+
+ype HOA wopury 
+pe,erouen-AT TreyuSUOW pue 
+
+
+peproseteid YIM pure 7sS9L 
+
+
+“s° dJd0/ Pep 107919840 
+ne . NO/Pep.tode.1e8dd Yd B@ UT yoeqpeeg SuTpsreMmoy 
+= “ T wotyoesg *I 4ptuyos “HH se 1Y43TT oTdoosoqgoszyg FO esn 
+
+
+uoT BOTTAea YoRoryoop 
+SOTTE ZINAZ ssoTSuTM 
+e{[TeroTyo pue Sve, 
+eesly 
+
+
+“s°U 
+
+
+gprodo2orAo00 
+U7TA 7SOL Wd @ UT 
+SUOTJENIONTA TSd TOF Youwes 
+
+
+°s°u 
+
+
+°s°u 
+
+
+ypTuyos °H 
+
+
+°“s°u 
+
+
+yoeqpesyuou/pezesuy 
+yoRuqpeseyuou/pe yep 
+yoeqpeey/Daa pe zesun 
+yoreqpees/Oqa peed 
+
+@ juoutszodxg *II 
+
+
+“s°u 
+
+
+“s°u 
+
+
+uoT OBIS UI 
+
+ey 
+ulvig=—puTW FO ,sTseyzodsy 
+TeotsotTotshydouneNn,, ,SeTood 
+jo ysey, ATeUTMTTOId V 
+
+
+LUOTAZTTOA FO SezeLerI0D Tsd 
+
+
+°‘s’u 
+g-0T X 00°S 
+
+
+TouMetL °'T 
+uoj,rou0H “OD 
+
+
+yorqpees/Daq Perey 
+
+
+_OT X 00°S 
+IT yuoutsedxq “I 
+
+
+€ 
+
+
+yo eqpeesuou/o1eyds Toy 4791 
+yoeqpesy/oreydstuey Fol 
+G soTtiag 
+
+
+yo eqpeesuou/ezeyds TUSY 4 STU 
+yoeqpoes/eroyds Tey qy STU 
+yp setazeg “II 
+
+
+n zoq4ang 
+So tenys 1904 
+
+
+:YTATIOV DAN pue uotzesedo 
+FOLeLOUSy WOpPUeYy oTU01409ETH 
+
+
+yovqpoojyuou /eroyds TuUSy 4391 
+yoeqpesy/ezeydstuey FFT 
+¢ setazeg “I 
+
+
+euUTYTeSeH “9D 
+
+
+(penutzu0e) T-V eTdeL 
+
+
+54 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 
+
+
+CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 209 NOT ASSERT B90788R001 300210001-5 
+
+
+z-Ol X 0S" 
+z-OT X 00°¢ 
+
+
+s°u 
+e-0T X 00°T 
+
+
+s°’u 
+g-Ol X 00O°T 
+
+
+YoeQpsesz/To13U09 
+
+4 eq peetuou/ssa.07g 
+
+Yo eqpsey/ssao0ug 
+
+yO BQpeeyzuou/pe4Uuat.z0-[ voy 
+3 eqpsejs/paquets0-T{ voy 
+
+
+P81USeT1I0-sssd0ig 
+pe 4UeT.10-T eon 
+
+: (90 Foyo 
+
+AZaZeut $,20°fqns) uotssas puosag 
+Pe4yusets0-ssa00ug 
+PeaqyUstio-[Teoey 
+
+WOTSSeS 4SaITy 
+
+(Aras eut 
+
+470q pesn sjoaefqns Tle) g Apnig “Tr 
+
+
+pe JUST10-ssa001g 
+PezUSTIO~T BOD sdt{Tt tug 
+(A raZeut O¥YUeN 
+
+
+Gtoq pesn szoefqns Tle) T Apnyg “7 STIIOW 
+
+
+anoy AeTog 
+euo AeTagq sTaeg 
+3092TG uOoS TIO, 
+
+
+LI0/OUT Tey 
+NO/auT, Teey 
+Z UoTJOeg “TT 
+
+
+(penutzuo0s) {[-y etqey 
+
+
+FAST “Vv 
+
+
+Lp essa Md wo yoeqpeag pue 
+
+
+Ataseuy Jo esouentyutT SUL 1GL6T 
+
+
+ope F801 814g 
+
+ALOZEUT OM, ¥O UOSTIedileg y 
+:We4yskg [Teo Tueyoay wnqzUueng 
+B® FO SjUsMeIMseey_ Uodn sous 
+“NTJUT TeArTesqg [euotiue4uy 
+
+
+g,UOT}O Ter» 
+S,T9PpoW 3pTuUYoOS ey Fo 4sez 
+VY :3oeqpeeq etdta nw pue 
+pedsetog ‘oqetpoumy 44TH yg 
+
+
+UNCLASSIFIED 
+
+
+: CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+UNCLASSIFIED 
+
+
+JIOTFe Jo esvaelay 
+
+
+Pp yefqngs 
+
+
+JIOTO-Jo-esve Tey 
+
+
+€ zoolqns 
+‘stu ZAOTFO—-Jo-ssealoy 
+°s°u 
+°s°u 
+
+
+z-OT X 00°S 
+
+
+z joefang 
+
+
+JIOLTY~To-aseva lay 
+
+
+L wefqng 
+
+
+(sqzueutazedxe 27.e1edes 
+
+Zl S® paysodar ‘yueoTFTUSTSUT 
+pasoid sAoqe eso yoRe UT 
+41e4S TeyUSWTIedxe so yoolqng) 
+yo eqpaesfuoU/ Tor4qu0g 
+
+
+(pepntoucs) T 
+
+
+uosuyor °N 
+TELLIN “ad 
+uoqysnowg °*Y 
+
+
+“V STASL 
+
+
+UOTIONPOLT Wd FO TO1ZUOD 
+queisdg 90} rAOf senbtuyosy, 
+Adezey, uotsaeay fo esn 
+ey} OZUL uot eSTZSeAU] Uy 
+
+
+56 
+
+
+UNCLASSIFIED 
+
+
+en 
+
+
+Approved For Release Saeki ere 
+
+
+* 
+* ; REFERENCES (U) 
+
+
+1. H. Schmidt, "PK Experiments with Animals as Subjects," J. Parapsych., 
+Vol. 34, No. 4, pp. 255-261 (December 1970), UNCLASSIFIED. 
+
+
+2. H. Schmidt, "A PK Test with Electronic Equipment," J. Parapsych., 
+Vol. 34, No. 3, pp. 175-181 (September 1970), UNCLASSIFIED, 
+
+
+3. F, Matas and L. Pantas, "A PK Experiment Comparing Meditating Versus 
+Nonmeditating Subjects," Proc, Parapsych, Assn., No. 8, pp. 12-13 
+(1971), UNCLASSIFIED. 
+
+
+4, WL. Pantas, "New Studies with Automated Testing Devices,” Proc. Parapsych. 
+Assn,, No. 8, pp. 47-49 (1971), UNCLASSIFIED. 
+
+
+5, H. Schmidt and L. Pantas, "Psi Tests with Psychologically Equivalent 
+Conditions and Internally Different Machines," Proc. Parapsych. Assn., 
+No. 8, pp. 49-51 (1971), UNCLASSIFIED. 
+
+
+6. B. Camstra, "PK Conditioning," Res. in Parapsych. 1972, pp. 25-27 
+(1972), UNCLASSIFIED. 
+
+
+7. C. Honorton and W. Barksdale, "DK Performance with Waking Suggestions 
+for Muscle Tension Versus Relaxation," J, Amer. Soc. Psychical Res., 
+Vol. 66, No. 2, pp. 208-214 (April 1972), UNCLASSIFIED. 
+
+
+8. E, Andre, "Confirmation of PK Action on Electronic Equipment ," 
+J. Parapsych., Vol. 36, No. 4, pp. 283-293 (December 1972), UNCLASSIFIED. 
+
+
+9, H,. Schmidt and L. Pantas, "Psi Tests with Internally Different Machines ," 
+J. Parapsych., Vol. 36, No. 3, pp- 222-232 (September 1972), UNCLASSIFIED. 
+
+
+10. E. F. Kelly and B. K. Kanthamani, "A Subject's Efforts Toward Voluntary 
+Control," J. Parapsych., Vol. 36, No. 3, pp. 185-197 (September 1972), 
+UNCLASSIFIED. 
+
+
+11. H. Schmidt, "PK Tests with a High-Speed Random Number Generator ," 
+~ J, Parapsych., Vol. 37, No. 2, pp. 105-118 (June 1973), UNCLASSIFIED. 
+
+
+UE OaEEEREEEEEEE 
+
+
+* : 
+(U) The references for books and journal articles listed in this document 
+are UNCLASSIFIED. However, when they appear together, they are classified 
+
+
+eannaiins, 
+57 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release Een ee 
+
+
+12, 
+
+
+13, 
+
+
+14, 
+
+
+15, 
+
+
+16, 
+
+
+17, 
+
+
+18, 
+
+
+19, 
+
+
+20, 
+
+
+21. 
+
+
+22., 
+
+
+23. 
+
+
+H. Schmidt, "PK Effect on Random Time Intervals,'' Res, in Parapsych. 
+1973, pp. 46-48 (1973), UNCLASSIFIED. 
+
+
+K. Andrew, "Psychokinetic Influences on an Electromechanical Random 
+Number Generator During Evocation of "Left-Hemispheric vs Right- 
+Hemispheric" Functioning," Res. in Parapsych 1974, pp. 58-61 (1974), 
+UNCLASSIFIED, 
+
+
+H. Schmidt, "Observation of Subconscious PK Effects with and without 
+
+Time Displacement ,"" Res. in Parapsych 1974, pp. 116-121 (1974), 
+a EE ADE CA tice 
+
+UNCLASSIFIED, 
+
+
+H. Schmidt, "Comparison of PK Action on Two Different Random Number 
+Generators," J, Parapsych., Vol. 38, No. 1, pp. 47-55 (March 1974), 
+UNCLASSIFIED. 
+
+
+H, Schmidt, "PK Experiment with Repeated Time Displaced Feedback ," 
+Res. in Parapsych, 1975, pp. 107-115 (1975), UNCLASSIFIED. 
+ee PE VON tO 
+
+
+C. Honorton and E. C. May, "Volitional Control in a Psychokinetic 
+Task with Auditory and Visual Feedback," Res. in Parapsych, 1975, 
+
+ee fo 
+pp. 90-91 (1975), UNCLASSIFIED, 
+
+
+E. C. May and C. Honorton, "A Dynamic PK Experiment with Ingo Swann," 
+Res. in Parapsych. 1975, pp. 88-89 (1975), UNCLASSIFIED, 
+PS VC RO 
+
+
+B. Millar and R. Broughton, "A Preliminary PK Experiment with a 
+Novel Computer-Linked High-Speed Random Number Generator," Res, in 
+Parapsych. 1975, pp. 83-84 (1975), UNCLASSIFIED, 
+
+paced hah AM aah 
+
+
+W. G. Braud, G. Smith, K. Andrew, and S, Willis, "Psychokinetic 
+Influences on Random Number Generators During Evocation of "Analytic" 
+versus "Nonanalytic" Modes of Information Processing," Res. in 
+Parapsych, 1975, pp. 85-88 (1975), UNCLASSIFIED. 
+
+
+R. G. Stanford, R. Zenhausern, A, Taylor, and M, A. Dwyer, "Psycho- 
+kinesis as Psi-Mediated Instrumental Response," J, Amer. Soc, 
+Psychical Res., Vol. 69, No. 2, pp. 127-134 (April 1975), UNCLASSIFIED, 
+
+
+B, Millar and P, Mackenzie, "A Test of Intentional Versus Unintentional 
+PK," Res, in Parapsych. 1976, pp. 32-35 (1976), UNCLASSIFIED, 
+aA Lath) SIN ASE Peal 
+
+
+C. Honorton, "Effects of Meditation and Feedback on Psychokinetic 
+Performance: <A Pilot Study with an Instructor of Transcendental 
+
+
+Meditation,” Res. in Parapsych. 1976, pp. 95-97 (1976), UNCLASSIFIED, 
+ee YO es 
+
+
+58 
+
+
+SECREF 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 200 eG pReGROEMR DP96-00788R001300210001-5 
+
+
+24. R, Winnett and C. Honorton, "Effects of Meditation and Feedback on 
+Psychokinetic Performance: Results with Practitioners of Ajapa 
+Yoga,” Res. in Parapsych. 1976, pp. 97-98 (1976), UNCLASSIFIED. 
+
+
+25, D. J. Bierman and N.V.T. Wout, ‘the Performance of Healers in PK Tests 
+with Different RNG Feedback Algorithms ," Res. in Parapsych. 1976, 
+pp. 131-133 (1976), UNCLASSIFIED. 
+
+
+26. S. Hill, "PK Effects by a Single Subject on a Binary Random Number 
+Generator Based on Electronic Noise," Res, in Parapsych. 1976, 
+pp. 26-28 (1976), UNCLASSIFIED, — 
+
+
+27. &R. S. Broughton and B, Millar, "A PK Experiment with a Covert Release- 
+of-Effort Test," Res. in Parapsych. 1976, pp. 28-30 (1976), UNCLASSIFIED, 
+
+
+28. H. Schmidt and J. C, Terry, "Search for a Relationship Between Brain- 
+waves and PK Performance," Res. in Parapsych. 1976, pp. 30-32 (1976), 
+UNCLASSIFIED. 
+
+
+29. B, Millar, "A Covert PK Test of a Successful Psi Experimenter," 
+Res. in Parapsych. 1976, pp. 111-113 (1976), UNCLASSIFIED. 
+
+
+30. B. Millar and R. S. Broughton, "An Investigation of the Psi Enhancement 
+Paradigm of Schmidt," Res. in Parapsych, 1976, pp. 23-25 (1976), 
+UNCLASSIFIED. 
+
+
+31. H. Schmidt, "PK Effect on Pre-Recorded Targets,” J. Amer. Soc, 
+psychical Res., Vol. 70, No. 3, pp. 267-292 (July 1976), UNCLASSIFIED. 
+
+
+32. J. Terry and H. Schmidt, "Conscious and Subconscious PK Tests with 
+pre-recorded Targets," Res. in Parapsych. 1977, pp. 36-41 (1977), 
+UNCLASSIFIED. 
+
+
+33, R. Broughton, B. Millar, J. Beloff and K.Wilson, "A PK Investigation 
+of the Experimenter Effect and Its Psi-Based Component ," Res. in 
+Parapsych. 1977, pp. 41-48 (1977), UNCLASSIFIED. 
+
+
+34. L. Braud and W. Braud, "psychokinetic Effects Upon a Random Event 
+Generator Under Conditions of Limited Feedback to Volunteers and 
+Experimenters," Res. in Parapsych. 1977, pp. 135-143 (1977), 
+UNCLASSIFIED. 
+
+
+35. R. L. Jungerman and J. A. Jungerman, "Computer-Controlled Random 
+Number Generator PK Tests," Res. in Parapsych. 1977, pp. 157-162 
+(1977), UNCLASSIFIED. 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+Approved For Release 2000/2302 GIA RPP96-00788R001300210001-5 
+
+
+36, J. W. Davis and M. D. Morrison, "A Test of the Schmidt Model's 
+Prediction Concerning Multiple Feedback in a PK Task," Res. in i 
+Parapsych. 1977, pp. 163-168 (1977), UNCLASSIFIED. 
+SES ee 
+
+
+37. H. L, Edge, "Plant PK on an RNG and the Experimenter Effect ," 
+Res. in Parapsych. 1977, pp. 169-174 (1977), UNCLASSIFIED, 
+a eps yen. Loe 
+
+
+38. W. Braud, "Allobiofeedback: Immediate Feedback for a Psychokinetic 
+Influence upon Another Person's Physiology," Res. in Parapsych, 1977, 
+ee RE 
+pp. 123-134 (1977), UNCLASSIFIED. 
+
+
+39. G.L. Heseltine, "Electronic Random Number Generator-Operation 
+Associated with EEG Activity,” J. Parapsych., Vol, 41, No. 2, 
+pp. 103-118 (June 1977), UNCLASSIFIED, 
+
+
+40. H. Schmidt, "A Take-Home Test in PK with Pre-recorded Targets," 
+Res, in Parapsych, 1977, pp. 31-36 (1977), UNCLASSIFIED, 
+ee EN 6 bt 
+
+
+41, G. L. Heseltine and S. A. Mayer-Oakes, "Electronic Random Generator 
+Operation and EEG Activity: Further Studies," J, Parapsych., 
+Vol. 42, No. 2, pp. 123-136 (June 1978), UNCLASSIFIED, 
+
+
+42, CC. Honorton and L, Tremmel, "Psi Correlates of Volition: A Preliminary 
+Test of Eccles' Neurophysiological Hypothesis of Mind-Brain Interaction," 
+Res. in Parapsych. 1978, pp. 36-38 (1978), UNCLASSIFIED, 
+oS CN lo 
+
+
+43. H. Schmidt, "Search for Psi Fluctuations in a PK Test with Cockroaches ," 
+Res. in Parapsych. 1978, pp. 77-78 (1978), UNCLASSIFIED, 
+ee ee Peyote 
+
+
+44. H, Schmidt, "Use of Stroboscopic Light as Rewarding Feedback in a PK 
+Test with Prerecorded and Momentarily-Generated Random Events ,"' 
+Res. in Parapsych, 1978, pp. 115-117 (1978), UNCLASSIFIED, 
+eee 
+
+
+45. M. D. Morrison and J. Ww. Davis, "PK with Immediate Delayed and 
+Multiple Feedback: A Test of the Schmidt Model's Prediction," 
+Res, in Parapsych. 1978, pp. 117-120 (1978), UNCLASSIFIED, 
+ES. 
+
+
+46. R. Morris, M. Nanko, and D, Phillips, "Intentional Observer Influence 
+Upon Measurements of a Quantum Mechanical System: A Comparison of 
+Two Imagery Strategies,” Res. in Parapsych, 1978, pp. 146-148 
+(1978), UNCLASSIFIED, 
+
+
+47, A, Levi, "The Influence of Imagery and Feedback on PK Effects," 
+J. Parapsych., Vol. 43, No, 4, pp. 275-289 (December 1979), UNCLASSIFIED, 
+
+
+60 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+
+eC 
+
+
+Approved For Release 2000/08/07 : ce a aaa kh 
+
+
+48. 
+
+
+49. 
+
+
+50. 
+
+
+51. 
+
+
+52. 
+
+
+53. 
+
+
+54, 
+
+
+55. 
+
+
+56. 
+
+
+57. 
+
+
+58. 
+
+
+R. S. Broughton, B. Millar, and M. Johnson, "An Investigation into 
+the Use of Aversion Therapy Techniques for the Operant Control of 
+PK Production in Humans," Res. in Parapsych. 1979 (preprint) (1979), 
+UNCLASSIFIED. 
+
+
+E, C. May and G, S. Hubbard, "phase I: Hardware Construction and 
+System Evaluation (U)," combined Quarterly Reports Nos. 1 & 2, 
+SRI Project 8585, SRI International, Menlo Park, CA (June 1980), 
+SECRET. 
+
+
+R. H. Haitz, "Controlled Noise Generation with Avalanche Diodes-- 
+I, Low Pulse Rate Design," IEEE Trans. on Electron Devices, Vol. 
+ED 12, No. 4, pp. 198-207 (April 1965), UNCLASSIFIED. 
+
+
+R. H. Haitz, "Controlled Noise Generation with Avalanche Diodes IT. 
+High Pulse Rate Design,’ IEEE Trans, on Electron Devices, Vol. ED 
+13, No. 3, pp. 342-346 (March 1966), UNCLASSIFIED. 
+
+
+A. Wald, Sequential Analysis (Dover Publications, Inc., New York, 
+N.Y., 1973), UNCLASSIFIED. 
+
+
+M, Fisz, Probability Theory and Mathematical Statistics, pp. 584-611 
+(John Wiley & Sons, Inc., New York, N.Y., 1973), UNCLASSIFIED. 
+
+
+E, C. May, B. S. Humphrey, G. 8. Hubbard, "Phase II Test Plan (U) ," 
+Quarterly Report No. 3, SRI Project 8585, SRI International, Menlo 
+Park, CA (May 1980), SECRET. 
+
+
+vy. Aharonov and M, Verdi, "Meaning of an Individual 'Feynman Path',' 
+
+
+Physical Review, Vol. 21, No. 8, pp. 2235-2240 (April 1980), 
+
+
+UNCLASSIFIED. 
+
+
+0, Costa de Beauregard, "Time Symmetry and the Einstein Paradox ," 
+
+
+Il Nuovo Cimento, Vol. 42 B, No. 1, pp. 41-64 (November 1977), 
+
+
+UNCLASSIFIED. | 
+
+0. Costa de Beauregard, "S-Matrix, Feynman Zigzag and Einstein 
+Correlation,” Physics Letters, Vol. 67, A, No, 2, pp. 171-174 
+(August 1978), UNCLASSIFIED. 
+
+
+K, Osis and D, McCormick, "Kinetic Effects at the Ostensible Location 
+
+
+of an Out-of-Body Projection During Perceptual Testing,’ J. Amer. Soc, 
+Psychical Res., Vol. 74, No. 3, pp. 319-330 (July 1980), UNCLASSIFIED. 
+
+
+61 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300210001-5 
+
+

@@ -1,0 +1,1036 @@
+QO) 
+(— 
+xo) 
+= 
+QO) 
+S 
+@ 
+J 
+‘= 
+
+
+[Approved] For Release 2000/08/07 : CEPR EP 7287001 300280001-7 
+
+
+26 March 1982 
+
+
+RV DETECTION TECHNIQUES 
+APPLIED TO ASW (S) 
+
+
+Prepared by: 
+
+
+H. E. Puthoff, Ph.D. 
+E. C, May, Ph.D, 
+Radio Physics Laboratory 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 26 March 2002 
+
+
+SRI/GF-0025 
+
+
+This document consists 
+of 22 pages, 
+
+
+Copy No. _/O 
+
+
+«- NOT RELEASABLE TO FOREIGN NATIONALS — 
+
+
+333 Ravenswood Ave. ¢ Menlo Park, California 94025 
+(415) 326-6200 ¢ Cable: SRI INTL MPK ¢ TWX: 910-373-1246 
+
+
+Approved For Release 2000/08/07 : SECRET OC 
+
+
+LIST OF ILLUSTRATIONS .... 
+LIST OF TABLES, . .. 4. «2 os 
+I ABSTRACT ......24.. 
+
+
+II RV TECHNOLOGY. ..... 
+
+
+A. Background. .... 
+
+
+CONTENTS 
+
+
+o 8 o o @ . . 
+
+
+B, RV as a Search/Location Technology. 
+
+
+C. One-in-N "Games"=-Examples from the 
+
+
+Literature. 
+
+
+III SUGGESTED METHOD OF APPROACH FOR ASW APPLICATION , . 
+
+
+A. Phase 1--Microcomputer-Based Training .... . 
+
+
+1. Overall Approach .....,... 
+26 Technical Discussion ..... 
+
+
+3, Test Case... 
+
+
+eo ee @ @ ° e 
+
+
+B. Phase 2--Demonstration-of-Feasibility Study .. 
+
+
+IV PROPOSED PROGRAM... . 
+
+
+REFERENCES, . . . 2. 6 sw eo 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+il 
+
+
+SECRET 
+
+
+o wo do WN 
+
+
+le oMe>) fo>) fo>) 
+
+
+13 
+14 
+
+
+15 
+
+
+16 
+
+
+Approved For Release 2000/08/07 : @l 788R001300290001-7 
+i : SECRET 
+
+
+ILLUSTRATIONS 
+
+
+1 Computer Modeling Task . ..... 2+ e+se es eevees 
+2 Decision Graph for Target Selection. . .....4e2ee-e 
+
+
+3 Average Number of Trials ny to Screen Positive ...... 
+
+
+TABLES 
+
+
+1 Electronically-Automated Screening Study... 
+
+
+iii 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SEO RE Pe eo oas0008-7 
+
+
+I. ABSTRACT 
+
+
+An important element in ASW is the requirement to determine submarine 
+positions concerning which little or no a priori information is available. 
+The identification of technologies available to meét this requirement, 
+and an assessment of their effectiveness, is therefore an integral part of 
+
+
+any ASW effort, both with regard to threat analysis and potential offensive 
+
+
+use, 
+
+
+In this document we address the potential of a particular technology, 
+RV detection,” as an appropriate location technology for the ASW effort. 
+Data generated in various pilot studies, which include successful land- 
+submarine communication and ene location of a sunken ship, both by RV 
+
+
+techniques, indicate overall feasibility of the proposed approach, 
+
+
+"parinttlou: The abbreviation RV refers to a human information-accessing 
+capability called "remote viewing." RV pertains to the ability of certain 
+individuals to access, by means of mental processes, information blocked 
+from ordinary perception by distance or shielding. 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 S| ECRE 788R001300290001-7 
+
+
+II RV TECHNOLOGY 
+
+
+A. Background 
+
+
+Ongoing efforts in both the open’ ~> and classified* +° communities 
+continue to provide evidence for the existence of so-called "parapsycho- 
+
+
+logical,” psychoenergetic," or "psi" processes, a class of interactions 
+between consciousness and the physical world as yet unexplained. Of 
+particular interest along these lines (with regard to ASW) is the 
+phenomenon called "remote viewing" (RV), the ability of certain individuals 
+
+
+to access and describe, by means of mental processes, information blocked 
+
+
+from ordinary perception by distance or shielding or both. 
+
+
+The RV data base generated at SRI International alone over the past 
+decade consists of hundreds of experiments in the remote viewing of targets 
+ranging from objects in nearby light-tight cannisters to geographic sites 
+at intercontinental distances, viewed from locations which included 
+
+
+shielded Faraday cages and a submerged submarine. 
+
+
+RV functioning has been examined both from the standpoint of U.S. 
+use as an intelligence collection technique, and from the standpoint of 
+threat analysis as to the vulnerability of U.S. systems and facilities. 
+These efforts are presently being pursued at SRI International under a 
+Joint Services Program sponsored by the Defense Intelligence Agency (DIA-DT). 
+
+
+The appropriate points of contact are the DIA COTR in residence at SRI, 
+
+
+eens or, in the Washington, D.C. area, Dr. J. Vorona, DDS&TI, 
+DIA, or his P.O,C, for this ares, (DT-1A). 
+SG1J 
+
+
+SG1J 
+
+
+2 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+i: 
+
+
+Approved For Release 2000/08/07 : SEC REP Ro oczs0001-7 
+
+
+B. RV as a Search/Location Technolog 
+
+
+In problems of the search/location type (such as ASW) the general 
+prospect of a continuum of possible locations can usefully be reduced to 
+that of a set of discrete possibilities, This is because specification 
+of one of a number of grid squares is sufficient to define location, if 
+the grid mesh is fine enough. With the task so defined (to be one of a 
+discrete set of possibilities), then the location method can be designed 
+around one of several standard formats for RV testing developed to handle 
+
+
+one-in-N "guessing" games, 
+
+
+These formats generally consist of two parts: (1) repetitive choosing 
+by the remote viewer of one from among a number of possible alternatives, 
+and (2) some form of statistical averaging of such choices to average out 
+
+
+the "noise" and peak the "signal." 
+
+
+Cc. One-in-N "Games'"'--Examples from the Literature 
+
+
+As a first example of the power of such techniques in general, we cite 
+an experiment reported by Czech researcher Dr. Milan Ryz1, a chemist with 
+the Institute of Biology of the Czechoslovakian Academy of Science. Ryzl 
+worked with a subject whose base performance level was that he was generally 
+capable of generating better than a 60% hit rate targeting on sequences 
+of random binary digits, or bits (0, 1), where chance expectation was 50%. 
+To apply this capability, Ryzl chose as a task the acquisition, without 
+error, of a 50-digit random binary sequence, The effort took 19,350 calls, 
+averaging 9 sec per call. The hit rate for individual calls was 61.9%, 
+11,978 hits and 7372 misses, By means of repeated passes through the 
+sequence and an elaborate (though inefficient) majority-vote protocol, 
+the subject was able to identify with 100% accuracy all 50 bits,’+ The 
+
+
+probability that he did so by chance is only one in 1015, 
+
+
+3 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SECRET cece scozeo001-7 
+
+
+As a second example, we cite an electronically-automated screening 
+study carried out by Charles Tart of the University of California, Davis .?* 
+Subjects were asked to determine which one of ten possible positions on 
+a circular display had been designated as an active target by the electronic 
+test device's random number generator, an analog to determining grid 
+positions of a submarine. From an unselected population of 2000 university 
+students participating in a mass card screening program, seventy of the 
+better subjects accepted an invitation to be further screened using the 
+automated electronic testing system, Of these, ten were finally chosen 
+to participate in a formal study involving 500 trials each. The results 
+obtained with these ten subjects are shown in Table 1. It is seen that 
+five of the ten subjects scored significantly above chance, all in the 
+range of 1.5-2.5 times chance expectation. The best subject averaged a 
+24.8% hit rate (.2.5 x chance) over the 500-trial sequence; the probability 
+of such a result or better occurring by chance is only p = 2 ¥ 1078, 
+
+With functioning of this quality, the application of statistical averaging 
+techniques would quickly yield high-reliability results in a search/ 
+
+
+location problem, as is shown in Section III. 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SEcREY 
+
+
+Table 1 
+
+
+ELECTRONICALLY-AUTOMATED SCREENING STUDY 
+
+
+Probability of Obtaining 
+Such a Result by Chance 
+Subject (10% Expected) (one-tailed) 
+
+
+nonsignificant 
+nonsignificant 
+nonsignificant 
+nonsignificant 
+
+
+nonsignificant 
+
+
+5 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SORE eet onenndn tr 
+
+
+III SUGGESTED METHOD OF APPROACH FOR ASW APPLICATION 
+
+
+With regard to determining the feasibility of the use of RV techniques 
+in submarine location, an approach that recommends itself is a two-phase 
+program involving (1) microcomputer=-based training, and (2) demonstration- 
+
+
+of-feasibility testing. These are discussed below. 
+
+
+A. Phase 1--Microcomputer-Based Training 
+1. Overall Approach 
+
+
+The first phase of the program would involve training a popula- 
+tion of volunteers using microcomputer-based simulation of the submarine- 
+location problem, Basically, the individuals participating are asked to 
+select, on a repetitive basis, which one of, say, ten circles randomly 
+displayed on a video monitor has been designated as the "target" by the 
+computer's random number generator. In this simulation the ten circles 
+correspond to ten possible grid-square submarine locations, with the 
+computer-determined "target" circle designated as the actual location, 
+
+The computer display is driven by an LSI-11 microcomputer which, on a 
+trial-by-trial basis, generates a new random display of the circles, 
+
+The individual enters his selections by button press on a hand device 
+positioned over an X-Y grid (see Figure 1), and the computer responds 
+
+by giving immediate feedback as to the correct answer (to encourage learning). 
+As the trials progress, the selections are computer analyzed on line by 
+
+a statistical averaging program, the output of which indicates whether one 
+
+of the possibilities has been chosen statistically significantly more often 
+
+
+than expected by chance, 
+
+
+6 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+G3ildISSVIDNN 
+
+
+FIGURE 1 
+
+
+z a ¥ é z i a * 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+COMPUTER MODELING TASK. The circles representing possible target locations are shown in the lower video 
+monitor; a decision graph is shown on the upper monitor. The remote viewer’s choice is entered by button press 
+on hand device positioned over x-y grid. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+G3IdISSVIONA 
+
+
+Approved For Release 2000/08/07 ‘SECR 788R001300290001-7 
+
+
+In the applieetion (as contrasted to the simulation/training) 
+mode, essentially the same procedure is followed, with the circles 
+internally keyed to numbered grid-square alternatives. The procedure 
+differs only in that trial-by-trial feedback would, of course, not be 
+available in that case since the answer is unknown during the repetitive 
+
+
+selection procedure, 
+
+
+2. Technical Discussion 
+
+
+An efficient statistical-averaging method for the grid-square 
+selection process is provided by a standard sequential-sampling technique 
+used in e.g., production-line quality control.*° The sequential method 
+gives a rule of procedure for making one of three decisions (with regard 
+to each of the possible choices) following each selection attempt (trial): 
+the accululated selections have met a pre-established hit-rate criterion 
+(decision positive); the accumulated selections do not exceed chance 
+expectation (decision negative); continue trials (insufficient data to 
+make a decision). The sequential sampling procedure differs from fixed- 
+trial-length procedures in that the number of trials required to reach a 
+decision is not fixed, but depends on the results accumulated with each 
+trial. The principal advantage of the sequential sampling procedure as 
+compared with other methods is that, on the average, fewer trials per 
+
+
+decision are required for an equivalent degree of reliability. 
+
+
+To apply the sequential analysis procedure, we must a priori 
+define the hit rate we require to conclude that useful locational RV 
+functioning is taking place, and what statistical risks we are willing to 
+
+
+accept for making an incorrect decision, 
+
+
+To meet these criteria, the sequential analysis procedure requires 
+
+
+the specification of four parameters to determine which outcome (chance 
+
+
+or required-hit-rate) a series of trials corresponds to, They are: p, 
+
+
+8 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 CEE REP eon zoo001-7 
+
+
+the fraction of selections of a particular target expected in the chance 
+condition (e.g., Pe = 0.1 for a one-in-ten grid~square problem); Py? the 
+fraction of selections expected in the presence of a functioning RV 
+
+
+capability (e.g., p. = 0,16 for a 1.6 x chance-expectation requirement, 
+
+
+1 
+a value that might be chosen because of previous performance in a successful 
+one~in-ten task); a, an a priori assigned acceptable error rate (e.g., 
+
+@ = 0.05) for concluding that seenmvarge selections of a particular 
+
+choice correspond to the Py (RV) case when in fact they correspond to 
+
+the Py (chance) case (Type I error); B, an a priori assigned acceptable 
+error rate (e.g., 8 = 0.05) for concluding that accumulated selections 
+
+
+of a particular choice correspond to the Be (chance) case when in fact 
+
+
+they correspond to the P, (RV) case (Type II error). 
+
+
+With the parameters thus specified, the sequential sampling 
+
+
+procedure provides for construction of a decision graph of the -type shown 
+
+
+in Figure 2. The decision graph illustrates the rules of procedure for 
+making one of the three possible decisions following each trial: continue 
+test before making a decision (unshaded middle region in Figure 2); 
+decision positive (upper shaded region in $i euive 2); decision negative 
+(lower shaded area in Figure 2), The equations for the upper and lower 
+
+
+decision lines are given in the Appendix, 
+
+
+With the appropriate equations programmed into the microcomputer, 
+the computer automatically records all data (trial number, target/response 
+pair), and displays on the video graphics system progress on a target 
+decision graph. A cumulative record of remote viewer selections is com 
+piled by the computer until either the upper or lower decision line is 
+
+
+reached, at which point a decision is made. 
+
+
+Also given in the Appendix are the equations for the average 
+number of trials to make decisions, positive or negative. A plot of the 
+
+
+average number of trials to reach a positive decision for typical cases 
+
+
+9 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+(quawasnbay (OT/L] uoneissdxg aoueyy x 9} *sajey 404g %&) 
+NOILOATAS LADYVL YOA HdVHOD NOISIOAG Z@ AHNDIS 
+
+
+STWItL 
+
+
+0 oz 
+
+
+NS HO SE NS T 
+
+
+SS FALLV9aN NOISIOIG 
+
+
+SS ONINSAHOS 
+
+
+0€ 0z 
+
+
+Z 
+
+
+N 
+
+
+Approved For Release 2000/08/07 : CECREr 
+
+
+OL 
+
+
+L35uUV1 AO SNOILOA TAS. GSaLVINWNDOV 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SECREL 
+
+
+of interest is shown in Figure 3, where 5% (a, 8) error rates have been 
+assumed, As an example, we see that for a twice-expectation rate (k = 2) 
+hitter, n, * 60 trials are required on the average to reach a positive 
+
+
+decision on a one-in-ten target. 
+
+
+The overall system error is dependent on the type of mode employed 
+
+
+in the RV position-location attempts, 
+
+
+(a) If the submarine-location task is approached with a tentative 
+choice having already been made (e.g., by conventional technological means), 
+then the task of the remote viewer is to verify or reject the tentative 
+location as a backup test. In this mode, only a single decision graph is 
+plotted for the target choice of interest. The probability of error due 
+to chance Woe in this case ~a, being given by the product of the proba- 
+
+
+bility of making a selection even though operating at chance, and the 
+
+
+percentage of such selections that correspond to an incorrect decision: 
+
+
+P - (2) w ‘ 
+e,c N 
+
+
+(b) If the submarine-location task is approached as a blind 
+
+
+one-in-N task (e.g., one-in-10 task), then N decision graphs are plotted 
+in parallel, one for each of the N target choices, as each selection is 
+being made. In this case, to a good approximation the graphs can be 
+treated in the chance condition as independent, and the probability of 
+error due to chance eee ~ NY, Specifically, it is given by the product 
+of the probability of making at least one selection in the N graphs by 
+
+
+chance (which is one minus the probability of making no selections), and 
+
+
+the percentage of such selections that correspond to an incorrect decision: 
+N- 1 N 
+p - ( )p- aot] Py 
+e,c N 
+
+
+11 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SEP RPEP7EeRO01200290001-7 
+
+
+104 
+
+
+AVERAGE NUMBER OF TRIALS ny TO SCREEN POSITIVE 
+3 
+
+
+10 
+
+
+Po 
+
+
+FIGURE 3. AVERAGE NUMBER OF TRIALS a, TO SCREEN POSITIVE 
+Pg * chance expectation = 1/N, where N is the number of alternatives. 
+Py = kxpo, where P, is the required hit rate and k is the associated strength parameter. 
+False alarm rates a = 6 = 0.05 are assumed. 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SECRET ee 
+
+
+For example, in a one-in-ten case (N = 10) a 1% individual- 
+target error rate (@ = 0.01) leads to ao <F 0.086, or a confidence factor 
+? 
+
+
+1- P, ack 0.91; this provides ~ a 9-fold increase in odds over the one- 
+? 
+
+
+in-ten confidence factor expected by chance, 
+
+
+3, Test Case 
+
+
+In order to verify the feasibility of the above approach on the 
+basis of actual RV-derived data, we examined data generated by a subject 
+asked to identify, not which of ten grid squares was occupied by a submarine, 
+but, analogously, which of ten circles on a display had been randomly chosen. 
+as the target circle by computer random number generator. The data (that 
+generated by Subject #1, Table 1-~500 trials, 24.8% hit rate on the one- 
+in-ten task) were processed by passing it through the sequential analysis 
+statistical averaging program with the parameters set to correspond to a 
+twice-chance-expectation requirement and 5% error rates, The result: 
+twelve one~in-ten targets were correctly identified, ina row, before the 
+data stream ran out. The probability of such a track record occurring 
+
+
+by chance is only p = ors 
+
+
+Although the above data were gathered under the condition that 
+the correct answers were stored in the computer during the runs, and 
+therefore trial-by-trial feedback could be given as the random number 
+generator stepped through its program, the conditions are nonetheless 
+sufficiently similar to the projected task that the results can be taken 
+
+
+as evidence that the proposed approach is sound, 
+
+
+In the training program, participants would be trained by carrying 
+out a similar task, first with trial-by-trial feedback to encourage learning, 
+and then without feedback to model properly an application study. In this 
+
+
+initial phase the target for each run would be designated internally by the 
+
+
+computer's random number generator, 
+
+
+13 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : SECRELO 
+
+
+B, Phase 2--Demonstration-of-Feasibility Study 
+rr ee ew DUY 
+
+
+The participants who emerge from Phase 1 with successful performance 
+
+
+profiles would then be asked to participate in Phase 2, 
+
+
+In Phase 2 the mechanics of microcomputer recording and analysis of 
+subject selections is the same as in Phase 1, Phase 2 differs from Phase 1; 
+however, in that a participant's selection from the random circle display, 
+internally keyed to numbered grid-square location alternatives, cannot be 
+
+
+internally compared to a recorded correct answer. 
+
+
+In this Phase 2 demonstration-of-feasibility study, the sponsor would 
+be asked to construct for each test a finite list of potential alternative 
+submarine locations one of which is known (or can be found out) to be 
+correct. To carry out the test, a participant (or participants) would be 
+briefed as to the task and then be asked to proceed as in Phase 1, The 
+sequential sampling parameters in the microcomputer analysis program would 
+be set in accordance with the performance profiles established by the 
+participant(s) in the Phase 1 training study. The results generated by 
+the participant(s) in response to the task would then be tabulated and 
+submitted to the sponsor, Following a series of such tests, performance 
+profiles for the individual participants and the overall data set would be 
+evaluated to provide an estimate as to the feasibility of the proposed 
+
+
+technique, 
+
+
+The probability of success in an ASW applications task is buttressed 
+by the fact that (1) the statistical procedures described here have been 
+successfully applied by us in an exploratory program to determine, by RV 
+means, the location of hidden radioactive materials and (2) we were 
+completely successful in a series of experiments with a submersible which 
+included long-distance land-submarine communication,’ and the location of 
+
+
+a sunken ship, both by RV techniques, 
+
+
+14 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+SGFOIA2 
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000 PR RY CLASSTPTED orn” 
+
+
+REFERENCES 
+
+
+1. 4H. E. Puthoff and R. Targ, "A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical Perspective and 
+Recent Research,'' Proc, IEEE, Vol. 64, pp. 329-354 (March 1976), 
+UNCLASSIFIED, 
+
+
+2. 4H. E,. Puthoff, R, Targ, and E, C, May, "Experimental Psi Research: 
+Implications for Physics," in The Role of Consciousness in the 
+Physical World, Ed. R. Jahn, AAAS Selected Symposium 57, Westview 
+Press, Inc., Boulder (1981), UNCLASSIFIED. 
+
+
+3. R. G. Jahn, "The Persistent Paradox of Psychic Phenomena: An 
+Engineering Perspective," Proc, IEEE, Vol. 70, pp. 136-170 
+(February 1982), UNCLASSIFIED, 
+
+
+4, "Views on Emerging Areas of Science and Technology Potentially 
+Important to National Security (U)," STIC 75-4, U.S. Intelligence 
+Board Scientific and Technical Intelligence Committee (USIB-STIC), 
+Washington, D.C. (December 1975), CONFIDENTIAL, 
+
+
+5. H. E. Puthoff and R. Targ, "Perceptual" Augmentation Techniques (u)," 
+Final Report, SRI Project 3183, SRI International, Menlo Park, CA 
+(1 December 1975), SECRET. 
+
+
+6, "Soviet and East European Parapsychology Research (U)," CIA Report 
+SI 77-10012 (April 1977), SECRET, 
+
+
+7. %4H. E,. Puthoff, R. Targ, E, C. May, and I Swann, "Advanced Threat 
+Technique Assessment (U)," Final Report, SRI Project 5309, SRI 
+International, Menlo Park, CA (October 1978), SECRET. 
+
+
+8. ''Paraphysics R&D-Warsaw Pact (U),'" DIA Report DST-18105-202-78 
+(4 February 1980), SECRET, 
+
+
+9. R. Targ, H. E. Puthoff, B. S. Humphrey, and E. C. May, "Special 
+Orientation Techniques (U)," Final Report, SRI Project 8465, 
+SRI International, Menlo Park, CA (June 1980), SECRET. 
+
+
+10. H. E, Puthoff, "RV Reliability, Enhancement, and Evaluation (U), 
+Final Report, SRI Project 3279-1, SRI International, Menlo Park, CA 
+(February 1982), SECRET. 
+
+
+16 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/09/N] CLRSSFED 300290001-7 
+
+
+ll. M. Ryzl, "A Model for Parapsychological Communication,” J, Para- 
+psychology, Vol. 30, pp. 18-31 (March 1966), UNCLASSIFIED, 
+
+
+12. C, T. Tart, Learning to Use Extrasensory Perception, Univ. of 
+Chicago Press (1976), UNCLASSIFIED. 
+
+
+13, <A. Wald, Sequential Analysis, Dover Publication, New York (1973), 
+UNCLASSIFIED, 
+
+
+17 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000PFRi CLASS PEPE BS 12002200017 
+
+
+Appendix 
+
+
+The equations for the upper and lower limit lines in the sequential 
+
+
+Sampling procedure are, respectively,?° 
+
+
+a + §& 
+Ya Sy se 
+
+
+where 
+
+
+toy ee 
+Ae a 
+1 p. l-p 
+1 re) 
+log Te 
+Po as 
+1- 
+log 
+B 
+a= 
+re) p. l-p 
+1 .e) 
+log a 
+p Py 
+l-p 
+1 
+ies 
+S = qe e 
+jee es : 
+ae 
+Py Py 
+
+
+The average number of trials required to reach a decision in the 
+
+
+positive and negative directions, respectively, are given by 
+: 18 
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000FAJ CLASS PEPE 300290001-7 
+
+
+B 
+l-@ 
+1 < 
+P, 1 Et) 
+Pp, log —j+ ae P,) log re 
+Po Po/ 
+8 (2-2 
+aay toe + @ log —*} 
+
+
+= ef 
+o! Py aD 
+p roe(2) (1 ~ p_) log 
+oO p re) l-p 
+fe) oO 
+
+
+19 
+
+
+UNCLASSIFIED 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+
+Approved For Release 2000/08/07 : GEC Ep ssR001300290001-7 
+
+
+— NOT RELEASABLE TO FOREIGN NATIONALS = 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300290001-7 
+
+

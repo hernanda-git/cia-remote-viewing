@@ -1,0 +1,1765 @@
+Approved For Release 2000/08/07 : CIA-RQBSGRGBABRO01300320001-3 
+
+
+Final Report May 1982 
+
+
+4 
+
+
+TARGETING REQUIREMENTS TASK (U) 
+
+
+By: HAROLD E. PUTHOFF RUSSELL TARG 
+BEVERLY S. HUMPHREY KEITH HARARY 
+
+
+Prepared for: 
+
+
+DEFENSE INTELLIGENCE AGENCY 
+WASHINGTON, D.C. 20301 
+
+
+Attention: 
+
+
+DT-1A 
+
+
+SGi1J 
+
+
+CONTRACT MDA903-81-C-0292 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME. 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+NOT RELEASABLE TO 
+FOREIGN NATIONALS 
+
+
+333 Ravenswood Avenue 
+
+Menlo Park, California 94025 U.S.A. 
+(415) 326-6200 
+
+Cabie: SRI INTL MPK 
+
+TWX: 910-373-2046 . 
+
+
+WN TL LA 
+
+
+SHesferoved For Release 2000/08/07 : CIA Be Set0748R001300320001-3 
+
+
+Sri 
+
+
+International 
+
+
+d For Release 2000/08/07 : CIA-R RIE G05362001300320001-3 
+
+
+€ cad 
+
+
+Final Report May 1982 
+Covering the Period October 1980 to October 1987 
+
+
+TARGETING REQUIREMENTS TASK (U) 
+
+
+By: HAROLD E. PUTHOFF RUSSELL TARG 
+BEVERLY S. HUMPHREY KEITH HARARY 
+Prepared for: 
+DEFENSE INTELLIGENCE AGENCY Contract No: MDA903-81-C-0292 
+
+
+WASHINGTON, D.C. 20301 
+
+
+Attention: MM  SG1J 
+
+
+DT-1A 
+
+
+SR! Project 3279-4 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME. 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+Approved by: 
+
+
+ROBERT S. LEONARD, Director 7y 
+Radio Physics Laboratory Copy NO. wsciene 
+DAVID D. ELLIOTT, Vice President This document consists of 28 pages. 
+Research and Analysis Division 
+
+SRI/GF-0030 
+CLASSIFIED BY: DT-1A NOT RELEASABLE TO 
+REVIEW ON: 31 May 2002 FOREIGN NATIONALS 
+
+
+SECRET 
+
+
+333 Ravenswood Avenue ° Menlo Park, California 94025 * U.S.A. 
+(415) 326-6200 * Cable: SRI INTL MPK ° TWX: 910-373-2046 
+
+
+: Si cied For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+GECRES 
+
+
+CONTENTS 
+
+
+LIST OF TABLES, 2. 1. 2 2 ee eo we we we ww 
+
+
+EXECUTIVE SUMMARY . . 2. 6. 2 6 © oe © we ew we oe 
+
+
+I OBJECTIVE oz e e ee @ e o e eo 8 @ oo e# @¢ @ 
+
+
+II INTRODUCTION . . . .. 26 1. «© © 2 © w @ ® 
+
+
+I I I PROTOCOLS eo @ e o 8 oo # 08 @ oe ° oo @ @ @ 
+
+
+A, 
+B, 
+Cc. 
+D 
+
+
+General Protocol, . . .« . « « « « « 
+
+
+Viewer Selection. . . ...« « « « » 
+
+
+Distribution of Trials Across Sessio 
+
+
+Transcript Evaluation . .....e«. 
+
+
+IV RESULTS oe © © # © e @ 6 “e © © © #© @ © @ 
+
+
+A. 
+B, 
+
+
+Cc. 
+
+
+Trial Collection. . ..... «© » 
+
+
+Data Summaries, . . . 2. ee «© © « « 
+
+
+Overall Findings, .......«#e-e 
+
+
+1, 
+2, 
+3. 
+4 
+
+
+Evidence for Remote Viewing. . 
+Distribution of Results across 
+
+
+eo © @ @ @ 
+
+
+° 
+
+
+n Conditions, 
+
+
+oe oo e @ 
+
+
+Targeting 
+
+
+Effects of Mid-Session Feedback. .... 
+
+
+Caveats. . 2. 2. 6» se ee we @ 
+
+
+V SUMMARY AND CONCLUSIONS, . . 1. 6 6 © « « 
+
+
+REFERENCES , 
+
+
+e ee ee e e #8 @ e @ @ oe # e# 8 @ oo @ 
+
+
+ii 
+
+
+ape 
+
+
+iii 
+
+
+oO OO & 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/03 GRR DE2s -00788R001300320001-3 
+
+
+TABLES 
+
+
+1 Distribution of Trials in Targeting Study. .......-. 
+
+
+2 O-to-7 Point Evaluation Scale for Target/Transcript 
+
+
+Correspondence , . 
+Summary of RV Data 
+Summary of RV Data 
+Summary of RV Data 
+
+
+Summary of RV Data 
+
+
+ya GO oO FP Ww 
+
+
+for Viewer 557. . 
+for Viewer 753. . 
+for Viewer 688. , 
+
+
+for Viewer 807. . 
+
+
+Viewer and Each Session Category . . 
+
+
+‘o* 
+
+
+o 
+
+
+All Data from 48 RV Trials, with Mean Values 
+
+
+8 Summary of Coordinate RV Trials with Mid-Session 
+
+
+1 
+
+
+iii 
+
+
+meee 
+
+
+Feedback. 
+
+
+13 
+14 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release Sag ae = a ea 
+
+
+EXECUTIVE SUMMARY 
+
+
+In this report we present the results of a four-month investigation, 
+carried out by SRI International, to determine the relative effectiveness 
+of various targeting procedures in use in remote viewing (RV). Three such 
+procedures were investigated: 
+
+(1) Beacon targeting, in which the viewer has had some 
+
+
+personal contact with, or is given the photograph of, 
+an individual at the target site. 
+
+
+(2) Coordinate targeting, in which the viewer is given the 
+geographical coordinates of the target site. 
+
+
+(3) Abstract targeting, in which the viewer is only told 
+
+that there is a target site to be described, 
+
+In our experiments with four remote viewers, three of whom performed 
+reliably in the RV task (RV of San Francisco Bay Area sites), we did not 
+find any overall significant differences in the efficacy of three targeting 
+modes, subject to some variation because of individual preferences, I[In- 
+stead, reliable RV functioning with results of comparable accuracy was 
+
+
+obtained with all three techniques. 
+
+
+As an additional task, we investigated the usefulness of giving the 
+viewer limited mid-session feedback as to the general nature of the target 
+site. We found that this procedure did not result in increased accuracy 
+
+
+of description. 
+
+
+iv 
+
+
+SECRET. 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/0 GEMERDPI6-00788R001300320001-3 
+
+
+I OBJECTIVE 
+
+
+The objective of the "Targeting Requirements Task" was to determine 
+the relative effectiveness of various targeting procedures for use in 
+remote viewing (RV). If differences in relative effectiveness were found, 
+SRI International was also to determine whether such differences depend 
+on the characteristics of individual remote viewers or are widespread in 
+
+
+nature, 
+
+
+1 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000 Cages 70 OP BORON TS H0S20001~ 
+
+
+II INTRODUCTION 
+
+
+In both SRI and client studies in RV over the past decade, several 
+methods have been used to target the remote viewer on the site. Much of 
+the early work used a person located at the target site as a target for 
+
+
+~3* 
+a We refer to this as Beacon RV, because in some 
+
+
+the remote viewer. 
+sense the individual at the site can be said to act as a "homing" beacon. 
+
+A second technique, which has often been used in operational RV, and around 
+which a training program is being developed ,* is Coordinate RV. In this 
+procedure, the target site coordinates (latitude and longitude in degrees, 
+minutes, and seconds) are given (with no further information) to the remote 
+viewer who is to view the site. A third technique, which has been used 
+occasionally with good success both in laboratory work and in operational 
+viewing, we call Abstract RV. In this approach, the remote viewer is 
+
+
+simply told that there is a target site to be described; no further infor- 
+
+
+mation is given, 
+
+
+tT 
+These three techniques, with variations, have been used success- 
+fully, at SRI, in the client community, and elsewhere. However, no 
+
+
+systematic comparison of their relative effectiveness has been made to date. 
+
+
+This study compares the results of the use of the targeting techniques 
+as described above under otherwise uniform RV conditions, The results are 
+examined to determine whether significant quantitative differences exist 
+
+
+as far as the quality of the RV product is concerned. These three 
+
+
+* 
+References are listed at the end of the report. 
+
+
+For example, in Beacon RV, the remote viewer may be introduced to the 
+outbound person who is to act as a beacon, or simply be shown his 
+photograph. 
+
+
+2 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release ore" tekghegeeieies foe oerrzncrzgeer 
+
+
+representative techniques were chosen for this study because they span 
+the range, from the concrete to the abstract, of the targeting techniques 
+
+
+typically required in operational tasks. 
+
+
+Specifically, the targeting mode is varied over the three techniques, 
+These techniques are designated here as Techniques A, B, and C (for Abstract, 
+Beacon, and Coordinate, respectively). A variation of Technique C, 
+designated C. is also incorporated into the study to examine whether 
+modest feedback given to the viewer at mid-session about the general 
+
+
+nature of the site increases accuracy in the remainder of the session, 
+
+
+3 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release Seep 
+
+
+III PROTOCOLS 
+
+
+A. General Protocol 
+
+
+The general protocol for the study is to closet a remote viewer with 
+an experimenter at SRI, and, at a prearranged time, have the viewer describe 
+an undisclosed remote site using the required targeting technique. The 
+target site, one of sixty located in the San Francisco Bay Area within a 
+30-min driving radius of SRI, is selected by random number access to a 
+target pool by a second experimenter in charge of overall protocol, For 
+each viewer, target sites are used without replacement as the series 
+progresses , so that no individual viewer has the same site twice. In all 
+cases, the interviewer is blind to the target so that he is free to question 
+
+
+the remote viewer to clarify his descriptions without fear of leading. 
+
+
+During the prearranged viewing period lasting 15-min, the viewer 
+makes drawings of and recards on tape his impressions of the target site. 
+At the end of this viewing period, the interviewer collects the data for 
+the file, finds out from the protocol experimenter what the target site 
+
+
+was, and then takes the viewer to the site for feedback. 
+
+
+B. Viewer Selection 
+
+
+To evaluate fairly the effects of varying the target conditions, we 
+chose to carry out the study with four relatively inexperienced SRI viewers, 
+as opposed to the more experienced viewers who exhibit strong preferences 
+
+[alae 0 tC«N ETE eS 
+
+
+for certain targeting techniques. 
+EE POT LNT EIA EIS BIR PLN RED PSY ATP DESEO 
+
+
+4 
+
+
+Sere 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release Lee Oe 
+
+
+Cc, Distribution of Trials Across Session Conditions 
+
+
+Each of the four remote viewers chosen was asked to contribute twelve 
+trials apiece, three trials each for each of the four techniques, A, B, 
+C, and C’, This method provides a total of 48 trials, 12 in each of the 
+four categories, distributed as shown in Table 1 below. Each of the 
+viewers used the four techniques in a balanced, random intermixed order 
+(e.g., BACC’ACB ...) as is usual in psychological studies with several 
+
+
+stimulus categories, 
+
+
+Table 1 
+
+
+DISTRIBUTION OF TRIALS IN TARGETING STUDY 
+
+
+Viewer anor 
+
+
+557 3 
+753 3 
+807 3 
+688 3 
+
+
+The protocol experimenter tells the interviewer at the beginning of 
+
+
+the session which technique is to be used. For Technique A, the interviewer 
+simply informs the viewer that there is a target site to be described; no 
+
+
+further information is given. 
+
+
+For Technique B, the viewer is either introduced in person to the 
+_outwardbound experimenter who will act as a beacon (Beacon Trial One), 
+or is simply shown a photograph of an otherwise unknown outwardbound 
+experimenter (Beacon Trials Two and Three). The reason for this inter- 
+trial variation is to obtain additional information about the amount of 
+
+
+viewer/beacon contact required, 5 
+
+
+SECRETE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08 EGAAESP P96-00788R001300320001-3 
+
+
+For Technique C and C’, the viewer is read the coordinates (in 
+degrees, minutes, and seconds) for the site. For Technique c’, the 
+interviewer obtains from the protocol experimenter before session start 
+an envelope containing general information about the site (e.g., “target 
+site is a building exterior," "target site is an open outdoor area," and 
+so forth.) In mid=session, after the viewer has described the site to 
+the best of his ability, the interviewer opens the feedback envelope and 
+gives this additional information to determine whether it stimulates 
+increased accuracy and detail in the viewer's subsequent images of the 
+
+
+site, 
+
+
+D. Transcript Evaluation 
+
+
+In early programs, transcript analysis was carried out exclusively 
+on the basis of blind judging (matching) of transcripts to target sites ,2» ® 
+This technique, although excellent with regard to demonstrating the 
+presence or absence of a viable RV function, did not provide a uniform 
+
+
+measure from transcript to transcript of the quality of RV functioning. 
+
+
+In the previous program, SRI, in cooperation with the client, developed 
+a O-to-7 point rating scale to be applied "nonblind"”, post hoc to the 
+evaluation of transcripts.* For no correspondence between transcript and 
+target site, a 0 is assigned; for excellent correspondence a 7; and for 
+intermediate correspondence an intermediate rating. The precise criteria 
+for each rating is shown below in Table 2, A comparison (in the previous 
+program) of the ratings produced with this approach against the ratings 
+produced by the blind-judging approach for a 36-trial series showed sta- 
+tistically significant positive correlation between the two techniques. 
+Furthermore, application of the 0-to-7 point scale to randomly matched 
+transcripts and targets from that study yielded chance results, These 
+two findings taken together establish that application of the 0-to-7 
+
+
+point scale provides a reliable, objective measure of RV quality. This 
+
+
+6 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/02/}-74 fl P96-00788R001300320001-3 
+
+
+Table 2 
+
+
+0-TO-7 POINT EVALUATION SCALE FOR TARGET/TRANSCRIPT CORRESPONDENCE 
+
+
+{ Value Assigned to the Point 
+
+
+Excellent correspondence, including good analytical detail 
+(e.g., naming the site by name), and with essentially no 
+incorrect information, 
+
+
+Good correspondence with good analytical information (e.g., 
+naming the function) and relatively little incorrect 
+information. 
+
+
+Good correspondence with unambiguous unique matchable elements, 
+but some incorrect information. 
+
+
+Good correspondence with several matchable elements intermixed 
+with incorrect information. 
+
+
+Mixture of correct and incorrect elements, but enough of the 
+former to indicate viewer has made contact with the site. 
+
+
+Some correct elements, but not sufficient to suggest results 
+beyond chance expectation. 
+
+
+Little correspondence, 
+
+
+No correspondence. 
+
+
+method was, therefore, chosen for evaluation of the transcripts for this 
+
+
+targeting study. 
+
+
+7 
+
+
+-SECREF 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release AO ee oe SERDOT CONS 20001~ 
+
+
+IV RESULTS 
+
+
+A. Trial Collection 
+
+
+In accord with the protocols outlined in Section III, a total of 48 
+trials were carried out, 12 with each of four remote viewers, As summarized 
+in Table 1, each viewer contributed three trials for each of the four 
+
+
+techniques. 
+
+
+B. Data Summaries 
+
+
+Data summaries for each of the four remote viewers are tabulated in 
+Tables 3 through 6, and a collective summary is provided in Table 7. 
+Listed in the individual viewer Tables 3 through 6 are the trial numbers 
+(1 through 12) and associated sites, targeting techniques and 0-to-7 point- 
+scale accuracy ratings. (Two columns appear in the accuracy ratings for 
+Category Cc’, Ratings in the first column were assigned on the basis of 
+material produced before feedback only, while those in the second column 
+apply to the transcript as a whole, including material generated following 
+feedback, The effects of mid-session feedback are treated in detail in 
+
+
+Table 8, in which we present a detailed session-by-session summary. ) 
+
+
+Cc. Overall Findings 
+
+
+Most of the findings of this study are obtained by examination of 
+Table 7. We, therefore, turn our attention for a moment to a detailed 
+
+
+examination of this table. 
+
+
+The transcript ratings for each of the remote viewers, for each of 
+the session categories, are shown in the individual boxes in the table. 
+
+
+The techniques, listed across the top, are Abstract (A), Beacon (B), 
+
+
+1 
+
+
+8 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+“qydTtzosuelz SATWUS EY} FO STseq ay. Uo ‘49S puodes ‘fyoRqpees 
+
+
+siojeq pezersuses [eliezeM JO STseq ey} UO ape die SUOTZENTeAS Jo yes YsaTy 
+* 
+
+
+P96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/ 
+
+
+yoeqpee, uotsseg-p tw 
+* —_- 42TH S987 eUTp.z009 
+
+
+$94 eUTp.009 
+
+
+FOVsASAY 
+
+
+Ssutzey Aovinosoy enbtuyoay 
+SUT ISIBL 
+
+
+aeseiey punors1epug 
+emo4g Ar9800I5 
+xoetduog [oog 
+
+
+asnoy}eog 
+eT yserL peor tey 
+mneToOsney 
+
+
+yeuuny zodeq 
+spuelArg 
+enze1g eIped 
+
+
+SUTPT tng eTqqng 
+Te ,OH eusqeg 
+Sqyiy petlly 
+
+
+a4yTg .e81e 
+
+
+(AY TOF soueptae moys you ssog--g*z = uvem TT e.18A0) 
+
+
+LGG UAMATA YOd WLVC AY JO AUVWINAS 
+
+
+& STaeL 
+
+
+requnn 
+Teta 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+P96-00788R001300320001-3 
+
+
+Approved For Release 2000/08), 
+
+
+*qdTa1osueij, a1TJUe 244 FO stTseq ay} WO ‘3as puoDes 
+S‘yoeqpeey eaojzeq pe yereues [eT1eyeU Jo sTseq oy4 UO apeMm are suOoTLeENTeASe JO Jes 4SATY 
+
+
+i 
+-(G0°0 > d aoy poatnbes pI°s = a--69°2 = a 29 = “3p ‘g = 'zp feouetzes 
+
+
+Jo stsfteue feav-ou0) 9 ‘g SY SUOTZTPUOD UseMjJeq SeDUeTeFITIp JWeOTFTUSIS smoys TeMaTA oul 
+
+
+yoeqpea,y uotsses—pTtw H USTIOIOTA 
+: TM $9478UTP.0O; FIOHN atnzerUrp 
+a oe £19 9IED 
+
+
+s}ainog sTuusdy 
+$941 8UTp.I009 Sutpling spazoossy vuvueg 
+aayeey, ALTsreA 
+
+
+TITH Wo younyD 
+TOog su Tu Tag 
+punoisheTg $,UsIpT ty 
+
+
+attd 318g 
+qoeurysqy yteq UT esptag 
+: asnoy eul0g 
+
+
+suTzey Aoearnooy anbTuyoelL ea4ytg yos1By, aaquny 
+Buty esrey [etry 
+
+
+($91TS 783107 YQTA 40% 7U0D S01 eoTpuI--¢*s = Wee [TB1EAQ) 
+
+
+eee UAMATA YOL VIVA Ad dO AUVNANS 
+
+
+Pp eTABL 
+
+
+10 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+*4dTaiosuva} eaTjUSe 943 JO sTseq ey. Uo £3eS puoDss 
+
+
+fyoeqpeey eaofeq pe yeraues [etsze eM Jo sTseq oY UO ape ore sUOT.eENTeAS Fo 4es 4SITTZ 
+* 
+
+
+G°e GS unesny ..y 
+cS"? Ss young) 7S TpoyzeW 
+s°¢ g eserey punozsz1epuyn 
+
+
+JP eapeeg woTsseg-P TW 
+UTM SsozeUTpsoog 
+
+
+TTeH ALTO O1LV OTed 
+$91 eu Tpz009 eTI1TQ ®IT_ ynoog Aog 
+zre4us9g ZuTddoug puoyueis 
+
+
+peus exta Tus 
+eTTtd 4+1Te8s 
++STIOTA STTIW 
+
+
+zeToOrAsYyD ATH 
+qovarysqy punoasheTg eATOMODOT 
+ITH wo younyy 
+
+
+suTtzey Aoeanooy anbtuyoay, alts  .esaey Tequny 
+BUTLAS IBY Tetry 
+
+
+(seouepuodsaazi09 poos y4TM seats 1e81e1 YLTM OR UOD sa yeOTpUI--Q°P = UeOM TT e19AQ) 
+
+
+889 YAMAIA HOA VLVC AU JO AUVNWNS 
+
+
+S$ STQeL 
+
+
+CIA-RDP96-00788R001300320001-3 
+
+
+11 
+
+
+Approved For Release 2000/08/07 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+*4ydTzosuvi} artyue ey. FO sTseq 943 UO ‘49S puOoD|sS 
+fyouqpoeey aszojyeq pe .ersues [et19,MU Jo stseq ey} UO ape ore SUOTYeNTPAS Jo eS SITY 
+* 
+
+
+eaazeayy, AVTsre, 
+esnoy UPTIOVTA 
+Te10M azeddT{[g ssety 
+
+
+2 eapeeg uo Tsseg-P TH 
+UTM seqeuTp.1009 
+
+
+mneTosney 
+$97. BUTP.1009 s1anop stuuay 
+IOMOL TeACOH 
+
+
+JIOp e1n.eTUTW 
+Surpling etaqng 
+4STIOTA STTTW 
+
+
+; spueTseg 
+q0erT1sqy wooy peplerfus 
+Ss, 1asueqt tem 
+
+
+Butzey Aoeanooy anbtuyoal e1ts .esIey 
+SUTLOSIBL 
+
+
+(seouepuodsartios poo 4TM SeyTs 198182 WTA 3Oe4UOD SOZBOTPUI--[*P = UBOM [TeI9A0) 
+
+
+208 YaMHIA YO VIVE AY JO AUVANAS 
+
+
+9 STdUeL 
+
+
+12 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+P96-00788R001300320001-3 — 
+
+
+Approved For Release 2000/08 
+
+
+T 
+°(S0°O > d soz portnber FI"'G = d--69°L = J ‘9 = “FP ‘= FP 
+
+
+fsouetiea Jo stsfTeue Avm-ou0) 9 ‘gq ‘y SUOTZTpUOD WaeKqaq seoUaTe;FTP JUOTFTIUSTS SMOYS TJOMETA SUL, 
+
+
+é 
+
+
++ 
+‘Uva JeMeTA BSUTZETNOTeO UT pesn ATUO Youqpeey exoyzeq Aqzue ,) epow 
+* 
+
+
+uot pouny 
+Aw SutMoyg 
+€ jo usayq 
+£10848 
+
+
+ues 
+
+
+(ag-wou) 
+es 
+
+
+Lg¢ 
+
+
+4 2POW yoeqpead yoeqpesy (too Bag) (0 B8I1Sqy) TOMOTA 
+IOMOTA Sutpnpoul eroyeg a ¥ 
+(3Peqpeeg sn{d seyeutTps00g) 
++8) 
+i 
+
+
+AYODELVO NOISSYS HOVE ONY MSMHIA HOVE UOd SHNTVA NVHW HLIM ‘STVIUL AU 8p WOud VIVO TIV 
+
+
+Z eTaeL 
+
+
+13 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release 2000/ Cai Ra GeESEP 96 -00788R001300320001-3 
+
+
+*uoT}eUTSeut pus Aromem Jo AeTIAeAQ TBOTPATeUY 03 SUTe{IZAad TOY 
+
+
+*49e2.100 
+you e204 osoq4--pepTaoad stTTEyep SuTpring otztoeds Jo sttezep Toy ‘Hovqpeey s9qsy 
+
+
+“TOY 
+JO Ss}Iq [eUOTZIppe omos RTM ZuoTe ‘peptaoad AtTsnoTaead sTtezep Fo uoTzUeM 7TeYyZANy 
+
+
+“yovqpees Sq pezyToTTe STTe.ep yoerI00 MoU ON “UOTsNyUOD 
+pe.earo pue Toy dn partes ‘pamea Apvarte suiazt fo UOT USM JeYyzAINZ 07 pat Yovqpaas 
+
+
+*sseis pue sSutptting sotyjo ynoqe Toy peppe pue Ssuotydaoried [euTStTio pemaztzuog 
+
+
+*paptaord sem [Te ep 409e7.100 
+TayyINI oN ‘“youqpees Aq pezTotre e1em seoetTd azeyjo pue s,AoB_ FO suoTydtazosep TOV 
+
+
+"TOV [euoT tT ppe Jo }oOT B 
+dn pel[eo yoeqpees ynq ‘[feJep [BUOTLIPpe poos st aeqzuvyd uspoom ut eer} Jo TTe EC 
+
+
+*aqzIs 703184 Teyjyoue WorZ JOY UT 1qSN0ag 
+
+
+"TOV 
+[BUOTLIppe ollos pue (a3zer0NOD ‘areyds eSreT) sTTezop yooert0d Teqyrny esaeds may y 
+
+
+"[Teqep TeuoTZTppe se ‘47 uo ZuTyaom 
+auCaMIOS YZTM astas uepaes ‘{[euAoy :seu0}y SUTLeeF poo’ osTe inq ‘TOY TeuOTITppe sauog 
+
+
+‘a8evae3 optsut dwer eouerzue jo 
+UoT{dTIOsap B pue SUNOS yNoqe Ltezep YoorTZ0D [euoT Ippe snid ‘Joy TeuoTzIppe smog 
+
+
+“TTB 
+‘soyoueq ‘saoquetd ‘Sueyzeao eoueaqUe eAOge UTS :TTe}ep jOeTZ0D [eUOCTITppe smog 
+
+
+*[TeZep JayzaNz yULOTZTUSTS ou 4nq ‘TOY TeuOT}TPpe smog 
+
+
+yoeqpssszsod 
+
+
+(STB8TIL ,O edfL) 
+
+
+MOVECHAA NOISSHS-CIW HLIA STVIUL AX ZLYNIGYOOD 4O AUVANAS 
+
+
+8 eTqeL 
+
+
+unesny i41y 
+
+
+yoanyy 1S TPoyyON 
+
+
+punoz3.1epun 
+
+
+erzBeqy, AVTSIBA 
+
+
+asnoy TeTIOJOTA 
+
+
+TezoM zeddt{[g sseity 
+
+
+@SNOY USTIOJTA 
+
+
+FTop S1nzeTU Ty 
+
+
+£2197 00189 
+
+
+aseirey punoaszepun 
+
+
+atoyg ATAD0ID 
+
+
+xeTduog [Loo 
+
+
+* 
+
+
+i 
+: 
+i 
+' 
+
+
+| 
+
+
+14 
+
+
+: CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 
+
+
+Approved For Release ahah : ae eee 
+
+
+Coordinates (C) and Coordinates with Feedback (C’). The latter (C’) 
+technique has two columns of transcript evaluation numbers; those made on 
+the basis of material up to the point of mid-session feedback (first 
+column), and those made for the entire transcript, including material 
+
+
+generated after feedback (second column). 
+
+
+The bottom row shows the mean transcript numbers for each targeting 
+technique averaged both for all four viewers and for the three viewers who 
+showed evidence for reliable RV (discussed below). The right-hand column 
+shows each viewer's twelve-trial mean, For Technique C’, the numbers 
+before feedback only are used in the calculation of these means so that 
+
+
+they are not contaminated by the effects of feedback, 
+
+
+1. Evidence for Remote Viewing 
+
+
+The first overail result of the study is obtained by noting each 
+viewer's twelve-trial mean (Table 7, right-hand column). The twelve-trial 
+means for the four viewers are 2.3, 3.3, 4.0, and 4.1, respectively. 
+Reference to the rating-scale definitions in Table 2 indicates that the 
+last three of the four viewers in Table 7 produced means high enough to 
+constitute evidence for relatively reliable remote viewing, while Viewer 557, 
+the first viewer, did not do so, (For this viewer evidence for RV was not 
+totally lacking because five of the twelve trials rated a 3 or higher; 
+rather, trial-to-trial reliability was lacking.) We conclude, therefore, 
+
+
+that robust RV was obtained with three of the four remote viewers. 
+
+
+2. Distribution of Results across Targeting Modes 
+
+
+To evaluate the results of using the alternative targeting 
+techniques, A, B, and C, we examine the A, B, and C columns of Table 7. 
+Examination of the means in the bottom row shows little difference between 
+
+
+alternative targeting strategies, This is confirmed in detail by 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+statistical analysis of all the transcript rating numbers, both in the 
+three~cateogry X four-viewer matrix, and in the three-category X three- 
+viewer matrix confined to the three remote viewers showing reliable RV 
+Functioning.” Therefore, the results obtained for Target Techniques A, 
+
+
+B, and C were essentially the same, 
+
+
+As we examine the fine structure of individual viewer performance 
+profiles, we find that the above conclusion for the group as a whole is 
+especially reflected in the individual responses of the two stronger 
+remote viewers, 688 and 807, who essentially did equally well with each 
+
+
+of the three targeting techniques, as did the unreliable viewer, 557." 
+
+
+Only in the case of the remaining successful remote viewer (753) 
+do we find significant differences in the alternative targeting conditions; 
+the Beacon (B) ratings are elevated, and the Abstract (A) ratings depressed, 
+as compared with mean sGiseanianeas - In this case, the viewer expressed 
+from the beginning a strong preference for targeting on a beacon person, 
+which seemed "natural," as compared with the increasing abstraction of the 
+Coordinate (C) and Abstract (A) targeting technique. This preference for 
+a particular targeting technique, correlated with better performance for 
+that technique, can be contrasted with the lack of expressed preference 
+on the part of the other viewers plus their relatively stable performance 
+
+
+using the alternative techniques. 
+
+
+These results, taken together, lead us to conclude that there 
+
+
+are no inherent differences in the use of Abstract (A), Beacon (B) or 
+
+
+33; F = 0.47 (F = 3.29 
+= 0.95 (F = 3.40 
+
+
+*K 
+
+One-way analysis of variance: 3 x 4; df, = 2, dfo 
+required for p< 0.05). 3 x 3; dfy = 2, dfg = 24; 
+required for p < 0.05). 
+
+
+ty 
+
+
+‘onssway analysis of variance: df, = 2, dfo = 6 (F = 5,14 required for 
+p< 0,05). F(688) = 4.02; F(807) = 0.40; F(557) = 1.51; F(753) = 7.69. 
+
+
+16 
+
+
+SECRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release sage : aaa 
+
+
+Coordinate (C) targeting techniques, but personal bias or preference on 
+TA ARTEL EOE TCT IEE CEE EDEL TDI SENT EG 
+
+
+the part of a viewer can skew the relative effectiveness of these alterna- 
+tive targeting techniques in practice, 
+
+Finally, no differences of note were observed in Technique B 
+(Beacon) between the first trial, in which the remote viewer is introduced 
+in person to the individual who is to act as a beacon, and the second and 
+third trials, in which the remote viewer is simply shown the photograph 
+
+
+of an otherwise unknown beacon person. 
+
+
+3. Effects of Mid-Session Feedback 
+
+
+In a series of twelve Coordinate Trials (labeled C’), three each 
+contributed by each of the four remote viewers, viewers were given rudi- 
+mentary mid-session feedback after providing initial descriptions on the 
+basis of coordinate targeting (as in a C Trial). The interviewer then 
+
+
+encouraged further response from the remote viewer. 
+
+
+The feedback material used was prepared in advance by the ex- 
+perimenter in charge of overall protocol, and was unknown to the inter- 
+viewer until that moment in the RV session when he opened an envelope 
+
+
+containing feedback information and disclosed its contents to the viewer. 
+
+
+The type of feedback given was designed to be as "nonleading" 
+as possible, meant only to give the viewer some verification if he were 
+already oi the right track. The feedback was in the form of a single 
+phrase, such as "an expansive interior location" for an underground 
+
+
+garage, or "an outdoor open area with structures" for a cemetery. 
+
+
+The data from the twelve C’ trials with mid~-session feedback are 
+
+
+summarized in two columns of Table 7 and in Table 8. Comparison of the. 
+
+
+* 
+One-way analysis of variance: df, =1, dfg = 6; F = 0.25 (F = 4.96 
+required for p < 0.05). 
+
+
+17 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000IC ie eae 25-00 7BSR001S009200011-8 
+
+
+means in the bottom row for the results with feedback (second C’ column) 
+against the results, either of the same session before feedback (first c! 
+column), or the Coordinates targeting without feedback (C column), shows 
+no significant differences, either enhancement or degradation, This holds 
+
+
+* 
+considering all the viewers, or just the three with reliable functioning. 
+
+
+Specific sesaion-by-session detail is presented in Table 8. It 
+is clear from these data that feedback, presented in the form described, 
+was not generally helpful in increasing the accuracy of postfeedback 
+elaboration, Instead, in the majority of trials, the feedback appeared 
+to trigger Analytical Overlay (AOL) of images from memory and imagination, 
+resulting in some (though not significant) degradation of the description 
+provided before feedback, at least in those cases where the initial 
+description was good. In the few cases where the rating improved after 
+feedback, the improvement can be attributed to leading from the feedback, 
+because the results in those cases still showed little evidence for RV 
+
+
+functioning. 
+
+
+Overall, then, there was no evidence that mid-session feedback 
+led to improved accuracy. Instead, there was a trend (though statistically 
+
+
+insignificant) toward degradation of the result by AOL. 
+
+
+4. Caveats 
+
+
+In regard to the effects of mid-session feedback just described, 
+care must be taken not to generalize that intrasession feedback in any 
+form is necessarily unproductive; only that there was no evidence that 
+
+
+feedback in the form given was useful. Evidence is emerging in another 
+
+
+"ALL viewers, one-way analysis of variance: df, =1, df, = 22, F = 4.3 
+required for p < 0.05: F(C’ before and after feedback) = 0.16, F(C, C’ 
+after feedback) = 0.44, Three reliable viewers: df, = 1, df, = 16, 
+
+F = 4,49 required for p < 0,05: F(C’ before and after feedback) = 0,53, 
+F(C, C’ after feedback) = 0.03. 
+
+
+18 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/0806 dbp P96-00788R001300320001-3 
+
+
+study ,* for example, that simple statements of "correct," given in 
+
+immediate response to correct viewer statements can be helpful, parallelling 
+similar evidence in computer "guessing game" studies in which immediate 
+feedback appears to lead to increasingly elevated performance profiles .° 
+
+We have shown, however, that descriptive statements of fact about a site, 
+
+
+given after a lengthy narrative by a viewer, may not be helpful. 
+
+
+With regard to the effects of a different kind of feedback, 
+post-session dccess to information about the site, the targeting study 
+was designed to parallel as closely as possible protocols that hold under 
+operational conditions, As such, because feedback to the remote viewer 
+is often made available at some future time, in our study we also provided 
+feedback. In this case we took the viewer to the site following each 
+session. Such post-experiment feedback provides, however, a confounding 
+factor, both in our study and in operational tasking in general: namely, 
+the possibility of obtaining information via a precognition channel, At 
+this point we have no data on whether a significant portion of the infor- 
+mation is transferred via this channel in a typical RV session, It is 
+only known, primarily from RV data generated in other laboratories ,°° that 
+a precognitive channel can provide significant amounts of information in 
+
+
+studies designed to focus on this aspect. 
+
+
+To determine as best we could whether there was any evidence in 
+this study for precognitive effects, we examined the transcripts and 
+flagged references to future site visitation that might in principle 
+trigger use of a precognitive channel, An average of approximately one 
+
+
+reference per transcript met this criterion (49 references in 48 transcripts). 
+
+
+To determine first whether any potential effects of feedback 
+precognition might be distributed unevenly across the session categories, 
+and thereby possibly compromise the effort to compare targeting techniques, 
+
+
+a statistical analysis of the distribution of future feedback references 
+
+
+19 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release eRe ee 
+
+
+in the transcripts was done. (The number of references totalled 16, 11, 
+and 14 for Targeting Techniques A, B, and C, respectively.) No evidence 
+was found for an uneven distribution across session conditions, indicating . 
+no evidence for compromise caused by an uneven distribution of future- 
+
+
+* 
+feedback references, 
+
+
+To check the matter further, we investigated whether there was 
+any evidence that references to future feedback resulted in higher individual 
+transcript ratings, because a positive correlation between references and 
+ratings might indicate that triggered precognition played a major role. 
+Altogether, with 49 such references distributed across 48 transcripts, we 
+found by statistical test that the correlation coefficient between number 
+of references per transcript and transcript ratings was not significant 
+
+
+(x = 0.08, p = 0.70). 
+
+
+Thus, we find no evidence that statements that might in principle 
+encourage use of a precognitive channel had any effect, either for indi- 
+vidual transcript ratings or for the differential comparisons between 
+targeting conditions, The possibility of precognitive influence is, 
+therefore, limited to the global possibility that a significant amount of 
+information comes via the precognitive mode when it is available, simply 
+because it is available. A separate study with feedback withheld on a 
+
+
+random basis is required to resolve this global question. 
+
+
+* 
+One-way analysis of variance: df, = 2, dfg = 33, F = 0.52 (F = 3.29 
+required for p < 0.05, 
+
+
+SECREF 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release AO Se etedemeee oo Sen OIeON 2001 
+
+
+V SUMMARY AND CONCLUSIONS 
+
+
+In this study, "Targeting Requirements Task", we investigated the 
+relative effectiveness of three alternative RV targeting techniques in 
+use at the present time. The techniques are: 
+
+(1) Beacon targeting, in which the remote viewer has 
+
+had personal contact with, or is given a photograph 
+
+
+of an individual located at the target site at the time 
+of viewing. 
+
+
+(2) Coordinate targeting, in which the remote viewer is 
+given the geographical coordinates (latitude and 
+longitude, in degrees, minutes and seconds) of the 
+remote site to be described. 
+
+
+(3) Abstract targeting, in which the remote viewer is 
+told only that there is a site to be described. 
+In addition, as a secondary task we also investigated the efficacy 
+of giving the remote viewer limited mid-session feedback as to the general 
+
+
+nature of the target site whose more detailed description we were seeking. 
+
+
+To address these issues, we collected a total of 48 RV trials over 
+a four-month period, using San Francisco Bay Area locations as the target 
+sites. These 48 trials, twelve from each of four remote viewers, were 
+divided into two groups: thirty-six trials evenly distributed across the 
+three targeting techniques (Beacon, Coordinate and Abstract), and an 
+additional twelve coordinate trials in which mid-session feedback was 
+given, to be compared with those coordinate trials without mid-session 
+feedback. Relatively inexperienced viewers were used to minimize a priori 
+
+
+bias with regard to the efficacy of one targeting technique over another. 
+
+
+Before discussing the specific results of the study we note that the 
+
+
+findings were obtained under conditions approximating those which hold in 
+
+
+21 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07.” =R DP96-00788R001300320001-3 
+
+
+typical operational RV sessions, which include the possibility of eventual 
+future feedback to the viewer as to "ground truth," The results obtained 
+in this study, as in many operational tasks, are, therefore, subject to the 
+caveat that a global precognitive channel could be operative, and it is 
+
+
+recommended that this issue be examined separately in future work. 
+The results of this study are summarized as follows: 
+
+
+¢ Three of the four viewers exhibited reliable RV 
+functioning. 
+
+
+® For the viewers as a group (and for the successful 
+viewers as a subgroup), no significant differences 
+as to the efficiacy of one targeting technique over 
+another emerged; all three techniques provided useful 
+data of comparable accuracy, indicating that there is 
+little, if any, intrinsic difference between the modes. 
+
+
+e For one of the successful viewers, who quickly developed 
+an order of preference for targeting techniques, sig- 
+nificant differences were noted, aligned with the expressed 
+preferences; we take this to indicate that the apparent 
+intrinsic equality of the technique evidenced in the 
+overall results of the study can be modulated by personal 
+preference or bias, and so the choice of targeting must be 
+tempered by this factor. 
+
+
+e In the case of Beacon Targeting, no significant 
+difference between personal contact and the use of a 
+photograph was evident, 
+
+
+e Mid-session feedback in the form given (limited feedback 
+as to the general nature of the site, following the 
+development of a coherent 15- or 20-min narration by 
+the viewer) yielded no significant improvement in 
+accuracy, and some (though statistically nonsignificant) 
+evidence for degradation of accuracy, at least in the 
+better transcripts. 
+We, therefore, conclude that remote viewers can describe remote sites 
+of interest with equal accuracy, using Beacon, Coordinate, or Abstract 
+
+
+Targeting Techniques, subject only to their individual preferences, Attempts 
+
+
+to increase the accuracy of such’ results by providing mid-session 
+
+
+22 
+
+
+—SECRET— 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release CS aeeeRete CC ee 
+
+
+descriptive feedback as to the general nature of the site, are, however, 
+
+
+not likely to be successful, 
+
+
+23 
+
+
+SEGRE 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/0519 faighapiigisP96-00788R001300320001-3 
+
+
+REFERENCES 
+
+
+1. H. E, Puthoff and R. Targ, "A Perceptual Channel for Information 
+Transfer over Kilometer Distances: Historical Perspective and Recent 
+Research," Proc, IEEE, Vol. 64, pp. 329-354 (March 1976), UNCLASSIFIED, 
+
+
+2. H. E. Puthoff, R. Targ, and E, C. May, "Experimental Psi Research: 
+Implications for Physics," in The Role of Consciousness in the 
+Physical World, Ed. R. Jahn, AAAS Selected Symposium 57 (Westview 
+Press, Inc., Boulder, CO, 1981), UNCLASSIFIED, 
+
+
+3. R. Targ, H. E. Puthoff, B. S. Humphrey, and E, C, May, "Special 
+Orientation Techniques (U)," Final Report, SRI Project 8465, SRI 
+International, Menlo Park, CA (June 1980), SECRET/NOFORN. 
+
+
+4, H. E,. Puthoff, "RV Reliability, Enhancement, and Evaluation (U),”" 
+Final Report, SRI Project 3279-1, SRI International, Menlo Park, CA 
+(February 1982), SECRET. 
+
+
+5. C, T, Tart, Learning to Use Extrasensory Perception (University of 
+Chicago Press, Chicago, I1, 1976), UNCLASSIFIED. 
+
+
+6. J, P. Bisaha and B. J. Dunne, "Multiple Subject and Long-Distance 
+Precognitive Remote Viewing of Geographical Location,” in Mind At 
+Large: Institute of Electrical and Electronic Engineers Symposia 
+on the Nature of Extrasensory Perception, Ed. C, T. Tart, H. E,. 
+Puthoff, R. Targ (Praeger Press, New York, NY, 1979), UNCLASSIFIED. 
+
+
+24 
+
+
+SECRET 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME. 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+NOT RELEASABLE TO 
+FOREIGN NATIONALS 
+
+
+SECRET | 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788R001300320001-3 
+
+

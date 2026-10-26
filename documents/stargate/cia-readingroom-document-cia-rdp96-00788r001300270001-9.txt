@@ -1,0 +1,760 @@
+Approved For Release 2000/08/07 :€ @ ND F44D EPS Db 7Rd0270001-9 
+
+
+Final Report January 1982 
+
+
+DATABASE MANAGEMENT FEASIBILITY (U) 
+
+
+Prepared for: 
+
+
+DEFENSE INTELLIGENCE AGENCY 
+WASHINGTON, D.C. 20301 
+
+
+Attention: aoa SGi1J 
+
+
+CONTRACT MDA903-81-C-0292 
+
+
+SPECIAL ACCESS PROGRAM FOR GRILL FLAME. 
+RESTRICT DISSEMINATION TO ONLY INDIVIDUALS WITH VERIFIED ACCESS. 
+
+
+333 Ravenswood Avenue 
+
+Menlo Park, California 94025 U.S.A. 
+(415) 326-6200 
+
+Cable: SRI INTL MPK 
+
+TWX: 910-373-2046 
+
+
+kppfoved For Release 2000/08/07 :C@RbFdd > EDS bbAd0270001-9 
+
+
+A 
+
+
+Final Report January 1982 
+Covering the period October 1980 to September 1981 
+
+
+DATABASE MANAGEMENT FEASIBILITY (U) 
+
+
+By: EDWIN C. MAY 
+
+
+Prepared for: 
+
+
+DEFENSE INTELLIGENCE AGENCY Contract No: MDA903-81-C-0292 
+WASHINGTON, D.C. 20301 
+
+
+SRI Project 3279-7 
+
+
+Approved by: 
+
+
+ROBERT S. LEONARD, Director Copy No G 
+
+Radio Physics Laboratory eae as 
+DAVID D. ELLIOTT, Vice President This document consists of 12 pages. 
+Research and Analysis Division SR1/GF-0010 
+
+
+CLASSIFIED BY: DT-1A 
+REVIEW ON: 31 January 2002 
+
+
+CONFIDENTIAL 
+
+
+333 Ravenswood Avenue * Menlo Park, California 94025 * U.S.A. 
+(415) 326-6200 ° Cable: SRI INTL MPK * TWX: 910-373-2046 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For Release G09 ASP] DNR PPR P0788r001300270001-9 
+
+
+CONTENTS 
+LIST OF TABLES. 5. 2 a0% aoe & 6 a iii 
+TL.” “OBSEC TIVE «Sas Saji. erie Dae der we A a es ee BS 1 
+TT. “INTRODUCTION: ys ot oa ae ww ee ee Be PADS gis Sse a> oh Sern as ee 2 
+EET: DISCUSSION 9 2.6, ee 8 ow SR Sew Se eS SO ACS A 3 
+EM. SCONCTUS TONG 5a: 4: gmat oe. ae Ste tes cacsat VS": lee rR cg? GB Age ein! Ss ee Se 8 
+V_ RECOMMENDATIONS, . . 2. 2 6 se wee ete wee we we oe 9 
+ii 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For Release-20 R08 PLY ENTE PAPE 007881001 300270001 9 
+
+
+TABLES 
+1 Resource Assessment Summary. . « - s+ e+ + ee © # # ee ees 4 
+2 Training Target Data .. 2 + e+ 6 ee © © oe ew ee ee ees 6 
+iii 
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For ReleasONEID ENT AL 300270001-9 
+
+
+I OBJECTIVE 
+
+
+The objective of this program is to develop concepts and materials 
+to determine if remote viewing data can be placed on a computerized data— 
+
+
+base-management system for each access and manipulation. 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For Releasq2@gnee qq) EASA FR4-00788r001300270001-9 
+
+
+II INTRODUCTION 
+
+
+The manipulation of textual data was among the earliest applications 
+of digital computers. From these earlier uses, it was immediately apparent 
+that two separate requirements should be imposed on data-base management 
+
+
+(DBM) designers: 
+
+
+e Develop task specific DBM programs. 
+* Develop generalized DBM programs that allow any 
+specific application to be designed at a later time 
+by the end-user. 
+The first requirement was easily met. An abundance of data-base management 
+systems (DBMS) for specific tasks exist that handle everything from general 
+accounting for business to map generation by graphic DBM. The second 
+requirement, however, has not yet been adequately realized, Although 
+many computer vendors offer generalized DBM design programs, they all 
+appear to be of limited use when applied to a specific set of design 
+requirements. The problem of creating a DBM design program is not trivial; 
+to be useful to the widest possible audience, it must be very general. 
+
+
+Yet, this very generality makes the final DBM cumbersome to use. 
+
+
+This report describes test applications of a commercial DBMS to remote 
+viewing (RV) data and recommends a threefold approach to the general problem 
+
+
+of RV DBM. 
+
+
+2 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+SG1J 
+
+
+Approved For Releas@209 NPB TL) E RE FR ZR 4007881001 300270001-9 
+
+
+III DISCUSSION 
+
+
+In the Grill Flame mid-year ee we demonstrated the use of a 
+commercially available data-base management (DBM) program applied to two SG1J 
+problems in RV data management. The first of these was the categorization 
+and display of the results of a simulated RV analysis data base. Using 
+the tentative assessment Pon “whten operating RV analysts had suggested, | WHO 
+we analyzed 25 RVs each for 4 remote viewers. Table 1 shows a character- 
+istic output from this data base, which is repeated here fron 
+The column headings are the seven categories taken from the assessment DO ie 
+form. Under each category the remote viewers are listed in ascending 
+order of assessment averaged over all viewings to date for that category. 
+For example, we note that remote viewer 007 was least successful at 
+obtaining information about the geography of a site. However, when every- 
+thing is considered, remote viewer 007 had the best overall utility. This 
+and similar information might have been overlooked with manual inspection. LD 2 
+The row below the dashed ERROR Conant the averages for each column, which ve ‘ 
+can be considered as the "facility" assessment for each category. For 
+
+
+example, the represented facility does best on geography elements and 
+
+
+second best when targeted against activity at the remote site. 
+
+
+In a second example, we have used a DBMS to organize and manage a 
+growing number of training targets from the National Geographic (375 as 
+of this report). Our RV enhancement effort currently involves four 
+remote viewers, six interviewers, four target preparers, and numerous 
+
+
+target selection criteria. With this level of complexity and a growing 
+
+
+oe 
+ane "DoD GRILL FLAME Progress Report (U)," presented at Mid-Year 
+GF Meeting at DIA on 30 April 1981 (April 1981, SECRET). 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+TVILNIGIANOD 
+
+
+~ « % 7 . x % 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Table 1 
+
+
+RESOURCE ASSESSMENT SUMMARY 
+(23 Apr 1981) 
+
+
+Geography Elements Elements Ambience Activity Personnel 
+
+
+* 
+Average of each column, 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Utility 
+
+
+71i2 0.55 
+531 1.38 
+126 1.55 
+
+
+007 2.63 
+
+
+* 
+1.53 
+
+
+IVILNIGI4NOD 
+
+
+Approved For Release CPREPT DANE PP Re £°788r001 300270001-9 
+
+
+number of targets, a DBMS was mandatory to avoid duplication and to provide 
+
+
+target statistics, 
+
+
+AS an example of the DBMS output, Table 2 shows a small portion of 
+the existing data. The targets were selected solely on the basis of their 
+use as calibrations for operational RV sessions. They are displayed 
+
+
+chronologically as a demonstration of a sorting procedure, 
+
+
+Both of the above DBM applications were done on a large-scale PRIME 750] poe 
+
+
+computer using the PRIME Corporation's POWER+ packaged DBMS, In spite of Fer. THAT 
+
+
+the computing power of the PRIME 750 and generality of POWER+, four THIS 15 
+BesT coM- 
+specific problems were identified: This DBMS: MEXKCIAL 
+DBMS & 
+(1) Did not allow for the formation of specific data IT WOKT 
+records that contained parts of separate records WOK. 
+
+
+from the remaining data base, 
+(2) Did not easily allow a change of data base. 
+(3) Did not allow for tree structures, 
+(4) Can be installed on the SRI International's 
+PRIME 400 at a cost of $75,000 to $125,000. 
+
+
+Table 1 is an example of the first problem described above. The simulated 
+
+
+data base was entered and stored by grouping together all the parameters \ Sone 
+from the analysis of a single remote viewer for a single operational 5 ee 
+session, Yet, to provide the summary information in Table 1, we must : bo 
+collect scores and IDs from across many sessions, In fact, Table 1 was 
+manually constructed to demonstrate a concept and was beyond the capability 
+of POWER+, 
+
+The second problem applies to both DBM examples. In developing the 
+designs of the respective data bases, it was necessary to modify them in u 
+progress to assure an optimum configuration. POWER+ requires that all the 
+data be reentered into the new design, Although POWER+ has a file conver- VOM AS 
+sion capability that makes possible reentry of data from a disc, it was MORE 
+cumbersome; therefore, we decided to reenter the data manually. pigeons 
+
+Z wrenie ¥ 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+IVWILNAGISNOD 
+
+
+9 
+
+
+X t 
+
+
+& 
+
+
+4 & 
+
+
+« & 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Table 2 
+
+
+TRAINING TARGET DATA 
+(23 April 1981) 
+
+
+latitude | Longitude Target Location 
+
+
+w 
+ou 
+
+
+3 
+3 
+3 
+1 
+1 
+2 
+2 
+2 
+2 
+3 
+3 
+3 
+3 
+3 
+3 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+7 
+8 
+8 
+8 
+8 
+9 
+9 
+
+
+42°34'N 
+11°26'S 
+14° 00'N 
+12°30'N 
+21°38'N 
+31°30'N 
+18° 29'N 
+58°12'N 
+34° 40'S 
+45°30'S 
+22°30'N 
+51°13'N 
+41° 02'N 
+39° 44'N 
+35° 09'N 
+41° 50'N 
+00° 14's 
+39°18'N 
+36°36'N 
+00° 19'°N 
+37°37'N 
+13°32'S 
+28°59 'N 
+51°29'N 
+29° 25'N 
+20° 19'N 
+33°39'S 
+51°51'N 
+60° 00'N 
+03° 02'S 
+38° 22'N 
+
+
+08° 44'E 
+53° 04'w 
+121° 00'E 
+70° 00'W 
+157° 04'°W 
+35° 30'E 
+66° 08 'W 
+06° 23'w 
+58° 30'W 
+165°30'E 
+88° 20'E 
+04°25'E 
+28°57'E 
+44°23'E 
+32°47'°E 
+71° 28'W 
+78°30'W 
+76 38'W 
+83° 40'W 
+32°35'E 
+79° 33'W 
+71°57'W 
+13°40'W 
+00°38 'W 
+98°30'W 
+103°10'W 
+78° 58'W 
+01°21'W 
+152° 00'W 
+37°20°E 
+110°21'W 
+
+
+Calvi, Corsica 
+
+Campo de Diauarum, Brazil 
+
+Lake Taal-Luzon, Phillipines 
+Aruba Island, Lesser Antilles 
+Oahu, Hawaii 
+
+Dead Sea, Israel/Jordon 
+
+San Juan, Puerto Rico 
+Stornoway Lewis Is., Scotland 
+Buenos Aires, Argentina 
+
+Dusky Sound, New Zealand 
+Calcutta, West Bengal-India 
+Antwerp, Belgium 
+
+Istanbul, Turkey 
+
+Mt, Ararat, Turkey 
+
+Vouni, Cyprus 
+
+Providence, Rhode Island 
+Quito, Ecuador 
+
+Baltimore, Maryland 
+
+Cumberland Gap, Kentucky-Tennessee-Virginia 
+Kampala, Uganda 
+
+Natural Bridge, Virginia 
+
+Cuzco, Peru 
+
+Montana del Fuego, Lanzarote Canary Island 
+Windsor Castle, Windsor England 
+San Antonio, Texas 
+
+Chapala Lake, Mexico 
+
+Robinson Crusoe Is,, Juan Fernandez Island 
+Blenheim Palace, Oxon England 
+Cook Inlet, Alaska 
+
+Mt. Kilimanjaro, Tanzania 
+Canyonlands Park, Utah 
+
+
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+
+
+Unknown 
+Unknown 
+Unknown 
+Unknown 
+Unknown 
+Unknown 
+Puthoff 
+Unknown 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Harary 
+Swann 
+Swann 
+Swann 
+Harary 
+Swann 
+Unknown 
+Swann 
+
+
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+
+
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthoff 
+Puthof£ 
+Puthof£ 
+Puthoff 
+Puthoff 
+Puthoff 
+
+
+Swann 
+phre y 
+
+
+veanmnmtmamanramameemrrirnaanawwAananawananaandnawan 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+TVILNIGIANOD 
+
+
+SG1J 
+
+
+Approved For Release2 QOD PARPPAGp0788r001300270001 -9 
+
+
+The third problem arises in a training evaluation environment, The 
+target management data shown in Table 2 displays only a small portion of 
+the data that is available for each of the targets. Each target is 
+classified as to the principal type of target with regard to large-scale 
+geographical features (e.g.; a body of water, an island, or a mountain), 
+For purposes of evaluation, it is necessary to know details of each of 
+these major features. For example, one may want to determine how many 
+targets had "muddy streams" as the particular form of "water." POWER+ 
+was incapable of providing this capability. Thus, only a coarse target 
+classification was possible. A "tree-structured" data base is one of the 
+easiest solutions for this problem. A properly designed tree structure 
+allows for easy modification and simple implementation of complex searches 
+
+
+such as the one described above. 
+
+
+It is not that tree-structured data-base systems do not exist, 
+Rather, they tend to be large (require large main-frame memories) and 
+require fast processors, Typically, these data bases include a large 
+
+
+number of features that are not required in our application and unneces- 
+
+
+sarily burden the speed/memory requirement of the system, SQ NOU 
+iy ; BUOY THE one 
+The deficiencies described here are not unique to POWER+, Each HAT BAY 
+commercially available DBMS will have similar problems with regard to BOTS TRE 
+NEEDS F 
+
+
+our application, However, there are portions of our application that may 
+
+
+have reduced requirements and can be solved with simple data-base manage-| BROAD _ 
+GENERAL ~ 
+ment systems. ZANOW VY 
+
+
+7 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For Release@@pi@Py DPE ARPPAGIN0788r001300270001-9 
+
+
+IV CONCLUSIONS 
+
+
+Depending upon the exact data-base design criteria, commercially 
+available DBMS may possibly be applied to RV data and target management 
+on a limited basis, Such systems are available for a combined hardware/ 
+software cost of approximately $5,000. These systems have the added 
+advantage of being "desk-top" size and are single user so that the entire 
+
+
+system may be maintained within a secure environment, 
+
+
+If we consider the security requirement of the general GRILL FLAME SMOE 
+screen ¥ 
+
+
+program and budget constraints,,we conclude that: 
+
+
+* Full data-base management of RV data is possible, a— | wHY PAY A BAD 
+but must be developed in house, @ mort $ PER/y 
+
+
+TO DO THIS 
+* A complete DBMS must be self-contained, flexible, 
+
+
+and operate as a single-user on a micro-mini-computer., 
+
+
+8 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+Approved For Release @94QG|Q) EQN FAAG-00788r001300270001-9 
+
+
+V RECOMMENDATIONS 
+
+
+As a result of the demonstration applications, discussed in the body 
+of this report, and of a survey of available DBM systems, we recommend a 
+threefold approach to implement computerized DBM of RV data, RV training, 
+
+
+and psychoenergetic intelligence information. 
+
+
+We recommend: 
+
+
+(1) That a complete DBMS be purchased to facilitate WoOHN DONT yn 
+training. This system would be exclusively used " 
+: TH ddE5 
+for training target management and can be completely <CwWw 
+maintained within the training program. 7 +O 
+(2) That a micro-mini-computer-based DBM system be we 
+
+
+developed that is tailored to the RV requirements 
+to provide optimal evaluation and management of 
+operational RV sessions. 
+
+
+(3) That the requirements of such a system first be k- 
+defined to initiate development of a psycho- 
+energetic intelligence data-base system. These 
+requirements would then aid in identifying the 
+particular DBMS that is needed. 
+
+
+CMT: THIS COULD HAVE 
+REV DOVE BN AN 
+INTERMEDIATE SNS 
+DOT THEN HAVE ANALNST.- wey DI 
+
+RETTER THINGS FOR WE SPELD THE 
+WM TO dO ¥ Time AND MONEY 
+HAING nS Pad DO 
+
+iT 
+
+
+poor. war 7 
+9 
+
+
+CONFIDENTIAL 
+
+
+Approved For Release 2000/08/07 : CIA-RDP96-00788r001300270001-9 
+
+
+J/2@ MAY 82. 
+
+
